@@ -25,13 +25,13 @@ We modified the training code of [`seq2seq_qa`](https://github.com/huggingface/t
 
 EEQA is one of our comparison method from the paper: [`Event Extraction by Answering (Almost) Natural Questions`](https://arxiv.org/abs/2004.13625).
 
-The code under this folder is from the paper's released [code](https://github.com/xinyadu/eeqa) 
+The code under this folder is from the paper's released [code](https://github.com/xinyadu/eeqa). 
 A few places are modified to fit our data.
 
 
 ### ACE
 
 ACE is a sequence labelling method from the paper: [`Automated Concatenation of Embeddings for Structured Prediction`](https://arxiv.org/pdf/2010.05006):
-The code under this folder is from the paper's released [code](https://github.com/Alibaba-NLP/ACE) 
+The code under this folder is from the paper's released [code](https://github.com/Alibaba-NLP/ACE).
 The configuration we used is under ACE/config
 
