@@ -1,0 +1,9 @@
+T3	Subject 18 65	A 59-year-old man with known neurocysticercosis
+T5	Effect 76 103	a large cerebral infarction
+T6	Treatment 104 131	during praziquantel therapy
+T7	Age 20 31	59-year-old
+T8	Gender 32 35	man
+T9	Treat-Disorder 47 65	neurocysticercosis
+T10	Drug 111 123	praziquantel
+T4	Adverse_event 66 75	developed
+E1	Adverse_event:T4 

@@ -1,0 +1,6 @@
+T4	Effect 0 20	Orofacial dyskinesia
+T5	Treatment 30 59	5 hours after methylphenidate
+T7	Drug 44 59	methylphenidate
+T8	Time_elapsed 30 43	5 hours after
+T6	Adverse_event 21 29	appeared
+E1	Adverse_event:T6

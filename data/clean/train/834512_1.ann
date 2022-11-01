@@ -1,0 +1,7 @@
+T3	Effect 0 12;31 48	Sudden death methemoglobinemia
+T4	Subject 16 25	an infant
+T5	Treatment 74 96	sweet spirits of nitre
+T7	Age 19 25	infant
+T8	Drug 74 96	sweet spirits of nitre
+T6	Adverse_event 49 54	after
+E1	Adverse_event:T6

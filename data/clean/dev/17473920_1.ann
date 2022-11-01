@@ -1,0 +1,10 @@
+T6	Treat-Disorder 33 61	human-immunodeficiency-virus
+T7	Subject 33 79	human-immunodeficiency-virus-infected patients
+T8	Treatment 20 29;90 111	methadone nevirapine once daily
+T10	Freq 101 111	once daily
+T11	Drug 90 100	nevirapine
+T13	Drug 20 29	methadone
+T9	Potential_therapeutic_event 80 89	receiving
+T12	Combination 80 89	receiving
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T12 arg:T11 arg2:T13

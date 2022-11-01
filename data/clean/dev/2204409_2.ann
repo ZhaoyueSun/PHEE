@@ -1,0 +1,12 @@
+T4	Treat-Disorder 0 40	Methotrexate-induced leukoencephalopathy
+T6	Treatment 59 81	high-dose folinic acid
+T7	Dosage 59 68	high-dose
+T8	Drug 69 81	folinic acid
+T10	Treatment 0 12	Methotrexate
+T11	Drug 0 12	Methotrexate
+T12	Effect 21 40	leukoencephalopathy
+T5	Potential_therapeutic_event 44 53	treatable
+T9	Adverse_event 13 20	induced
+E1	Potential_therapeutic_event:T5 arg:T6
+E2	Adverse_event:T9 arg:T10 arg2:T12
+R1	has Arg1:T6 Arg2:T4

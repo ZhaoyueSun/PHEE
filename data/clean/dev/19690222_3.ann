@@ -1,0 +1,5 @@
+T5	Treatment 54 82	low-molecular-weight heparin
+T3	Effect 0 48	Spontaneous hemothorax following anticoagulation
+T6	Drug 54 82	low-molecular-weight heparin
+T4	Adverse_event 49 53	with
+E1	Adverse_event:T4

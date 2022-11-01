@@ -1,0 +1,7 @@
+T3	Subject 32 67	a patient with rheumatoid arthritis
+T4	Effect 0 28	Psoriasis-like skin reaction
+T6	Treatment 74 96	sulphasalazine therapy
+T8	Treat-Disorder 47 67	rheumatoid arthritis
+T9	Dosage 74 88	sulphasalazine
+T5	Adverse_event 68 73	after
+E1	Adverse_event:T5

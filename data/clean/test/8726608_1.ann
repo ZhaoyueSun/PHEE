@@ -1,0 +1,10 @@
+T3	Treatment 5 14;30 37	acyclovir lithium
+T5	Effect 24 44	serum lithium levels
+T6	Speculation_cue 0 4	Does
+T9	Drug 5 14	acyclovir
+T10	Drug 30 37	lithium
+T4	Adverse_event 15 23	increase
+T11	Combination 15 23	increase
+E1	Adverse_event:T4 
+E2	Combination:T11 arg:T9 arg2:T10
+A1	Speculated E1

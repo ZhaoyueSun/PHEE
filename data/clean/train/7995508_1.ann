@@ -1,0 +1,5 @@
+T3	Treatment 0 19	Phenylpropanolamine
+T4	Effect 28 37	psychosis
+T6	Drug 0 19	Phenylpropanolamine
+T5	Adverse_event 20 27	induced
+E1	Adverse_event:T5

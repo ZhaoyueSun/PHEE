@@ -1,0 +1,7 @@
+T7	Treatment 13 48	simvastatin and all antiviral drugs
+T8	Effect 75 83	toxicity
+T10	Drug 13 24	simvastatin
+T11	Speculation_cue 119 128	suspected
+T9	Adverse_event 84 87	due
+E1	Adverse_event:T9 
+A1	Speculated E1

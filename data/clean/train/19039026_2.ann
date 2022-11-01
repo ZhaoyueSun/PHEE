@@ -1,0 +1,7 @@
+T3	Effect 51 79	acute interstitial nephritis
+T5	Subject 85 92	patient
+T6	Treatment 118 127	Sunitinib
+T7	Treat-Disorder 132 160	metastatic renal cell cancer
+T9	Drug 118 127	Sunitinib
+T4	Adverse_event 37 47	occurrence
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T5	Effect 0 20	Hemorrhagic cystitis
+T7	Treatment 54 70	cyclophosphamide
+T8	Severity_cue 26 37	significant
+T9	Drug 54 70	cyclophosphamide
+T6	Adverse_event 26 50	significant toxic effect
+E1	Adverse_event:T6

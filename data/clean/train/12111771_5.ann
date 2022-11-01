@@ -1,0 +1,5 @@
+T4	Effect 32 56	interstitial pneumonitis
+T6	Treatment 73 84	fludarabine
+T3	Drug 73 84	fludarabine
+T5	Adverse_event 57 67	associated
+E1	Adverse_event:T5

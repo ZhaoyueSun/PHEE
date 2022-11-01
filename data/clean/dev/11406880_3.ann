@@ -1,0 +1,7 @@
+T6	Subject 0 9	A patient
+T7	Treatment 24 33	methadone
+T8	Treat-Disorder 38 60	cancer-associated pain
+T10	Effect 71 80	myoclonus
+T9	Adverse_event 61 70	developed
+E1	Adverse_event:T9 
+T1	Drug 24 33	methadone

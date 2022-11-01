@@ -1,0 +1,10 @@
+T4	Treatment 63 102	8 weeks after the initiation of danazol
+T5	Treat-Disorder 120 140	pelvic endometriosis
+T6	Effect 0 35	Insulin-dependent diabetes mellitus
+T7	Subject 49 62	a young woman
+T8	Age 51 56	young
+T9	Gender 57 62	woman
+T10	Time_elapsed 63 70	8 weeks
+T11	Drug 95 102	danazol
+T3	Adverse_event 71 76	after
+E1	Adverse_event:T3

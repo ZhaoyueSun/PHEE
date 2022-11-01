@@ -1,0 +1,15 @@
+T16	Treatment 156 240	high-dose (HD) intravenous (IV) cytarabine (Ara-C) added to HD IV methotrexate (MTX)
+T15	Effect 244 293	reduce the incidence of CNS and systemic relapses
+T19	Speculation_cue 91 95	test
+T20	Age 297 305	children
+T18	Subject 297 403	children with increased-risk acute lymphoblastic leukemia (ALL) or stage III and IV lymphoblastic lymphoma
+T24	Dosage 156 165	high-dose
+T25	Route 171 182	intravenous
+T26	Drug 188 198	cytarabine
+T28	Drug 222 234	methotrexate
+T29	Treat-Disorder 326 354	acute lymphoblastic leukemia
+T30	Treat-Disorder 364 403	stage III and IV lymphoblastic lymphoma
+T17	Potential_therapeutic_event 241 243	to
+T27	Combination 207 212	added
+E1	Potential_therapeutic_event:T17 
+E2	Combination:T27 arg:T26 arg2:T28

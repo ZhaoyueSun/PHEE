@@ -1,0 +1,8 @@
+T4	Effect 0 23	Refractory hypoglycemia
+T5	Treatment 29 68	ciprofloxacin and glyburide interaction
+T7	Drug 29 42	ciprofloxacin
+T8	Drug 47 56	glyburide
+T6	Adverse_event 24 28	from
+T9	Combination 57 68	interaction
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T8 arg2:T7

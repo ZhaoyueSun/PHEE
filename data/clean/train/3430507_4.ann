@@ -1,0 +1,5 @@
+T5	Treatment 30 45	D-penicillamine
+T7	Effect 54 92	rapidly progressive glomerulonephritis
+T8	Drug 30 45	D-penicillamine
+T6	Adverse_event 46 53	induced
+E1	Adverse_event:T6

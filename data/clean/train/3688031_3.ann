@@ -1,0 +1,7 @@
+T3	Treatment 36 47	methimazole
+T4	Effect 48 62	teratogenicity
+T6	Drug 36 47	methimazole
+T7	Speculation_cue 22 25	may
+T5	Adverse_event 29 32	due
+E1	Adverse_event:T5 
+A1	Speculated E1

@@ -1,0 +1,10 @@
+T13	Effect 46 61;129 206	mild leukopenia followed by skin and hepatic toxicity associated with a more severe leukopeni
+T14	Subject 13 31	HIV-infected woman
+T15	Treatment 85 95	nevirapine
+T17	Gender 26 31	woman
+T18	Severity_cue 46 50	mild
+T19	Drug 85 95	nevirapine
+T20	Treat-Disorder 13 16	HIV
+T12	Adverse_event 36 45	developed
+E1	Adverse_event:T12 
+A1	Severity E1 Low

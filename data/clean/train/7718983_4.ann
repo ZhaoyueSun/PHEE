@@ -1,0 +1,6 @@
+T3	Effect 149 172	Graves' hyperthyroidism
+T4	Treatment 180 191	IFN therapy
+T6	Drug 180 183	IFN
+T7	Subject 0 9	This case
+T5	Adverse_event 135 145	occurrence
+E1	Adverse_event:T5

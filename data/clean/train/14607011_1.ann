@@ -1,0 +1,7 @@
+T6	Effect 0 34	Fatal cold medication intoxication
+T7	Treatment 6 21	cold medication
+T8	Subject 41 47	infant
+T9	Age 41 47	infant
+T11	Drug 6 21	cold medication
+T5	Adverse_event 35 37	in
+E1	Adverse_event:T5

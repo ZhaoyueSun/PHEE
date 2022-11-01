@@ -1,0 +1,6 @@
+T7	Treatment 136 152	taking erlotinib
+T8	Subject 127 135	patients
+T9	Effect 106 123	occurrence of ILD
+T11	Drug 143 152	erlotinib
+T10	Adverse_event 99 101	of
+E1	Adverse_event:T10

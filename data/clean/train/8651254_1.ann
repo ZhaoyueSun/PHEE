@@ -1,0 +1,7 @@
+T4	Treatment 101 137	macrophage-colony-stimulating factor
+T5	Effect 15 33	nephrotic syndrome
+T6	Subject 37 79	a patient with acute myeloblastic leukemia
+T8	Drug 101 137	macrophage-colony-stimulating factor
+T9	Treat-Disorder 52 79	acute myeloblastic leukemia
+T3	Adverse_event 80 85	after
+E1	Adverse_event:T3

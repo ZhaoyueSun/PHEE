@@ -1,0 +1,9 @@
+T5	Subject 87 147	a 33-yr-old male patient with history of chronic hepatitis B
+T6	Treatment 14 30	interferon alpha
+T8	Effect 39 70	polymyositis and cardiomyopathy
+T9	Age 89 98	33-yr-old
+T10	Gender 99 103	male
+T12	Drug 14 30	interferon alpha
+T13	Treat-Disorder 117 147	history of chronic hepatitis B
+T7	Adverse_event 31 38	induced
+E1	Adverse_event:T7

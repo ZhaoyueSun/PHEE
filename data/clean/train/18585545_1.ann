@@ -1,0 +1,9 @@
+T3	Subject 135 151	elderly patients
+T5	Effect 0 14	Acute delirium
+T6	Treatment 30 42	levofloxacin
+T7	Age 135 142	elderly
+T8	Speculation_cue 57 73	exceedingly rare
+T9	Drug 30 42	levofloxacin
+T4	Adverse_event 15 24	resulting
+E1	Adverse_event:T4 
+A1	Speculated E1

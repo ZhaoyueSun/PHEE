@@ -1,0 +1,7 @@
+T4	Treatment 26 38	itraconazole
+T5	Effect 0 14	Hepatotoxicity
+T6	Subject 50 61	three cases
+T7	Population 50 55	three
+T8	Drug 26 38	itraconazole
+T3	Adverse_event 15 22	related
+E1	Adverse_event:T3

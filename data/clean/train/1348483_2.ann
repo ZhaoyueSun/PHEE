@@ -1,0 +1,6 @@
+T3	Treatment 101 112	cabergoline
+T4	Treat-Disorder 44 63	Parkinson's disease
+T5	Effect 0 23	Pleuropulmonary changes
+T7	Drug 101 112	cabergoline
+T6	Adverse_event 24 30	during
+E1	Adverse_event:T6 

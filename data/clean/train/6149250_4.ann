@@ -1,0 +1,6 @@
+T5	Subject 0 52	The second patient suffered from high blood pressure
+T7	Treatment 80 98	beta-blocker drugs
+T9	Treat-Disorder 33 52	high blood pressure
+T10	Drug 80 98	beta-blocker drugs
+T6	Potential_therapeutic_event 64 74	controlled
+E1	Potential_therapeutic_event:T6

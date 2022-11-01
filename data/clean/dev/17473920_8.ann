@@ -1,0 +1,7 @@
+T6	Subject 37 61	nine out of ten patients
+T7	Treatment 15 25	nevirapine
+T9	Effect 86 105	abstinence syndrome
+T10	Population 37 52	nine out of ten
+T11	Drug 15 25	nevirapine
+T8	Adverse_event 62 73	experienced
+E1	Adverse_event:T8

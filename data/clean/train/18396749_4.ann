@@ -1,0 +1,9 @@
+T9	Treatment 177 235	an interaction between the herbal preparation and tibolone
+T10	Effect 273 285	liver damage
+T11	Speculation_cue 240 249	suspected
+T13	Drug 204 222	herbal preparation
+T14	Drug 227 235	tibolone
+T8	Adverse_event 240 249	suspected
+T12	Combination 180 191	interaction
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T13 arg2:T14

@@ -1,0 +1,6 @@
+T3	Treatment 39 62	intrathecal diamorphine
+T4	Effect 71 82	anaphylaxis
+T6	Drug 51 62	diamorphine
+T7	Route 39 50	intrathecal
+T5	Adverse_event 63 70	causing
+E1	Adverse_event:T5

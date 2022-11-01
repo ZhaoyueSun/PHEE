@@ -1,0 +1,11 @@
+T3	Subject 14 110	A 45-year-old HIV-positive man (CD4+ count 450 cells/mm(3) and history of AIDS-defining illness)
+T4	Effect 126 129	JHR
+T5	Treatment 136 179	an initial intravenous dose of penicillin G
+T8	Age 16 27	45-year-old
+T9	Sub-Disorder 28 40	HIV-positive
+T10	Drug 167 179	penicillin G
+T11	Treat-Disorder 193 206	neurosyphilis
+T12	Route 147 158	intravenous
+T6	Adverse_event 130 135	after
+E1	Adverse_event:T6 
+T1	Dosage 136 163	an initial intravenous dose

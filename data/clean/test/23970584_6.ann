@@ -1,0 +1,6 @@
+T10	Treatment 0 33	Shortly after commencing the drug
+T12	Effect 59 183	severe adverse drug reaction manifesting as Drug Reaction (or Rash) with Eosinophilia and Systemic Symptoms (DRESS) syndrome
+T13	Time_elapsed 0 13	Shortly after
+T14	Subject 35 46	the patient
+T11	Adverse_event 47 56	developed
+E1	Adverse_event:T11

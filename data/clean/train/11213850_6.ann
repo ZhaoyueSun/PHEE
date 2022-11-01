@@ -1,0 +1,16 @@
+T8	Subject 0 12	Each subject
+T10	Treatment 62 291	baseline; phase 1 (days 1-6): cisapride 10 mg 4 times/day; washout (days 7-13); phase 2 (days 14-44): fluoxetine 20 mg/day; and phase 3 (days 45-52): cisapride 10 mg 4 times/day (days 45-51) plus fluoxetine 20 mg/day (days 45-52)
+T11	Drug 92 101	cisapride
+T12	Dosage 102 107	10 mg
+T13	Freq 108 119	4 times/day
+T14	Drug 164 174	fluoxetine
+T15	Dosage 175 184	20 mg/day
+T16	Drug 212 221	cisapride
+T17	Dosage 222 227	10 mg
+T18	Freq 228 239	4 times/day
+T19	Drug 258 268	fluoxetine
+T20	Dosage 269 278	20 mg/day
+T9	Potential_therapeutic_event 17 24	treated
+T21	Combination 253 257	plus
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T21 arg:T16 arg2:T19

@@ -1,0 +1,6 @@
+T3	Treatment 20 30	amiodarone
+T5	Effect 39 53	thyrotoxicosis
+T6	Subject 10 16	a case
+T7	Drug 20 30	amiodarone
+T4	Adverse_event 31 38	induced
+E1	Adverse_event:T4

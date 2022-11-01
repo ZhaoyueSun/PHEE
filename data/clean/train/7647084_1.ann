@@ -1,0 +1,9 @@
+T4	Effect 31 61	neuroleptic malignant syndrome
+T7	Treatment 92 127	amitriptyline and lithium carbonate
+T5	Subject 79 88	a patient
+T8	Drug 92 105	amitriptyline
+T9	Drug 110 127	lithium carbonate
+T6	Adverse_event 67 75	occurred
+T10	Combination 106 109	and
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T8 arg2:T9

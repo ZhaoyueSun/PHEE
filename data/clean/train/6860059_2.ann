@@ -1,0 +1,9 @@
+T3	Subject 81 86	a man
+T4	Treatment 67 77	disulfiram
+T6	Effect 20 45	fatal fulminant hepatitis
+T7	Gender 83 86	man
+T8	Severity_cue 20 25	fatal
+T9	Drug 67 77	disulfiram
+T5	Adverse_event 46 52	caused
+E1	Adverse_event:T5 
+A1	Severity E1 High

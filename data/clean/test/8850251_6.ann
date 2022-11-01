@@ -1,0 +1,7 @@
+T6	Effect 46 71	photosensitivity reaction
+T7	Subject 75 83	patients
+T8	Treat-Disorder 115 136	dermatologic problems
+T9	Drug 26 37	mequitazine
+T10	Treatment 26 37	mequitazine
+T11	Adverse_event 38 45	induced
+E2	Adverse_event:T11

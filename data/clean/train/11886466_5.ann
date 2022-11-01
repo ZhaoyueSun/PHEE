@@ -1,0 +1,8 @@
+T10	Treatment 49 55	pFVIII
+T12	Effect 80 90	thrombosis
+T13	Speculation_cue 56 59	may
+T14	Drug 49 55	pFVIII
+T15	Treat-Disorder 174 188	cardiovascular
+T11	Adverse_event 65 76	contributed
+E1	Adverse_event:T11 
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T6	Effect 83 145	recurrent eosinophilia and deterioration of pulmonary function
+T7	Treatment 160 224	use of tobramycin by inhalation or by intravenous administration
+T8	Subject 62 70	patients
+T9	Drug 167 177	tobramycin
+T10	Route 181 191	inhalation
+T11	Route 199 225	ntravenous administration.
+T5	Adverse_event 75 82	develop
+E1	Adverse_event:T5

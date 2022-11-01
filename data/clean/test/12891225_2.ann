@@ -1,0 +1,9 @@
+T9	Treatment 0 10;124 225	Aprepitant added to conventional therapy with a corticosteroid and a 5-hydroxytryptamine(3) (5-HT(3)) antagonist
+T10	Effect 64 118	prevention of chemotherapy-induced nausea and vomiting
+T12	Drug 0 10	Aprepitant
+T14	Drug 161 175	corticosteroid
+T15	Drug 182 225	5-hydroxytryptamine(3) (5-HT(3)) antagonist
+T11	Potential_therapeutic_event 55 63	enhances
+T13	Combination 124 129	added
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T13 arg:T12 arg2:T14 arg3:T15

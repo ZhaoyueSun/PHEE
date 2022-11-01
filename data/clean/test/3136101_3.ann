@@ -1,0 +1,5 @@
+T3	Treatment 49 76	cessation of prolonged ACTH
+T4	Effect 177 189	hyperkalemia
+T6	Drug 72 76	ACTH
+T5	Adverse_event 46 48	of
+E1	Adverse_event:T5

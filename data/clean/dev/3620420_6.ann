@@ -1,0 +1,5 @@
+T8	Treatment 0 11	Cyclosporin
+T9	Effect 34 148	hirsutism, hypertension, increased blood levels of urea and creatinine, and abnormalities in liver function tests.
+T10	Drug 0 11	Cyclosporin
+T7	Adverse_event 12 24	side effects
+E1	Adverse_event:T7

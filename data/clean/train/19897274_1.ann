@@ -1,0 +1,8 @@
+T3	Subject 98 143	4 among approximately 2 000 Japanese patients
+T4	Treatment 157 166	sorafenib
+T5	Effect 63 85	interstitial pneumonia
+T8	Race 126 134	Japanese
+T7	Population 98 125	4 among approximately 2 000
+T9	Drug 157 166	sorafenib
+T6	Adverse_event 86 94	occurred
+E1	Adverse_event:T6

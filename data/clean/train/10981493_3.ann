@@ -1,0 +1,7 @@
+T3	Effect 20 26	ataxia
+T4	Treatment 0 11	Propafenone
+T6	Subject 38 49	three cases
+T7	Population 38 43	three
+T8	Drug 0 11	Propafenone
+T5	Adverse_event 12 19	induced
+E1	Adverse_event:T5

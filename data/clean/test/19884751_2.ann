@@ -1,0 +1,7 @@
+T3	Treat-Disorder 16 35	tubular dysfunction
+T7	Drug 92 100	Amikacin
+T8	Time_elapsed 41 48	15 days
+T9	Dosage 59 68	cessation
+T5	Treatment 41 100	15 days following cessation of the offending drug, Amikacin
+T6	Potential_therapeutic_event 0 8	Recovery
+E1	Potential_therapeutic_event:T6

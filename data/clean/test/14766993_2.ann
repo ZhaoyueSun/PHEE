@@ -1,0 +1,6 @@
+T4	Treatment 67 75	warfarin
+T7	Effect 20 75	possible interaction of smokeless tobacco with warfarin
+T9	Treat-Disorder 103 132	several thromboembolic events
+T11	Drug 67 75	warfarin
+T6	Adverse_event 89 96	treated
+E1	Adverse_event:T6 

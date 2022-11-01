@@ -1,0 +1,7 @@
+T10	Treatment 125 143	Methotrexate (MTX)
+T11	Effect 148 166	malignant lymphoma
+T12	Subject 62 110	patients with juvenile rheumatoid arthritis (JRA
+T16	Drug 125 137	Methotrexate
+T6	Treat-Disorder 76 105	juvenile rheumatoid arthritis
+T9	Adverse_event 42 53	association
+E1	Adverse_event:T9

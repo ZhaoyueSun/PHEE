@@ -1,0 +1,8 @@
+T15	Speculation_cue 257 263	may be
+T17	Drug 320 324	gold
+T14	Treat-Disorder 336 356	rheumatoid arthritis
+T13	Treatment 320 356	gold therapy in rheumatoid arthritis
+T18	Effect 290 303	renal disease
+T12	Adverse_event 304 314	associated
+E1	Adverse_event:T12 
+A1	Speculated E1

@@ -1,0 +1,11 @@
+T9	Subject 22 38	elderly patients
+T11	Treatment 77 100;105 120	atypical antipsychotics antidepressants
+T12	Effect 0 18	Serotonin syndrome
+T14	Age 22 29	elderly
+T15	Drug 77 100	atypical antipsychotics
+T16	Drug 105 120	antidepressants
+T18	Treat-Disorder 51 71	psychotic depression
+T13	Adverse_event 72 76	with
+T17	Combination 101 104	and
+E1	Adverse_event:T13 
+E2	Combination:T17 arg:T15 arg2:T16

@@ -1,0 +1,4 @@
+T3	Treatment 0 37	Intensive high-flux hemodiafiltration
+T4	Treat-Disorder 73 92	vancomycin toxicity
+T5	Potential_therapeutic_event 59 69	management
+E1	Potential_therapeutic_event:T5

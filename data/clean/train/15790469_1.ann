@@ -1,0 +1,8 @@
+T7	Subject 41 83	patient with juvenile rheumatoid arthritis
+T9	Treatment 97 118	low dose Methotrexate
+T10	Effect 0 37	Primary ovarian large B-cell lymphoma
+T11	Treat-Disorder 54 83	juvenile rheumatoid arthritis
+T12	Drug 106 118	Methotrexate
+T1	Adverse_event 38 40	in
+E1	Adverse_event:T1 
+T2	Dosage 97 105	low dose

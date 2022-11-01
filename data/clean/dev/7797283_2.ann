@@ -1,0 +1,7 @@
+T3	Subject 53 65	two patients
+T4	Treatment 76 94	omeprazole therapy
+T5	Effect 0 22	Esophageal candidiasis
+T7	Population 53 56	two
+T8	Drug 76 86	omeprazole
+T6	Adverse_event 66 75	receiving
+E1	Adverse_event:T6

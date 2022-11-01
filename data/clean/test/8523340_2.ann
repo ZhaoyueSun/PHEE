@@ -1,0 +1,7 @@
+T3	Treatment 27 50	very low dosage of gold
+T5	Subject 54 91	patients with mucocutaneous reactions
+T6	Sub-Disorder 68 91	mucocutaneous reactions
+T7	Dosage 27 42	very low dosage
+T8	Drug 46 50	gold
+T4	Potential_therapeutic_event 20 23	Use
+E1	Potential_therapeutic_event:T4 

@@ -1,0 +1,6 @@
+T3	Effect 68 117	reduced prevalence of extrapyramidal side effects
+T5	Treatment 33 43	olanzapine
+T7	Drug 33 43	olanzapine
+T8	Drug 145 163	neuroleptic drugs.
+T6	Adverse_event 61 65	show
+E1	Adverse_event:T6

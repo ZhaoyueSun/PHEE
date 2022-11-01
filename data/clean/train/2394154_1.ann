@@ -1,0 +1,6 @@
+T9	Treat-Disorder 83 109	herpes zoster ophthalmicus
+T10	Effect 0 50	Fever, pulmonary infiltrates, and pleural effusion
+T11	Drug 61 70	acyclovir
+T8	Treatment 61 109	acyclovir therapy for herpes zoster ophthalmicus
+T7	Adverse_event 51 60	following
+E1	Adverse_event:T7

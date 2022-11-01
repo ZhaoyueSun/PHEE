@@ -1,0 +1,7 @@
+T10	Effect 97 161	fever, pancytopenia, splenomegaly, and extreme hyperferritinemia
+T11	Subject 26 61	a patient with rheumatoid arthritis
+T12	Treatment 72 82	adalimumab
+T13	Sub-Disorder 41 61	rheumatoid arthritis
+T14	Drug 72 82	adalimumab
+T9	Adverse_event 87 96	developed
+E1	Adverse_event:T9 

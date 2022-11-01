@@ -1,0 +1,13 @@
+T3	Effect 7 33	hypokalemia (K 2.3 mmol/L)
+T5	Treatment 45 177	licorice and also had received disopyramide for arrhythmia, bicalutamide for prostate cancer, and silodosin for prostate hypertrophy
+T6	Drug 45 53	licorice
+T7	Drug 76 88	disopyramide
+T8	Drug 105 117	bicalutamide
+T9	Drug 143 152	silodosin
+T10	Treat-Disorder 157 177	prostate hypertrophy
+T11	Treat-Disorder 122 137	prostate cancer
+T12	Treat-Disorder 93 103	arrhythmia
+T4	Adverse_event 34 41	induced
+T13	Combination 54 57	and
+E1	Adverse_event:T4 
+E2	Combination:T13 arg:T7 arg2:T8 arg3:T9 arg4:T6

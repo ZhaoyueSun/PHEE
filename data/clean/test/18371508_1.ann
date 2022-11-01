@@ -1,0 +1,8 @@
+T4	Effect 0 35	Adult respiratory distress syndrome
+T5	Treatment 57 100	pegylated interferon alpha-2a and ribavirin
+T7	Drug 57 86	pegylated interferon alpha-2a
+T8	Drug 91 100	ribavirin
+T6	Adverse_event 52 56	with
+T9	Combination 87 90	and
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T7 arg2:T8

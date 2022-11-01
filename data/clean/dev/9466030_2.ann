@@ -1,0 +1,8 @@
+T5	Treatment 55 73	nebulised morphine
+T6	Subject 78 85	patient
+T7	Effect 93 210	markedly bradypneic (respiratory rate: 4-5 bpm), hypotensive (BP 70/40 mmHg), and responded only partially to command
+T9	Drug 65 73	morphine
+T10	Route 55 64	nebulised
+T11	Time_elapsed 14 20	15 min
+T8	Adverse_event 86 92	became
+E1	Adverse_event:T8

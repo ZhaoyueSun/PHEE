@@ -1,0 +1,7 @@
+T4	Treatment 71 94	anticoagulation therapy
+T5	Effect 16 32	thrombocytopenia
+T6	Drug 0 7	Heparin
+T7	Severity_cue 47 54	serious
+T3	Adverse_event 55 67	complication
+E1	Adverse_event:T3 
+A1	Severity E1 High

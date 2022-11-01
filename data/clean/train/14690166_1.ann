@@ -1,0 +1,8 @@
+T8	Treatment 0 23	2-Chloro-deoxyadenosine
+T11	Effect 123 145	non-Hodgkin's lymphoma
+T12	Drug 0 23	2-Chloro-deoxyadenosine
+T13	Treat-Disorder 62 81	Castleman's disease
+T14	Speculation_cue 86 89	may
+T10	Adverse_event 90 100	accelerate
+E1	Adverse_event:T10 
+A1	Speculated E1

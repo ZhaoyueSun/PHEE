@@ -1,0 +1,5 @@
+T5	Effect 0 17	Phantom limb pain
+T7	Treatment 40 50	paclitaxel
+T8	Drug 40 50	paclitaxel
+T6	Adverse_event 23 36	manifestation
+E1	Adverse_event:T6

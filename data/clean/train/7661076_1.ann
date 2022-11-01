@@ -1,0 +1,7 @@
+T3	Effect 68 101	dangerous worsening of arrhythmia
+T4	Subject 105 133	patients with atrial flutter
+T5	Treatment 38 47	adenosine
+T7	Treat-Disorder 119 134	atrial flutter.
+T8	Drug 38 47	adenosine
+T6	Adverse_event 52 62	associated
+E1	Adverse_event:T6 

@@ -1,0 +1,7 @@
+T9	Treatment 21 35	metoclopramide
+T12	Effect 85 144	agitation, dysarthria, diaphoresis, and a movement disorder
+T13	Drug 21 35	metoclopramide
+T14	Treat-Disorder 47 53	nausea
+T15	Time_elapsed 59 73	within 2 hours
+T11	Adverse_event 75 84	developed
+E1	Adverse_event:T11 

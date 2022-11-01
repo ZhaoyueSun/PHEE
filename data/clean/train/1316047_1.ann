@@ -1,0 +1,6 @@
+T3	Effect 0 20	Hemodynamic collapse
+T4	Treatment 31 40	labetalol
+T7	Drug 31 40	labetalol
+T8	Treat-Disorder 59 71	preeclampsia
+T6	Adverse_event 21 30	following
+E1	Adverse_event:T6 

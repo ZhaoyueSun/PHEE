@@ -1,0 +1,5 @@
+T3	Effect 0 37	Interstitial granulomatous dermatitis
+T5	Treatment 54 65	darifenacin
+T6	Drug 54 65	darifenacin
+T4	Adverse_event 38 48	associated
+E1	Adverse_event:T4

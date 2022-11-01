@@ -1,0 +1,9 @@
+T3	Treatment 31 60	chronic low-dosage amiodarone
+T4	Subject 3 20	a 61-year-old man
+T5	Effect 64 88	interstitial pneumopathy
+T7	Age 5 16	61-year-old
+T8	Gender 17 20	man
+T9	Drug 50 60	amiodarone
+T10	Dosage 39 49	low-dosage
+T6	Adverse_event 93 101	observed
+E1	Adverse_event:T6

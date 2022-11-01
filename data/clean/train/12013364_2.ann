@@ -1,0 +1,5 @@
+T4	Treatment 56 66	olanzapine
+T5	Effect 0 39	Atypical neuroleptic malignant syndrome
+T6	Drug 56 66	olanzapine
+T3	Adverse_event 40 50	associated
+E1	Adverse_event:T3

@@ -1,0 +1,10 @@
+T7	Effect 26 66	nausea and anorexia was digoxin toxicity
+T9	Treatment 109 122	ciprofloxacin
+T10	Drug 109 122	ciprofloxacin
+T11	Drug 50 57	digoxin
+T13	Speculation_cue 4 18	proposed cause
+T8	Adverse_event 67 76	secondary
+T12	Combination 92 103	interaction
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T11 arg2:T10
+A1	Speculated E1

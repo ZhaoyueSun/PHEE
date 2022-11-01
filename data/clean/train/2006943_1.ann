@@ -1,0 +1,6 @@
+T7	Effect 0 66	Type I second-degree AV block (Mobitz type I, Wenckebach AV block)
+T9	Treatment 74 83	ritodrine
+T10	Treat-Disorder 96 109	preterm labor
+T11	Drug 74 83	ritodrine
+T8	Adverse_event 67 73	during
+E1	Adverse_event:T8

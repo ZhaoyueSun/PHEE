@@ -1,0 +1,7 @@
+T7	Treatment 32 46	nicotinic acid
+T8	Effect 51 78	exaggerated immune response
+T10	Effect 108 156	pain, redness, and swelling at the injection sit
+T11	Speculation_cue 96 99	may
+T12	Drug 32 46	nicotinic acid
+T9	Adverse_event 82 90	produced
+E1	Adverse_event:T9

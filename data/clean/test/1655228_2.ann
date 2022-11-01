@@ -1,0 +1,7 @@
+T3	Effect 0 19	Myocardial ischemia
+T5	Treatment 36 65	high-dose carmustine infusion
+T6	Dosage 36 45	high-dose
+T7	Drug 46 56	carmustine
+T8	Route 57 65	infusion
+T4	Adverse_event 20 30	associated
+E1	Adverse_event:T4

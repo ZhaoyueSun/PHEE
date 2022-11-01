@@ -1,0 +1,8 @@
+T3	Effect 0 17	Multiple seizures
+T4	Treatment 24 42	bupropion overdose
+T5	Subject 46 59	a small child
+T7	Age 48 59	small child
+T8	Drug 24 33	bupropion
+T9	Dosage 34 42	overdose
+T6	Adverse_event 18 23	after
+E1	Adverse_event:T6

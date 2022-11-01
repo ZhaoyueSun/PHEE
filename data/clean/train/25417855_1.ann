@@ -1,0 +1,10 @@
+T8	Subject 108 134	a renal transplant patient
+T10	Effect 0 21	Worsening pneumonitis
+T7	Treatment 31 104	pharmacokinetic drug-drug interaction between everolimus and voriconazole
+T11	Drug 77 87	everolimus
+T12	Drug 92 104	voriconazole
+T14	Treat-Disorder 110 126	renal transplant
+T9	Adverse_event 22 28	due to
+T13	Combination 57 68	interaction
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T11 arg2:T12

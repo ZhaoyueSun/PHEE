@@ -1,0 +1,5 @@
+T3	Effect 0 31	Corneal endothelial dysfunction
+T5	Treatment 48 58	amantadine
+T6	Drug 48 58	amantadine
+T4	Adverse_event 32 42	associated
+E1	Adverse_event:T4

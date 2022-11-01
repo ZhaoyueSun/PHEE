@@ -1,0 +1,7 @@
+T3	Effect 0 8	Vitiligo
+T5	Treatment 25 41	alpha-interferon
+T6	Subject 45 86	a patient with chronic active hepatitis C
+T8	Drug 25 41	alpha-interferon
+T9	Treat-Disorder 60 86	chronic active hepatitis C
+T4	Adverse_event 9 19	associated
+E1	Adverse_event:T4

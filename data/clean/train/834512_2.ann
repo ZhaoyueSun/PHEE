@@ -1,0 +1,20 @@
+T14	Effect 113 173	acute methemoglobinemia and severe anoxic metabolic acidosis
+T15	Subject 177 189	infant twins
+T16	Treatment 22 96	"sweet spirits of nitre" (4% ethyl nitrite CH3CH2ONO in 70% ethyl alcohol)
+T17	Age 177 183	infant
+T19	Drug 23 45	sweet spirits of nitre
+T20	Treatment 191 205	Methylene blue
+T21	Drug 191 205	Methylene blue
+T23	Treat-Disorder 230 247	methemoglobinemia
+T24	Subject 261 269	one twin
+T25	Effect 270 309	died from the consequences of hypoxemia
+T27	Severity_cue 270 274	died
+T13	Adverse_event 101 109	followed
+T22	Potential_therapeutic_event 221 229	reversed
+T26	Adverse_event 270 274	died
+E1	Adverse_event:T13 arg:T16 arg2:T14 arg3:T15
+E2	Potential_therapeutic_event:T22 arg:T20 arg2:T15
+E3	Adverse_event:T26 arg:T16 arg2:T24 arg3:T25
+R1	has Arg1:T20 Arg2:T23	
+R2	has_cue Arg1:E3 Arg2:T27	
+A1	Severity E3 High

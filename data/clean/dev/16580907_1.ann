@@ -1,0 +1,10 @@
+T8	Effect 0 17	Severe arrhythmia
+T10	Treatment 37 79	interaction of cetirizine and pilsicainide
+T11	Subject 83 117	a patient with renal insufficiency
+T14	Drug 52 62	cetirizine
+T15	Drug 67 79	pilsicainide
+T16	Sub-Disorder 98 117	renal insufficiency
+T9	Adverse_event 23 29	result
+T13	Combination 37 48	interaction
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T14 arg2:T15

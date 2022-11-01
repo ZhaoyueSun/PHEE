@@ -1,0 +1,7 @@
+T3	Effect 59 76	severe myelopathy
+T6	Treatment 98 139	intrathecal administration of doxorubicin
+T7	Speculation_cue 21 37	to our knowledge
+T8	Drug 128 139	doxorubicin
+T9	Route 98 124	intrathecal administration
+T4	Adverse_event 77 86	following
+E1	Adverse_event:T4

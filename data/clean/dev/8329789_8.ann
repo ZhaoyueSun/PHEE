@@ -1,0 +1,5 @@
+T4	Treatment 74 88	hydrocortisone
+T7	Drug 74 88	hydrocortisone
+T9	Treat-Disorder 106 125	cardiac arrhythmias
+T8	Potential_therapeutic_event 92 102	prevention
+E2	Potential_therapeutic_event:T8

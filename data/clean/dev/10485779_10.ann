@@ -1,0 +1,9 @@
+T8	Treatment 98 106	fentanyl
+T9	Subject 119 158	patients receiving ritonavir medication
+T13	Drug 98 106	fentanyl
+T14	Drug 0 9	Ritonavir
+T16	Effect 26 62	metabolism of fentanyl significantly
+T15	Combination 110 115	given
+T11	Adverse_event 67 74	caution
+E2	Combination:T15 arg:T13 arg2:T14
+E3	Adverse_event:T11

@@ -1,0 +1,9 @@
+T4	Treatment 118 147	recombinant DNA human insulin
+T5	Subject 28 33	woman
+T6	Effect 39 79	severe human insulin-induced lipoatrophy
+T8	Gender 28 33	woman
+T11	Drug 118 147	recombinant DNA human insulin
+T9	Severity_cue 39 45	severe
+T7	Adverse_event 93 100	treated
+E1	Adverse_event:T7 
+A1	Severity E1 High

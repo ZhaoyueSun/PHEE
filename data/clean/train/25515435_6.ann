@@ -1,0 +1,7 @@
+T6	Subject 9 11	he
+T7	Treat-Disorder 31 74	deep vein thrombosis and pulmonary embolism
+T9	Treatment 94 102	warfarin
+T10	Population 9 11	he
+T11	Drug 94 102	warfarin
+T8	Potential_therapeutic_event 83 90	started
+E1	Potential_therapeutic_event:T8

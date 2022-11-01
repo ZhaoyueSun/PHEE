@@ -1,0 +1,6 @@
+T3	Effect 22 48	bullous lichenoid eruption
+T5	Treatment 70 79	captopril
+T6	Drug 70 79	captopril
+T7	Subject 10 16	a case
+T4	Adverse_event 49 52	due
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T4	Treatment 80 92	troglitazone
+T5	Effect 101 150	liver injury is insidious and temporally variable
+T6	Drug 80 92	troglitazone
+T3	Adverse_event 93 100	induced
+E1	Adverse_event:T3 

@@ -1,0 +1,10 @@
+T5	Subject 22 41	a 40-year-old woman
+T7	Effect 56 102	fulminant hepatic failure and aplastic anaemia
+T8	Treatment 113 144	a course of oral flucloxacillin
+T9	Age 24 35	40-year-old
+T10	Gender 36 41	woman
+T11	Route 125 129	oral
+T12	Drug 130 144	flucloxacillin
+T13	Duration 113 121	a course
+T6	Adverse_event 46 55	developed
+E1	Adverse_event:T6

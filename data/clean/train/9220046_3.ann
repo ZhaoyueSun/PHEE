@@ -1,0 +1,5 @@
+T4	Treatment 201 267	lovastatin, a hydroxymethylglutaryl-coenzyme A reductase inhibitor
+T5	Effect 12 134	Rhabdomyolysis is a clinical syndrome resulting from the destruction of skeletal muscle that may progress to renal failure
+T6	Drug 201 211	lovastatin
+T3	Adverse_event 159 169	associated
+E1	Adverse_event:T3

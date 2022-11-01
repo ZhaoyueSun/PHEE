@@ -1,0 +1,9 @@
+T7	Subject 35 67	young woman with Graves' disease
+T10	Treatment 109 131	propylthiouracil (PTU)
+T12	Effect 76 97	ototoxicity developed
+T9	Age 35 40	young
+T13	Gender 41 46	woman
+T14	Drug 109 125	propylthiouracil
+T15	Treat-Disorder 52 67	Graves' disease
+T11	Adverse_event 132 139	induced
+E1	Adverse_event:T11

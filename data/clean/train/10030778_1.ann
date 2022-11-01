@@ -1,0 +1,5 @@
+T3	Treatment 12 24	azithromycin
+T5	Effect 33 44	ototoxicity
+T6	Drug 12 24	azithromycin
+T4	Adverse_event 25 32	induced
+E1	Adverse_event:T4

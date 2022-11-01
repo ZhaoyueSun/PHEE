@@ -1,0 +1,8 @@
+T5	Effect 76 95	teratogenic effects
+T6	Drug 0 12	Isotretinoin
+T7	Treat-Disorder 47 51	acne
+T3	Treatment 0 12	Isotretinoin
+T8	Speculation_cue 62 67	shown
+T4	Adverse_event 71 75	have
+E1	Adverse_event:T4 
+A1	Speculated E1

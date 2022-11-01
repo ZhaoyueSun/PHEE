@@ -1,0 +1,5 @@
+T4	Effect 38 56	aseptic meningitis
+T5	Treatment 0 29	Trimethoprim-sulfamethoxazole
+T6	Drug 0 29	Trimethoprim-sulfamethoxazole
+T3	Adverse_event 30 37	induced
+E1	Adverse_event:T3

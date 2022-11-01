@@ -1,0 +1,7 @@
+T7	Treatment 6 35	5 days of treatment with IL-2
+T8	Subject 41 48	patient
+T9	Effect 59 158	a hemorrhagic lesion that progressed to toxic epidermal necrolysis, as well as grade 4 pancytopenia
+T11	Drug 31 35	IL-2
+T12	Time_elapsed 0 12	After 5 days
+T10	Adverse_event 49 58	developed
+E1	Adverse_event:T10

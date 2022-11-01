@@ -1,0 +1,8 @@
+T3	Effect 10 30	sideroblastic anemia
+T4	Subject 47 115	a patient with a left ventricular assist device drive-line infection
+T5	Treatment 124 143	receiving linezolid
+T7	Sub-Disorder 64 115	left ventricular assist device drive-line infection
+T8	Drug 134 143	linezolid
+T9	Treat-Disorder 168 215	serious infections with gram-positive organisms
+T6	Adverse_event 34 43	presented
+E1	Adverse_event:T6 

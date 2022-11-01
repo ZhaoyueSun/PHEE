@@ -1,0 +1,5 @@
+T3	Treatment 0 21	Mycophenolate mofetil
+T5	Effect 30 66	neutropenia in liver transplantation
+T6	Drug 0 21	Mycophenolate mofetil
+T4	Adverse_event 22 29	induced
+E1	Adverse_event:T4

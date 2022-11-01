@@ -1,0 +1,10 @@
+T4	Effect 0 10	Paraplegia
+T6	Treatment 21 74;159 202	prophylactic intrathecal cytosine arabinoside (Ara-C) doses of 100 mg/m2/d for 5 consecutive days
+T7	Subject 91 145	a patient with acute myelogenous leukemia in remission
+T9	Drug 46 66	cytosine arabinoside
+T10	Route 34 45	intrathecal
+T11	Treat-Disorder 106 145	acute myelogenous leukemia in remission
+T12	Dosage 168 179	100 mg/m2/d
+T13	Duration 184 202	5 consecutive days
+T5	Adverse_event 11 20	following
+E1	Adverse_event:T5

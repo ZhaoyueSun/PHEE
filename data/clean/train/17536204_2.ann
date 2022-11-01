@@ -1,0 +1,5 @@
+T3	Effect 12 21	Headaches
+T5	Treatment 71 83	capecitabine
+T6	Drug 71 83	capecitabine
+T4	Adverse_event 68 70	of
+E1	Adverse_event:T4

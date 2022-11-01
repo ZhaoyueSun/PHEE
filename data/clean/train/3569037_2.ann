@@ -1,0 +1,7 @@
+T3	Subject 70 98	a patient with typhoid fever
+T4	Effect 0 25	Hypersensitivity reaction
+T6	Treatment 36 51	chloramphenicol
+T8	Drug 36 51	chloramphenicol
+T9	Treat-Disorder 85 98	typhoid fever
+T5	Adverse_event 26 35	following
+E1	Adverse_event:T5

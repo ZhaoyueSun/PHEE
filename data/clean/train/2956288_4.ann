@@ -1,0 +1,7 @@
+T3	Treatment 6 16	ethambutol
+T5	Effect 135 218	serum concentration elevations of ethambutol sufficient to produce optic neuropathy
+T6	Drug 6 16	ethambutol
+T7	Speculation_cue 123 126	may
+T4	Adverse_event 127 131	lead
+E1	Adverse_event:T4 
+A1	Speculated E1

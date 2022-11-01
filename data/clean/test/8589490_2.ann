@@ -1,0 +1,5 @@
+T4	Effect 0 22	Pigmentary aberrations
+T5	Treatment 54 88	cytostatic chemotherapeutic agents
+T7	Drug 54 88	cytostatic chemotherapeutic agents
+T6	Adverse_event 38 50	side effects
+E1	Adverse_event:T6

@@ -1,0 +1,9 @@
+T8	Speculation_cue 44 47	may
+T9	Effect 60 78	serotonin toxicity
+T10	Treatment 4 43	co-administration of SSRIs and fentanyl
+T11	Drug 25 30	SSRIs
+T12	Drug 35 43	fentanyl
+T7	Adverse_event 48 59	precipitate
+T13	Combination 4 21	co-administration
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T11 arg2:T12

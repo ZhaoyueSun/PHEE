@@ -1,0 +1,7 @@
+T6	Subject 78 142	men with metastatic castration-resistant prostate cancer (mCRPC)
+T8	Treatment 0 55	Abiraterone acetate, an androgen biosynthesis inhibitor
+T9	Gender 78 81	men
+T11	Drug 0 19	Abiraterone acetate
+T12	Treat-Disorder 87 134	metastatic castration-resistant prostate cancer
+T7	Potential_therapeutic_event 57 74	prolongs survival
+E1	Potential_therapeutic_event:T7

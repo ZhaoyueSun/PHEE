@@ -1,0 +1,6 @@
+T5	Treatment 82 101	perhexiline maleate
+T6	Subject 0 9	A patient
+T7	Effect 20 56	papilloedema and hepatic dysfunction
+T9	Drug 82 101	perhexiline maleate
+T8	Adverse_event 57 62	while
+E1	Adverse_event:T8

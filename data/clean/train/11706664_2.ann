@@ -1,0 +1,13 @@
+T4	Effect 49 58	hepatitis
+T5	Subject 62 94	a previously healthy young woman
+T6	Treatment 106 143	2 doses of amodiaquine and artesunate
+T8	Speculation_cue 25 35	unexpected
+T9	Gender 83 88	young
+T10	Gender 89 94	woman
+T11	Dosage 106 113	2 doses
+T12	Drug 117 128	amodiaquine
+T13	Drug 133 143	artesunate
+T7	Adverse_event 95 102	exposed
+T14	Combination 129 132	and
+E1	Adverse_event:T7 
+E2	Combination:T14 arg:T12 arg2:T13

@@ -1,0 +1,9 @@
+T4	Subject 0 22	Nine azotemic patients
+T5	Effect 39 51	coagulopathy
+T7	Treatment 86 125	cephalosporin or moxalactam antibiotics
+T8	Population 0 4	Nine
+T9	Sub-Disorder 5 13	azotemic
+T10	Drug 86 99	cephalosporin
+T11	Drug 103 113	moxalactam
+T6	Adverse_event 52 62	associated
+E1	Adverse_event:T6 

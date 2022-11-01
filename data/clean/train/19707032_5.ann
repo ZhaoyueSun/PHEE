@@ -1,0 +1,7 @@
+T3	Treatment 0 54	Three days after intravitreal injection of bevacizumab
+T4	Effect 56 86	acute ocular ischemic syndrome
+T6	Drug 43 54	bevacizumab
+T7	Route 17 39	intravitreal injection
+T8	Time_elapsed 0 10	Three days
+T5	Adverse_event 87 95	occurred
+E1	Adverse_event:T5

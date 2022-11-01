@@ -1,0 +1,5 @@
+T3	Effect 46 62	ischaemic events
+T4	Treatment 19 40	venlafaxine treatment
+T8	Drug 19 30	venlafaxine
+T5	Adverse_event 4 15	association
+E1	Adverse_event:T5 

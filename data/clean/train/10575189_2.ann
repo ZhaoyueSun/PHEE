@@ -1,0 +1,8 @@
+T6	Treatment 73 97	gemcitabine chemotherapy
+T7	Effect 0 45	Thrombotic microangiopathy with renal failure
+T8	Subject 49 61	two patients
+T9	Population 49 52	two
+T10	Drug 73 84	gemcitabine
+T11	Route 85 97	chemotherapy
+T5	Adverse_event 62 72	undergoing
+E1	Adverse_event:T5

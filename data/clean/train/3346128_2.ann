@@ -1,0 +1,5 @@
+T3	Effect 0 28	Erosion of psoriatic plaques
+T5	Treatment 43 55	methotrexate
+T6	Drug 43 55	methotrexate
+T4	Adverse_event 29 34	after
+E1	Adverse_event:T4

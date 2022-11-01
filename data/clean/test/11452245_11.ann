@@ -1,0 +1,10 @@
+T8	Treatment 0 87	Concomitant use of clarithromycin or other potent inhibitors of CYP3A4 with repaglinide
+T10	Effect 104 171	blood glucose-lowering effect and increase the risk of hypoglycemia
+T11	Speculation_cue 88 91	may
+T12	Drug 19 33	clarithromycin
+T13	Drug 43 70	potent inhibitors of CYP3A4
+T14	Drug 76 87	repaglinide
+T9	Adverse_event 92 99	enhance
+T15	Combination 0 11	Concomitant
+E1	Adverse_event:T9 
+E2	Combination:T15 arg:T12 arg2:T14 arg3:T13

@@ -1,0 +1,11 @@
+T4	Subject 96 108	this patient
+T6	Treatment 228 239	milnacipran
+T8	Drug 228 239	milnacipran
+T10	Treatment 81 92	milnacipran
+T11	Drug 81 92	milnacipran
+T7	Effect 137 216	an increase in the alpha(1)-adrenoceptor occupancy by endogenous norepinephrine
+T12	Effect 17 29	piloerection
+T5	Adverse_event 217 224	induced
+T13	Adverse_event 30 38	observed
+E1	Adverse_event:T5 arg:T6 arg2:T7
+E2	Adverse_event:T13 arg:T12 arg2:T4 arg3:T10

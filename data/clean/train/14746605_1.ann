@@ -1,0 +1,7 @@
+T4	Treatment 29 40	finasteride
+T6	Effect 65 105	anterior subcapsular opacity on the lens
+T7	Subject 111 122	the patient
+T8	Speculation_cue 7 23	highly suspected
+T9	Drug 29 40	finasteride
+T5	Adverse_event 45 55	associated
+E1	Adverse_event:T5

@@ -1,0 +1,21 @@
+T10	Treatment 35 123	iloprost, a stable prostacyclin analogue (1 to 2 ng/kg/mn) with aspirin and dipyridamole
+T11	Subject 7 16	two cases
+T13	Treat-Disorder 157 193	heparin-induced platelet aggregation
+T14	Population 7 10	two
+T15	Drug 35 43	iloprost
+T16	Dosage 77 92	1 to 2 ng/kg/mn
+T17	Drug 99 106	aspirin
+T18	Drug 111 123	dipyridamole
+T12	Potential_therapeutic_event 137 152	inhibit ex vivo
+T19	Combination 94 98	with
+E1	Potential_therapeutic_event:T12 arg:T11 arg2:T10
+E2	Combination:T19 arg:T15 arg2:T17 arg3:T18
+R1	has_child Arg1:E1 Arg2:E2	
+R2	has Arg1:T10 Arg2:T13	
+T1	Adverse_event 165 172	induced
+E3	Adverse_event:T1 arg:T2 arg2:T4
+T2	Treatment 157 164	heparin
+T3	Drug 157 164	heparin
+T4	Effect 173 193	platelet aggregation
+R3	has Arg1:T2 Arg2:T3	
+R4	has Arg1:T10 Arg2:T16	

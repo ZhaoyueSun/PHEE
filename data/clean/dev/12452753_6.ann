@@ -1,0 +1,6 @@
+T10	Effect 14 72	a generalized rash and itching, sore throat, and dizziness
+T11	Treatment 73 131	approximately 4 hours after the first dose of capecitabine
+T12	Time_elapsed 87 94	4 hours
+T13	Drug 119 131	capecitabine
+T9	Adverse_event 4 13	developed
+E1	Adverse_event:T9

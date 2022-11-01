@@ -1,0 +1,7 @@
+T3	Treatment 43 57	spironolactone
+T5	Effect 65 74	diarrhoea
+T6	Drug 43 57	spironolactone
+T7	Speculation_cue 19 24	seems
+T4	Adverse_event 58 64	causes
+E1	Adverse_event:T4 
+A1	Speculated E1

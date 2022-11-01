@@ -1,0 +1,9 @@
+T9	Treatment 0 90	Epirubicin-cyclophosphamide adjuvant chemotherapy plus tamoxifen administered concurrently
+T10	Subject 142 193	postmenopausal node-positive breast cancer patients
+T13	Drug 55 64	tamoxifen
+T15	Drug 0 27	Epirubicin-cyclophosphamide
+T16	Treat-Disorder 157 184	node-positive breast cancer
+T14	Combination 50 54	plus
+T11	Potential_therapeutic_event 65 77	administered
+E2	Combination:T14 arg:T13 arg2:T15
+E1	Potential_therapeutic_event:T11

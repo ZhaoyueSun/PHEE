@@ -1,0 +1,7 @@
+T3	Effect 0 18	Neonatal mydriasis
+T4	Treatment 32 41	lidocaine
+T6	Drug 32 41	lidocaine
+T7	Subject 0 8	Neonatal
+T8	Age 0 8	Neonatal
+T5	Adverse_event 42 58	adverse reaction
+E1	Adverse_event:T5

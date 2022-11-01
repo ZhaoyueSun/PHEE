@@ -1,0 +1,7 @@
+T3	Subject 10 16	a case
+T4	Treatment 67 87	13-cis-retinoic acid
+T6	Effect 20 34	acne fulminans
+T8	Drug 67 87	13-cis-retinoic acid
+T9	Treat-Disorder 92 103	cystic acne
+T7	Adverse_event 35 44	occurring
+E1	Adverse_event:T7

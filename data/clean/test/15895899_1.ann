@@ -1,0 +1,8 @@
+T3	Treatment 17 27	infliximab
+T4	Effect 61 105	severe transient neutropenia (0.5 x 10(9)/L)
+T5	Subject 38 40	he
+T7	Gender 38 40	he
+T9	Drug 17 27	infliximab
+T10	Route 28 36	infusion
+T6	Adverse_event 45 50	found
+E1	Adverse_event:T6

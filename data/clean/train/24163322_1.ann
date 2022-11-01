@@ -1,0 +1,7 @@
+T7	Effect 0 39	Inadvertent exaggerated anticoagulation
+T9	Treatment 57 78;117 133	bismuth subsalicylate warfarin therapy
+T10	Subject 82 106	an enterally fed patient
+T11	Drug 117 125	warfarin
+T12	Drug 57 78	bismuth subsalicylate
+T8	Adverse_event 40 49	following
+E1	Adverse_event:T8

@@ -1,0 +1,6 @@
+T3	Effect 0 60	Emergence of Philadelphia positive chronic myeloid leukaemia
+T5	Treatment 83 94	hydroxyurea
+T7	Drug 83 94	hydroxyurea
+T8	Treat-Disorder 99 147	Philadelphia negative essential thrombocythaemia
+T4	Adverse_event 68 77	treatment
+E1	Adverse_event:T4

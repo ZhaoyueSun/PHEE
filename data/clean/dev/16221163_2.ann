@@ -1,0 +1,7 @@
+T6	Treatment 55 70	sirolimus (SRL)
+T7	Subject 74 98	a kidney graft recipient
+T8	Effect 37 51	hepatotoxicity
+T10	Sub-Disorder 76 88	kidney graft
+T11	Drug 55 64	sirolimus
+T9	Adverse_event 71 73	in
+E1	Adverse_event:T9 

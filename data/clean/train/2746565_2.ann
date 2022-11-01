@@ -1,0 +1,5 @@
+T3	Effect 0 61	Ulcerative proctitis in juvenile systemic lupus erythematosus
+T5	Treatment 68 77	ibuprofen
+T6	Drug 68 77	ibuprofen
+T4	Adverse_event 62 67	after
+E1	Adverse_event:T4

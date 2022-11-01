@@ -1,0 +1,11 @@
+T7	Subject 0 13;15 27	A 52-year-old white female
+T9	Effect 38 73	low-grade fever, cough, and dyspnea
+T10	Treatment 103 124	sodium aurothiomalate
+T12	Age 2 13	52-year-old
+T13	Race 15 20	white
+T14	Gender 21 27	female
+T15	Time_elapsed 80 87	8 weeks
+T16	Drug 103 124	sodium aurothiomalate
+T17	Treat-Disorder 129 149	rheumatoid arthritis
+T8	Adverse_event 28 37	developed
+E1	Adverse_event:T8

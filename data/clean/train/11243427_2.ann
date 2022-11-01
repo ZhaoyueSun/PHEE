@@ -1,0 +1,5 @@
+T3	Treatment 83 87	5-FU
+T5	Effect 96 105	ectropion
+T6	Drug 83 87	5-FU
+T4	Adverse_event 88 95	induced
+E1	Adverse_event:T4

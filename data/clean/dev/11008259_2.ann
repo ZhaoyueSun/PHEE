@@ -1,0 +1,5 @@
+T4	Treatment 67 97	reduction in tiagabine dosages
+T3	Effect 14 56	non-convulsive status epilepticus subsided
+T6	Drug 80 89	tiagabine
+T5	Adverse_event 57 66	following
+E1	Adverse_event:T5 

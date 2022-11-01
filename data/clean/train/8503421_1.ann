@@ -1,0 +1,10 @@
+T8	Effect 195 228	atheroembolic acute renal failure
+T9	Treatment 239 251	t-PA therapy
+T11	Drug 239 243	t-PA
+T13	Effect 37 69;93 128	cholesterol crystal embolization with only extrarenal manifestations
+T14	Drug 80 84	t-PA
+T15	Treatment 80 84	t-PA
+T10	Adverse_event 229 238	following
+T16	Adverse_event 70 79	following
+E1	Adverse_event:T10 arg:T9 arg2:T8
+E2	Adverse_event:T16 arg:T15 arg2:T13

@@ -1,0 +1,7 @@
+T4	Effect 25 43;67 79	urticaria vanished symptom-free
+T3	Treatment 5 23	DSCG was withdrawn
+T5	Subject 48 57	the child
+T7	Age 52 57	child
+T8	Drug 5 9	DSCG
+T6	Potential_therapeutic_event 58 66	remained
+E1	Potential_therapeutic_event:T6

@@ -1,0 +1,5 @@
+T3	Effect 92 133	malignant transformation of endometriosis
+T4	Treatment 74 83	tamoxifen
+T6	Drug 74 83	tamoxifen
+T5	Adverse_event 84 91	induced
+E1	Adverse_event:T5 

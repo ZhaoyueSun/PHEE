@@ -1,0 +1,5 @@
+T3	Effect 31 132	chronic, nonproductive cough secondary to the angiotensin-converting enzyme (ACE) inhibitor quinapril
+T5	Treatment 165 211	switching to another ACE inhibitor, fosinopril
+T6	Drug 201 211	fosinopril
+T4	Potential_therapeutic_event 148 158	resolution
+E1	Potential_therapeutic_event:T4

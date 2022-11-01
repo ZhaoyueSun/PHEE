@@ -1,0 +1,10 @@
+T7	Treatment 151 193	1 week after the fourth dose of adalimumab
+T9	Effect 44 149	jaundice followed 2 days later by severe dyspnea and tachypnea which worsened when patient was lying flat
+T10	Subject 0 28	A 65-year-old female patient
+T11	Age 2 13	65-year-old
+T12	Gender 14 20	female
+T13	Drug 183 193	adalimumab
+T14	Time_elapsed 151 163	1 week after
+T15	Dosage 168 179	fourth dose
+T8	Adverse_event 29 38	presented
+E1	Adverse_event:T8

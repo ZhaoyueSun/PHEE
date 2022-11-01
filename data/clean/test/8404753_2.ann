@@ -1,0 +1,9 @@
+T11	Effect 13 31	movement disorders
+T12	Treatment 71 98	carbamazepine (CBZ) therapy
+T13	Subject 102 121	adults and children
+T15	Age 102 108	adults
+T16	Age 113 121	children
+T17	Drug 71 84	carbamazepine
+T14	Adverse_event 45 50	occur
+E1	Adverse_event:T14 
+T1	Treat-Disorder 216 235	Tourette's syndrome

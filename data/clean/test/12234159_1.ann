@@ -1,0 +1,5 @@
+T3	Effect 0 19	Fixed drug eruption
+T5	Treatment 23 32	rofecoxib
+T6	Drug 23 32	rofecoxib
+T4	Adverse_event 20 22	to
+E1	Adverse_event:T4

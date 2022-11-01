@@ -1,0 +1,8 @@
+T3	Subject 38 56	a diabetic patient
+T4	Effect 0 15	Severe acidosis
+T6	Treatment 21 34	acetazolamide
+T7	Sub-Disorder 40 48	diabetic
+T8	Severity_cue 0 6	Severe
+T9	Drug 21 34	acetazolamide
+T5	Adverse_event 16 20	from
+E1	Adverse_event:T5 

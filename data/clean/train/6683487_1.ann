@@ -1,0 +1,6 @@
+T7	Effect 0 35	Thrombotic thrombocytopenic purpura
+T8	Treatment 43 56	penicillamine
+T9	Treat-Disorder 68 88	rheumatoid arthritis
+T10	Drug 43 56	penicillamine
+T6	Adverse_event 36 42	during
+E1	Adverse_event:T6

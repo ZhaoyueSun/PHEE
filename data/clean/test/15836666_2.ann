@@ -1,0 +1,11 @@
+T3	Subject 20 37	a 64-year-old man
+T4	Effect 43 81	secondary adrenocortical insufficiency
+T8	Age 22 33	64-year-old
+T9	Gender 34 37	man
+T10	Drug 120 128	fentanyl
+T11	Treat-Disorder 150 171	sciatic pain syndrome
+T12	Route 108 119	transdermal
+T13	Freq 100 107	chronic
+T14	Treatment 98 138	a chronic transdermal fentanyl treatment
+T5	Adverse_event 38 42	with
+E2	Adverse_event:T5

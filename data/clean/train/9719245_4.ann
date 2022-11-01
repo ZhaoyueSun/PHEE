@@ -1,0 +1,11 @@
+T4	Subject 36 74	a 23-year-old man with Crohn's disease
+T5	Effect 20 32	pancytopenia
+T7	Treatment 96 160	5-aminosalicylic acid (Pentasa; Nisshin, Tokyo, Japan) 3.0 g/day
+T8	Age 38 49	23-year-old
+T9	Gender 50 53	man
+T10	Treat-Disorder 59 74	Crohn's disease
+T11	Drug 96 117	5-aminosalicylic acid
+T12	Drug 119 126	Pentasa
+T13	Dosage 151 160	3.0 g/day
+T6	Adverse_event 83 95	treated with
+E1	Adverse_event:T6 

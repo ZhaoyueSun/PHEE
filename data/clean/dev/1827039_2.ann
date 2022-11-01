@@ -1,0 +1,14 @@
+T5	Subject 10 20	3 patients
+T6	Effect 26 54	severe hepatocellular damage
+T8	Treatment 62 65	CPA
+T11	Drug 62 65	CPA
+T12	Population 10 11	3
+T13	Subject 75 76	2
+T14	Population 75 76	2
+T15	Effect 82 107	fatal fulminant hepatitis
+T16	Severity_cue 82 87	fatal
+T7	Adverse_event 55 58	due
+E1	Adverse_event:T7 arg:T5 arg2:T6 arg3:T8
+E2	Adverse_event:T7 arg:T8 arg2:T13 arg3:T15
+R1	has_cue Arg1:E2 Arg2:T16	
+A1	Severity E2 High

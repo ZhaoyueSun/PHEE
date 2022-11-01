@@ -1,0 +1,6 @@
+T17	Treatment 0 10	Vancomycin
+T18	Effect 145 337	nephrotoxicity, ototoxicity, gastrointestinal disturbances, blood disorders, and two types of hypersensitivity reactions - an anaphylactoid reaction known as "red man syndrome" and anaphylaxis
+T20	Treat-Disorder 34 88	methicillin-resistant Staphylococcus aureus infections
+T21	Drug 0 10	Vancomycin
+T19	Adverse_event 100 110	associated
+E1	Adverse_event:T19

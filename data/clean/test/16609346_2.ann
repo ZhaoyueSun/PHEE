@@ -1,0 +1,7 @@
+T3	Treatment 0 6	Statin
+T5	Effect 18 35	myasthenia gravis
+T6	Subject 47 54	4 cases
+T7	Population 47 48	4
+T8	Drug 0 6	Statin
+T4	Adverse_event 7 17	associated
+E1	Adverse_event:T4

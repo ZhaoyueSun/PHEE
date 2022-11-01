@@ -1,0 +1,5 @@
+T4	Treatment 0 4	CCBs
+T7	Drug 0 4	CCBs
+T8	Treat-Disorder 75 84	headaches
+T5	Potential_therapeutic_event 33 42	treatment
+E1	Potential_therapeutic_event:T5

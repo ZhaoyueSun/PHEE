@@ -1,0 +1,10 @@
+T4	Treatment 79 118	selective serotonin reuptake inhibitors
+T5	Effect 45 63	serotonin toxicity
+T7	Drug 79 118	selective serotonin reuptake inhibitors
+T8	Drug 45 54	serotonin
+T10	Subject 10 33	several documented case
+T11	Population 10 17	several
+T6	Adverse_event 34 41	reports
+T9	Combination 74 78	with
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T7 arg2:T8

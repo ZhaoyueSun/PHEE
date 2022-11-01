@@ -1,0 +1,6 @@
+T6	Effect 22 80	needle-track cutaneous seeding of hepatocellular carcinoma
+T8	Treatment 93 146	sonographically guided percutaneous ethanol injection
+T9	Route 137 146	injection
+T10	Drug 129 136	ethanol
+T7	Adverse_event 87 92	after
+E1	Adverse_event:T7

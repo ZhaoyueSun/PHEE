@@ -1,0 +1,9 @@
+T7	Treatment 46 53	aspirin
+T10	Subject 93 118	patients with meningiomas
+T11	Sub-Disorder 107 118	meningiomas
+T12	Drug 46 53	aspirin
+T13	Treat-Disorder 73 89	vascular disease
+T14	Speculation_cue 17 26	questions
+T8	Potential_therapeutic_event 57 68	prophylaxis
+E1	Potential_therapeutic_event:T8 
+A1	Speculated E1

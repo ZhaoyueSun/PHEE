@@ -1,0 +1,6 @@
+T5	Speculation_cue 4 12	possible
+T7	Treatment 130 140	vancomycin
+T8	Effect 30 76	drug-induced vasculitis or lupus-like syndrome
+T9	Drug 130 140	vancomycin
+T6	Adverse_event 13 24	development
+E1	Adverse_event:T6

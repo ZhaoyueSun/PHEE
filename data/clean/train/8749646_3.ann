@@ -1,0 +1,7 @@
+T5	Treatment 83 108	accumulation of ofloxacin
+T6	Effect 4 23;64 72	renal insufficiency seizures
+T7	Subject 27 41	three patients
+T9	Population 27 32	three
+T10	Drug 99 108	ofloxacin
+T8	Adverse_event 73 82	implicate
+E1	Adverse_event:T8

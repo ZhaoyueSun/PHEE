@@ -1,0 +1,5 @@
+T3	Treatment 47 61	nitrofurantoin
+T4	Effect 70 81	lung injury
+T6	Drug 47 61	nitrofurantoin
+T5	Adverse_event 62 69	induced
+E1	Adverse_event:T5

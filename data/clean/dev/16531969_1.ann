@@ -1,0 +1,6 @@
+T5	Treatment 39 65	interferon-beta (IFN-beta)
+T7	Effect 13 25	liver injury
+T8	Drug 39 54	interferon-beta
+T6	Treat-Disorder 69 87	multiple sclerosis
+T4	Adverse_event 26 35	secondary
+E1	Adverse_event:T4

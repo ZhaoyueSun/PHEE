@@ -1,0 +1,6 @@
+T4	Effect 30 48	pleuropericarditis
+T5	Treatment 56 68	methotrexate
+T6	Subject 15 26	a rare case
+T7	Drug 56 68	methotrexate
+T3	Adverse_event 49 52	due
+E1	Adverse_event:T3

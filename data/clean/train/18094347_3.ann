@@ -1,0 +1,9 @@
+T3	Treatment 12 24	Methotrexate
+T5	Effect 33 49	papular eruption
+T6	Subject 117 179	patients with acute exacerbation of collagen vascular diseases
+T8	Sub-Disorder 131 179	acute exacerbation of collagen vascular diseases
+T9	Drug 12 24	Methotrexate
+T11	Time_elapsed 69 82	shortly after
+T4	Adverse_event 25 32	induced
+E1	Adverse_event:T4 
+A1	Negated E1

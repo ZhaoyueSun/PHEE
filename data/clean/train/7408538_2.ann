@@ -1,0 +1,5 @@
+T3	Effect 0 26	Unusual pigmentary changes
+T5	Treatment 43 57	5-fluorouracil
+T6	Drug 43 57	5-fluorouracil
+T4	Adverse_event 27 37	associated
+E1	Adverse_event:T4

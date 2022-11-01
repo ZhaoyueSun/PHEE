@@ -1,0 +1,5 @@
+T3	Treatment 33 45	procainamide
+T5	Effect 54 68	lupus syndrome
+T6	Drug 33 45	procainamide
+T4	Adverse_event 46 53	induced
+E1	Adverse_event:T4

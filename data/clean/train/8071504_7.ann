@@ -1,0 +1,8 @@
+T6	Treatment 9 19;44 53	Ethambutol isoniazid
+T8	Effect 97 126	visually related side effects
+T9	Drug 44 53	isoniazid
+T10	Drug 9 19	Ethambutol
+T7	Adverse_event 82 93	development
+T11	Combination 21 24	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T10 arg2:T9

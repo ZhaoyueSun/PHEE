@@ -1,0 +1,5 @@
+T3	Effect 0 18	Tardive dyskinesia
+T5	Treatment 30 39	sulpiride
+T6	Drug 30 39	sulpiride
+T4	Adverse_event 19 26	induced
+E1	Adverse_event:T4

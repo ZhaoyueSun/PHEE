@@ -1,0 +1,5 @@
+T3	Effect 0 34	Acute bilateral phrenic neuropathy
+T5	Treatment 60 70	adalimumab
+T6	Drug 60 70	adalimumab
+T4	Adverse_event 35 44	following
+E1	Adverse_event:T4

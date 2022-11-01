@@ -1,0 +1,7 @@
+T4	Effect 67 81	cholelithiasis
+T5	Subject 85 106	transplant recipients
+T6	Treatment 11 22	cyclosporin
+T7	Sub-Disorder 85 95	transplant
+T8	Drug 11 22	cyclosporin
+T3	Adverse_event 52 63	development
+E1	Adverse_event:T3 

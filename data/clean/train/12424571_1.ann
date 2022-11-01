@@ -1,0 +1,6 @@
+T3	Effect 0 33	Acute onset of nephrotic syndrome
+T4	Treatment 41 69	interferon-alpha retreatment
+T7	Drug 41 57	interferon-alpha
+T8	Treat-Disorder 74 100	chronic active hepatitis C
+T6	Adverse_event 34 40	during
+E1	Adverse_event:T6

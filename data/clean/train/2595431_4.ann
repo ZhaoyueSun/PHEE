@@ -1,0 +1,7 @@
+T3	Subject 17 26	six cases
+T4	Treatment 30 44	metoclopramide
+T6	Effect 53 65	parkinsonism
+T7	Population 17 20	six
+T8	Drug 30 44	metoclopramide
+T5	Adverse_event 45 52	induced
+E1	Adverse_event:T5

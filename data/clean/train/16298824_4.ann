@@ -1,0 +1,6 @@
+T7	Effect 0 44	Dyspnea, hypoxemia, and pleuritic chest pain
+T8	Treatment 73 97	rituximab administration
+T10	Time_elapsed 61 69	24 hours
+T11	Drug 73 82	rituximab
+T9	Adverse_event 45 53	occurred
+E1	Adverse_event:T9

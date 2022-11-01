@@ -1,0 +1,5 @@
+T3	Effect 0 27	Allergic contact angioedema
+T5	Treatment 31 47	benzoyl peroxide
+T6	Drug 31 47	benzoyl peroxide
+T4	Adverse_event 28 30	to
+E1	Adverse_event:T4

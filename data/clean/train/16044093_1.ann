@@ -1,0 +1,8 @@
+T3	Subject 81 88	a child
+T4	Effect 0 21	Hepatocellular damage
+T6	Treatment 44 77	intravenous iron sucrose infusion
+T7	Age 83 88	child
+T8	Drug 56 68	iron sucrose
+T9	Route 44 55;69 77	intravenous infusion
+T5	Adverse_event 22 31	following
+E1	Adverse_event:T5

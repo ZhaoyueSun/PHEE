@@ -1,0 +1,7 @@
+T3	Subject 56 85	a patient with breast cancer.
+T5	Treatment 0 11	Anastrozole
+T6	Effect 23 52	sclerosing glomerulonephritis
+T8	Drug 0 11	Anastrozole
+T9	Treat-Disorder 71 84	breast cancer
+T4	Adverse_event 12 22	associated
+E1	Adverse_event:T4

@@ -1,0 +1,11 @@
+T9	Subject 18 57	a man with classic rheumatoid arthritis
+T10	Effect 66 123	membranous nephropathy associated with nephrotic syndrome
+T12	Treatment 139 168	gold or penicillamine therapy
+T13	Gender 20 23	man
+T15	Drug 139 143	gold
+T16	Drug 147 160	penicillamine
+T17	Treat-Disorder 29 57	classic rheumatoid arthritis
+T18	Negation_cue 124 127	not
+T11	Adverse_event 124 135	not related
+E1	Adverse_event:T11 
+A1	Negated E1

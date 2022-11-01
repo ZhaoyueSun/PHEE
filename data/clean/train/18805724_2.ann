@@ -1,0 +1,7 @@
+T3	Treatment 0 11	Leflunomide
+T5	Effect 20 46	toxic epidermal necrolysis
+T6	Subject 50 85	a patient with rheumatoid arthritis
+T7	Treat-Disorder 65 85	rheumatoid arthritis
+T9	Drug 0 11	Leflunomide
+T4	Adverse_event 12 19	induced
+E1	Adverse_event:T4 

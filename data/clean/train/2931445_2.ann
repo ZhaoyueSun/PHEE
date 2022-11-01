@@ -1,0 +1,7 @@
+T9	Effect 167 177	leukopenia
+T10	Subject 118 152	a patient with Hashimoto's disease
+T11	Treatment 200 204	L-T4
+T12	Treat-Disorder 133 152	Hashimoto's disease
+T13	Drug 200 204	L-T4
+T8	Adverse_event 157 166	developed
+E1	Adverse_event:T8 

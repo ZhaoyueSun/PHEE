@@ -1,0 +1,12 @@
+T6	Effect 214 252	thrombosis of the central retinal vein
+T8	Subject 16 25	a patient
+T10	Drug 162 173	cyclosporin
+T11	Drug 175 185	prednisone
+T12	Drug 190 202	azathioprine
+T5	Adverse_event 204 213	developed
+E1	Adverse_event:T5 
+T1	Treatment 119 202;34 105	on immunosuppressive therapy consisting of cyclosporin, prednisone and azathioprine undergone a renal transplantation as a result of malignant hypertension
+T2	Time_elapsed 253 260	5 years
+T3	Combination 186 189	and
+E2	Combination:T3 arg:T10 arg2:T11 arg3:T12
+T4	Sub-Disorder 83 105	malignant hypertension

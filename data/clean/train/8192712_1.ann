@@ -1,0 +1,9 @@
+T3	Treatment 124 145	valproic acid therapy
+T4	Subject 105 120	all ED patients
+T5	Effect 163 184	altered mental status
+T7	Treat-Disorder 109 111	ED
+T8	Drug 124 137	valproic acid
+T9	Speculation_cue 79 91	appear to be
+T6	Adverse_event 150 157	present
+E1	Adverse_event:T6 
+A1	Speculated E1

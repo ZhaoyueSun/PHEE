@@ -1,0 +1,9 @@
+T6	Treatment 0 56	Sodium thiosulfate is a neutralizing agent for cisplatin
+T8	Effect 62 91	protects against renal damage
+T10	Drug 47 56	cisplatin
+T11	Drug 0 18	Sodium thiosulfate
+T9	Treat-Disorder 79 91	renal damage
+T7	Potential_therapeutic_event 62 70	protects
+T12	Combination 24 42	neutralizing agent
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T12 arg:T11 arg2:T10

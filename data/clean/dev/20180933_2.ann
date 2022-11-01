@@ -1,0 +1,5 @@
+T5	Treatment 0 28	Artemether-lumefantrine (AL)
+T7	Treat-Disorder 57 78	uncomplicated malaria
+T8	Drug 0 23	Artemether-lumefantrine
+T6	Potential_therapeutic_event 32 52	first-line treatment
+E1	Potential_therapeutic_event:T6

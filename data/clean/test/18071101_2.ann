@@ -1,0 +1,5 @@
+T6	Treatment 0 10	Quetiapine
+T7	Effect 19 51	leucopenia and thrombocytopenia.
+T8	Drug 0 10	Quetiapine
+T5	Adverse_event 11 18	induced
+E1	Adverse_event:T5

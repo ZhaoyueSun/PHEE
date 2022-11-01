@@ -1,0 +1,6 @@
+T3	Effect 49 61	angio-oedema
+T5	Treatment 78 81	VRC
+T6	Speculation_cue 0 16	To our knowledge
+T7	Drug 78 81	VRC
+T4	Adverse_event 62 72	associated
+E1	Adverse_event:T4

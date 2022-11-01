@@ -1,0 +1,10 @@
+T9	Subject 67 84	a 76-year-old man
+T10	Effect 101 192	symptoms of visual "shining," glare, color vision anomalies, and gradually decreased vision
+T12	Treatment 38 52	amiodarone HCl
+T13	Age 69 80	76-year-old
+T14	Gender 81 84	man
+T15	Drug 38 52	amiodarone HCl
+T16	Dosage 53 60	(200 mg
+T17	Freq 61 64	day
+T11	Adverse_event 18 34	after initiation
+E1	Adverse_event:T11

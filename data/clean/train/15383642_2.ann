@@ -1,0 +1,8 @@
+T8	Effect 38 49	hypotension
+T10	Treatment 65 89;136 146	initiation of tizanidine lisinopril
+T11	Subject 93 102	a patient
+T12	Drug 136 146	lisinopril
+T13	Drug 79 89	tizanidine
+T14	Subject 10 16	a case
+T7	Adverse_event 59 64	after
+E1	Adverse_event:T7

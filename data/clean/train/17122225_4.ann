@@ -1,0 +1,21 @@
+T11	Effect 30 48	serotonin syndrome
+T10	Subject 101 123	postoperative patients
+T14	Sub-Disorder 101 114	postoperative
+T15	Drug 82 97	cyclobenzaprine
+T17	Drug 174 184	phenelzine
+T18	Drug 201 211	duloxetine
+T19	Severity_cue 23 29	severe
+T16	Treatment 82 97;174 184	cyclobenzaprine phenelzine
+T13	Treatment 82 97;201 211	cyclobenzaprine duloxetine
+T12	Adverse_event 49 56	induced
+T20	Combination 64 78	administration
+E1	Adverse_event:T12 arg:T11 arg2:T13 arg3:T10
+E2	Adverse_event:T12 arg:T11 arg2:T16 arg3:T10
+E3	Combination:T20 arg:T15 arg2:T18
+E4	Combination:T20 arg:T15 arg2:T17
+R1	has_cue Arg1:E2 Arg2:T19	
+R2	has_cue Arg1:E1 Arg2:T19	
+R3	has_child Arg1:E1 Arg2:E3	
+R4	has_child Arg1:E2 Arg2:E4	
+A1	Severity E1 High
+A2	Severity E2 High

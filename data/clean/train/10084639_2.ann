@@ -1,0 +1,13 @@
+T3	Treatment 37 47	olanzapine
+T4	Effect 123 181	without the risk of recurrence of hematologic side effects
+T5	Subject 74 122	patients with clozapine-induced granulocytopenia
+T8	Drug 37 47	olanzapine
+T10	Treat-Disorder 88 122	clozapine-induced granulocytopenia
+T13	Treatment 88 97	clozapine
+T14	Effect 106 122	granulocytopenia
+T15	Drug 88 97	clozapine
+T6	Potential_therapeutic_event 65 73	treating
+T12	Adverse_event 98 105	induced
+E1	Potential_therapeutic_event:T6 arg:T3 arg3:T4 arg2:T5
+E2	Adverse_event:T12 arg:T13 arg2:T14
+A1	Speculated E1

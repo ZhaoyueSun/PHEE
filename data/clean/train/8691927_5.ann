@@ -1,0 +1,11 @@
+T3	Subject 44 75	six severely asthmatic children
+T4	Effect 9 27	Growth retardation
+T6	Treatment 82 153	introduction of high-dose fluticasone propionate treatment (dry powder)
+T7	Population 44 47	six
+T8	Treat-Disorder 48 66	severely asthmatic
+T9	Age 67 75	children
+T10	Dosage 98 107	high-dose
+T11	Drug 108 130	fluticasone propionate
+T5	Adverse_event 76 81	after
+E1	Adverse_event:T5 
+T1	Route 142 152	dry powder

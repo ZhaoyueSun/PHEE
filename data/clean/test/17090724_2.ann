@@ -1,0 +1,9 @@
+T3	Subject 44 112	a woman with cryptococcal meningitis and no previous cardiac disease
+T5	Effect 127 153	a fatal cardiac arrhythmia
+T6	Treatment 160 195	an acute overdose of amphotericin B
+T7	Gender 46 51	woman
+T8	Treat-Disorder 57 80	cryptococcal meningitis
+T9	Drug 181 195	amphotericin B
+T10	Dosage 169 177	overdose
+T4	Adverse_event 117 126	developed
+E1	Adverse_event:T4 

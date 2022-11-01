@@ -1,0 +1,9 @@
+T6	Treatment 124 133	enalapril
+T7	Subject 62 110	a patient with minimal change nephrotic syndrome
+T10	Severity_cue 25 31	severe
+T5	Effect 0 58	Acute renal failure with severe tubulointerstitial changes
+T13	Drug 124 133	enalapril
+T14	Treat-Disorder 77 110	minimal change nephrotic syndrome
+T11	Adverse_event 59 61	in
+E1	Adverse_event:T11 
+A1	Severity E1 High

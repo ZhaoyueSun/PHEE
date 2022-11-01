@@ -1,0 +1,8 @@
+T3	Effect 100 123	anaphylactoid reactions
+T5	Treatment 30 77;133 176	a high dose combined with a short infusion time administration of intraperitoneal cisplatin
+T7	Speculation_cue 92 96	risk
+T8	Dosage 32 41	high dose
+T10	Drug 167 176	cisplatin
+T9	Route 151 166	intraperitoneal
+T4	Adverse_event 124 128	with
+E1	Adverse_event:T4

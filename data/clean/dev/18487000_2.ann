@@ -1,0 +1,5 @@
+T5	Treatment 26 37	sibutramine
+T6	Effect 43 71	hypertension and tachycardia
+T8	Dosage 26 37	sibutramine
+T7	Adverse_event 23 25	of
+E1	Adverse_event:T7

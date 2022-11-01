@@ -1,0 +1,10 @@
+T9	Treatment 21 33;39 47;49 58;64 76	gatifloxacin rifampin isoniazid pyrazinamide
+T13	Drug 21 33	gatifloxacin
+T14	Drug 39 47	rifampin
+T15	Drug 49 58	isoniazid
+T16	Drug 64 76	pyrazinamide
+T18	Treat-Disorder 117 129	tuberculosis
+T10	Potential_therapeutic_event 104 113	treatment
+T17	Combination 60 63	and
+E1	Potential_therapeutic_event:T10 
+E2	Combination:T17 arg:T15 arg2:T16

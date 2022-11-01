@@ -1,0 +1,5 @@
+T4	Effect 0 28	Acute interstitial nephritis
+T5	Treatment 36 48	pantoprazole
+T6	Drug 36 48	pantoprazole
+T3	Adverse_event 29 32	due
+E1	Adverse_event:T3

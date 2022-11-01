@@ -1,0 +1,6 @@
+T4	Treatment 0 12	Procainamide
+T5	Treat-Disorder 67 97	Wolff-Parkinson-White syndrome
+T6	Effect 21 59	incessant supraventricular tachycardia
+T7	Drug 0 12	Procainamide
+T3	Adverse_event 13 20	induced
+E1	Adverse_event:T3

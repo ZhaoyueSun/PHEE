@@ -1,0 +1,5 @@
+T7	Treatment 0 55	Bevacizumab is a recently developed monoclonal antibody
+T8	Treat-Disorder 124 136	angiogenesis
+T9	Drug 0 11	Bevacizumab
+T5	Potential_therapeutic_event 116 123	inhibit
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,9 @@
+T4	Effect 0 15	Toxic hepatitis
+T6	Treatment 48 75	methotrexate and etretinate
+T8	Drug 48 60	methotrexate
+T9	Drug 65 75	etretinate
+T11	Treat-Disorder 79 88	psoriasis
+T5	Adverse_event 16 19	due
+T10	Combination 23 34	combination
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T8 arg2:T9

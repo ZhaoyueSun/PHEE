@@ -1,0 +1,8 @@
+T3	Subject 96 115	women with epilepsy
+T4	Effect 60 92	reproductive endocrine disorders
+T5	Treatment 42 51	valproate
+T7	Gender 96 101	women
+T9	Drug 42 51	valproate
+T10	Treat-Disorder 107 115	epilepsy
+T6	Adverse_event 52 59	related
+E1	Adverse_event:T6

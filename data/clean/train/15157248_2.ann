@@ -1,0 +1,12 @@
+T3	Subject 23 32	a patient
+T4	Effect 37 79	developed a DAT-positive hemolytic episode
+T5	Treatment 86 181	a red cell (RBC) transfusion was delivered during the infusion of her 17th cycle of oxaliplatin
+T7	Drug 170 181	oxaliplatin
+T9	Route 140 148	infusion
+T10	Route 103 114	transfusion
+T11	Drug 86 96	a red cell
+T12	Duration 156 166	17th cycle
+T6	Adverse_event 80 85	after
+T8	Combination 129 135	during
+E1	Adverse_event:T6 
+E2	Combination:T8 arg:T7 arg2:T11

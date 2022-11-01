@@ -1,0 +1,8 @@
+T5	Effect 118 131	ACE fetopathy
+T7	Treatment 12 58	angiotensin converting enzyme (ACE) inhibitors
+T8	Sub-Disorder 85 94	pregnancy
+T9	Speculation_cue 104 107	can
+T11	Drug 12 58	angiotensin converting enzyme (ACE) inhibitors
+T12	Subject 85 94	pregnancy
+T6	Adverse_event 108 114	induce
+E1	Adverse_event:T6 

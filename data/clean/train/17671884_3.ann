@@ -1,0 +1,10 @@
+T10	Effect 120 141	red blood cell anemia
+T11	Treat-Disorder 78 96	pemphigus vulgaris
+T12	Speculation_cue 3 11	apparent
+T14	Drug 49 52	MMF
+T15	Drug 58 68	prednisone
+T8	Treatment 49 96	MMF with prednisone to treat pemphigus vulgaris
+T9	Adverse_event 105 116	development
+T16	Combination 53 57	with
+E1	Adverse_event:T9 
+E2	Combination:T16 arg:T14 arg2:T15

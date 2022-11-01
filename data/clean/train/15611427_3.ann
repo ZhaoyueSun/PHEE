@@ -1,0 +1,5 @@
+T3	Treatment 6 15	imiquimod
+T5	Effect 24 69	large amounts of type I interferon production
+T6	Drug 6 15	imiquimod
+T4	Adverse_event 16 23	induces
+E1	Adverse_event:T4

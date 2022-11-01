@@ -1,0 +1,5 @@
+T3	Treatment 15 26	trastuzumab
+T5	Effect 35 46	pneumonitis
+T6	Drug 15 26	trastuzumab
+T4	Adverse_event 27 34	induced
+E1	Adverse_event:T4

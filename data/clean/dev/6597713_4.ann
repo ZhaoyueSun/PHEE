@@ -1,0 +1,9 @@
+T3	Subject 101 174	a 70 year old female with a two year history of primary biliary cirrhosis
+T4	Treatment 41 55	cholestyramine
+T6	Effect 64 97	hyperchloremic metabolic acidosis
+T7	Age 103 114	70 year old
+T8	Gender 115 121	female
+T10	Drug 41 55	cholestyramine
+T11	Treat-Disorder 149 174	primary biliary cirrhosis
+T5	Adverse_event 56 63	induced
+E1	Adverse_event:T5

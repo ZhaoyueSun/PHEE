@@ -1,0 +1,5 @@
+T4	Treatment 0 8	Rifampin
+T6	Effect 20 65	thrombocytopenia secondary to poor compliance
+T7	Drug 0 8	Rifampin
+T5	Adverse_event 9 19	associated
+E1	Adverse_event:T5

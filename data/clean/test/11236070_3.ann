@@ -1,0 +1,7 @@
+T3	Subject 10 33	three cases of patients
+T5	Effect 48 58	leukopenia
+T6	Treatment 66 86	olanzapine treatment
+T7	Population 10 15	three
+T8	Drug 66 76	olanzapine
+T4	Adverse_event 38 47	developed
+E1	Adverse_event:T4

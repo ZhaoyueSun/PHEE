@@ -1,0 +1,11 @@
+T3	Subject 46 95	a patient with acute promyleocytic leukemia (APL)
+T6	Treatment 96 171	within 10 days of treatment with ATRA at a dose of 40 mg orally twice daily
+T4	Effect 29 42	scrotal ulcer
+T8	Time_elapsed 96 110	within 10 days
+T9	Drug 129 133	ATRA
+T10	Dosage 147 152	40 mg
+T11	Route 153 159	orally
+T12	Freq 160 171	twice daily
+T13	Treat-Disorder 61 95	acute promyleocytic leukemia (APL)
+T5	Adverse_event 14 25	development
+E1	Adverse_event:T5

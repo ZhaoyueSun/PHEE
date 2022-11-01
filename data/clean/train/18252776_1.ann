@@ -1,0 +1,4 @@
+T5	Effect 0 34	Upper gastrointestinal haemorrhage
+T6	Treatment 64 94	aspirin and clopidogrel (dual)
+T4	Adverse_event 48 60	complication
+E1	Adverse_event:T4

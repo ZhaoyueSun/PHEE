@@ -1,0 +1,7 @@
+T3	Subject 29 43	the first case
+T4	Effect 47 65	acute pancreatitis
+T7	Treat-Disorder 103 116	endometriosis
+T8	Drug 82 89	danazol
+T6	Treatment 82 116	danazol treatment of endometriosis
+T5	Adverse_event 66 76	associated
+E1	Adverse_event:T5

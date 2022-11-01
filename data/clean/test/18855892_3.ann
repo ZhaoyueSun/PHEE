@@ -1,0 +1,14 @@
+T6	Subject 0 49	In patients with methotrexate-induced anaphylaxis
+T8	Treatment 70 79	treatment
+T9	Effect 105 136	death due to cancer progression
+T12	Drug 17 29	methotrexate
+T13	Treat-Disorder 17 49	methotrexate-induced anaphylaxis
+T14	Speculation_cue 80 83	may
+T16	Treatment 17 29	methotrexate
+T17	Effect 38 49	anaphylaxis
+T7	Adverse_event 51 66	discontinuation
+T15	Adverse_event 30 37	induced
+E1	Adverse_event:T7 arg:T8 arg2:T6 arg3:T9
+E2	Adverse_event:T15 arg:T16 arg2:T17
+R1	has Arg1:T8 Arg2:T13	
+R2	has_cue Arg1:E1 Arg2:T14

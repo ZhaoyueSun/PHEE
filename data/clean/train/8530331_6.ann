@@ -1,0 +1,14 @@
+T8	Subject 0 49	Two of the five patients who worsened motorically
+T10	Effect 65 79	encephalopathy
+T11	Treatment 87 108	risperidone treatment
+T12	Population 0 15	Two of the five
+T13	Sub-Disorder 29 49	worsened motorically
+T14	Drug 87 98	risperidone
+T9	Adverse_event 55 64	developed
+E1	Adverse_event:T9 arg:T8 arg2:T10 arg3:T11
+T1	Potential_therapeutic_event 129 137	resolved
+E2	Potential_therapeutic_event:T1 arg:T3 arg2:T8
+T2	Treat-Disorder 114 128	encephalopathy
+T3	Treatment 161 192	switched to clozapine treatment
+T4	Drug 173 182	clozapine
+R1	has Arg1:T3 Arg2:T2	

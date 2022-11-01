@@ -1,0 +1,12 @@
+T10	Subject 10 29	a 43-year-old woman
+T12	Effect 44 107	sore throat, swelling of the lips and oral cavity and dysphagia
+T13	Treatment 109 160	2 weeks after the use of budesonide spray (Budefat)
+T15	Age 12 23	43-year-old
+T16	Gender 24 29	woman
+T17	Time_elapsed 109 122	2 weeks after
+T18	Drug 134 144	budesonide
+T19	Drug 152 159	Budefat
+T20	Treat-Disorder 178 195	bronchial asthma.
+T21	Route 145 150	spray
+T11	Adverse_event 34 43	developed
+E1	Adverse_event:T11

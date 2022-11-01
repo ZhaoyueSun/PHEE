@@ -1,0 +1,5 @@
+T4	Effect 37 55;76 202	hypoglycaemic coma an adverse reaction that is likely to be underreported and expected to occur with greater frequency as the use of SP increases
+T5	Treatment 72 74	SP
+T7	Drug 72 74	SP
+T6	Adverse_event 56 66	associated
+E1	Adverse_event:T6

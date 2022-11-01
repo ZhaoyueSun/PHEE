@@ -1,0 +1,9 @@
+T5	Treatment 107 167	discontinuation of ciprofloxacin and tazobactam/piperacillin
+T6	Effect 6 100	the thrombocyte count started to increase immediately after initiation and dropped immediately
+T8	Drug 126 139	ciprofloxacin
+T9	Drug 144 167	tazobactam/piperacillin
+T10	Dosage 107 122	discontinuation
+T7	Adverse_event 0 5	Since
+T11	Combination 140 143	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T8

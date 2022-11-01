@@ -1,0 +1,9 @@
+T5	Subject 13 33	a 56-year-old female
+T6	Effect 48 164	drug refractory paroxysmal atrial fibrillation, in which marked prolongation of the QT interval and T wave inversion
+T7	Treatment 257 265	pirmenol
+T9	Age 15 26	56-year-old
+T10	Gender 27 33	female
+T11	Drug 257 265	pirmenol
+T12	Route 252 256	oral
+T8	Adverse_event 224 229	after
+E1	Adverse_event:T8

@@ -1,0 +1,7 @@
+T3	Treatment 163 172	lidocaine
+T4	Subject 141 149	neonates
+T6	Effect 23 34	side effect
+T7	Age 141 149	neonates
+T8	Drug 163 172	lidocaine
+T5	Adverse_event 150 157	treated
+E1	Adverse_event:T5

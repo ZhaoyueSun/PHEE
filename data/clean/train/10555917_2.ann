@@ -1,0 +1,7 @@
+T4	Treatment 0 58	Cessation of D-Pen and the start of corticosteroid therapy
+T6	Effect 76 101	recovery from bicytopenia
+T3	Drug 13 18	D-Pen
+T7	Drug 36 50	corticosteroid
+T5	Potential_therapeutic_event 64 72	followed
+E1	Potential_therapeutic_event:T5 
+T1	Treat-Disorder 90 101	bicytopenia

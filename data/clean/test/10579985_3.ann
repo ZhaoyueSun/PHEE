@@ -1,0 +1,11 @@
+T3	Subject 14 39	a 29-year-old man with CD
+T4	Effect 48 85	nodular sclerosing Hodgkin's lymphoma
+T6	Treatment 100 138	3 weeks after infusion with infliximab
+T7	Age 16 27	29-year-old
+T8	Gender 28 31	man
+T9	Treat-Disorder 37 39	CD
+T10	Time_elapsed 100 107	3 weeks
+T11	Route 114 122	infusion
+T12	Drug 128 138	infliximab
+T5	Adverse_event 90 99	diagnosed
+E1	Adverse_event:T5 

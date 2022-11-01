@@ -1,0 +1,7 @@
+T4	Treatment 0 22	Cis-retinoic acid (RA)
+T6	Effect 67 71	BMTN
+T7	Drug 0 17	Cis-retinoic acid
+T8	Speculation_cue 23 26	may
+T5	Adverse_event 56 66	developing
+E1	Adverse_event:T5 
+A1	Speculated E1

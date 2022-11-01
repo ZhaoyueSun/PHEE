@@ -1,0 +1,6 @@
+T3	Subject 145 146	i
+T4	Treatment 102 111	clozapine
+T5	Effect 0 9	Akathisia
+T7	Drug 102 111	clozapine
+T6	Adverse_event 43 47	with
+E1	Adverse_event:T6

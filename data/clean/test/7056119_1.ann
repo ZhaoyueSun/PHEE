@@ -1,0 +1,5 @@
+T10	Treatment 65 75	amiodarone
+T11	Effect 0 53	Atypical ventricular tachycardia (torsade de pointes)
+T12	Drug 65 75	amiodarone
+T9	Adverse_event 54 61	induced
+E1	Adverse_event:T9

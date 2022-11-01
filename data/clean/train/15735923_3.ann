@@ -1,0 +1,10 @@
+T9	Subject 10 29	a 44-year-old woman
+T12	Treat-Disorder 103 135	recurrent anaplastic astrocytoma
+T13	Age 12 23	44-year-old
+T14	Gender 24 29	woman
+T15	Effect 35 79	t-MDS (refractory anemia with excess blasts)
+T16	Drug 141 153	temozolomide
+T11	Treatment 90 159	treatment of recurrent anaplastic astrocytoma with temozolomide (TMZ)
+T10	Adverse_event 80 89	following
+E1	Adverse_event:T10 
+T1	Population 10 11	a

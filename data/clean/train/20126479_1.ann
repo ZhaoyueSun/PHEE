@@ -1,0 +1,5 @@
+T5	Effect 86 103	visual field loss
+T6	Treatment 109 127	hydroxychloroquine
+T8	Drug 109 127	hydroxychloroquine
+T7	Adverse_event 104 108	from
+E1	Adverse_event:T7

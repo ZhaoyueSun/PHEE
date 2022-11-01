@@ -1,0 +1,6 @@
+T13	Treatment 131 151	started on clozapine
+T15	Effect 46 118	polyserositis (pericardial effusion, pleural effusion, and pericarditis)
+T16	Subject 22 31	a patient
+T17	Drug 142 151	clozapine
+T14	Adverse_event 119 124	after
+E1	Adverse_event:T14

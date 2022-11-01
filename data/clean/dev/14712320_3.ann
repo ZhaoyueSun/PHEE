@@ -1,0 +1,5 @@
+T5	Treatment 0 63	Hydroxymethylglutaryl coenzyme A reductase inhibitors (statins)
+T7	Effect 90 117	myopathy and rhabdomyolysis
+T8	Drug 0 53	Hydroxymethylglutaryl coenzyme A reductase inhibitors
+T6	Adverse_event 74 84	associated
+E1	Adverse_event:T6

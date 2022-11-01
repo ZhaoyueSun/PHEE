@@ -1,0 +1,5 @@
+T3	Effect 0 28	Radiation recall pneumonitis
+T5	Treatment 40 51	gemcitabine
+T6	Drug 40 51	gemcitabine
+T4	Adverse_event 29 36	induced
+E1	Adverse_event:T4

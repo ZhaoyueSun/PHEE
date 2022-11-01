@@ -1,0 +1,8 @@
+T3	Treatment 0 12	Azathioprine
+T5	Effect 21 37	myelosuppression
+T6	Subject 88 123	a patient with autoimmune hepatitis
+T7	Treat-Disorder 45 84	thiopurine methyltransferase deficiency
+T8	Treat-Disorder 103 123	autoimmune hepatitis
+T9	Drug 0 12	Azathioprine
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4

@@ -1,0 +1,11 @@
+T5	Subject 107 151	in five patients with thalassemia intermedia
+T6	Treatment 165 200	HU alone or in combination with SPB
+T7	Effect 52 105	increases in total Hb and decreased transfusion needs
+T8	Population 110 114	five
+T10	Drug 165 167	HU
+T11	Drug 197 200	SPB
+T13	Treat-Disorder 129 151	thalassemia intermedia
+T4	Potential_therapeutic_event 152 159	treated
+T12	Combination 180 191	combination
+E1	Potential_therapeutic_event:T4 
+E2	Combination:T12 arg:T10 arg2:T11

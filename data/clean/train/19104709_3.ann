@@ -1,0 +1,8 @@
+T3	Subject 22 39	a 51-year-old man
+T4	Treatment 48 67;114 142	IFN-alpha treatment 10 years after thyroidectomy
+T5	Effect 84 113	recurrence of Graves' disease
+T7	Age 24 35	51-year-old
+T8	Gender 36 39	man
+T9	Drug 48 57	IFN-alpha
+T6	Adverse_event 72 80	followed
+E1	Adverse_event:T6

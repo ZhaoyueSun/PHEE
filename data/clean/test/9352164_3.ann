@@ -1,0 +1,7 @@
+T3	Subject 0 3	She
+T5	Treatment 33 35	AZ
+T6	Effect 33 48	AZ intoxication
+T7	Gender 0 3	She
+T8	Drug 33 35	AZ
+T4	Adverse_event 26 32	having
+E1	Adverse_event:T4

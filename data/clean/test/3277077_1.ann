@@ -1,0 +1,7 @@
+T4	Treatment 53 93	the erroneous intake of 1 g doxycycline.
+T5	Subject 26 38	this patient
+T6	Effect 0 22	Renal hypophosphatemia
+T7	Drug 81 92	doxycycline
+T8	Dosage 77 80	1 g
+T3	Adverse_event 43 49	caused
+E1	Adverse_event:T3

@@ -1,0 +1,7 @@
+T3	Effect 216 234	toxic liver damage
+T5	Treatment 245 259	nitrofurantoin
+T6	Drug 245 259	nitrofurantoin
+T7	Speculation_cue 195 203	probably
+T4	Adverse_event 235 241	caused
+E1	Adverse_event:T4 
+A1	Speculated E1

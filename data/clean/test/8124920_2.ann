@@ -1,0 +1,10 @@
+T5	Subject 5 48	patient suffering from rheumatoid arthritis
+T7	Effect 143 188	acute megaloblastic anaemia and a pneumonitis
+T8	Treatment 117 138	low-dose methotrexate
+T10	Drug 126 138	methotrexate
+T11	Dosage 117 125	low-dose
+T12	Severity_cue 143 148	acute
+T13	Treat-Disorder 28 48	rheumatoid arthritis
+T9	Adverse_event 140 142	an
+E1	Adverse_event:T9 
+A1	Severity E1 High

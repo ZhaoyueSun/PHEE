@@ -1,0 +1,5 @@
+T4	Treatment 45 55	ethambutol
+T5	Effect 59 75	optic neuropathy
+T7	Drug 45 55	ethambutol
+T6	Adverse_event 35 41	effect
+E1	Adverse_event:T6

@@ -1,0 +1,10 @@
+T4	Treatment 79 144	riluzole at the recommended dose (100 mg daily) for 7 and 4 weeks
+T3	Subject 23 35	two patients
+T6	Effect 50 65	acute hepatitis
+T7	Drug 79 87	riluzole
+T9	Duration 131 144	7 and 4 weeks
+T8	Dosage 113 119	100 mg
+T10	Freq 120 125	daily
+T11	Population 23 26	two
+T5	Adverse_event 72 78	taking
+E1	Adverse_event:T5

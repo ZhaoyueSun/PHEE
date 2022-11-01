@@ -1,0 +1,6 @@
+T5	Effect 83 88	lupus
+T4	Treatment 64 74	infliximab
+T6	Duration 54 63	prolonged
+T7	Drug 64 74	infliximab
+T3	Adverse_event 75 82	induced
+E1	Adverse_event:T3

@@ -1,0 +1,5 @@
+T7	Treatment 37 50	sulfasalazine
+T9	Effect 59 168	lupus, which manifested with serositis and pulmonary parenchymal involvement in the absence of joint symptoms
+T10	Drug 37 50	sulfasalazine
+T8	Adverse_event 51 58	induced
+E1	Adverse_event:T8

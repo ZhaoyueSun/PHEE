@@ -1,0 +1,13 @@
+T16	Subject 0 42	A 7-year-old with congenital toxoplasmosis
+T19	Treat-Disorder 87 114	reactivated chorioretinitis
+T21	Effect 125 204	fever, severe cutaneous involvement, swelling, abdominal pain and transaminitis
+T22	Age 2 12	7-year-old
+T23	Severity_cue 132 138	severe
+T24	Drug 52 65	pyrimethamine
+T25	Drug 70 82	sulfadiazine
+T27	Treat-Disorder 18 42	congenital toxoplasmosis
+T18	Treatment 52 114	pyrimethamine and sulfadiazine for reactivated chorioretinitis
+T20	Adverse_event 115 124	developed
+T26	Combination 66 69	and
+E1	Adverse_event:T20 
+E2	Combination:T26 arg:T24 arg2:T25

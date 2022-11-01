@@ -1,0 +1,8 @@
+T11	Effect 32 41	hair loss
+T10	Drug 58 83	tricyclic antidepressants
+T12	Drug 88 127	serotonin selective reuptake inhibitors
+T9	Treatment 58 127	tricyclic antidepressants and serotonin selective reuptake inhibitors
+T8	Adverse_event 42 52	associated
+T13	Combination 84 87	and
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T10 arg2:T12

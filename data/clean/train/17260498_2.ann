@@ -1,0 +1,7 @@
+T5	Treatment 0 7	Taxanes
+T7	Effect 77 93	pulmonary injury
+T8	Drug 0 7	Taxanes
+T9	Speculation_cue 57 66	potential
+T6	Adverse_event 70 76	induce
+E1	Adverse_event:T6 
+A1	Speculated E1

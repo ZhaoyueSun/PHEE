@@ -1,0 +1,5 @@
+T3	Effect 0 16	Lipoid pneumonia
+T4	Treatment 43 65	mineral oil aspiration
+T6	Drug 43 54	mineral oil
+T5	Adverse_event 40 42	of
+E1	Adverse_event:T5

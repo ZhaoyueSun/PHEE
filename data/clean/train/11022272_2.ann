@@ -1,0 +1,6 @@
+T3	Subject 31 37	a case
+T4	Effect 41 52	anaphylaxis
+T5	Treatment 56 66	calcitonin
+T7	Drug 56 66	calcitonin
+T6	Adverse_event 53 55	by
+E1	Adverse_event:T6

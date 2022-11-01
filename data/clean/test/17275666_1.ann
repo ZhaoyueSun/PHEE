@@ -1,0 +1,8 @@
+T6	Treatment 41 54	valproic acid
+T7	Age 0 8	Juvenile
+T8	Drug 41 54	valproic acid
+T9	Effect 0 37	Juvenile absence epilepsy exacerbated
+T10	Subject 0 25	Juvenile absence epilepsy
+T5	Treat-Disorder 9 25	absence epilepsy
+T4	Adverse_event 26 37	exacerbated
+E1	Adverse_event:T4 

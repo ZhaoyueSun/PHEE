@@ -1,0 +1,5 @@
+T3	Treatment 109 118	triazolam
+T5	Effect 127 142	eating disorder
+T6	Drug 109 118	triazolam
+T4	Adverse_event 119 126	induced
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T5	Effect 30 58	testicular swelling and pain
+T6	Treatment 79 90	desipramine
+T8	Drug 79 90	desipramine
+T7	Adverse_event 63 75	side effects
+E1	Adverse_event:T7

@@ -1,0 +1,8 @@
+T7	Subject 168 212	25 additional patients with Wilson's disease
+T9	Effect 253 271	neurologic disease
+T10	Treatment 301 314	penicillamine
+T5	Population 168 170	25
+T11	Drug 301 314	penicillamine
+T12	Treat-Disorder 196 212	Wilson's disease
+T8	Adverse_event 237 247	presenting
+E1	Adverse_event:T8

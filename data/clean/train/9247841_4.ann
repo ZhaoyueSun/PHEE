@@ -1,0 +1,7 @@
+T6	Subject 10 20	3 patients
+T8	Effect 35 55	cutaneous vasculitis
+T9	Treatment 96 127	during antithyroid drug therapy
+T10	Population 10 11	3
+T11	Drug 103 114	antithyroid
+T7	Adverse_event 25 34	developed
+E1	Adverse_event:T7

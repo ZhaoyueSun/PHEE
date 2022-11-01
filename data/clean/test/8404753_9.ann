@@ -1,0 +1,7 @@
+T6	Treatment 29 32	CBZ
+T8	Effect 44 61	simple motor tics
+T9	Subject 65 73	children
+T10	Age 65 73	children
+T11	Drug 29 32	CBZ
+T7	Adverse_event 37 43	induce
+E1	Adverse_event:T7

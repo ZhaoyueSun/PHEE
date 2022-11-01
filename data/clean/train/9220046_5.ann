@@ -1,0 +1,11 @@
+T5	Treatment 59 73;78 90;0 10	clarithromycin azithromycin Lovastatin
+T7	Effect 19 33	rhabdomyolysis
+T8	Drug 59 73	clarithromycin
+T9	Drug 78 90	azithromycin
+T11	Drug 0 10	Lovastatin
+T12	Speculation_cue 34 42	possibly
+T6	Adverse_event 11 18	induced
+T10	Combination 74 77	and
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T8 arg2:T9
+A1	Speculated E1

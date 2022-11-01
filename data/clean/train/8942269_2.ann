@@ -1,0 +1,7 @@
+T5	Effect 4 19	impaired memory
+T6	Subject 56 58	he
+T4	Treatment 47 55	atenolol
+T7	Gender 56 58	he
+T8	Drug 47 55	atenolol
+T3	Adverse_event 36 39	due
+E1	Adverse_event:T3

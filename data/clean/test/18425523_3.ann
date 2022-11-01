@@ -1,0 +1,10 @@
+T3	Effect 0 19	Ocular hypertension
+T5	Treatment 29 75	1 month after the second ranibizumab injection
+T6	Drug 54 65	ranibizumab
+T7	Time_elapsed 29 53	1 month after the second
+T8	Route 66 75	injection
+T9	Time_elapsed 101 124	1 month after the first
+T10	Drug 125 136	ranibizumab
+T11	Subject 79 95;137 149	patients 1 and 3 in patient 2
+T4	Adverse_event 20 28	occurred
+E1	Adverse_event:T4

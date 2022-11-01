@@ -1,0 +1,7 @@
+T4	Treatment 16 26	etanercept
+T5	Effect 88 109	severe heart failure.
+T6	Drug 16 26	etanercept
+T7	Severity_cue 88 94	severe
+T3	Adverse_event 73 84	development
+E1	Adverse_event:T3 
+A1	Severity E1 High

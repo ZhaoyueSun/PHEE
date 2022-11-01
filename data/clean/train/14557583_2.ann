@@ -1,0 +1,5 @@
+T3	Treatment 0 6	L-DOPA
+T5	Effect 25 43	daytime sleepiness
+T6	Drug 2 6	DOPA
+T4	Adverse_event 7 14	induced
+E1	Adverse_event:T4

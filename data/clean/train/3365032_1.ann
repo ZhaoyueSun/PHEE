@@ -1,0 +1,12 @@
+T8	Subject 0 51	A patient is presented with typical hyperthyroidism
+T10	Effect 69 136	severe proximal muscle weakness and a raised creatine phosphokinase
+T11	Treatment 143 229	treatment for hyperthyroidism with propylthiouracil (100 mg orally, three times a day)
+T12	Severity_cue 69 75	severe
+T13	Treat-Disorder 157 172	hyperthyroidism
+T14	Drug 178 194	propylthiouracil
+T15	Dosage 196 202	100 mg
+T16	Route 203 209	orally
+T17	Freq 211 228	three times a day
+T18	Treat-Disorder 28 51	typical hyperthyroidism
+T7	Adverse_event 137 142	after
+E1	Adverse_event:T7

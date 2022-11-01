@@ -1,0 +1,5 @@
+T3	Treatment 12 22	Zidovudine
+T4	Effect 48 55	anaemia
+T6	Drug 12 22	Zidovudine
+T5	Adverse_event 39 44	cause
+E1	Adverse_event:T5

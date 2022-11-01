@@ -1,0 +1,7 @@
+T4	Treatment 73 130	7.4 +/- 3.5 months, or 21.9 +/- 10.9 doses of gemcitabine
+T6	Effect 65 68	HUS
+T7	Drug 119 130	gemcitabine
+T8	Time_elapsed 73 91	7.4 +/- 3.5 months
+T9	Dosage 96 115	21.9 +/- 10.9 doses
+T5	Adverse_event 56 61	onset
+E1	Adverse_event:T5

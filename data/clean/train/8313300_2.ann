@@ -1,0 +1,9 @@
+T9	Treatment 93 100	lithium
+T10	Subject 0 29	The case of a bipolar patient
+T11	Effect 44 83	thyrotoxicosis with severe exophthalmos
+T13	Severity_cue 64 70	severe
+T14	Drug 93 100	lithium
+T15	Treat-Disorder 14 21	bipolar
+T8	Adverse_event 90 92	on
+E1	Adverse_event:T8 
+A1	Severity E1 High

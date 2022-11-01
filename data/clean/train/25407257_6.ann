@@ -1,0 +1,8 @@
+T6	Treat-Disorder 87 124	inflammation of the tympanic membrane
+T7	Treatment 31 59	160 mg/day tebipenem pivoxil
+T8	Subject 13 15	he
+T9	Gender 13 15	he
+T10	Dosage 31 41	160 mg/day
+T11	Drug 42 59	tebipenem pivoxil
+T5	Potential_therapeutic_event 83 86	for
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,8 @@
+T3	Subject 12 135	a patient with CREST syndrome (calcinosis, Raynaud's phenomenon, esophageal dysfunction, sclerodactyly, and telangiectasia)
+T5	Effect 166 199	worsening of Raynaud's phenomenon
+T6	Treatment 211 220	yohimbine
+T7	Treat-Disorder 225 227	ED
+T8	Sub-Disorder 27 135	CREST syndrome (calcinosis, Raynaud's phenomenon, esophageal dysfunction, sclerodactyly, and telangiectasia)
+T9	Drug 211 220	yohimbine
+T4	Adverse_event 154 165	experienced
+E1	Adverse_event:T4 

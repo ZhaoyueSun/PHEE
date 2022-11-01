@@ -1,0 +1,10 @@
+T3	Treatment 33 36	ddI
+T4	Effect 62 81	fulminant hepatitis
+T5	Subject 89 108	three AIDS patients
+T7	Population 89 94	three
+T9	Treat-Disorder 95 99	AIDS
+T10	Drug 33 36	ddI
+T11	Speculation_cue 37 42	might
+T6	Adverse_event 43 61	be responsible for
+E1	Adverse_event:T6 
+A1	Speculated E1

@@ -1,0 +1,9 @@
+T11	Subject 0 40	Six of 13 outpatients with schizophrenia
+T12	Treatment 61 97	a ten-week open trial of risperidone
+T13	Effect 172 273	intolerable affect, including feelings of agitation and depression and periods of crying and insomnia
+T15	Population 0 9	Six of 13
+T17	Drug 86 97	risperidone
+T18	Duration 61 71	a ten-week
+T19	Treat-Disorder 27 40	schizophrenia
+T14	Adverse_event 157 168	development
+E1	Adverse_event:T14

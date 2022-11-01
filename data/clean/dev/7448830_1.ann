@@ -1,0 +1,7 @@
+T6	Effect 0 14	Hepatotoxicity
+T7	Treatment 18 28	hycanthone
+T9	Subject 32 70	patients with metastatic breast cancer
+T10	Treat-Disorder 46 70	metastatic breast cancer
+T11	Drug 18 28	hycanthone
+T8	Adverse_event 15 17	of
+E1	Adverse_event:T8 

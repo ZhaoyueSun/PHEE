@@ -1,0 +1,12 @@
+T6	Effect 0 28	Carboplatin hypersensitivity
+T7	Treatment 40 71	low-dose paclitaxel/carboplatin
+T8	Subject 75 139	multiple platinum-treated patients with recurrent ovarian cancer
+T10	Drug 49 59	paclitaxel
+T11	Drug 60 71	carboplatin
+T13	Dosage 40 48	low-dose
+T14	Drug 84 92	platinum
+T15	Treat-Disorder 115 139	recurrent ovarian cancer
+T5	Adverse_event 29 36	induced
+T12	Combination 59 60	/
+E1	Adverse_event:T5 
+E2	Combination:T12 arg:T10 arg2:T11

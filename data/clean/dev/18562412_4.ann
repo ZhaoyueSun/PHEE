@@ -1,0 +1,8 @@
+T3	Subject 0 18	The fourth patient
+T4	Effect 26 38	RLS symptoms
+T6	Treatment 71 100	20-mg daily olanzapine dosage
+T7	Dosage 71 76	20-mg
+T8	Freq 77 82	daily
+T9	Drug 83 93	olanzapine
+T5	Adverse_event 59 65	caused
+E1	Adverse_event:T5

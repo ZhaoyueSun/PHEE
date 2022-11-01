@@ -1,0 +1,7 @@
+T4	Treatment 54 57	HCQ
+T5	Effect 92 115	ventricular tachycardia
+T6	Drug 54 57	HCQ
+T7	Subject 88 91	her
+T8	Gender 88 91	her
+T3	Adverse_event 62 71	suspected
+E1	Adverse_event:T3

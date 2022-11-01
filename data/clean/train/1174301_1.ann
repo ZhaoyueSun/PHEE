@@ -1,0 +1,5 @@
+T3	Effect 87 102	hyperthyroidism
+T5	Treatment 28 40	liothyronine
+T6	Drug 28 40	liothyronine
+T4	Adverse_event 59 86	precipitating or activating
+E1	Adverse_event:T4

@@ -1,0 +1,12 @@
+T4	Treatment 0 48	Hydroxyurea (HU) and sodium phenylbutyrate (SPB)
+T5	Effect 83 107	hemoglobin (Hb F) levels
+T6	Subject 111 147	patients with thalassemia intermedia
+T9	Drug 0 11	Hydroxyurea
+T10	Drug 21 42	sodium phenylbutyrate
+T12	Treat-Disorder 125 147	thalassemia intermedia
+T13	Severity_cue 77 82	fetal
+T7	Adverse_event 68 76	increase
+T11	Combination 17 20	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10
+A1	Severity E1 High

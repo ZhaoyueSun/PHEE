@@ -1,0 +1,7 @@
+T5	Effect 216 242	hemolytic-uremic syndrome.
+T6	Treatment 16 28;79 115	chemotherapy at the beginning of the fourth cycle
+T7	Subject 117 128	the patient
+T8	Drug 16 28	chemotherapy
+T9	Duration 103 115	fourth cycle
+T4	Adverse_event 129 138	developed
+E1	Adverse_event:T4

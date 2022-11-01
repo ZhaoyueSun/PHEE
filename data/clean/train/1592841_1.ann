@@ -1,0 +1,8 @@
+T4	Subject 20 40	two elderly patients
+T5	Treatment 48 57	bupropion
+T6	Effect 0 16	Falling backward
+T7	Population 20 23	two
+T8	Age 24 31	elderly
+T9	Drug 48 57	bupropion
+T3	Adverse_event 41 47	taking
+E1	Adverse_event:T3

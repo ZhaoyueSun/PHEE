@@ -1,0 +1,7 @@
+T4	Effect 20 48	baclofen withdrawal syndrome
+T6	Treatment 64 89	oral baclofen underdosing
+T7	Route 64 68	oral
+T8	Drug 69 77	baclofen
+T9	Dosage 78 89	underdosing
+T5	Adverse_event 49 58	resulting
+E1	Adverse_event:T5

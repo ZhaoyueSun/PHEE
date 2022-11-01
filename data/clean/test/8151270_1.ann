@@ -1,0 +1,7 @@
+T5	Effect 0 48	Fulminant hepatitis with severe lactate acidosis
+T8	Treatment 77 87	didanosine
+T10	Treat-Disorder 52 55	HIV
+T6	Subject 52 73	HIV-infected patients
+T7	Drug 77 87	didanosine
+T9	Adverse_event 74 76	on
+E1	Adverse_event:T9 

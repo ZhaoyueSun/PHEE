@@ -1,0 +1,5 @@
+T4	Treatment 0 19	Baclofen withdrawal
+T5	Effect 32 47	prolonged fever
+T6	Drug 0 8	Baclofen
+T3	Adverse_event 23 28	cause
+E1	Adverse_event:T3

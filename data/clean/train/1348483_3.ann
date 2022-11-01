@@ -1,0 +1,7 @@
+T5	Treatment 68 81;5 16	bromocriptine cabergoline
+T6	Speculation_cue 17 20	may
+T7	Effect 35 64	pleuropulmonary abnormalities
+T10	Drug 5 16	cabergoline
+T11	Drug 68 81	bromocriptine
+T4	Adverse_event 21 26	cause
+E1	Adverse_event:T4

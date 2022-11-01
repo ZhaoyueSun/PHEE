@@ -1,0 +1,9 @@
+T5	Effect 38 52	rhabdomyolysis
+T6	Treatment 94 104;109 121;125 139	lovastatin azithromycin clarithromycin
+T8	Drug 94 104	lovastatin
+T9	Drug 109 121	azithromycin
+T10	Drug 125 139	clarithromycin
+T7	Adverse_event 53 56	due
+T11	Combination 105 108	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T8 arg2:T9 arg3:T10

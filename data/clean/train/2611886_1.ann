@@ -1,0 +1,9 @@
+T5	Effect 31 37;61 75	stroke arterial spasm
+T7	Treatment 86 107	ergotamine overdosage
+T8	Drug 86 96	ergotamine
+T9	Speculation_cue 38 41	may
+T10	Severity_cue 25 30	fatal
+T6	Adverse_event 76 82	caused
+E1	Adverse_event:T6 
+A1	Speculated E1
+A2	Severity E1 High

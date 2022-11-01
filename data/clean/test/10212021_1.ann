@@ -1,0 +1,5 @@
+T7	Treatment 35 81	an antiretroviral regimen including nevirapine
+T8	Effect 0 20	Methadone withdrawal
+T9	Drug 71 81	nevirapine
+T6	Adverse_event 26 34	starting
+E1	Adverse_event:T6

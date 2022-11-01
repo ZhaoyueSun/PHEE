@@ -1,0 +1,8 @@
+T3	Subject 153 172	3 of these patients
+T5	Effect 181 184	PCP
+T6	Treatment 206 246	first month of treatment with prednisone
+T7	Population 153 154	3
+T8	Duration 206 217	first month
+T9	Drug 236 246	prednisone
+T4	Adverse_event 173 177	died
+E1	Adverse_event:T4

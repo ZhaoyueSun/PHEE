@@ -1,0 +1,8 @@
+T4	Treatment 33 54	colchicine and statin
+T6	Effect 80 114	the rapid onset of muscle weakness
+T7	Drug 33 43	colchicine
+T8	Drug 48 54	statin
+T5	Adverse_event 64 74	associated
+T9	Combination 44 47	and
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T7 arg2:T8

@@ -1,0 +1,11 @@
+T3	Subject 0 57	A 16-year-old white male with acute biphenotypic leukemia
+T5	Effect 84 113	eosinophilia myalgia syndrome
+T6	Treatment 130 312	total parenteral nutritional support with solutions containing tryptophan, which were given during his initial induction chemotherapy and also after autologous marrow transplantation
+T7	Age 2 13	16-year-old
+T8	Race 14 19	white
+T9	Gender 20 24	male
+T10	Sub-Disorder 30 57	acute biphenotypic leukemia
+T11	Drug 193 203	tryptophan
+T12	Route 136 146	parenteral
+T4	Adverse_event 58 67	developed
+E1	Adverse_event:T4 

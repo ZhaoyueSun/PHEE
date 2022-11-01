@@ -1,0 +1,7 @@
+T3	Treatment 93 105	Capecitabine
+T4	Effect 49 72	acute coronary syndrome
+T6	Subject 0 9	This case
+T7	Speculation_cue 25 33	possible
+T9	Drug 93 105	Capecitabine
+T5	Adverse_event 34 45	development
+E1	Adverse_event:T5

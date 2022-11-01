@@ -1,0 +1,6 @@
+T3	Effect 13 48	polymorphic ventricular tachycardia
+T5	Treat-Disorder 100 139	paroxysmal supraventricular tachycardia
+T6	Treatment 82 91	verapamil
+T7	Drug 82 91	verapamil
+T4	Adverse_event 49 56	induced
+E1	Adverse_event:T4

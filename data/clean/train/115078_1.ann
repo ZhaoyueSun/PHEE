@@ -1,0 +1,8 @@
+T3	Subject 0 35	A patient with rheumatoid arthritis
+T4	Treat-Disorder 15 35	rheumatoid arthritis
+T5	Effect 49 79	acute intrahepatic cholestasis
+T8	Treatment 86 117	100 mg of sodium aurothiomalate
+T10	Dosage 86 92	100 mg
+T11	Drug 96 117	sodium aurothiomalate
+T7	Adverse_event 36 45	developed
+E1	Adverse_event:T7 

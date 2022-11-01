@@ -1,0 +1,7 @@
+T3	Treatment 144 154	infliximab
+T4	Effect 30 56	sleep disordered breathing
+T5	Subject 91 120	rheumatoid arthritis patients
+T8	Drug 144 154	infliximab
+T9	Treat-Disorder 91 111	rheumatoid arthritis
+T6	Adverse_event 139 143	with
+E1	Adverse_event:T6

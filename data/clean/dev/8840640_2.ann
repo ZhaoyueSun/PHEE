@@ -1,0 +1,10 @@
+T5	Effect 0 18	Metabolic acidosis
+T6	Treatment 30 62	cetrimide-chlorhexidine solution
+T8	Treat-Disorder 66 78	hydatid cyst
+T7	Drug 30 39	cetrimide
+T9	Drug 40 53	chlorhexidine
+T11	Route 54 62	solution
+T4	Adverse_event 19 26	induced
+T10	Combination 39 40	-
+E1	Adverse_event:T4 
+E2	Combination:T10 arg:T9 arg2:T7

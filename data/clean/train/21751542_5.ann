@@ -1,0 +1,20 @@
+T10	Effect 12 37	gastrointestinal bleeding
+T12	Treatment 64 96	antiagregants and anticoagulants
+T15	Drug 64 77	antiagregants
+T16	Drug 82 96	anticoagulants
+T17	Speculation_cue 4 8	risk
+T18	Speculation_cue 102 106	risk
+T19	Effect 110 121	bradycardia
+T21	Treatment 125 138	beta-blockade
+T22	Drug 125 138	beta-blockade
+T11	Adverse_event 38 44	during
+T14	Combination 78 81	and
+T20	Adverse_event 122 124	in
+E1	Adverse_event:T11 arg:T10 arg2:T12
+E2	Combination:T14 arg:T15 arg2:T16
+E3	Adverse_event:T20 arg:T19 arg2:T21
+R1	has_child Arg1:E1 Arg2:E2	
+R2	has_cue Arg1:E1 Arg2:T17	
+R3	has_cue Arg1:E3 Arg2:T18	
+A1	Speculated E3
+A2	Speculated E1

@@ -1,0 +1,6 @@
+T3	Effect 45 60	Crohn's disease
+T4	Treatment 105 113	Copaxone
+T5	Speculation_cue 66 75	potential
+T7	Drug 105 113	Copaxone
+T6	Adverse_event 95 101	effect
+E1	Adverse_event:T6

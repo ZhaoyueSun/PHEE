@@ -1,0 +1,6 @@
+T3	Subject 48 70	an active duty soldier
+T4	Treatment 0 10	Disulfiram
+T6	Effect 19 44	fulminant hepatic failure
+T7	Drug 0 10	Disulfiram
+T5	Adverse_event 11 18	induced
+E1	Adverse_event:T5

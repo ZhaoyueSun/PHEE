@@ -1,0 +1,5 @@
+T3	Treatment 44 74	high-dose cytosine arabinoside
+T4	Effect 0 26	Toxic epidermal necrolysis
+T6	Drug 54 74	cytosine arabinoside
+T5	Adverse_event 27 32	after
+E1	Adverse_event:T5

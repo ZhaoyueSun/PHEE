@@ -1,0 +1,6 @@
+T3	Treatment 24 51	acute lamotrigine poisoning
+T5	Effect 66 87	severe encephalopathy
+T6	Speculation_cue 52 55	may
+T7	Drug 30 41	lamotrigine
+T4	Adverse_event 56 62	result
+E1	Adverse_event:T4

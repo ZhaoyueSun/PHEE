@@ -1,0 +1,9 @@
+T8	Subject 16 21	fetus
+T9	Treatment 25 37	indomethacin
+T11	Effect 121 163	premature closure of the ductus arteriosus
+T12	Age 16 21	fetus
+T13	Drug 25 37	indomethacin
+T14	Speculation_cue 82 85	may
+T10	Adverse_event 97 109	side effects
+E1	Adverse_event:T10 
+A1	Speculated E1

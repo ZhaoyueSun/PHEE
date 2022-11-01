@@ -1,0 +1,5 @@
+T4	Treatment 0 13	Actinomycin D
+T5	Effect 25 55	hepatic veno-occlusive disease
+T6	Drug 0 13	Actinomycin D
+T3	Adverse_event 14 24	associated
+E1	Adverse_event:T3

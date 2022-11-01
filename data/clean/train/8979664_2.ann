@@ -1,0 +1,5 @@
+T3	Effect 57 64	uveitis
+T5	Treatment 81 98	rifabutin therapy
+T6	Drug 81 90	rifabutin
+T4	Adverse_event 65 75	associated
+E1	Adverse_event:T4

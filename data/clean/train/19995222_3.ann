@@ -1,0 +1,5 @@
+T3	Effect 77 79	TD
+T5	Treatment 50 59	clozapine
+T6	Drug 50 59	clozapine
+T4	Adverse_event 71 76	cause
+E1	Adverse_event:T4

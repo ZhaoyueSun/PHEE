@@ -1,0 +1,7 @@
+T4	Subject 0 10	Four cases
+T5	Treatment 39 48	clonidine
+T6	Effect 14 33	adverse experiences
+T8	Population 0 4	Four
+T9	Drug 39 48	clonidine
+T7	Adverse_event 34 38	with
+E1	Adverse_event:T7

@@ -1,0 +1,11 @@
+T13	Treat-Disorder 35 67	refractory multiple myeloma (MM)
+T15	Treatment 82 106;149 188	single-agent thalidomide combination with cytotoxic chemotherapy
+T17	Effect 210 245	significantly increased risk of DVT
+T11	Speculation_cue 234 238	risk
+T12	Drug 95 106	thalidomide
+T18	Drug 166 175	cytotoxic
+T19	Route 176 188	chemotherapy
+T16	Adverse_event 192 202	associated
+T14	Combination 149 160	combination
+E2	Adverse_event:T16 
+E1	Combination:T14 arg:T12 arg2:T18

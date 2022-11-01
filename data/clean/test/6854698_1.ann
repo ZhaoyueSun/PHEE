@@ -1,0 +1,8 @@
+T3	Effect 89 107	histamine reaction
+T4	Subject 5 26	tuberculosis patients
+T6	Treatment 30 39	isoniazid
+T8	Drug 30 39	isoniazid
+T9	Treat-Disorder 5 17	tuberculosis
+T7	Speculation_cue 75 78	may
+T10	Adverse_event 79 86	develop
+E1	Adverse_event:T10

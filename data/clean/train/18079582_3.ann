@@ -1,0 +1,9 @@
+T3	Effect 44 78	transient asymptomatic bradycardia
+T5	Treatment 104 128	continuous infusion 5-FU
+T6	Subject 15 35	a series of patients
+T7	Population 15 23	a series
+T8	Freq 104 114	continuous
+T9	Drug 124 128	5-FU
+T10	Route 115 123	infusion
+T4	Adverse_event 79 84	after
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T4	Treatment 56 76	IFN alpha treatment.
+T5	Effect 0 22	Restless legs syndrome
+T6	Speculation_cue 23 26	may
+T7	Drug 56 65	IFN alpha
+T3	Adverse_event 38 52	adverse effect
+E1	Adverse_event:T3

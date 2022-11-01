@@ -1,0 +1,16 @@
+T10	Treatment 140 158	TNF-alpha blockers
+T12	Effect 169 201	cutaneous inflammatory reactions
+T13	Severity_cue 6 22	mild to moderate
+T15	Drug 140 158	TNF-alpha blockers
+T17	Speculation_cue 127 136	potential
+T18	Effect 23 56	application site reactions (ASRs)
+T19	Treatment 112 121	imiquimod
+T20	Drug 112 121	imiquimod
+T11	Adverse_event 162 168	elicit
+T16	Adverse_event 96 106	associated
+E1	Adverse_event:T11 arg:T10 arg2:T12
+E2	Adverse_event:T16 arg:T18 arg2:T19
+R1	has_cue Arg1:E1 Arg2:T17	
+R2	has_cue Arg1:E2 Arg2:T13	
+A1	Speculated E1
+A2	Severity E2 Medium

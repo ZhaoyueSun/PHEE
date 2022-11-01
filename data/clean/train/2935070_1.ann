@@ -1,0 +1,5 @@
+T5	Treatment 0 10	Ampicillin
+T7	Effect 19 81	interstitial nephritis with generalised exfoliative dermatitis
+T8	Drug 0 10	Ampicillin
+T6	Adverse_event 11 18	induced
+E1	Adverse_event:T6

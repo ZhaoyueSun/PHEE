@@ -1,0 +1,7 @@
+T6	Subject 59 65	adults
+T7	Effect 19 55	mood changes with hypomanic features
+T8	Treatment 0 10	Gabapentin
+T10	Age 59 65	adults
+T11	Drug 0 10	Gabapentin
+T9	Adverse_event 11 18	induced
+E1	Adverse_event:T9 

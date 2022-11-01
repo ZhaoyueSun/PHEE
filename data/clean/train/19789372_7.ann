@@ -1,0 +1,9 @@
+T9	Speculation_cue 16 25	suggested
+T13	Drug 51 61	mexiletine
+T11	Effect 117 205	tizanidine pharmacodynamics in terms of reduction in blood pressure and adverse symptoms
+T8	Treatment 31 103	coadministration of mexiletine increased blood tizanidine concentrations
+T14	Drug 78 88	tizanidine
+T10	Potential_therapeutic_event 108 116	enhanced
+T15	Combination 62 71	increased
+E1	Potential_therapeutic_event:T10 
+E2	Combination:T15 arg:T13 arg2:T14

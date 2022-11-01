@@ -1,0 +1,10 @@
+T3	Subject 0 52	A 62-year-old Caucasian man with atrial fibrillation
+T4	Treat-Disorder 33 52	atrial fibrillation
+T5	Treatment 68 76	warfarin
+T6	Effect 100 112	hematochezia
+T8	Age 2 13	62-year-old
+T9	Race 14 23	Caucasian
+T10	Gender 24 27	man
+T11	Drug 68 76	warfarin
+T7	Adverse_event 89 96	episode
+E1	Adverse_event:T7

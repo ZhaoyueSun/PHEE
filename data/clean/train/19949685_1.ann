@@ -1,0 +1,7 @@
+T4	Effect 0 24	Colonic mucosal necrosis
+T5	Treatment 53 94	calcium polystryrene sulfonate (Kalimate)
+T7	Subject 100 114	uremic patient
+T9	Drug 53 83	calcium polystryrene sulfonate
+T10	Treat-Disorder 100 106	uremic
+T8	Adverse_event 35 49	administration
+E1	Adverse_event:T8

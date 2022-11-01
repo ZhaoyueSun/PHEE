@@ -1,0 +1,10 @@
+T3	Subject 32 51	a 45-year-old woman
+T4	Treatment 55 86	prolonged gemcitabine treatment
+T7	Effect 120 123	HUS
+T8	Age 34 45	45-year-old
+T9	Gender 46 51	woman
+T10	Drug 65 76	gemcitabine
+T11	Duration 55 64	prolonged
+T12	Treat-Disorder 91 104	ovarian cance
+T6	Adverse_event 110 119	developed
+E1	Adverse_event:T6

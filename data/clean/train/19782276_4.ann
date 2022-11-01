@@ -1,0 +1,6 @@
+T5	Effect 13 37	congestive heart failure
+T6	Treatment 38 85	5 days after administration of cyclophosphamide
+T8	Time_elapsed 38 44	5 days
+T9	Drug 69 85	cyclophosphamide
+T7	Adverse_event 3 12	developed
+E1	Adverse_event:T7

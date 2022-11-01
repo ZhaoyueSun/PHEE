@@ -1,0 +1,8 @@
+T4	Effect 0 28;119 161	Baclofen withdrawal syndrome prolonged fever in the intensive care unit
+T5	Treatment 44 72	underdosing of oral baclofen
+T8	Speculation_cue 99 115	potential source
+T9	Route 59 63	oral
+T10	Drug 64 72	baclofen
+T6	Adverse_event 29 38	resulting
+E1	Adverse_event:T6 
+A1	Speculated E1

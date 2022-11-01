@@ -1,0 +1,6 @@
+T6	Effect 0 11;35 82	Early-onset second-degree heart block and sinus bradycardia
+T7	Treatment 12 23	pentamidine
+T8	Drug 12 23	pentamidine
+T9	Subject 84 88	case
+T5	Adverse_event 24 34	associated
+E1	Adverse_event:T5

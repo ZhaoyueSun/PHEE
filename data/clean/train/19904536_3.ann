@@ -1,0 +1,9 @@
+T7	Treatment 36 47	gemcitabine
+T8	Effect 56 74	pulmonary toxicity
+T9	Subject 78 130	a patient with gallbladder metastatic adenocarcinoma
+T10	Treat-Disorder 93 130	gallbladder metastatic adenocarcinoma
+T12	Drug 36 47	gemcitabine
+T6	Adverse_event 48 55	induced
+E1	Adverse_event:T6 
+T1	Severity_cue 30 35	fatal
+A1	Severity E1 High

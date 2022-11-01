@@ -1,0 +1,7 @@
+T3	Treatment 81 89	copaxone
+T4	Effect 15 30	Crohn's disease
+T6	Subject 34 67	a patient with multiple sclerosis
+T7	Treat-Disorder 49 67	multiple sclerosis
+T8	Drug 81 89	copaxone
+T5	Adverse_event 0 11	Development
+E1	Adverse_event:T5 

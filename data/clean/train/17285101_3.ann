@@ -1,0 +1,7 @@
+T3	Subject 54 70	an adult patient
+T5	Treatment 78 94	lithium therapy.
+T6	Effect 28 50	pulmonary hypertension
+T7	Age 57 62	adult
+T8	Drug 78 85	lithium
+T4	Adverse_event 71 77	during
+E1	Adverse_event:T4

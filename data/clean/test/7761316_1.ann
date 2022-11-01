@@ -1,0 +1,9 @@
+T5	Treatment 124 134	ifosfamide
+T6	Effect 0 26	Musculoskeletal complaints
+T7	Subject 59 83	four of 44 children (9%)
+T9	Population 59 69	four of 44
+T10	Age 70 78	children
+T8	Treat-Disorder 96 118	relapsed Wilms' tumors
+T11	Drug 124 134	ifosfamide
+T4	Adverse_event 119 123	with
+E1	Adverse_event:T4

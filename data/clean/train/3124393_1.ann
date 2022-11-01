@@ -1,0 +1,11 @@
+T3	Subject 0 74	A woman 38-year-old, suffering for about ten years from multiple sclerosis
+T4	Treatment 92 142	repeated therapy cycles of intrathecal Depo-Medrol
+T6	Effect 154 194	a spastic paraparesis at the lower limbs
+T7	Gender 2 7	woman
+T8	Age 8 19	38-year-old
+T10	Drug 131 142	Depo-Medrol
+T11	Treat-Disorder 56 74	multiple sclerosis
+T12	Route 119 130	intrathecal
+T13	Freq 92 100	repeated
+T5	Adverse_event 144 153	developed
+E1	Adverse_event:T5

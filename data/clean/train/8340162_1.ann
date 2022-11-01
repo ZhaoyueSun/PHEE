@@ -1,0 +1,8 @@
+T4	Effect 0 12	Hypertension
+T5	Subject 25 38	most patients
+T6	Treatment 39 60;66 123	after transplantation immunosuppression is based on cyclosporine and prednisone
+T8	Population 25 29	most
+T9	Drug 96 108	cyclosporine
+T10	Drug 113 123	prednisone
+T7	Adverse_event 61 65	when
+E1	Adverse_event:T7

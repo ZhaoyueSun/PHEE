@@ -1,0 +1,9 @@
+T5	Effect 41 59	pulmonary toxicity
+T6	Treatment 0 32	Oxygen potentiation of bleomycin
+T7	Speculation_cue 63 72	discussed
+T8	Drug 0 6	Oxygen
+T9	Drug 23 32	bleomycin
+T4	Adverse_event 33 40	induced
+T10	Combination 7 22	potentiation of
+E1	Adverse_event:T4 
+E2	Combination:T10 arg:T9 arg2:T8

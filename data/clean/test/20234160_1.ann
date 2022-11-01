@@ -1,0 +1,7 @@
+T3	Treatment 7 17	vancomycin
+T5	Effect 26 47	anaphylactic reaction
+T6	Drug 7 17	vancomycin
+T7	Severity_cue 0 6	Severe
+T4	Adverse_event 18 25	induced
+E1	Adverse_event:T4 
+A1	Severity E1 High

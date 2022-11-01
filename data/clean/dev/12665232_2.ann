@@ -1,0 +1,8 @@
+T3	Effect 30 51	corneoscleral melting
+T4	Treatment 90 140	a single intraoperative application of mitomycin C
+T7	Dosage 90 125	a single intraoperative application
+T8	Drug 129 140	mitomycin C
+T6	Negation_cue 145 148	not
+T5	Adverse_event 84 89	after
+E1	Adverse_event:T5 
+A1	Negated E1

@@ -1,0 +1,10 @@
+T4	Effect 0 19	Atrial fibrillation
+T5	Subject 33 42	a patient
+T7	Treatment 50 103	etanercept plus methotrexate for rheumatoid arthritis
+T8	Drug 50 60	etanercept
+T9	Drug 66 78	methotrexate
+T11	Treat-Disorder 83 103	rheumatoid arthritis
+T6	Adverse_event 43 49	taking
+T10	Combination 61 65	plus
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T8 arg2:T9

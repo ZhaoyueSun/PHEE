@@ -1,0 +1,9 @@
+T3	Subject 37 76	in patients with thalassemia intermedia
+T4	Treatment 17 36	low-dose HU therapy
+T6	Effect 81 105	increase total Hb levels
+T7	Treat-Disorder 54 76	thalassemia intermedia
+T8	Drug 26 28	HU
+T9	Dosage 17 25	low-dose
+T10	Speculation_cue 77 80	may
+T5	Potential_therapeutic_event 29 36	therapy
+E1	Potential_therapeutic_event:T5 

@@ -1,0 +1,10 @@
+T8	Effect 200 231	abnormalities in renal function
+T10	Treatment 19 30	methicillin
+T11	Drug 19 30	methicillin
+T12	Drug 55 65	antibiotic
+T13	Drug 176 194	nephrotoxic agents
+T14	Treat-Disorder 79 91	endocarditis
+T15	Speculation_cue 166 175	potential
+T9	Adverse_event 232 238	appear
+E1	Adverse_event:T9 
+A1	Speculated E1

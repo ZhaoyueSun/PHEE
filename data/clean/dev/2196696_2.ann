@@ -1,0 +1,6 @@
+T13	Effect 16 78	headache, mild fever, nausea, vomiting, rash, and eosinophilia
+T14	Treatment 79 106	after 3 weeks of disulfiram
+T16	Drug 96 106	disulfiram
+T17	Time_elapsed 79 92	after 3 weeks
+T15	Adverse_event 79 84	after
+E1	Adverse_event:T15

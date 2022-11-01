@@ -1,0 +1,5 @@
+T3	Treatment 37 51	chlorpromazine
+T5	Effect 72 111	symptoms resembling Parkinson's disease
+T6	Drug 37 51	chlorpromazine
+T4	Adverse_event 65 71	induce
+E1	Adverse_event:T4

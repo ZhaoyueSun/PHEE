@@ -1,0 +1,9 @@
+T3	Effect 21 40	respiratory failure
+T5	Subject 54 84	a woman at 16 weeks' gestation
+T6	Treatment 93 156	being treated with nitrofurantoin for a urinary tract infection
+T7	Gender 56 61	woman
+T9	Drug 112 126	nitrofurantoin
+T10	Treat-Disorder 133 156	urinary tract infection
+T8	Sub-Disorder 65 84	16 weeks' gestation
+T4	Adverse_event 41 50	occurring
+E1	Adverse_event:T4 

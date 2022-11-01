@@ -1,0 +1,8 @@
+T9	Treatment 40 59	insulin and glucose
+T11	Effect 66 95	renal and ocular vasodilation
+T13	Drug 52 59	glucose
+T14	Drug 40 47	insulin
+T10	Adverse_event 60 65	cause
+T12	Combination 48 51	and
+E1	Adverse_event:T10 
+E2	Combination:T12 arg:T14 arg2:T13

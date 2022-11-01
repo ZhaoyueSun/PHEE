@@ -1,0 +1,9 @@
+T3	Treatment 30 81	ophthalmic sulfonamide, and it was used for one day
+T4	Subject 0 11;87 89	The patient he
+T6	Effect 100 124	Stevens-Johnson syndrome
+T7	Gender 87 89	he
+T8	Route 30 40	ophthalmic
+T9	Drug 41 52	sulfonamide
+T10	Duration 74 81	one day
+T5	Adverse_event 90 99	developed
+E1	Adverse_event:T5

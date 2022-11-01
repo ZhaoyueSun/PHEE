@@ -1,0 +1,6 @@
+T6	Treatment 44 72	during thalidomide treatment
+T7	Effect 0 26;74 188	Multiple syncopal episodes and a Holter electrocardiogram showed multiple abnormalities, with an episode of sustained ventricular tachycardia
+T8	Drug 51 62	thalidomide
+T9	Duration 44 50	during
+T5	Adverse_event 38 43	occur
+E1	Adverse_event:T5

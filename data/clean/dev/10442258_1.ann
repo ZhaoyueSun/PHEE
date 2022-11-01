@@ -1,0 +1,6 @@
+T4	Treatment 26 36	paroxetine
+T5	Effect 0 9	Hair loss
+T7	Drug 26 36	paroxetine
+T8	Subject 48 54	a case
+T6	Adverse_event 10 20	associated
+E1	Adverse_event:T6

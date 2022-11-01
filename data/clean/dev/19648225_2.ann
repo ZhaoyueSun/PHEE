@@ -1,0 +1,6 @@
+T3	Speculation_cue 0 8	Possible
+T4	Effect 24 48	damage to the urothelium
+T5	Treatment 52 60	ketamine
+T7	Drug 52 60	ketamine
+T6	Adverse_event 49 51	by
+E1	Adverse_event:T6

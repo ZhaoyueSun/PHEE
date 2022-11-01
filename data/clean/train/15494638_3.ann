@@ -1,0 +1,6 @@
+T9	Effect 45 66	peripheral neuropathy
+T10	Treatment 83 86	CAP
+T11	Negation_cue 91 94	not
+T8	Adverse_event 67 77	associated
+E1	Adverse_event:T8 
+A1	Negated E1

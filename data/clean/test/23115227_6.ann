@@ -1,0 +1,8 @@
+T7	Treatment 0 29;62 121	The mean weekly warfarin dose emtricitabine monotherapy was 13.3 mg (95% CI 12.7 to 13.8)
+T8	Subject 36 47	the patient
+T9	Freq 9 15	weekly
+T10	Drug 16 24	warfarin
+T11	Drug 62 75	emtricitabine
+T12	Dosage 92 99	13.3 mg
+T6	Potential_therapeutic_event 52 61	receiving
+E1	Potential_therapeutic_event:T6

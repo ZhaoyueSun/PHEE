@@ -1,0 +1,5 @@
+T3	Effect 39 59	autoimmune hepatitis
+T4	Treatment 0 11	Minocycline
+T6	Drug 0 11	Minocycline
+T5	Adverse_event 31 38	induced
+E1	Adverse_event:T5

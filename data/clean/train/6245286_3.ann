@@ -1,0 +1,7 @@
+T3	Effect 0 31	Visceral herpesvirus infections
+T5	Treatment 63 73	cytarabine
+T4	Subject 35 52	leukemic patients
+T8	Drug 63 74	cytarabine.
+T9	Treat-Disorder 35 43	leukemic
+T6	Adverse_event 32 34	in
+E1	Adverse_event:T6

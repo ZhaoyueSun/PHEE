@@ -1,0 +1,5 @@
+T3	Effect 0 20	Paradoxical seizures
+T4	Treatment 24 42	phenytoin toxicity
+T6	Drug 24 33	phenytoin
+T5	Adverse_event 12 20	seizures
+E1	Adverse_event:T5

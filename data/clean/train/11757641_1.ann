@@ -1,0 +1,5 @@
+T3	Effect 0 18	Pulmonary toxicity
+T4	Treatment 24 34	mefloquine
+T6	Drug 24 34	mefloquine
+T5	Adverse_event 19 23	with
+E1	Adverse_event:T5

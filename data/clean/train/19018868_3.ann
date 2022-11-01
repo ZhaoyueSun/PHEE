@@ -1,0 +1,7 @@
+T6	Treatment 79 91	lenalidomide
+T7	Speculation_cue 59 67	probably
+T8	Effect 22 49	severe aplastic anemia (AA)
+T9	Subject 12 18	a case
+T11	Drug 79 91	lenalidomide
+T5	Adverse_event 68 75	induced
+E1	Adverse_event:T5

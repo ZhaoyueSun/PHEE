@@ -1,0 +1,10 @@
+T5	Effect 13 22	hepatitis
+T7	Treatment 56 129	combined treatment with pegvisomant and octreotide long-acting repeatable
+T8	Subject 26 48	an acromegalic patient
+T9	Treat-Disorder 29 40	acromegalic
+T10	Drug 80 91	pegvisomant
+T11	Drug 96 106	octreotide
+T6	Adverse_event 5 12	induced
+T12	Combination 92 95	and
+E1	Adverse_event:T6 
+E2	Combination:T12 arg:T10 arg2:T11

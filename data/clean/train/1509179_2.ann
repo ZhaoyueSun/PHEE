@@ -1,0 +1,5 @@
+T3	Treatment 74 87	phenobarbital
+T5	Effect 105 126	maladaptive behaviors
+T6	Drug 74 87	phenobarbital
+T4	Adverse_event 92 104	exacerbating
+E1	Adverse_event:T4

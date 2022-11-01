@@ -1,0 +1,6 @@
+T5	Treatment 0 13	Acetazolamide
+T7	Effect 26 53	anticonvulsant osteomalacia
+T8	Drug 0 13	Acetazolamide
+T9	Drug 26 40	anticonvulsant
+T6	Adverse_event 14 25	accelerated
+E1	Adverse_event:T6

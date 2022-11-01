@@ -1,0 +1,8 @@
+T3	Subject 0 9;110 134	A patient his rheumatoid arthritis
+T5	Effect 39 68	poorly differentiated sarcoma
+T6	Treatment 75 91	cyclophosphamide
+T8	Drug 75 91	cyclophosphamide
+T9	Treat-Disorder 114 134	rheumatoid arthritis
+T10	Gender 110 113	his
+T4	Adverse_event 27 36	developed
+E1	Adverse_event:T4

@@ -1,0 +1,10 @@
+T3	Subject 0 14	Three patients
+T4	Treatment 15 79	received respectively 190 mg, 175 mg, and 196 mg of methotrexate
+T6	Effect 94 175	bilateral pulmonary infiltrates without evidence of peripheral blood eosinophilia
+T7	Population 0 5	Three
+T8	Dosage 37 43	190 mg
+T9	Dosage 45 51	175 mg
+T10	Dosage 57 63	196 mg
+T11	Drug 67 79	methotrexate
+T5	Adverse_event 84 93	developed
+E1	Adverse_event:T5

@@ -1,0 +1,6 @@
+T5	Effect 0 64	Visual system side effects caused by parasympathetic dysfunction
+T7	Treatment 71 104	botulinum toxin type B injections
+T8	Drug 71 93	botulinum toxin type B
+T9	Route 94 104	injections
+T6	Adverse_event 65 70	after
+E1	Adverse_event:T6

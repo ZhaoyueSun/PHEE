@@ -1,0 +1,5 @@
+T8	Treatment 13 44	prescribed two mood stabilizers
+T9	Effect 63 144	anticholinergic adverse effects and the movement disorder tardive dyskinesia (TD)
+T11	Drug 28 44	mood stabilizers
+T10	Adverse_event 49 62	suffered from
+E1	Adverse_event:T10

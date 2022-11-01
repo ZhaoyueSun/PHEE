@@ -1,0 +1,7 @@
+T3	Subject 0 13	Both patients
+T5	Effect 30 41	hypotensive
+T6	Treatment 48 84	injection of chymopapain into a disk
+T7	Route 48 57	injection
+T8	Drug 61 72	chymopapain
+T4	Adverse_event 23 29	became
+E1	Adverse_event:T4

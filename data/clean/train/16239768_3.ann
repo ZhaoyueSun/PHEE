@@ -1,0 +1,11 @@
+T3	Treatment 0 11	Venlafaxine
+T5	Effect 20 40	urinary incontinence
+T6	Drug 0 11	Venlafaxine
+T9	Treatment 69 79	sertraline
+T10	Drug 69 79	sertraline
+T11	Treat-Disorder 0 40	Venlafaxine-induced urinary incontinence
+T4	Adverse_event 12 19	induced
+T8	Potential_therapeutic_event 41 49	resolved
+E1	Adverse_event:T4 arg:T3 arg2:T5
+E2	Potential_therapeutic_event:T8 arg:T9
+R1	has Arg1:T9 Arg2:T11

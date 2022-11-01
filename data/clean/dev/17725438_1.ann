@@ -1,0 +1,5 @@
+T3	Treatment 26 29	RFP
+T5	Effect 38 87	hypothyroidism without underlying thyroid disease
+T6	Drug 26 29	RFP
+T4	Adverse_event 30 37	induced
+E1	Adverse_event:T4

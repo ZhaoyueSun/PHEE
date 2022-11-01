@@ -1,0 +1,7 @@
+T3	Effect 0 7	Allergy
+T5	Treatment 11 22	cloxacillin
+T6	Drug 11 22	cloxacillin
+T7	Drug 48 59	amoxicillin
+T8	Drug 64 74	cefuroxime
+T4	Adverse_event 8 10	to
+E1	Adverse_event:T4

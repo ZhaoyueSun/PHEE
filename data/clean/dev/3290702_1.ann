@@ -1,0 +1,10 @@
+T3	Subject 102 165	a 32-year-old New Zealand woman with idiopathic hypopituitarism
+T4	Effect 60 85	Creutzfeldt-Jakob disease
+T5	Treatment 227 247	human growth hormone
+T7	Age 104 115	32-year-old
+T8	Race 116 127	New Zealand
+T9	Gender 128 133	woman
+T10	Treat-Disorder 139 165	idiopathic hypopituitarism
+T11	Drug 227 247	human growth hormone
+T6	Adverse_event 89 98	described
+E1	Adverse_event:T6 

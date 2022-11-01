@@ -1,0 +1,6 @@
+T5	Effect 0 40	Bradycardia and congestive heart failure
+T7	Treatment 57 79	ocular timolol maleate
+T8	Route 57 63	ocular
+T9	Drug 64 79	timolol maleate
+T6	Adverse_event 41 51	associated
+E1	Adverse_event:T6

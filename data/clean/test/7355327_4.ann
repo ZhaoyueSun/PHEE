@@ -1,0 +1,8 @@
+T3	Subject 0 51	Three patients with no history of asthma or allergy
+T5	Effect 62 74	bronchospasm
+T6	Treatment 88 99	propranolol
+T7	Treat-Disorder 104 116	hypertension
+T8	Population 0 5	Three
+T9	Drug 88 99	propranolol
+T4	Adverse_event 52 61	developed
+E1	Adverse_event:T4

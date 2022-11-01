@@ -1,0 +1,9 @@
+T5	Effect 0 7	Sunburn
+T9	Effect 125 149	skin extremely sensitive
+T10	Speculation_cue 110 113	may
+T11	Drug 43 51	psoralen
+T12	Dosage 66 76	high doses
+T6	Treatment 43 97	psoralen users because high doses or inappropriate use
+T7	Subject 52 57	users
+T8	Adverse_event 114 120	render
+E1	Adverse_event:T8

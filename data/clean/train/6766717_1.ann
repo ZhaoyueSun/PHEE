@@ -1,0 +1,7 @@
+T3	Subject 0 48	A patient with alcoholic cerebellar degeneration
+T5	Treatment 103 112	phenytoin
+T6	Effect 53 83	periodic alternating nystagmus
+T7	Sub-Disorder 15 48	alcoholic cerebellar degeneration
+T8	Drug 103 112	phenytoin
+T4	Adverse_event 84 90	during
+E1	Adverse_event:T4 

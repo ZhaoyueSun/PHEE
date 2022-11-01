@@ -1,0 +1,5 @@
+T4	Treatment 58 76	lorcainide therapy
+T5	Effect 21 26	SIADH
+T6	Drug 58 68	lorcainide
+T3	Adverse_event 43 54	side effect
+E1	Adverse_event:T3

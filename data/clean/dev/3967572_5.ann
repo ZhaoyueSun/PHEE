@@ -1,0 +1,10 @@
+T7	Treatment 52 70;157 169	phenytoin is added theophylline
+T8	Effect 93 135	reexacerbation of pulmonary symptomatology
+T10	Drug 52 61	phenytoin
+T12	Drug 157 169	theophylline
+T13	Speculation_cue 79 88	potential
+T9	Adverse_event 136 139	due
+T11	Combination 65 70	added
+E1	Adverse_event:T9 
+E2	Combination:T11 arg:T10 arg2:T12
+A1	Speculated E1

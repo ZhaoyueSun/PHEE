@@ -1,0 +1,7 @@
+T7	Treatment 99 109	disulfiram
+T8	Effect 28 41	abnormalities
+T9	Subject 69 76	infants
+T10	Age 69 76	infants
+T11	Drug 99 109	disulfiram
+T6	Adverse_event 86 93	treated
+E1	Adverse_event:T6

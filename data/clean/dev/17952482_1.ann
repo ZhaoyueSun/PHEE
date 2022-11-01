@@ -1,0 +1,10 @@
+T9	Subject 2 50	58-year-old woman with rheumatoid arthritis (RA)
+T11	Effect 61 120	fever, skin eruptions, leukocytopenia, and thrombocytopenia
+T12	Treatment 122 164	3 weeks after treatment with sulfasalazine
+T14	Age 2 13	58-year-old
+T15	Gender 14 19	woman
+T16	Drug 151 164	sulfasalazine
+T17	Time_elapsed 122 135	3 weeks after
+T18	Treat-Disorder 25 50	rheumatoid arthritis (RA)
+T13	Adverse_event 51 60	developed
+E1	Adverse_event:T13

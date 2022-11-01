@@ -1,0 +1,12 @@
+T9	Subject 109 166	patients undergoing total hip and total knee arthroplasty
+T11	Treatment 0 105	Dabigatran etexilate and concomitant use of non-steroidal anti-inflammatory drugs or acetylsalicylic acid
+T12	Effect 168 197	no increased risk of bleeding
+T13	Drug 0 20	Dabigatran etexilate
+T15	Drug 44 81	non-steroidal anti-inflammatory drugs
+T16	Drug 85 105	acetylsalicylic acid
+T17	Negation_cue 168 170	no
+T18	Treat-Disorder 129 166	total hip and total knee arthroplasty
+T10	Adverse_event 106 108	in
+T14	Combination 25 36	concomitant
+E1	Adverse_event:T10 
+E2	Combination:T14 arg:T15 arg2:T16 arg3:T13

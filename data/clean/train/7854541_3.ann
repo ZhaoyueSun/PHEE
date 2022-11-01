@@ -1,0 +1,7 @@
+T5	Effect 45 64	leukoencephalopathy
+T7	Subject 103 111	patients
+T8	Treatment 195 205	levamisole
+T9	Speculation_cue 155 158	may
+T10	Drug 195 205	levamisole
+T6	Adverse_event 169 175	caused
+E1	Adverse_event:T6

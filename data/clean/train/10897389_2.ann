@@ -1,0 +1,9 @@
+T5	Treat-Disorder 82 107	severe ulcerative colitis
+T6	Treatment 58 70	cyclosporine
+T7	Effect 0 40	Recurrent septicemia with lethal outcome
+T9	Severity_cue 26 32	lethal
+T10	Drug 58 70	cyclosporine
+T8	Adverse_event 52 57	after
+E1	Adverse_event:T8 
+A1	Speculated E1
+A2	Severity E1 High

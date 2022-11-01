@@ -1,0 +1,5 @@
+T4	Effect 0 20	Rosaceiform eruption
+T5	Treatment 32 42	erlotinib.
+T6	Drug 32 41	erlotinib
+T3	Adverse_event 21 28	induced
+E1	Adverse_event:T3

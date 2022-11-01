@@ -1,0 +1,8 @@
+T3	Treatment 189 200	carboplatin
+T4	Effect 141 185	medium and severe hypersensitivity reactions
+T6	Subject 108 122	three patients
+T7	Severity_cue 141 158	medium and severe
+T8	Drug 189 200	carboplatin
+T5	Adverse_event 131 140	exhibited
+E1	Adverse_event:T5 
+A1	Severity E1 High

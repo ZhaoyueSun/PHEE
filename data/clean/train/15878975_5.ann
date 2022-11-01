@@ -1,0 +1,7 @@
+T8	Effect 46 104	DIC associated with acute hemoglobinemia or hemoglobinuria
+T10	Treatment 115 141	anti-D IGIV administration
+T7	Route 124 141	IV administration
+T12	Drug 115 121	anti-D
+T13	Treat-Disorder 146 149	ITP
+T9	Adverse_event 105 114	following
+E1	Adverse_event:T9

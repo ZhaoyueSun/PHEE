@@ -1,0 +1,8 @@
+T3	Subject 12 41	45-year-old psoriasis patient
+T4	Treat-Disorder 24 33	psoriasis
+T6	Effect 56 84	eruptive mollusca contagiosa
+T7	Treatment 95 134	antipsoriatic treatment with efalizumab
+T8	Age 12 23	45-year-old
+T9	Drug 124 134	efalizumab
+T5	Adverse_event 46 55	developed
+E1	Adverse_event:T5 

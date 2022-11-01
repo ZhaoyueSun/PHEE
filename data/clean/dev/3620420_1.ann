@@ -1,0 +1,5 @@
+T4	Treat-Disorder 23 37	Mooren's ulcer
+T6	Treatment 0 11	Cyclosporin
+T7	Drug 0 11	Cyclosporin
+T5	Potential_therapeutic_event 12 19	therapy
+E1	Potential_therapeutic_event:T5

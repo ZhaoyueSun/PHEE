@@ -1,0 +1,6 @@
+T5	Effect 28 53	dyserythropoietic anaemia
+T6	Treatment 70 89	long-term linezolid
+T8	Drug 80 89	linezolid
+T9	Duration 70 79	long-term
+T7	Adverse_event 54 64	associated
+E1	Adverse_event:T7

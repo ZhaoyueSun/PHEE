@@ -1,0 +1,12 @@
+T3	Subject 14 80	A 61-year-old woman with no apparent risk factors for liver injury
+T5	Effect 91 106	acute hepatitis
+T6	Treatment 142 246	long-term course of pulse itraconazole therapy (200 mg orally twice daily, 1 wk on, 3 wk off, for 24 wk)
+T7	Treat-Disorder 251 264	onychomycosis
+T8	Age 16 27	61-year-old
+T9	Gender 28 33	woman
+T10	Drug 168 180	itraconazole
+T11	Dosage 190 196	200 mg
+T12	Route 197 203	orally
+T13	Freq 204 215	twice daily
+T4	Adverse_event 81 90	developed
+E1	Adverse_event:T4

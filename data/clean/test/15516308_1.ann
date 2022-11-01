@@ -1,0 +1,7 @@
+T3	Treatment 32 42	quetiapine
+T5	Effect 0 15	Fatal overdoses
+T6	Severity_cue 0 5	Fatal
+T7	Drug 32 42	quetiapine
+T4	Adverse_event 16 26	associated
+E1	Adverse_event:T4 
+A1	Severity E1 High

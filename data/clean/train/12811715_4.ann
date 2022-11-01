@@ -1,0 +1,13 @@
+T3	Treatment 23 38	diphenhydramine
+T5	Effect 47 63	cardiac toxicity
+T7	Drug 23 38	diphenhydramine
+T8	Subject 12 19	3 cases
+T9	Population 12 13	3
+T10	Treat-Disorder 23 63	diphenhydramine-induced cardiac toxicity
+T11	Treatment 88 99	bicarbonate
+T12	Drug 88 99	bicarbonate
+T4	Adverse_event 39 46	induced
+T13	Potential_therapeutic_event 74 84	responsive
+E1	Adverse_event:T4 arg:T3 arg2:T5 arg3:T8
+E2	Potential_therapeutic_event:T13 arg:T11 arg2:T8
+R1	has Arg1:T11 Arg2:T10

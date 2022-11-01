@@ -1,0 +1,9 @@
+T3	Subject 0 86	Two patients with bipolar affective disorder and a history of bronchospastic phenomena
+T5	Effect 99 105	tremor
+T6	Treatment 113 138	lithium carbonate therapy
+T7	Population 0 3	Two
+T9	Drug 113 130	lithium carbonate
+T4	Adverse_event 87 98	experienced
+E1	Adverse_event:T4 
+T1	Sub-Disorder 49 86	a history of bronchospastic phenomena
+T2	Treat-Disorder 18 44	bipolar affective disorder

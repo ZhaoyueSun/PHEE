@@ -1,0 +1,7 @@
+T7	Treatment 83 91;5 33	overdose venlafaxine and trimipramine
+T8	Effect 60 68	seizures
+T9	Drug 5 16	venlafaxine
+T10	Drug 21 33	trimipramine
+T11	Dosage 83 91	overdose
+T6	Adverse_event 44 54	associated
+E1	Adverse_event:T6

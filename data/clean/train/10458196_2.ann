@@ -1,0 +1,9 @@
+T5	Subject 0 20	An 11-day-old infant
+T6	Effect 28 48	lethargic and apneic
+T7	Treatment 55 83	a single drop of brimonidine
+T9	Dosage 57 68	single drop
+T10	Drug 72 83	brimonidine
+T11	Age 3 13	11-day-old
+T12	Age 14 20	infant
+T8	Adverse_event 21 27	became
+E1	Adverse_event:T8 

@@ -1,0 +1,5 @@
+T3	Effect 0 24	Delayed hypersensitivity
+T5	Treatment 28 40	flurbiprofen
+T6	Drug 28 40	flurbiprofen
+T4	Adverse_event 25 27	to
+E1	Adverse_event:T4

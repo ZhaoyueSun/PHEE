@@ -1,0 +1,6 @@
+T4	Treatment 13 62	Intravitreal injection of triamcinolone acetonide
+T7	Route 13 35	Intravitreal injection
+T8	Drug 39 62	triamcinolone acetonide
+T9	Treat-Disorder 109 148	therapy-resistant cystoid macular edema
+T6	Potential_therapeutic_event 96 105	treatment
+E1	Potential_therapeutic_event:T6

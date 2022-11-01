@@ -1,0 +1,8 @@
+T5	Subject 11 64	a patient with human immunodeficiency virus infection
+T6	Treatment 86 95	foscarnet
+T7	Treat-Disorder 100 113	CMV retinitis
+T9	Effect 132 151	thirst and polyuria
+T10	Sub-Disorder 26 64	human immunodeficiency virus infection
+T11	Drug 86 95	foscarnet
+T8	Adverse_event 118 128	complained
+E1	Adverse_event:T8 

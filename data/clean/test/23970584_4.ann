@@ -1,0 +1,11 @@
+T8	Effect 0 20;36 72	Forty-one days later severe iatrogenic Cushing's syndrome
+T9	Treatment 114 162	triamcinolone and her boosted protease inhibitor
+T10	Subject 22 25	she
+T11	Gender 22 25	she
+T12	Severity_cue 36 42	severe
+T13	Drug 114 127	triamcinolone
+T15	Drug 144 162	protease inhibitor
+T7	Adverse_event 26 35	developed
+T14	Combination 94 105	interaction
+E1	Adverse_event:T7 
+E2	Combination:T14 arg:T13 arg2:T15

@@ -1,0 +1,9 @@
+T4	Treatment 16 25	phenytoin
+T5	Duration 44 56	tuberculosis
+T7	Effect 185 203	phenytoin toxicity
+T8	Subject 122 130	patients
+T9	Drug 16 25	phenytoin
+T10	Speculation_cue 89 96	suspect
+T6	Adverse_event 89 96	suspect
+E1	Adverse_event:T6 
+A1	Speculated E1

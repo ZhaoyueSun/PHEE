@@ -1,0 +1,9 @@
+T4	Subject 30 60	a case of a 60 year old female
+T6	Effect 80 118	relapse of symptomatic hyperlactatemia
+T7	Treatment 131 168	switched from stavudine to zidovudine
+T5	Age 42 53	60 year old
+T9	Gender 54 60	female
+T10	Drug 145 154	stavudine
+T11	Drug 158 168	zidovudine
+T8	Adverse_event 119 124	after
+E2	Adverse_event:T8

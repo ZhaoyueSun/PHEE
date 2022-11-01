@@ -1,0 +1,8 @@
+T5	Subject 0 8	Patients
+T8	Speculation_cue 77 86	suspected
+T9	Effect 45 65;118 130	atypical cholangitis liver damage
+T6	Treatment 97 106	captopril
+T11	Drug 22 31	captopril
+T12	Drug 97 106	captopril
+T7	Adverse_event 107 117	associated
+E1	Adverse_event:T7

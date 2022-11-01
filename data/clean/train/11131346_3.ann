@@ -1,0 +1,10 @@
+T6	Subject 0 19	An 8-year-old child
+T7	Effect 73 96	colchicine intoxication
+T9	Treatment 113 143	prophylactic doses of the drug
+T11	Age 3 13	8-year-old
+T12	Age 14 19	child
+T13	Dosage 113 131	prophylactic doses
+T14	Treat-Disorder 25 53	familial Mediterranean fever
+T8	Drug 73 83	colchicine
+T10	Adverse_event 54 63	exhibited
+E1	Adverse_event:T10

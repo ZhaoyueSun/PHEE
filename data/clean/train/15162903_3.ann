@@ -1,0 +1,9 @@
+T3	Effect 0 29	Fatal acute encephalomyelitis
+T4	Treatment 38 77	single dose of intrathecal methotrexate
+T6	Severity_cue 0 5	Fatal
+T7	Dosage 38 49	single dose
+T8	Route 53 64	intrathecal
+T9	Drug 65 77	methotrexate
+T5	Adverse_event 30 35	after
+E1	Adverse_event:T5 
+A1	Severity E1 High

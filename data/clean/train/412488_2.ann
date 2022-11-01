@@ -1,0 +1,8 @@
+T7	Subject 0 14	Three patients
+T9	Treatment 47 51	gold
+T10	Treat-Disorder 64 84	rheumatoid arthritis
+T11	Effect 25 36	proteinuria
+T12	Population 0 5	Three
+T13	Drug 47 51	gold
+T8	Adverse_event 37 46	following
+E1	Adverse_event:T8

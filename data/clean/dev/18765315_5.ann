@@ -1,0 +1,9 @@
+T3	Subject 27 72	3 patients with lymphoproliferative disorders
+T4	Effect 89 113	acute coronary syndromes
+T6	Treatment 130 165	their initial infusion of rituximab
+T7	Population 27 28	3
+T9	Treat-Disorder 43 72	lymphoproliferative disorders
+T10	Drug 156 165	rituximab
+T11	Route 144 152	infusion
+T5	Adverse_event 114 124	associated
+E1	Adverse_event:T5

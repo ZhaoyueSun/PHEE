@@ -1,0 +1,5 @@
+T3	Treatment 30 39	captopril
+T5	Effect 48 54	asthma
+T6	Drug 30 39	captopril
+T4	Adverse_event 40 47	related
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T3	Treatment 0 11	Flucytosine
+T5	Effect 23 31	diarrhea
+T6	Subject 65 83	6%-10% of patients
+T7	Population 65 71	6%-10%
+T8	Drug 0 11	Flucytosine
+T4	Adverse_event 12 22	associated
+E1	Adverse_event:T4

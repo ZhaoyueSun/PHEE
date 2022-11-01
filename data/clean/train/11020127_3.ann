@@ -1,0 +1,5 @@
+T7	Treatment 0 9	Ritonavir
+T9	Effect 21 139	CYP3A4 inhibitor, diminishing carbamazepine metabolism and provoking an increase in serum levels and clinical toxicity
+T10	Drug 0 9	Ritonavir
+T8	Adverse_event 10 15	acted
+E1	Adverse_event:T8 

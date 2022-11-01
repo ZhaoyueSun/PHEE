@@ -1,0 +1,17 @@
+T10	Subject 2 61	10-year-old boy with osteosarcoma and normal renal function
+T12	Effect 96 200	impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase
+T13	Treatment 242 299	4-hour infusion of high-dose methotrexate (MTX) (12 g/m2)
+T15	Effect 324 393	acute renal failure with life-threatening hyperkalemia 29 hours later
+T17	Age 2 13	10-year-old
+T18	Gender 14 17	boy
+T19	Time_elapsed 201 215	within 2 hours
+T20	Route 249 257	infusion
+T21	Drug 271 283	methotrexate
+T22	Dosage 261 270;291 298	high-dose 12 g/m2
+T23	Duration 242 248	4-hour
+T24	Severity_cue 349 365	life-threatening
+T25	Time_elapsed 379 393	29 hours later
+T16	Treat-Disorder 23 35	osteosarcoma
+T14	Adverse_event 316 323	develop
+E1	Adverse_event:T14 
+A1	Severity E1 High

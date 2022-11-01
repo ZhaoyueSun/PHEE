@@ -1,0 +1,7 @@
+T11	Subject 45 109	1754 patients (> or =18 years) with severe sepsis and a high INR
+T12	Age 45 49	1754
+T16	Treatment 174 183	tifacogin
+T17	Drug 174 183	tifacogin
+T19	Treat-Disorder 81 94	severe sepsis
+T18	Potential_therapeutic_event 131 139	assigned
+E1	Potential_therapeutic_event:T18

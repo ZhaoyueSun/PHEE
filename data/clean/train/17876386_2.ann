@@ -1,0 +1,7 @@
+T4	Treatment 35 47	moxifloxacin
+T5	Effect 0 18	Torsade de pointes
+T6	Severity_cue 72 77	fatal
+T7	Drug 35 47	moxifloxacin
+T3	Adverse_event 19 29	associated
+E1	Adverse_event:T3 
+A1	Severity E1 High

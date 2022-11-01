@@ -1,0 +1,6 @@
+T5	Treatment 0 13	Ciprofloxacin
+T7	Effect 22 41	renal insufficiency
+T9	Drug 0 13	Ciprofloxacin
+T10	Treat-Disorder 45 60	cystic fibrosis
+T6	Adverse_event 14 21	induced
+E1	Adverse_event:T6

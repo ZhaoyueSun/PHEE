@@ -1,0 +1,9 @@
+T8	Treat-Disorder 64 76	HIV-positive
+T9	Subject 64 85	HIV-positive patients
+T13	Drug 15 25	sildenafil
+T14	Drug 30 39	indinavir
+T10	Treatment 0 39	Interaction of sildenafil and indinavir
+T11	Potential_therapeutic_event 45 60	co-administered
+T12	Combination 0 11	Interaction
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T12 arg:T13 arg2:T14

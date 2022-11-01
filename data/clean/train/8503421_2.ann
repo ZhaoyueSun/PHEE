@@ -1,0 +1,5 @@
+T2	Treatment 64 122	therapy with recombinant tissue-type plasminogen activator
+T3	Effect 0 57	Cholesterol crystal embolization-associated renal failure
+T4	Drug 101 122	plasminogen activator
+T1	Adverse_event 58 63	after
+E1	Adverse_event:T1

@@ -1,0 +1,9 @@
+T4	Effect 20 43	acute hyperphosphatemia
+T6	Treatment 57 135	rectal administration of sodium phosphate and sodium biphosphate (Fleet enema)
+T7	Route 57 63	rectal
+T8	Drug 82 98	sodium phosphate
+T9	Drug 103 121	sodium biphosphate
+T5	Adverse_event 44 53	secondary
+T10	Combination 99 102	and
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T8 arg2:T9

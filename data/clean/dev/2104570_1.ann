@@ -1,0 +1,7 @@
+T7	Effect 0 30	Secondary hematologic neoplasm
+T8	Treatment 37 62	intravesical chemotherapy
+T10	Treat-Disorder 79 96	bladder carcinoma
+T9	Drug 37 49	intravesical
+T11	Route 50 62	chemotherapy
+T6	Adverse_event 31 36	after
+E1	Adverse_event:T6

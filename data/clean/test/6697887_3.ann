@@ -1,0 +1,5 @@
+T3	Effect 20 41	sustained hypotension
+T5	Treatment 48 86	administration of parenteral verapamil
+T6	Drug 77 86	verapamil
+T4	Adverse_event 42 47	after
+E1	Adverse_event:T4

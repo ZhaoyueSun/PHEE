@@ -1,0 +1,6 @@
+T5	Effect 78 100	irritation of the skin
+T7	Treatment 0 12	Calcipotriol
+T8	Speculation_cue 68 71	may
+T9	Drug 0 12	Calcipotriol
+T6	Adverse_event 72 77	cause
+E1	Adverse_event:T6

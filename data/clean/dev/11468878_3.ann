@@ -1,0 +1,6 @@
+T3	Treatment 60 69	metformin
+T4	Subject 78 85	patient
+T5	Effect 0 54	Digestive hemorrhage caused by a Meckel's diverticulum
+T7	Drug 60 69	metformin
+T6	Adverse_event 70 77	treated
+E1	Adverse_event:T6 

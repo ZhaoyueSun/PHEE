@@ -1,0 +1,8 @@
+T3	Treatment 0 34	Recombinant human interferon-alpha
+T6	Effect 134 154	exacerbate psoriasis
+T7	Drug 0 34	Recombinant human interferon-alpha
+T8	Treat-Disorder 77 84	cancers
+T10	Speculation_cue 130 133	may
+T5	Adverse_event 158 165	trigger
+E1	Adverse_event:T5 
+A1	Speculated E1

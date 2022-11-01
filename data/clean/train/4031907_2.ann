@@ -1,0 +1,7 @@
+T3	Subject 99 124	poorly nourished patients
+T6	Effect 73 81	pellagra
+T7	Sub-Disorder 99 115	poorly nourished
+T8	Drug 0 9	Isoniazid
+T4	Treatment 0 9	Isoniazid
+T5	Adverse_event 66 72	induce
+E1	Adverse_event:T5 

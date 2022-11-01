@@ -1,0 +1,14 @@
+T4	Effect 4 8	rash
+T5	Subject 22 29	patient
+T6	Treatment 52 62	cephalexin
+T8	Drug 52 62	cephalexin
+T10	Treatment 101 121	ampicillin treatment
+T11	Drug 101 111	ampicillin
+T12	Subject 125 133	patients
+T13	Effect 139 163	infectious mononucleosis
+T7	Adverse_event 9 13	seen
+T14	Adverse_event 91 95	seen
+E1	Adverse_event:T7 arg:T5 arg2:T6 arg3:T4
+E2	Adverse_event:T14 arg:T10 arg2:T12 arg3:T13
+R1	has Arg1:T10 Arg2:T11	
+R2	has Arg1:T6 Arg2:T8

@@ -1,0 +1,7 @@
+T5	Effect 37 55	Reye-like syndrome
+T7	Treatment 75 94	calcium hopantenate
+T8	Drug 75 94	calcium hopantenate
+T9	Speculation_cue 56 61	might
+T6	Adverse_event 65 71	caused
+E1	Adverse_event:T6 
+A1	Speculated E1

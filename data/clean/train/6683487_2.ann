@@ -1,0 +1,8 @@
+T9	Effect 0 41	Thrombotic thrombocytopenic purpura (TTP)
+T11	Subject 55 108	a patient with seropositive rheumatoid arthritis (RA)
+T12	Treatment 115 159	2 1/2 months of treatment with penicillamine
+T13	Treat-Disorder 83 103	rheumatoid arthritis
+T14	Drug 146 159	penicillamine
+T10	Adverse_event 42 51	developed
+E1	Adverse_event:T10 
+T1	Duration 115 127	2 1/2 months

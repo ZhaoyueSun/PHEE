@@ -1,0 +1,9 @@
+T3	Effect 0 7	Syncope
+T4	Subject 11 30	a 65-year-old woman
+T6	Treatment 37 54	nitrate ingestion
+T7	Age 13 24	65-year-old
+T8	Gender 25 30	woman
+T9	Drug 37 44	nitrate
+T10	Route 45 54	ingestion
+T5	Adverse_event 31 36	after
+E1	Adverse_event:T5

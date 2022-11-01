@@ -1,0 +1,5 @@
+T3	Treatment 12 22	ergotamine
+T5	Effect 31 43	arteriospasm
+T6	Drug 12 22	ergotamine
+T4	Adverse_event 23 30	induced
+E1	Adverse_event:T4

@@ -1,0 +1,8 @@
+T9	Subject 28 75	a case of juvenile idiopathic arthritis patient
+T10	Treat-Disorder 47 67	idiopathic arthritis
+T12	Effect 90 210	thymic enlargement (true thymic hyperplasia), mediastinal lymphadenopathy and pleurisy associated with systemic symptoms
+T13	Treatment 217 227	Etanercept
+T14	Drug 217 227	Etanercept
+T11	Adverse_event 80 89	developed
+E1	Adverse_event:T11 
+T1	Age 38 46	juvenile

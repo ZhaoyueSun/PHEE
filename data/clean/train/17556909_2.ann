@@ -1,0 +1,6 @@
+T3	Effect 0 15	Paralytic ileus
+T4	Subject 19 27	patients
+T5	Treatment 39 59	bortezomib treatment
+T7	Drug 39 49	bortezomib
+T6	Adverse_event 69 77	reported
+E1	Adverse_event:T6

@@ -1,0 +1,11 @@
+T3	Treatment 49 64	methylphenidate
+T4	Effect 69 77	enuresis
+T5	Subject 81 145	an 11-year-old boy with attention deficit hyperactivity disorder
+T7	Age 84 95	11-year-old
+T8	Gender 96 99	boy
+T10	Speculation_cue 25 33	possible
+T11	Drug 49 64	methylphenidate
+T12	Treat-Disorder 105 145	attention deficit hyperactivity disorder
+T6	Adverse_event 34 45	association
+E1	Adverse_event:T6 
+A1	Speculated E1

@@ -1,0 +1,10 @@
+T5	Effect 22 31	akathisia
+T6	Drug 61 71	olanzapine
+T7	Drug 119 136	neuroleptic agent
+T9	Subject 3 21	two of these cases
+T10	Population 3 6	two
+T4	Treatment 47 103;119 136	withdrawal of olanzapine and substitution by a classical neuroleptic agent
+T8	Treatment 47 91;107 136	withdrawal of olanzapine and substitution by an atypical neuroleptic agent
+T3	Adverse_event 32 40	resolved
+E1	Adverse_event:T3 arg:T4 arg2:T5 arg3:T9 arg4:T9
+E2	Adverse_event:T3 arg:T8 arg2:T5

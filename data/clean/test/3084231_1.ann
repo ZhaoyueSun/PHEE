@@ -1,0 +1,5 @@
+T3	Effect 91 141;160 194;290 304	a direct central nervous system (CNS) toxic effect a paradoxical epileptogenic effect hyperammonemia
+T4	Treatment 145 158	valproic acid
+T6	Drug 145 158	valproic acid
+T5	Adverse_event 282 289	induced
+E1	Adverse_event:T5

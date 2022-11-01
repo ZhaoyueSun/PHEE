@@ -1,0 +1,10 @@
+T3	Subject 0 35	A 36-y-o patient with schizophrenia
+T4	Treatment 54 137	gradually increasing quantities of oolong tea that eventually reached 15 L each day
+T5	Effect 146 155	delirious
+T7	Age 2 8	36-y-o
+T8	Sub-Disorder 22 35	schizophrenia
+T9	Dosage 124 128	15 L
+T10	Freq 129 137	each day
+T11	Drug 89 99	oolong tea
+T6	Adverse_event 139 145	became
+E1	Adverse_event:T6 

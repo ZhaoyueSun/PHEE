@@ -1,0 +1,10 @@
+T9	Effect 20 33	hypoglycaemia
+T11	Treatment 40 83	mefloquine therapy (1,500 mg over two days)
+T12	Treat-Disorder 88 129	severe gastrointestinal cryptosporidiasis
+T13	Subject 133 183	a cachectic AIDS patient with protracted diarrhoea
+T15	Sub-Disorder 135 149	cachectic AIDS
+T16	Sub-Disorder 163 183	protracted diarrhoea
+T17	Drug 40 50	mefloquine
+T18	Dosage 60 68	1,500 mg
+T10	Adverse_event 34 39	after
+E1	Adverse_event:T10 

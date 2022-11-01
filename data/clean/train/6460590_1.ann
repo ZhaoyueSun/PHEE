@@ -1,0 +1,7 @@
+T5	Effect 12 16;36 64	SMON acrodermatitis enteropathica
+T7	Treatment 149 159	clioquinol
+T8	Drug 149 159	clioquinol
+T9	Speculation_cue 75 96	a very high frequency
+T6	Adverse_event 114 125	association
+E1	Adverse_event:T6 
+A1	Speculated E1

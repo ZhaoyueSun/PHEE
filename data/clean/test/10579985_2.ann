@@ -1,0 +1,6 @@
+T3	Effect 50 58	lymphoma
+T5	Treatment 25 35	infliximab
+T7	Treat-Disorder 62 77	Crohn's disease
+T4	Drug 25 35	infliximab
+T6	Adverse_event 17 24	between
+E1	Adverse_event:T6 

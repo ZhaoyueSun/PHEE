@@ -1,0 +1,5 @@
+T3	Effect 0 14	Cardiac arrest
+T5	Treatment 31 42	sulprostone
+T6	Drug 31 42	sulprostone
+T4	Adverse_event 15 25	associated
+E1	Adverse_event:T4

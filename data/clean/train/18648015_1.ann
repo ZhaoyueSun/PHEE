@@ -1,0 +1,6 @@
+T3	Treatment 60 69;0 13	cefoxitin Cephalosporin
+T5	Effect 22 32	leukopenia
+T6	Drug 0 13	Cephalosporin
+T7	Drug 60 69	cefoxitin
+T4	Adverse_event 14 21	induced
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T7	Treatment 0 25	Phenylpropanolamine (PPA)
+T8	Effect 78 112	stroke and other neurologic events
+T10	Drug 0 19	Phenylpropanolamine
+T9	Adverse_event 69 74	cause
+E1	Adverse_event:T9

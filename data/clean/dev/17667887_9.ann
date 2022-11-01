@@ -1,0 +1,8 @@
+T6	Effect 40 58	serotonin syndrome
+T8	Treatment 72 139	combinations of antidepressant and atypical antipsychotic treatment
+T10	Drug 88 102	antidepressant
+T11	Drug 116 129	antipsychotic
+T7	Adverse_event 59 63	from
+T9	Combination 72 84	combinations
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T10 arg2:T11

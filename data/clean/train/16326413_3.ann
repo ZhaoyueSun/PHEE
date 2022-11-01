@@ -1,0 +1,8 @@
+T3	Treatment 0 12	Methotrexate
+T5	Effect 24 35	nephropathy
+T6	Drug 0 12	Methotrexate
+T7	Speculation_cue 158 161	may
+T8	Speculation_cue 41 45	rare
+T4	Adverse_event 13 23	associated
+E1	Adverse_event:T4 
+A1	Speculated E1

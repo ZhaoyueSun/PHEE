@@ -1,0 +1,6 @@
+T7	Effect 5 19	severe illness
+T9	Treatment 41 52	minocycline
+T10	Speculation_cue 24 30	likely
+T11	Drug 41 52	minocycline
+T8	Adverse_event 31 37	caused
+E1	Adverse_event:T8

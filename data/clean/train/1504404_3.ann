@@ -1,0 +1,11 @@
+T3	Subject 16 33	A 49-year-old man
+T4	Treatment 90 103	ciprofloxacin
+T6	Effect 63 72	psychosis
+T7	Age 18 29	49-year-old
+T8	Gender 30 33	man
+T9	Drug 90 103	ciprofloxacin
+T10	Dosage 105 115	250 mg bid
+T11	Severity_cue 56 62	severe
+T5	Adverse_event 34 43	developed
+E1	Adverse_event:T5 
+A1	Severity E1 High

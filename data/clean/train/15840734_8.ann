@@ -1,0 +1,7 @@
+T6	Treatment 73 90	neuroleptic drugs
+T7	Effect 12 15	NMS
+T8	Severity_cue 42 47	fatal
+T9	Drug 73 84	neuroleptic
+T5	Adverse_event 57 67	associated
+E1	Adverse_event:T5 
+A1	Severity E1 High

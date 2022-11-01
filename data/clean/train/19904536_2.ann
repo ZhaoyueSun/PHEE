@@ -1,0 +1,7 @@
+T6	Treatment 0 11	Gemcitabine
+T8	Effect 51 77	unpredictable side effects
+T9	Speculation_cue 41 44	may
+T10	Drug 0 11	Gemcitabine
+T7	Adverse_event 45 50	cause
+E1	Adverse_event:T7 
+A1	Speculated E1

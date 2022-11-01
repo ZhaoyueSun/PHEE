@@ -1,0 +1,11 @@
+T8	Treatment 66 130	a combination of an antidepressant and an atypical antipsychotic
+T9	Effect 31 49	serotonin syndrome
+T10	Speculation_cue 18 25	believe
+T11	Drug 86 100	antidepressant
+T12	Drug 108 130	atypical antipsychotic
+T14	Subject 0 13	In both cases
+T15	Population 3 7	both
+T7	Adverse_event 54 62	produced
+T13	Combination 68 79	combination
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T11 arg2:T12

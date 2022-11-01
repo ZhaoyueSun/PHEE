@@ -1,0 +1,5 @@
+T6	Effect 0 45	Peripheral neuropathy and cerebellar syndrome
+T7	Treatment 62 72	amiodarone
+T8	Drug 62 72	amiodarone
+T5	Adverse_event 46 56	associated
+E1	Adverse_event:T5

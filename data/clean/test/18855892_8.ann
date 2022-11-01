@@ -1,0 +1,7 @@
+T6	Subject 65 85	patients with cancer
+T7	Treatment 101 113	methotrexate
+T9	Effect 122 133	anaphylaxis
+T10	Sub-Disorder 79 85	cancer
+T11	Drug 101 113	methotrexate
+T8	Adverse_event 114 121	induced
+E1	Adverse_event:T8 

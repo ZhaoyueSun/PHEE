@@ -1,0 +1,5 @@
+T3	Treatment 49 52	INH
+T5	Effect 61 80	refractory seizures
+T6	Drug 49 52	INH
+T4	Adverse_event 53 60	induced
+E1	Adverse_event:T4

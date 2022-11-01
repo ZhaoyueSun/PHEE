@@ -1,0 +1,9 @@
+T3	Subject 53 107	a 69-year-old male with severe chronic tophaceous gout
+T4	Effect 0 39	Telescoped digits of the hands and feet
+T6	Treatment 115 136	allopurinol treatment
+T7	Age 55 66	69-year-old
+T8	Gender 67 71	male
+T10	Treat-Disorder 77 107	severe chronic tophaceous gout
+T11	Drug 115 126	allopurinol
+T5	Adverse_event 40 49	developed
+E1	Adverse_event:T5

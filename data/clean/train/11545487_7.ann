@@ -1,0 +1,6 @@
+T3	Effect 20 38	papillary necrosis
+T4	Treatment 65 74	indinavir
+T5	Subject 42 51	a patient
+T7	Drug 65 74	indinavir
+T6	Adverse_event 52 59	treated
+E1	Adverse_event:T6

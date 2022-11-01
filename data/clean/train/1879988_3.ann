@@ -1,0 +1,6 @@
+T5	Treatment 16 40	oral dose of propranolol
+T6	Effect 42 49;74 96	syncope atrioventricular block
+T8	Route 16 20	oral
+T9	Drug 29 40	propranolol
+T7	Adverse_event 50 59	developed
+E1	Adverse_event:T7

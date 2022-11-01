@@ -1,0 +1,8 @@
+T7	Effect 0 47	Rapid onset of muscle weakness (rhabdomyolysis)
+T9	Treatment 64 110	the combined use of simvastatin and colchicine
+T10	Drug 84 95	simvastatin
+T11	Drug 100 110	colchicine
+T8	Adverse_event 48 63	associated with
+T12	Combination 68 76	combined
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T10 arg2:T11

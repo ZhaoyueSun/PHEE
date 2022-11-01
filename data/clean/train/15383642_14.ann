@@ -1,0 +1,9 @@
+T7	Treatment 26 36;91 153	tizanidine during concomitant angiotensin-converting enzyme inhibitor use
+T9	Effect 58 90	compromise hemodynamic stability
+T10	Drug 26 36	tizanidine
+T11	Drug 110 149	angiotensin-converting enzyme inhibitor
+T13	Speculation_cue 45 54	potential
+T8	Adverse_event 58 68	compromise
+T12	Combination 98 109	concomitant
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T10 arg2:T11

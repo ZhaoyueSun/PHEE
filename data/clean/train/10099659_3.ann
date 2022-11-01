@@ -1,0 +1,5 @@
+T9	Treatment 82 86	5-FU
+T10	Effect 12 20;22 32;38 54;0 10	diarrhea dermatitis myelosuppression Stomatitis
+T11	Drug 82 86	5-FU
+T8	Adverse_event 68 78	toxicities
+E1	Adverse_event:T8

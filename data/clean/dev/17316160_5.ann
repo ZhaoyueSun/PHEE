@@ -1,0 +1,12 @@
+T10	Effect 67 83	drug interaction
+T11	Subject 87 111	a critically ill patient
+T12	Treatment 122 156	concomitant linezolid and rifampin
+T14	Sub-Disorder 89 103	critically ill
+T15	Drug 134 143	linezolid
+T16	Drug 148 156	rifampin
+T18	Speculation_cue 58 66	possible
+T13	Adverse_event 112 121	receiving
+T17	Combination 144 147	and
+E1	Adverse_event:T13 
+E2	Combination:T17 arg:T15 arg2:T16
+A1	Speculated E1

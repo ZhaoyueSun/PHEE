@@ -1,0 +1,9 @@
+T5	Effect 39 61	granulomatous reaction
+T6	Effect 73 90	urethral prolapse
+T7	Treatment 92 161	3 months after the transurethral injection of calcium hydroxylapatite
+T9	Time_elapsed 92 100	3 months
+T10	Route 111 134	transurethral injection
+T11	Drug 138 161	calcium hydroxylapatite
+T12	Subject 20 33	a case report
+T8	Adverse_event 62 69	leading
+E1	Adverse_event:T8

@@ -1,0 +1,10 @@
+T4	Subject 29 55	a patient with chronic HCV
+T5	Treatment 69 93	interferon and ribavirin
+T6	Effect 112 126	hallucinations
+T9	Drug 69 79	interferon
+T11	Drug 84 93	ribavirin
+T12	Treat-Disorder 44 55	chronic HCV
+T7	Adverse_event 102 111	developed
+T10	Combination 80 83	and
+E1	Adverse_event:T7 
+E2	Combination:T10 arg:T9 arg2:T11

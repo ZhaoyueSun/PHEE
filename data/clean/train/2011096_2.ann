@@ -1,0 +1,9 @@
+T5	Subject 9 20	38 children
+T6	Treatment 27 57	high-dose cytosine arabinoside
+T8	Effect 101 113	complication
+T9	Population 9 11	38
+T10	Age 12 20	children
+T11	Dosage 27 36	high-dose
+T12	Drug 37 57	cytosine arabinoside
+T7	Adverse_event 66 75	developed
+E1	Adverse_event:T7

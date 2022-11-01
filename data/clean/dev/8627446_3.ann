@@ -1,0 +1,8 @@
+T4	Subject 23 49	a few nodules at diagnosis
+T5	Effect 51 91	the nodules increased in number and size
+T6	Treatment 125 145	methotrexate therapy
+T8	Sub-Disorder 23 36	a few nodules
+T9	Drug 125 137	methotrexate
+T10	Time_elapsed 92 105	3 to 4 months
+T7	Adverse_event 106 111	after
+E1	Adverse_event:T7 

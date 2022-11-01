@@ -1,0 +1,15 @@
+T9	Treatment 74 114	intravenous tissue plasminogen activator
+T10	Subject 20 33	1739 patients
+T11	Population 20 24	1739
+T13	Route 74 85	intravenous
+T14	Drug 86 114	tissue plasminogen activator
+T15	Treat-Disorder 39 60	acute ischemic stroke
+T17	Subject 123 133	125 (7.2%)
+T19	Treatment 149 174	warfarin before admission
+T20	Drug 149 157	warfarin
+T8	Potential_therapeutic_event 61 68	treated
+T18	Potential_therapeutic_event 139 148	receiving
+E1	Potential_therapeutic_event:T8 arg:T10 arg2:T9
+E2	Potential_therapeutic_event:T18 arg:T17 arg2:T19
+R1	has Arg1:T9 Arg2:T15	
+R2	has Arg1:T19 Arg2:T15

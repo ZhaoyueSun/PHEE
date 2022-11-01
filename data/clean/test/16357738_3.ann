@@ -1,0 +1,10 @@
+T7	Subject 22 63	young woman with SLE and thrombocytopenia
+T8	Sub-Disorder 47 63	thrombocytopenia
+T9	Effect 79 121	severe perspiration, headache, and seizure
+T11	Treatment 138 150	cyclosporine
+T12	Age 22 27	young
+T13	Gender 28 33	woman
+T15	Drug 138 150	cyclosporine
+T16	Treat-Disorder 39 42	SLE
+T10	Adverse_event 122 127	after
+E1	Adverse_event:T10 

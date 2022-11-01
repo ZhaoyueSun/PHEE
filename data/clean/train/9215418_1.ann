@@ -1,0 +1,7 @@
+T3	Effect 18 33	hypermagnesemia
+T5	Treatment 73 113	oral administration of magnesium sulfate
+T6	Drug 96 113	magnesium sulfate
+T7	Route 73 77	oral
+T4	Adverse_event 50 62	complication
+E1	Adverse_event:T4 
+A1	Negated E1

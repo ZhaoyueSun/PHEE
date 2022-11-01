@@ -1,0 +1,6 @@
+T7	Treatment 96 101	5-ASA
+T8	Effect 13 43	Reversible lupus-like syndrome
+T9	Drug 96 101	5-ASA
+T10	Speculation_cue 44 51	appears
+T6	Adverse_event 81 92	side effect
+E1	Adverse_event:T6

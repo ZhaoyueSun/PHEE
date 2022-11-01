@@ -1,0 +1,8 @@
+T7	Effect 47 65	serotonin syndrome
+T6	Treatment 0 35	Lithium and venlafaxine interaction
+T10	Drug 0 7	Lithium
+T11	Drug 12 23	venlafaxine
+T8	Adverse_event 39 43	case
+T9	Combination 24 35	interaction
+E1	Adverse_event:T8 
+E2	Combination:T9 arg:T10 arg2:T11

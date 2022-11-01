@@ -1,0 +1,11 @@
+T10	Effect 152 181	increase the risk of seizures
+T11	Treatment 61 110	venlafaxine and trimipramine at therapeutic doses
+T13	Drug 61 72	venlafaxine
+T14	Drug 77 89	trimipramine
+T17	Dosage 93 110	therapeutic doses
+T18	Speculation_cue 137 140	may
+T12	Adverse_event 141 151	eventually
+T15	Combination 73 76	and
+E1	Adverse_event:T12 
+E2	Combination:T15 arg:T13 arg2:T14
+A1	Speculated E1

@@ -1,0 +1,9 @@
+T6	Effect 0 14	Rhabdomyolysis
+T8	Treatment 55 184	hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors when coadministered with agents that may inhibit their metabolism
+T9	Subject 36 44	patients
+T10	Drug 55 87	hydroxymethylglutaryl coenzyme A
+T11	Drug 144 184	agents that may inhibit their metabolism
+T7	Adverse_event 45 54	receiving
+T12	Combination 124 138	coadministered
+E1	Adverse_event:T7 
+E2	Combination:T12 arg:T10 arg2:T11

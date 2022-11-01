@@ -1,0 +1,6 @@
+T3	Treatment 16 32	cyclophosphamide
+T5	Effect 95 115	hepatic angiosarcoma
+T6	Speculation_cue 67 78	potentially
+T7	Drug 16 32	cyclophosphamide
+T4	Adverse_event 79 89	associated
+E1	Adverse_event:T4

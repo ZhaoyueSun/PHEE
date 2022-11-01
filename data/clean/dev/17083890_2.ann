@@ -1,0 +1,5 @@
+T5	Effect 0 25	Nail and skin alterations
+T7	Treatment 53 65	chemotherapy
+T8	Route 53 65	chemotherapy
+T6	Adverse_event 26 36	associated
+E1	Adverse_event:T6

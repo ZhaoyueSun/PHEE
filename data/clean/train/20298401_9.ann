@@ -1,0 +1,12 @@
+T6	Subject 0 11	The patient
+T7	Effect 12 39	died of respiratory failure
+T9	Treatment 46 103	8 days of steroid infusion and erlotinib discontinuation.
+T10	Severity_cue 12 16	died
+T11	Time_elapsed 40 52	after 8 days
+T12	Drug 56 63	steroid
+T13	Route 64 72	infusion
+T14	Drug 77 86	erlotinib
+T15	Subject 0 3	The
+T8	Adverse_event 40 45	after
+E1	Adverse_event:T8 
+A1	Severity E1 High

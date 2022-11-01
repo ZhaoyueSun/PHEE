@@ -1,0 +1,8 @@
+T3	Treatment 138 145	heparin
+T4	Speculation_cue 39 50	possibility
+T7	Effect 79 83;109 119	HDAs thrombosis
+T8	Subject 87 95	patients
+T9	Drug 138 145	heparin
+T6	Adverse_event 128 137	receiving
+E1	Adverse_event:T6 
+A1	Speculated E1

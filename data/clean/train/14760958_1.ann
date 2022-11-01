@@ -1,0 +1,8 @@
+T3	Treatment 81 99	interferon beta-1a
+T4	Effect 0 14	Scleromyxedema
+T6	Subject 18 77	a patient with multiple sclerosis and monoclonal gammopathy
+T8	Sub-Disorder 56 77	monoclonal gammopathy
+T9	Drug 81 99	interferon beta-1a
+T10	Treat-Disorder 33 51	multiple sclerosis
+T5	Adverse_event 78 80	on
+E1	Adverse_event:T5 

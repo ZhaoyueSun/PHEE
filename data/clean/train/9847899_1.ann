@@ -1,0 +1,12 @@
+T3	Treatment 97 107	tuberculin
+T4	Effect 46 93	a strong delayed-type hypersensitivity response
+T7	Drug 97 107	tuberculin
+T9	Treat-Disorder 3 15	this relapse
+T11	Treatment 146 184	anti-inflammatory agent oxpentifylline
+T12	Drug 170 184	oxpentifylline
+T5	Adverse_event 31 42	development
+T10	Potential_therapeutic_event 112 120	improved
+E1	Adverse_event:T5 arg:T4 arg2:T3
+E2	Potential_therapeutic_event:T10 arg:T11
+R1	has Arg1:T11 Arg2:T9	
+A1	Speculated E1

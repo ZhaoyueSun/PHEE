@@ -1,0 +1,8 @@
+T7	Treatment 64 75	minocycline
+T8	Subject 10 41	two patients with acne vulgaris
+T9	Effect 49 63;84 106	fourth type of cutaneous pigmentation
+T10	Population 10 13	two
+T12	Drug 64 75	minocycline
+T13	Treat-Disorder 28 41	acne vulgaris
+T6	Adverse_event 76 83	induced
+E1	Adverse_event:T6 

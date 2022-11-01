@@ -1,0 +1,7 @@
+T4	Effect 0 20	Milk-alkali syndrome
+T5	Treatment 32 42	1,25(OH)2D
+T6	Subject 46 80	a patient with hypoparathyroidism.
+T8	Drug 32 42	1,25(OH)2D
+T9	Treat-Disorder 61 79	hypoparathyroidism
+T3	Adverse_event 21 28	induced
+E1	Adverse_event:T3

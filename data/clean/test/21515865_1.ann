@@ -1,0 +1,10 @@
+T9	Treatment 0 47;55 88	Moxifloxacin-acetaminophen-warfarin interaction bacille Calmette-Guerin treatment
+T12	Drug 0 12	Moxifloxacin
+T13	Drug 13 26	acetaminophen
+T14	Drug 27 35	warfarin
+T15	Treat-Disorder 93 107	bladder cancer
+T16	Drug 55 78	bacille Calmette-Guerin
+T8	Adverse_event 48 54	during
+T10	Combination 36 47	interaction
+E2	Adverse_event:T8 
+E1	Combination:T10 arg:T14 arg2:T13 arg3:T12 arg4:T16

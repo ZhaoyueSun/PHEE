@@ -1,0 +1,11 @@
+T6	Subject 0 40	A 55-year-old HIV-positive African woman
+T8	Treatment 50 91	a single epidural triamcinolone injection
+T9	Treat-Disorder 96 133	pain relief of postherpetic neuralgia
+T10	Age 2 13	55-year-old
+T11	Sub-Disorder 14 17	HIV
+T12	Race 27 34	African
+T13	Gender 35 40	woman
+T14	Drug 68 81	triamcinolone
+T15	Route 82 91	injection
+T7	Potential_therapeutic_event 41 49	received
+E1	Potential_therapeutic_event:T7 

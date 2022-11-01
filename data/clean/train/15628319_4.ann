@@ -1,0 +1,8 @@
+T3	Treatment 10 13	AZA
+T5	Effect 22 35	drug eruption
+T7	Drug 10 13	AZA
+T8	Subject 54 105	two cases of systemic scleroderma with polymyositis
+T4	Adverse_event 14 21	induced
+E1	Adverse_event:T4 
+T2	Population 54 57	two
+T1	Treat-Disorder 67 105	systemic scleroderma with polymyositis

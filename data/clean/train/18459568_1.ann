@@ -1,0 +1,6 @@
+T8	Treat-Disorder 122 135	breast cancer
+T9	Treatment 108 117	tamoxifen
+T7	Effect 0 72	Gastric tumor, endometrial carcinoma and cervical adenocarcinoma in situ
+T11	Drug 108 117	tamoxifen
+T10	Adverse_event 78 86	detected
+E1	Adverse_event:T10

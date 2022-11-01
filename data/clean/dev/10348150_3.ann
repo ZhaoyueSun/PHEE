@@ -1,0 +1,5 @@
+T3	Treatment 26 37	hydroxyurea
+T5	Effect 46 76	acute interstitial pneumonitis
+T6	Drug 26 37	hydroxyurea
+T4	Adverse_event 38 45	induced
+E1	Adverse_event:T4 

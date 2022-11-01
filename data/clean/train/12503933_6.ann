@@ -1,0 +1,7 @@
+T3	Effect 42 65	fulminant liver failure
+T6	Subject 21 30	a patient
+T4	Treatment 91 105	clarithromycin
+T7	Drug 91 105	clarithromycin
+T8	Treat-Disorder 110 119	pneumonia
+T5	Adverse_event 78 85	treated
+E1	Adverse_event:T5 

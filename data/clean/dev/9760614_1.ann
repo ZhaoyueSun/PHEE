@@ -1,0 +1,6 @@
+T3	Treatment 45 71	repeated injections of tPA
+T5	Effect 9 38	1 eye had vitreous hemorrhage
+T6	Route 54 64	injections
+T7	Drug 68 71	tPA
+T4	Adverse_event 39 44	after
+E1	Adverse_event:T4

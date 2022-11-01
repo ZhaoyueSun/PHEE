@@ -1,0 +1,6 @@
+T3	Treatment 19 22	MTX
+T5	Effect 31 42	pneumonitis
+T6	Speculation_cue 43 48	seems
+T7	Drug 19 22	MTX
+T4	Adverse_event 23 30	induced
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T3	Treatment 47 57	nifedipine
+T4	Effect 0 30	Rupture of a cerebral aneurysm
+T6	Drug 47 57	nifedipine
+T5	Adverse_event 31 41	associated
+E1	Adverse_event:T5

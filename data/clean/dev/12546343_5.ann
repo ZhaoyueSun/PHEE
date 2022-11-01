@@ -1,0 +1,6 @@
+T3	Effect 101 123	anaphylactic reactions
+T4	Treatment 127 130	MTX
+T5	Subject 83 91	patients
+T7	Drug 127 130	MTX
+T6	Adverse_event 96 100	have
+E1	Adverse_event:T6

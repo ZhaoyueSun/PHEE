@@ -1,0 +1,5 @@
+T8	Treatment 20 32	methotrexate
+T9	Effect 50 114	bone marrow suppression and oral and gastrointestinal ulceration
+T10	Drug 20 32	methotrexate
+T7	Adverse_event 11 16	signs
+E1	Adverse_event:T7

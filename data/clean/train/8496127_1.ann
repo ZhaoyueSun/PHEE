@@ -1,0 +1,6 @@
+T3	Treatment 29 46	low-dose pimozide
+T5	Effect 0 23	Acute dystonic reaction
+T6	Dosage 29 37	low-dose
+T7	Drug 38 46	pimozide
+T4	Adverse_event 24 28	with
+E1	Adverse_event:T4

@@ -1,0 +1,10 @@
+T4	Subject 11 56	a case of a diabetic patient taking glyburide
+T7	Effect 104 161	prolonged hypoglycemia, which persisted for over 24 hours
+T8	Treatment 76 89	ciprofloxacin
+T9	Drug 47 56	glyburide
+T10	Drug 76 89	ciprofloxacin
+T12	Treat-Disorder 23 31	diabetic
+T6	Adverse_event 94 103	developed
+T11	Combination 65 75	prescribed
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T9 arg2:T10

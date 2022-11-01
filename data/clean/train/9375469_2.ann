@@ -1,0 +1,5 @@
+T5	Treatment 66 82	sodium bisulfite
+T6	Effect 26 58	r eruption as contact dermatitis
+T8	Drug 66 82	sodium bisulfite
+T7	Adverse_event 14 23	diagnosed
+E1	Adverse_event:T7

@@ -1,0 +1,6 @@
+T3	Effect 0 21	Pulmonary leukostasis
+T5	Treatment 35 58	all-trans retinoic acid
+T6	Treat-Disorder 79 124	acute promyelocytic leukemia in first relapse
+T7	Drug 35 58	all-trans retinoic acid
+T4	Adverse_event 22 31	secondary
+E1	Adverse_event:T4

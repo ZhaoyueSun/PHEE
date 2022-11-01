@@ -1,0 +1,9 @@
+T4	Effect 0 29	Fibrosis of corpus cavernosum
+T6	Treatment 36 87	intracavernous injection of phentolamine/papaverine
+T7	Drug 64 76	phentolamine
+T8	Drug 77 87	papaverine
+T9	Route 36 60	intracavernous injection
+T5	Adverse_event 30 35	after
+T10	Combination 76 77	/
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T7 arg2:T8

@@ -1,0 +1,7 @@
+T3	Treatment 0 19	High-dose phosphate
+T5	Effect 39 50	hypokalemia
+T6	Treat-Disorder 54 83	hypophosphatemic osteomalacia
+T7	Drug 10 19	phosphate
+T8	Dosage 0 9	High-dose
+T4	Adverse_event 30 35	leads
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T3	Effect 20 69	acute generalized exanthematous pustulosis (AGEP)
+T4	Treatment 81 100	salazosulfapyridine
+T6	Subject 104 137	a patient with ulcerative colitis
+T7	Treat-Disorder 119 137	ulcerative colitis
+T8	Drug 81 100	salazosulfapyridine
+T5	Adverse_event 70 80	induced by
+E1	Adverse_event:T5 

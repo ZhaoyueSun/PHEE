@@ -1,0 +1,11 @@
+T3	Treatment 0 116	Administration of intrathecal Ara-C in the same dose over longer intervals within 3-5 days between consecutive doses
+T5	Effect 145 166	neurological symptoms
+T6	Subject 190 208	one of 30 patients
+T7	Population 190 199	one of 30
+T8	Route 18 29	intrathecal
+T9	Drug 30 35	Ara-C
+T10	Freq 58 116	longer intervals within 3-5 days between consecutive doses
+T11	Severity_cue 129 133	mild
+T4	Adverse_event 117 125	resulted
+E1	Adverse_event:T4 
+A1	Severity E1 Low

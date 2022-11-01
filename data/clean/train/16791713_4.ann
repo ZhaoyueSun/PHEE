@@ -1,0 +1,10 @@
+T3	Effect 17 38	myocardial infarction
+T4	Subject 54 62	patients
+T5	Treatment 76 101	high-dose glucocorticoids
+T6	Effect 134 158	increased blood pressure
+T8	Drug 86 101	glucocorticoids
+T9	Dosage 76 85	high-dose
+T10	Treat-Disorder 106 128	Graves' ophthalmopathy
+T11	Speculation_cue 39 42	may
+T7	Adverse_event 43 50	develop
+E1	Adverse_event:T7

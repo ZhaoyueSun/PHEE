@@ -1,0 +1,8 @@
+T9	Treatment 0 12	Oral dapsone
+T11	Effect 147 186	dose-dependent haematological reactions
+T13	Drug 5 12	dapsone
+T14	Route 0 4	Oral
+T15	Treat-Disorder 240 264	dermatitis herpetiformis
+T16	Treat-Disorder 269 285	Hansen's disease
+T10	Adverse_event 141 146	cause
+E1	Adverse_event:T10

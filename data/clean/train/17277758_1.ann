@@ -1,0 +1,7 @@
+T4	Effect 0 21	Acute endophthalmitis
+T6	Treatment 32 76	intravitreal bevacizumab (Avastin) injection
+T7	Route 32 44	intravitreal
+T8	Drug 45 56	bevacizumab
+T9	Route 67 76	injection
+T5	Adverse_event 22 31	following
+E1	Adverse_event:T5

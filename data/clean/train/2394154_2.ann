@@ -1,0 +1,6 @@
+T7	Treatment 54 63	acyclovir
+T8	Subject 65 76	the patient
+T10	Effect 87 132	fever, hemoptysis, and a pleural friction rub
+T11	Drug 54 63	acyclovir
+T9	Adverse_event 77 86	developed
+E1	Adverse_event:T9

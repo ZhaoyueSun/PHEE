@@ -1,0 +1,6 @@
+T4	Effect 20 50	noncardiogenic pulmonary edema
+T5	Treatment 88 90	EO
+T8	Drug 88 90	EO
+T9	Treat-Disorder 115 131	esophageal varix
+T6	Adverse_event 51 60	developed
+E1	Adverse_event:T6

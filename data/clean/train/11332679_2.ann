@@ -1,0 +1,21 @@
+T3	Treatment 24 81	visceral leishmaniasis with allopurinol plus ketoconazole
+T4	Subject 85 153	an infant who developed pancreatitis caused by meglumine antimoniate
+T6	Age 88 94	infant
+T7	Sub-Disorder 109 153	pancreatitis caused by meglumine antimoniate
+T9	Drug 52 63	allopurinol
+T10	Drug 69 81	ketoconazole
+T11	Treat-Disorder 24 46	visceral leishmaniasis
+T5	Potential_therapeutic_event 11 20	treatment
+T8	Combination 64 68	plus
+E1	Potential_therapeutic_event:T5 arg:T4 arg2:T3
+E2	Combination:T8 arg:T10 arg2:T9
+T1	Adverse_event 122 128	caused
+E3	Adverse_event:T1 arg:T2 arg2:T12
+T2	Effect 109 121	pancreatitis
+T12	Treatment 132 153	meglumine antimoniate
+T13	Drug 132 153	meglumine antimoniate
+R1	has Arg1:T12 Arg2:T13	
+R2	has Arg1:T4 Arg2:T7	
+R3	has Arg1:T4 Arg2:T6	
+R4	has Arg1:T3 Arg2:T11	
+R5	has_child Arg1:E1 Arg2:E2	

@@ -1,0 +1,5 @@
+T4	Treatment 117 129	cyclosporine
+T6	Drug 117 129	cyclosporine
+T7	Treat-Disorder 53 103	systemic lupus erythematosus with thrombocytopenia
+T5	Potential_therapeutic_event 104 111	treated
+E1	Potential_therapeutic_event:T5

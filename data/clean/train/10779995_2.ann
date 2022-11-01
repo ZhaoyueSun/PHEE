@@ -1,0 +1,9 @@
+T2	Subject 22 48	a child with neuroblastoma
+T3	Treatment 58 72	oral etoposide
+T4	Effect 0 18	Secondary leukemia
+T5	Age 24 29	child
+T7	Treat-Disorder 35 48	neuroblastoma
+T8	Route 58 62	oral
+T9	Drug 63 72	etoposide
+T1	Adverse_event 19 21	in
+E1	Adverse_event:T1

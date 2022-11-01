@@ -1,0 +1,6 @@
+T3	Effect 0 14	Acute dystonia
+T4	Treatment 22 48	pegylated interferon alpha
+T7	Treat-Disorder 72 101	chronic hepatitis B infection
+T8	Drug 22 48	pegylated interferon alpha
+T5	Adverse_event 49 56	therapy
+E1	Adverse_event:T5 

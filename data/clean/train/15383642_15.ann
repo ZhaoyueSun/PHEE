@@ -1,0 +1,10 @@
+T8	Effect 34 49	the hypotension
+T10	Treatment 86 135	the interaction between tizanidine and lisinopril
+T11	Speculation_cue 70 78	possibly
+T12	Drug 110 120	tizanidine
+T13	Drug 125 135	lisinopril
+T15	Subject 53 65	this patient
+T9	Adverse_event 79 82	due
+T14	Combination 90 101	interaction
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T12 arg2:T13

@@ -1,0 +1,9 @@
+T3	Treatment 131 142	propranolol
+T4	Effect 55 84	life-threatening bronchospasm
+T6	Speculation_cue 106 114	possible
+T7	Drug 131 142	propranolol
+T8	Severity_cue 55 71	life-threatening
+T5	Adverse_event 115 127	complication
+E1	Adverse_event:T5 
+A1	Speculated E1
+A2	Severity E1 High

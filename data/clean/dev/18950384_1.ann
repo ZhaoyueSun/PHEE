@@ -1,0 +1,9 @@
+T4	Effect 46 72	unusual weight fluctuation
+T5	Treatment 79 155	corticosteroid and psychotropic treatment such as mianserin and aripiprazole
+T7	Subject 30 37	patient
+T8	Drug 129 138	mianserin
+T9	Drug 143 155	aripiprazole
+T6	Adverse_event 42 45	had
+T10	Combination 139 142	and
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T8 arg2:T9

@@ -1,0 +1,5 @@
+T3	Treatment 41 68	dipyridamole stress testing
+T5	Effect 0 33	High-grade atrioventricular block
+T6	Drug 41 53	dipyridamole
+T4	Adverse_event 34 40	during
+E1	Adverse_event:T4

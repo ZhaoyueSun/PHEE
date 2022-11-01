@@ -1,0 +1,13 @@
+T9	Subject 0 85	A sixty-year-old woman with advanced breast cancer, previously treated with cisplatin
+T11	Effect 97 145	an irreversible lethal renal failure with anuria
+T12	Treatment 147 184	the day after 5 g/m2 bolus ifosfamide
+T13	Age 2 16	sixty-year-old
+T14	Gender 17 22	woman
+T15	Treat-Disorder 28 50	advanced breast cancer
+T17	Time_elapsed 147 160	the day after
+T18	Dosage 161 167	5 g/m2
+T19	Drug 174 184	ifosfamide
+T20	Severity_cue 100 112	irreversible
+T10	Adverse_event 87 96	developed
+E1	Adverse_event:T10 
+A1	Severity E1 High

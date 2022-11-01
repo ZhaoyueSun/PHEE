@@ -1,0 +1,5 @@
+T5	Effect 0 31	Interstitial lung disease (ILD)
+T7	Treatment 43 74	therapy with the drug gefitinib
+T8	Drug 65 74	gefitinib
+T6	Adverse_event 32 39	related
+E1	Adverse_event:T6

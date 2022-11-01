@@ -1,0 +1,7 @@
+T7	Effect 31 83	toxin-positive Clostridium difficile-induced colitis
+T8	Treatment 104 139	clindamycin phosphate vaginal cream
+T10	Drug 31 36	toxin
+T11	Drug 104 125	clindamycin phosphate
+T12	Route 126 139	vaginal cream
+T9	Adverse_event 91 96	after
+E1	Adverse_event:T9

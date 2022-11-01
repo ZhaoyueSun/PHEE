@@ -1,0 +1,5 @@
+T4	Treatment 65 75	colchicine
+T5	Effect 65 88	colchicine intoxication
+T6	Drug 65 75	colchicine
+T3	Adverse_event 76 88	intoxication
+E1	Adverse_event:T3

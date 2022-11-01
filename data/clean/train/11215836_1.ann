@@ -1,0 +1,7 @@
+T3	Effect 22 49	possible serotonin syndrome
+T5	Treatment 115 124	clozapine
+T8	Drug 115 124	clozapine
+T6	Subject 0 2	He
+T9	Gender 0 2	He
+T4	Adverse_event 64 72	resolved
+E1	Adverse_event:T4

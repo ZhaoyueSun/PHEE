@@ -1,0 +1,9 @@
+T8	Subject 20 45	a 52-year-old white woman
+T10	Effect 60 98	a spontaneous nasal septal perforation
+T11	Treatment 115 147	antiangiogenic drug, bevacizumab
+T12	Age 22 33	52-year-old
+T13	Race 34 39	white
+T14	Gender 40 45	woman
+T15	Drug 136 147	bevacizumab
+T9	Adverse_event 50 59	developed
+E1	Adverse_event:T9

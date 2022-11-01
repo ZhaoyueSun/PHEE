@@ -1,0 +1,5 @@
+T3	Effect 0 18	Pemphigus vulgaris
+T5	Treatment 35 48	glibenclamide
+T6	Drug 35 48	glibenclamide
+T4	Adverse_event 19 31	precipitated
+E1	Adverse_event:T4

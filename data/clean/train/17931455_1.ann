@@ -1,0 +1,10 @@
+T3	Subject 13 76	A six-year-old boy with transfusion-dependent beta-thalassaemia
+T5	Effect 87 112	a unilateral hearing loss
+T6	Treatment 127 161	commencing desferrioxamine therapy
+T7	Age 15 27	six-year-old
+T8	Gender 28 31	boy
+T9	Treat-Disorder 37 76	transfusion-dependent beta-thalassaemia
+T10	Time_elapsed 113 126	shortly after
+T11	Drug 138 153	desferrioxamine
+T4	Adverse_event 77 86	developed
+E1	Adverse_event:T4 

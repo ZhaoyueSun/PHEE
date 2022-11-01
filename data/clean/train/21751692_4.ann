@@ -1,0 +1,14 @@
+T11	Subject 26 40	all 7 patients
+T12	Treatment 61 74	propofol TIVA
+T13	Effect 0 8	EA signs
+T15	Population 30 31	7
+T16	Drug 61 69	propofol
+T17	Treatment 152 191	low-dose ketamine was added to propofol
+T18	Dosage 152 160	low-dose
+T19	Drug 161 169	ketamine
+T20	Drug 183 191	propofol
+T22	Route 70 74	TIVA
+T14	Adverse_event 14 22	observed
+T21	Combination 174 179	added
+E1	Adverse_event:T14 
+E2	Combination:T21 arg:T20 arg2:T19

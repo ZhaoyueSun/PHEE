@@ -1,0 +1,12 @@
+T9	Subject 64 119	a breast cancer patient with an impaired renal function
+T10	Treatment 27 60	high dose ifosfamide chemotherapy
+T11	Effect 7 13	anuria
+T13	Treat-Disorder 66 79	breast cancer
+T14	Drug 37 47	ifosfamide
+T15	Severity_cue 0 6	Lethal
+T16	Route 48 60	chemotherapy
+T17	Dosage 27 36	high dose
+T12	Adverse_event 14 26	complicating
+E1	Adverse_event:T12 
+A1	Severity E1 High
+T1	Sub-Disorder 93 119	an impaired renal function

@@ -1,0 +1,14 @@
+T8	Treatment 0 125;145 155	Granisetron hydrochloride (3 mg on days 1, 8, and 15) and dexamethasone (13.2 mg on day 1 and 6.6 mg on days 2, 3, 8, and 15) irinotecan
+T10	Subject 174 187	both patients
+T11	Drug 0 25	Granisetron hydrochloride
+T12	Dosage 27 31	3 mg
+T15	Drug 58 71	dexamethasone
+T16	Dosage 73 80	13.2 mg
+T17	Freq 81 89	on day 1
+T13	Freq 32 52	on days 1, 8, and 15
+T18	Dosage 94 100	6.6 mg
+T19	Freq 101 124	on days 2, 3, 8, and 15
+T9	Potential_therapeutic_event 131 135	used
+T14	Combination 54 57	and
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T14 arg:T15 arg2:T11

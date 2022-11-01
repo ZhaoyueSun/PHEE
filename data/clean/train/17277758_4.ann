@@ -1,0 +1,8 @@
+T4	Treatment 64 98	intravitreal bevacizumab injection
+T5	Subject 19 28	two cases
+T6	Effect 32 53	acute endophthalmitis
+T7	Population 19 22	two
+T8	Route 64 76;89 98	intravitreal injection
+T9	Drug 77 88	bevacizumab
+T3	Adverse_event 54 63	following
+E1	Adverse_event:T3

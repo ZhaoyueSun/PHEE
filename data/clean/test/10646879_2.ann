@@ -1,0 +1,7 @@
+T3	Subject 0 22	Ten to 15% of patients
+T4	Treatment 36 46	ifosfamide
+T6	Effect 58 73	encephalopathy.
+T7	Population 0 10	Ten to 15%
+T8	Drug 36 46	ifosfamide
+T5	Adverse_event 47 54	develop
+E1	Adverse_event:T5

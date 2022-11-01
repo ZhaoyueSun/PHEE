@@ -1,0 +1,5 @@
+T5	Treatment 33 61	treatment of dexmedetomidine
+T7	Effect 70 90	bradycardia with i.v
+T8	Drug 46 61	dexmedetomidine
+T6	Adverse_event 62 69	induced
+E1	Adverse_event:T6

@@ -1,0 +1,9 @@
+T8	Effect 47 55	diabetes
+T9	Treatment 25 35	indapamide
+T11	Subject 59 90	essential hypertension patients
+T13	Speculation_cue 36 39	may
+T14	Drug 25 35	indapamide
+T15	Treat-Disorder 59 81	essential hypertension
+T10	Adverse_event 40 46	induce
+E1	Adverse_event:T10 
+A1	Speculated E1

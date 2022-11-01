@@ -1,0 +1,6 @@
+T3	Treat-Disorder 77 87	depression
+T4	Treatment 47 56	trazodone
+T6	Effect 0 30	Generalized pustular psoriasis
+T7	Drug 47 56	trazodone
+T5	Adverse_event 31 43	precipitated
+E1	Adverse_event:T5

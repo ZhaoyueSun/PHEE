@@ -1,0 +1,6 @@
+T5	Treatment 7 51	the first days of arsenic trioxide treatment
+T6	Effect 52 193	a rapid decrease in the D-dimers was seen (normal values reached until day 7), together with a slight decrease in peripheral blood leukocytes
+T8	Drug 25 41	arsenic trioxide
+T9	Duration 7 21	the first days
+T7	Adverse_event 0 6	During
+E1	Adverse_event:T7

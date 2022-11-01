@@ -1,0 +1,7 @@
+T3	Effect 0 20	Sideroblastic anemia
+T4	Treatment 28 37	linezolid
+T6	Subject 43 88	patient with a left ventricular assist device
+T8	Drug 28 37	linezolid
+T9	Treat-Disorder 58 88	left ventricular assist device
+T7	Adverse_event 21 24	due
+E1	Adverse_event:T7

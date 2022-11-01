@@ -1,0 +1,10 @@
+T3	Subject 34 42	patients
+T4	Treatment 61 84;176 204	5 years with lovastatin a newer macrolide antibiotic
+T6	Effect 99 113	rhabdomyolysis
+T7	Duration 61 68	5 years
+T8	Drug 74 84	lovastatin
+T9	Drug 184 204	macrolide antibiotic
+T5	Adverse_event 89 98	developed
+T10	Combination 119 128	coincided
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T8 arg2:T9

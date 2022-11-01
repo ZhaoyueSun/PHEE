@@ -1,0 +1,9 @@
+T4	Treatment 44 57;62 73	carbamazepine lynestrenol
+T6	Effect 0 20	Hepatopathy subsided
+T7	Dosage 31 40	cessation
+T8	Drug 44 57	carbamazepine
+T9	Drug 62 73	lynestrenol
+T5	Adverse_event 21 26	after
+T10	Combination 58 61	and
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T9 arg2:T8

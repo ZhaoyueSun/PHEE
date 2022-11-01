@@ -1,0 +1,7 @@
+T3	Effect 0 18	Tardive dyskinesia
+T4	Treatment 46 57	ziprasidone
+T5	Subject 22 32	2 patients
+T7	Population 22 23	2
+T8	Drug 46 57	ziprasidone
+T6	Adverse_event 19 21	in
+E1	Adverse_event:T6

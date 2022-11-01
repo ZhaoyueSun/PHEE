@@ -1,0 +1,5 @@
+T4	Effect 55 64	hepatitis
+T5	Treatment 36 46	cimetidine
+T6	Drug 36 46	cimetidine
+T3	Adverse_event 47 54	induced
+E1	Adverse_event:T3

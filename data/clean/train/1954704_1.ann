@@ -1,0 +1,6 @@
+T4	Treatment 39 74	leuprolide acetate (Lupron) therapy
+T5	Treat-Disorder 79 97	prostate carcinoma
+T6	Effect 0 25	Drug induced polymyositis
+T8	Drug 39 66	leuprolide acetate (Lupron)
+T7	Adverse_event 26 38	secondary to
+E1	Adverse_event:T7

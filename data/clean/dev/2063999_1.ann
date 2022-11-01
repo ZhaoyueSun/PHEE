@@ -1,0 +1,7 @@
+T3	Subject 0 27	A case of the Rett syndrome
+T4	Effect 33 53	acute encephalopathy
+T6	Treatment 69 98	calcium hopantenate treatment
+T8	Drug 69 88	calcium hopantenate
+T9	Treat-Disorder 14 27	Rett syndrome
+T5	Adverse_event 54 61	induced
+E1	Adverse_event:T5

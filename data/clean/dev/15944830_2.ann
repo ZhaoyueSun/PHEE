@@ -1,0 +1,7 @@
+T5	Subject 36 45	two cases
+T6	Effect 19 32;71 82	macular edema retinopathy
+T7	Treatment 49 59	interferon
+T9	Population 36 39	two
+T10	Drug 49 59	interferon
+T8	Adverse_event 60 70	associated
+E1	Adverse_event:T8

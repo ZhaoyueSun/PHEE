@@ -1,0 +1,5 @@
+T5	Treatment 0 15	Phenolphthalein
+T6	Effect 24 50	toxic epidermal necrolysis
+T7	Drug 0 15	Phenolphthalein
+T4	Adverse_event 16 23	induced
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T3	Effect 21 35	renal toxicity
+T4	Treatment 39 69	high-dose methotrexate therapy
+T6	Dosage 39 48	high-dose
+T7	Drug 49 61	methotrexate
+T5	Adverse_event 6 17	recognition
+E1	Adverse_event:T5

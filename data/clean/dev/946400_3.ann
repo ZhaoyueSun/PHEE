@@ -1,0 +1,6 @@
+T3	Treatment 43 53	methyldopa
+T9	Speculation_cue 103 106	may
+T10	Drug 43 53	methyldopa
+T4	Adverse_event 54 61	induced
+E1	Adverse_event:T4 
+T1	Effect 62 74	liver injury

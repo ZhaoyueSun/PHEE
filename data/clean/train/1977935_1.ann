@@ -1,0 +1,5 @@
+T5	Effect 0 19	Torsades de pointes
+T6	Treatment 50 61	terfenadine
+T7	Drug 50 61	terfenadine
+T4	Adverse_event 33 44	association
+E1	Adverse_event:T4

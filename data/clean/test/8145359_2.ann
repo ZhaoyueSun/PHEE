@@ -1,0 +1,6 @@
+T3	Treatment 19 41	phenothiazine overdose
+T4	Effect 46 75	respiratory distress syndrome
+T6	Drug 19 32	phenothiazine
+T7	Dosage 33 41	overdose
+T5	Adverse_event 4 15	association
+E1	Adverse_event:T5

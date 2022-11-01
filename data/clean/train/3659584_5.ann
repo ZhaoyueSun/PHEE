@@ -1,0 +1,5 @@
+T7	Effect 15 40	massive pulmonary embolus
+T9	Treatment 82 94	thrombolytic
+T10	Drug 82 94	thrombolytic
+T8	Adverse_event 74 78	risk
+E1	Adverse_event:T8

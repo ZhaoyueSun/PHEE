@@ -1,0 +1,7 @@
+T3	Subject 0 7	A woman
+T5	Effect 18 40	delusional parasitosis
+T6	Treatment 53 63	phenelzine
+T7	Gender 2 7	woman
+T8	Drug 53 63	phenelzine
+T4	Adverse_event 8 17	developed
+E1	Adverse_event:T4

@@ -1,0 +1,8 @@
+T3	Treatment 0 12	Cyclosporine
+T5	Effect 21 34	pain syndrome
+T6	Subject 38 91	a child undergoing hematopoietic stem cell transplant
+T7	Age 40 45	child
+T8	Sub-Disorder 57 91	hematopoietic stem cell transplant
+T9	Drug 0 12	Cyclosporine
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4 

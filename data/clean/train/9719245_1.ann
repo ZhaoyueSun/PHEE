@@ -1,0 +1,5 @@
+T3	Treatment 24 31	Pentasa
+T5	Effect 43 55	pancytopenia
+T6	Drug 24 31	Pentasa
+T4	Adverse_event 32 42	associated
+E1	Adverse_event:T4

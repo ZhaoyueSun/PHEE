@@ -1,0 +1,10 @@
+T6	Treatment 0 32	Phenytoin/isradipine interaction
+T8	Effect 48 67	neurologic toxicity
+T10	Drug 0 9	Phenytoin
+T11	Drug 10 20	isradipine
+T12	Severity_cue 41 47	severe
+T7	Adverse_event 33 40	causing
+T9	Combination 21 32	interaction
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T11 arg2:T10
+A1	Severity E1 High

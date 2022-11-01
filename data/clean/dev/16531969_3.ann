@@ -1,0 +1,5 @@
+T4	Treatment 26 41	Interferon-beta
+T6	Effect 133 147	hepatotoxicity
+T7	Drug 26 52	Interferon-beta (IFN beta)
+T5	Adverse_event 93 105	demonstrated
+E1	Adverse_event:T5

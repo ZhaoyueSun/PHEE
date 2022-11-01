@@ -1,0 +1,8 @@
+T5	Treatment 110 132	quetiapine for 14 days
+T6	Subject 72 88	demented patient
+T8	Effect 20 51	reversible DKA and new-onset DM
+T9	Treat-Disorder 72 80	demented
+T10	Drug 110 120	quetiapine
+T11	Duration 125 132	14 days
+T7	Adverse_event 57 66	developed
+E1	Adverse_event:T7 

@@ -1,0 +1,10 @@
+T7	Effect 40 58	serotonin syndrome
+T8	Treatment 107 151	co-administration of citalopram and fentanyl
+T10	Drug 128 138	citalopram
+T11	Drug 143 151	fentanyl
+T13	Speculation_cue 65 73	probable
+T9	Adverse_event 91 101	associated
+T12	Combination 107 124	co-administration
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T10 arg2:T11
+A1	Speculated E1

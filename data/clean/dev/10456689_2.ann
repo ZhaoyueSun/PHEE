@@ -1,0 +1,5 @@
+T8	Treatment 3 60	Artelinic acid (AL), a water-soluble artemisinin analogue
+T10	Treat-Disorder 78 105	multidrug resistant malaria
+T11	Drug 3 17	Artelinic acid
+T9	Potential_therapeutic_event 65 74	treatment
+E1	Potential_therapeutic_event:T9

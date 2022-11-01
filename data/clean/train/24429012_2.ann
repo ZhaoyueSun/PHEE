@@ -1,0 +1,9 @@
+T8	Effect 17 76	a sharp rise in International Normalized Ratio (INR) values
+T10	Subject 84 93	a patient
+T11	Treatment 96 163	concomitant use of warfarin and the antineoplastic agent vismodegib
+T13	Drug 115 123	warfarin
+T14	Drug 153 163	vismodegib
+T9	Adverse_event 77 83	during
+T12	Combination 96 107	concomitant
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T13 arg2:T14

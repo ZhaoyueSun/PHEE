@@ -1,0 +1,12 @@
+T14	Treat-Disorder 37 66	chronic hepatitis C infection
+T16	Effect 81 95	severe anaemia
+T17	Treatment 128 156;162 173	peginterferon alfa/ribavirin oseltamivir
+T18	Treat-Disorder 193 202	influenza
+T13	Subject 22 66	a patient with chronic hepatitis C infection
+T19	Drug 128 146	peginterferon alfa
+T20	Drug 147 156	ribavirin
+T22	Drug 162 173	oseltamivir
+T15	Adverse_event 71 80	developed
+T21	Combination 146 147	/
+E1	Adverse_event:T15 
+E2	Combination:T21 arg:T19 arg2:T20 arg3:T22

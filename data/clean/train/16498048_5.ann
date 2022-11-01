@@ -1,0 +1,10 @@
+T7	Subject 18 49	three patients with hepatitis C
+T8	Treatment 59 82	IFN-alpha and ribavirin
+T9	Effect 117 220	two successive phases of silent thyroiditis followed by hyperthryroidism relapse due to Graves' disease
+T11	Population 18 23	three
+T12	Treat-Disorder 38 49	hepatitis C
+T13	Drug 59 68	IFN-alpha
+T14	Drug 73 82	ribavirin
+T10	Adverse_event 107 116	developed
+E1	Adverse_event:T10 
+T1	Sub-Disorder 205 220	Graves' disease

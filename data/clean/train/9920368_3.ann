@@ -1,0 +1,6 @@
+T5	Treatment 71 81	amiodarone
+T7	Effect 90 110	thyrotoxicosis (AIT)
+T8	Drug 71 81	amiodarone
+T9	Drug 6 16	amiodarone
+T6	Adverse_event 82 89	induced
+E1	Adverse_event:T6

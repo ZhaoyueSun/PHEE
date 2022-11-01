@@ -1,0 +1,7 @@
+T5	Subject 19 28	two cases
+T6	Effect 32 63	acute dystonic reactions (ADRs)
+T7	Treatment 84 94	lamivudine
+T9	Population 19 22	two
+T10	Drug 84 94	lamivudine
+T8	Adverse_event 74 80	effect
+E1	Adverse_event:T8

@@ -1,0 +1,5 @@
+T5	Treatment 57 66	sorafenib
+T6	Effect 0 40	Localized dyskeratotic plaque with milia
+T7	Drug 57 66	sorafenib
+T4	Adverse_event 41 51	associated
+E1	Adverse_event:T4

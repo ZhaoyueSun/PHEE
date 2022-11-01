@@ -1,0 +1,5 @@
+T3	Effect 0 17	Nodular scleritis
+T5	Treatment 28 39	alendronate
+T6	Drug 28 39	alendronate
+T4	Adverse_event 18 27	following
+E1	Adverse_event:T4

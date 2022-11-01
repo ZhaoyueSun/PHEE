@@ -1,0 +1,13 @@
+T6	Effect 17 30	skin necrosis
+T7	Treatment 0 8	Warfarin
+T8	Drug 0 8	Warfarin
+T10	Treatment 35 42	heparin
+T11	Drug 35 42	heparin
+T13	Effect 51 67	thrombocytopenia
+T14	Treat-Disorder 107 128	marantic endocarditis
+T9	Adverse_event 9 16	induced
+T12	Adverse_event 43 50	induced
+E1	Adverse_event:T9 arg:T7 arg2:T6
+E2	Adverse_event:T12 arg:T10 arg2:T13
+R1	has Arg1:T7 Arg2:T14	
+R2	has Arg1:T10 Arg2:T14

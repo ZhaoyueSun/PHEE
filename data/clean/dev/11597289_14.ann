@@ -1,0 +1,11 @@
+T8	Treatment 22 62	antithrombin III and concomitant heparin
+T9	Subject 3 11	patients
+T11	Effect 90 108	bleeding incidence
+T12	Severity_cue 66 79	significantly
+T14	Drug 43 62	concomitant heparin
+T15	Drug 22 38	antithrombin III
+T10	Adverse_event 80 89	increased
+T13	Combination 39 42	and
+E1	Adverse_event:T10 
+E2	Combination:T13 arg:T15 arg2:T14
+A1	Severity E1 High

@@ -1,0 +1,11 @@
+T11	Effect 72 114	increased risk of intracerebral hemorrhage
+T13	Treatment 148 198;20 41	receiving intravenous tissue plasminogen activator preadmission warfarin
+T12	Subject 118 147	patients with ischemic stroke
+T15	Treat-Disorder 132 147	ischemic stroke
+T9	Speculation_cue 46 86	may be associated with an increased risk
+T17	Drug 33 41	warfarin
+T19	Drug 159 198	ntravenous tissue plasminogen activator
+T10	Adverse_event 53 63	associated
+T18	Combination 148 157	receiving
+E1	Adverse_event:T10 
+E2	Combination:T18 arg:T17 arg2:T19

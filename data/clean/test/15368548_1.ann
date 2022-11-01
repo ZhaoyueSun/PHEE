@@ -1,0 +1,9 @@
+T5	Treatment 0 14	L-asparaginase
+T7	Effect 23 35	pancreatitis
+T8	Severity_cue 42 50	uncommon
+T9	Severity_cue 55 71	potential lethal
+T11	Drug 0 14	L-asparaginase
+T12	Treat-Disorder 105 113	leukemia
+T6	Adverse_event 15 22	induced
+E1	Adverse_event:T6 
+A1	Severity E1 High

@@ -1,0 +1,6 @@
+T9	Treatment 32 43	mirtazapine
+T11	Subject 44 55	the patient
+T12	Effect 68 139	seizures, bradycardia and prolonged QRS as well as QTc intervals on EKG
+T13	Drug 32 43	mirtazapine
+T10	Adverse_event 0 10	Subsequent
+E1	Adverse_event:T10

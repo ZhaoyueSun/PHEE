@@ -1,0 +1,5 @@
+T3	Effect 0 19	Atrial fibrillation
+T5	Treatment 30 62	methylprednisolone pulse therapy
+T6	Drug 30 48	methylprednisolone
+T4	Adverse_event 20 29	following
+E1	Adverse_event:T4

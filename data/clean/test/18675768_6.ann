@@ -1,0 +1,8 @@
+T6	Treatment 28 38	citalopram
+T7	Effect 68 97	chest tightness and dizziness
+T9	Subject 40 43	she
+T10	Gender 40 43	she
+T11	Drug 28 38	citalopram
+T12	Time_elapsed 0 12	Three months
+T8	Adverse_event 44 55	experienced
+E1	Adverse_event:T8

@@ -1,0 +1,11 @@
+T13	Effect 16 28	side effects
+T9	Subject 42 221	colon cancer patient who suffered severe mucositis, desquamating dermatitis, prolonged myelosuppression, and neurologic toxicity that required admission to the intensive care unit
+T10	Treatment 32 36	5-FU
+T14	Sub-Disorder 83 92	mucositis
+T15	Sub-Disorder 94 117	desquamating dermatitis
+T16	Sub-Disorder 129 145	myelosuppression
+T17	Sub-Disorder 151 170	neurologic toxicity
+T18	Drug 32 36	5-FU
+T19	Treat-Disorder 42 54	colon cancer
+T11	Adverse_event 29 31	of
+E1	Adverse_event:T11 

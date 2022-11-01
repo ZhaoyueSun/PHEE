@@ -1,0 +1,10 @@
+T7	Treatment 145 204;48 86	taking warfarin with an international normalized ratio <1.7 tissue plasminogen activator treatment
+T8	Subject 109 144	patients with acute ischemic stroke
+T11	Treat-Disorder 123 144	acute ischemic stroke
+T12	Drug 48 76	tissue plasminogen activator
+T13	Drug 152 160	warfarin
+T10	Potential_therapeutic_event 87 94	appears
+E1	Potential_therapeutic_event:T10 
+T1	Effect 209 255	may reduce the risk of poor functional outcome
+T2	Combination 145 151	taking
+E2	Combination:T2 arg:T12 arg2:T13

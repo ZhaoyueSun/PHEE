@@ -1,0 +1,8 @@
+T13	Treatment 31 63	combined lithium and haloperidol
+T15	Effect 90 179	hyperpyrexia, severe rigidity, mutism, and development of irreversible tardive dyskinesia
+T16	Drug 40 47	lithium
+T17	Drug 52 63	haloperidol
+T14	Adverse_event 64 72	toxicity
+T18	Combination 48 51	and
+E1	Adverse_event:T14 
+E2	Combination:T18 arg:T16 arg2:T17

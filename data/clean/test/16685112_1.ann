@@ -1,0 +1,7 @@
+T6	Effect 40 80	radiation recall dermatitis and myositis
+T5	Treatment 94 162	gemcitabine monotherapy, five months after completing chemoradiation
+T9	Drug 94 105	gemcitabine
+T10	Treat-Disorder 167 201	locally advanced pancreatic cancer
+T11	Time_elapsed 119 136	five months after
+T7	Adverse_event 81 90	occurring
+E1	Adverse_event:T7

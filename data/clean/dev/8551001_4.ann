@@ -1,0 +1,8 @@
+T3	Treatment 131 161	a short course of azathioprine
+T5	Effect 99 124	profound myelosuppression
+T6	Drug 149 161	azathioprine
+T7	Time_elapsed 131 145	a short course
+T8	Severity_cue 99 107	profound
+T4	Adverse_event 125 130	after
+E1	Adverse_event:T4 
+A1	Severity E1 High

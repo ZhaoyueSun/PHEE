@@ -1,0 +1,11 @@
+T3	Treatment 6 112	induction of general anesthesia and administration of a standard dose of intravenous esmolol hydrochloride
+T4	Subject 114 117	her
+T5	Effect 147 155	asystole
+T7	Gender 114 117	her
+T8	Route 79 90	intravenous
+T9	Drug 91 112	esmolol hydrochloride
+T10	Drug 19 37	general anesthesia
+T6	Adverse_event 0 5	After
+T11	Combination 38 41	and
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T10 arg2:T9

@@ -1,0 +1,12 @@
+T12	Effect 219 241	pulmonary tuberculosis
+T14	Treatment 40 190	steroid and lobenzarit disodium for the first 3 years, and then continued with a combined treatment of steroid and bucillamine for the following years
+T13	Drug 143 150	steroid
+T16	Drug 155 166	bucillamine
+T17	Drug 52 71	lobenzarit disodium
+T18	Drug 40 47	steroid
+T20	Time_elapsed 86 93	3 years
+T21	Duration 167 190	for the following years
+T15	Potential_therapeutic_event 27 36	treatment
+T19	Combination 121 129	combined
+E1	Potential_therapeutic_event:T15 
+E2	Combination:T19 arg:T13 arg2:T16 arg3:T17 arg4:T18

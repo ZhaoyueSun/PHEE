@@ -1,0 +1,8 @@
+T3	Treatment 0 12	Epoprostenol
+T4	Speculation_cue 13 16	may
+T6	Effect 43 63	severe erythroderma.
+T8	Drug 0 12	Epoprostenol
+T9	Severity_cue 43 49	severe
+T7	Adverse_event 20 30	associated
+E1	Adverse_event:T7 
+A1	Severity E1 High

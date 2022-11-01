@@ -1,0 +1,12 @@
+T4	Treatment 62 137	desensitization to NPH insulin, as well as standard insulin desensitization
+T8	Speculation_cue 54 61	whether
+T9	Treat-Disorder 153 224	allergic symptoms in a patient allergic to both NPH and regular insulin
+T7	Drug 81 92	NPH insulin
+T5	Route 62 77	desensitization
+T11	Drug 105 121	standard insulin
+T12	Route 122 137	desensitization
+T13	Subject 174 224	a patient allergic to both NPH and regular insulin
+T6	Potential_therapeutic_event 145 152	control
+T10	Combination 94 104	as well as
+E1	Potential_therapeutic_event:T6 
+E2	Combination:T10 arg:T7 arg2:T11

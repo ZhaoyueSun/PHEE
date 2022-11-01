@@ -1,0 +1,7 @@
+T3	Speculation_cue 54 62	probable
+T4	Treatment 84 94	sertraline
+T5	Effect 122 136	rhabdomyolysis
+T7	Drug 84 94	sertraline
+T6	Adverse_event 63 75	relationship
+E1	Adverse_event:T6 
+A1	Speculated E1

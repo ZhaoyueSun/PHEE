@@ -1,0 +1,8 @@
+T7	Treatment 4 84	concomitant use of antidepressant drugs associated with lithium as a co-adjuvant
+T9	Effect 120 136	adverse reaction
+T10	Drug 23 43	antidepressant drugs
+T11	Drug 60 67	lithium
+T8	Adverse_event 94 102	increase
+T12	Combination 44 54	associated
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T10 arg2:T11

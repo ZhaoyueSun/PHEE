@@ -1,0 +1,6 @@
+T4	Effect 0 12	Piloerection
+T6	Treatment 24 62	replacing fluvoxamine with milnacipran
+T7	Drug 51 62	milnacipran
+T8	Drug 34 45	fluvoxamine
+T5	Adverse_event 13 20	induced
+E1	Adverse_event:T5

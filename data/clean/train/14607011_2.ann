@@ -1,0 +1,9 @@
+T7	Treatment 76 130	pseudoephedrine, brompheniramine, and dextromethorphan
+T8	Effect 50 65	infant fatality
+T10	Drug 76 91	pseudoephedrine
+T11	Drug 93 108	brompheniramine
+T12	Drug 114 130	dextromethorphan
+T13	Subject 47 56	an infant
+T14	Age 50 56	infant
+T9	Adverse_event 66 75	involving
+E1	Adverse_event:T9

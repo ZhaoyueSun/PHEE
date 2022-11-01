@@ -1,0 +1,7 @@
+T10	Treat-Disorder 140 178	A. flavus hypertrophic pachymeningitis
+T11	Effect 0 26	The symptoms did not recur
+T12	Treatment 34 89	the 36 months of itraconazole treatment after discharge
+T8	Duration 38 47	36 months
+T13	Drug 51 63	itraconazole
+T9	Potential_therapeutic_event 126 135	effective
+E1	Potential_therapeutic_event:T9

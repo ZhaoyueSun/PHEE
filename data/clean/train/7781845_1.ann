@@ -1,0 +1,7 @@
+T6	Treatment 0 10	Mefloquine
+T8	Effect 22 35	hypoglycaemia
+T9	Subject 41 63	cachectic AIDS patient
+T10	Sub-Disorder 41 55	cachectic AIDS
+T11	Drug 0 10	Mefloquine
+T7	Adverse_event 11 21	associated
+E1	Adverse_event:T7 

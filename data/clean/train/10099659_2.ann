@@ -1,0 +1,5 @@
+T15	Treatment 0 62	5-Fluorouracil (5-FU) is an analogue of pyrimidine nucleosides
+T17	Drug 0 21	5-Fluorouracil (5-FU)
+T18	Treat-Disorder 103 151	head and neck, breast, ovarian, and colon cancer
+T16	Potential_therapeutic_event 78 82	used
+E1	Potential_therapeutic_event:T16

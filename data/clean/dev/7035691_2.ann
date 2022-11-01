@@ -1,0 +1,7 @@
+T7	Subject 13 71	a patient with renal artery stenosis who had only 1 kidney
+T8	Effect 84 138	acute renal impairment developed with transient anuria
+T10	Treatment 145 176	the administration of captopril
+T11	Sub-Disorder 28 71	renal artery stenosis who had only 1 kidney
+T12	Drug 167 176	captopril
+T9	Adverse_event 139 144	after
+E1	Adverse_event:T9 

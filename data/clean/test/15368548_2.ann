@@ -1,0 +1,10 @@
+T4	Treatment 81 102	percutaneous drainage
+T5	Treat-Disorder 0 54	L-asparaginase-induced severe necrotizing pancreatitis
+T8	Effect 23 54	severe necrotizing pancreatitis
+T9	Treatment 0 14	L-asparaginase
+T10	Drug 0 14	L-asparaginase
+T3	Potential_therapeutic_event 68 75	treated
+T7	Adverse_event 15 22	induced
+E1	Potential_therapeutic_event:T3 arg:T4
+E2	Adverse_event:T7 arg:T9 arg2:T8
+R1	has Arg1:T4 Arg2:T5

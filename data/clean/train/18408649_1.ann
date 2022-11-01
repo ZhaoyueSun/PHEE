@@ -1,0 +1,8 @@
+T4	Treatment 58 69	atomoxetine
+T5	Effect 0 19	Development of tics
+T6	Subject 23 47	a thirteen-year-old male
+T7	Age 25 42	thirteen-year-old
+T8	Gender 43 47	male
+T9	Drug 58 69	atomoxetine
+T3	Adverse_event 48 57	following
+E1	Adverse_event:T3

@@ -1,0 +1,11 @@
+T3	Subject 0 23	A 43-year-old white man
+T5	Effect 36 73	shallow erosion of a psoriatic plaque
+T6	Treatment 80 118	chronic administration of methotrexate
+T7	Age 2 13	43-year-old
+T8	Race 14 19	white
+T9	Gender 20 23	man
+T10	Drug 106 118	methotrexate
+T11	Treat-Disorder 57 73	psoriatic plaque
+T12	Duration 80 87	chronic
+T4	Adverse_event 74 79	after
+E1	Adverse_event:T4

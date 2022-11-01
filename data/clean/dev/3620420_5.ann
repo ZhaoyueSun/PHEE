@@ -1,0 +1,7 @@
+T4	Treatment 0 35	Systemic cyclosporin (10 mg/kg/day)
+T5	Effect 48 84	resolution of the corneal ulceration
+T7	Subject 134 141	patient
+T8	Dosage 22 34	10 mg/kg/day
+T10	Drug 0 20	Systemic cyclosporin
+T6	Potential_therapeutic_event 36 44	resulted
+E1	Potential_therapeutic_event:T6

@@ -1,0 +1,11 @@
+T3	Subject 16 60	two newborns with congenital heart anomalies
+T4	Effect 78 100	harlequin color change
+T6	Treatment 174 190	prostaglandin E1
+T7	Population 16 19	two
+T8	Age 20 28	newborns
+T9	Treat-Disorder 34 60	congenital heart anomalies
+T10	Drug 174 190	prostaglandin E1
+T11	Speculation_cue 205 226	possible association.
+T5	Adverse_event 142 149	related
+E1	Adverse_event:T5 
+A1	Speculated E1

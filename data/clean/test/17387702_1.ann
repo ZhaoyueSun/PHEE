@@ -1,0 +1,9 @@
+T3	Effect 0 13	Renal failure
+T4	Treatment 20 42	high-dose methotrexate
+T5	Subject 46 93	a child homozygous for MTHFR C677T polymorphism
+T7	Age 48 53	child
+T8	Sub-Disorder 54 93	homozygous for MTHFR C677T polymorphism
+T9	Dosage 20 29	high-dose
+T10	Drug 30 42	methotrexate
+T6	Adverse_event 14 19	after
+E1	Adverse_event:T6 

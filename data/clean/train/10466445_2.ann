@@ -1,0 +1,5 @@
+T5	Treatment 0 16	Arsenic trioxide
+T8	Drug 0 16	Arsenic trioxide
+T9	Treat-Disorder 80 119	refractory acute promyelocytic leukemia
+T6	Potential_therapeutic_event 74 79	treat
+E1	Potential_therapeutic_event:T6 

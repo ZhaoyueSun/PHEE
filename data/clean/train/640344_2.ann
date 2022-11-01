@@ -1,0 +1,11 @@
+T3	Subject 46 74	a woman with Crohn's disease
+T5	Effect 7 32	histological osteomalacia
+T6	Treatment 75 136	2 years after ileal resection and the start of cholestyramine
+T7	Gender 48 53	woman
+T9	Drug 122 136	cholestyramine
+T10	Time_elapsed 113 118	start
+T11	Treat-Disorder 59 74	Crohn's disease
+T12	Severity_cue 0 6	Severe
+T4	Adverse_event 33 42	developed
+E1	Adverse_event:T4 
+A1	Severity E1 High

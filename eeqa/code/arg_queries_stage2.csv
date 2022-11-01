@@ -1,0 +1,13 @@
+Subject.Disorder,What is the disorder of the subject?
+Subject.Age,What is the age of the subject?
+Subject.Gender,What is the gender of the subject?
+Subject.Population,What is the number of subjects?
+Subject.Race,What is the race of the subject?
+Treatment.Drug,What are the drugs used in the treatment?
+Treatment.Disorder,What is the disorder targeted by the treatment?
+Treatment.Route,What is the route of the treatment?
+Treatment.Dosage,What is the dosage of the treatment?
+Treatment.Time_elapsed,How long has elapsed from the treatment to the occurence of the event?
+Treatment.Duration,How long did the treatment last?
+Treatment.Freq,What is the frequency of the treatment?
+Combination.Drug,What are the drugs used in combination?

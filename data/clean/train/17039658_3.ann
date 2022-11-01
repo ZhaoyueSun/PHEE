@@ -1,0 +1,10 @@
+T5	Subject 22 41;119 132	a 60-year-old woman breast cancer
+T7	Effect 56 64	erythema
+T8	Effect 69 101	erosions in the axilla and groin
+T9	Treatment 111 114	PLD
+T11	Age 24 35	60-year-old
+T12	Gender 36 41	woman
+T13	Drug 111 114	PLD
+T14	Treat-Disorder 119 132	breast cancer
+T6	Adverse_event 46 55	developed
+E1	Adverse_event:T6

@@ -1,0 +1,8 @@
+T7	Treat-Disorder 118 126	epilepsy
+T8	Subject 0 59	A 6-year-old boy (weight: 16 kg, at the start of treatment)
+T9	Treatment 66 103	sodium valproate (valproate syrup 5%)
+T10	Age 2 12	6-year-old
+T11	Gender 13 16	boy
+T12	Drug 66 82	sodium valproate
+T6	Potential_therapeutic_event 104 113	treatment
+E1	Potential_therapeutic_event:T6

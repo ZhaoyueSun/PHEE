@@ -1,0 +1,8 @@
+T3	Subject 30 40;89 135	four cases diabetes insipidus due to hypothalamic lesions
+T4	Treatment 44 54	clofibrate
+T6	Effect 63 71	myopathy
+T8	Population 30 34	four
+T9	Drug 44 54	clofibrate
+T10	Treat-Disorder 89 107	diabetes insipidus
+T5	Adverse_event 55 62	induced
+E1	Adverse_event:T5

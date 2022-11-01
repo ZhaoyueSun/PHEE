@@ -1,0 +1,6 @@
+T3	Effect 0 30	Pneumocystis carinii pneumonia
+T5	Treatment 52 64	methotrexate
+T6	Drug 52 64	methotrexate
+T7	Treat-Disorder 78 84	asthma
+T4	Adverse_event 36 48	complication
+E1	Adverse_event:T4

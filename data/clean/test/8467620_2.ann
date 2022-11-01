@@ -1,0 +1,9 @@
+T3	Treatment 44 56	methotrexate
+T5	Effect 4 26;144 172	mild immunosuppression lymphoproliferative diseases
+T6	Subject 81 115	patients with rheumatoid arthritis
+T8	Speculation_cue 65 73	probably
+T9	Treat-Disorder 95 115	rheumatoid arthritis
+T10	Drug 44 56	methotrexate
+T4	Adverse_event 133 143	developing
+E1	Adverse_event:T4 
+A1	Speculated E1

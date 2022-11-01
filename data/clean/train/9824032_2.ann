@@ -1,0 +1,6 @@
+T9	Treatment 57 63	niacin
+T10	Effect 107 269	prostaglandin-mediated vasodilatation, hyperalgesia of sensory nerve receptors, and potentiation of inflammation in the gingiva with referral of pain to the teeth
+T12	Speculation_cue 75 84	uncertain
+T13	Drug 57 63	niacin
+T11	Adverse_event 96 103	related
+E1	Adverse_event:T11

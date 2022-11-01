@@ -1,0 +1,9 @@
+T8	Subject 0 11	The patient
+T9	Treatment 72 84	methotrexate
+T10	Treat-Disorder 89 101	stress ulcer
+T12	Drug 216 228	methotrexate
+T13	Drug 72 84	methotrexate
+T14	Dosage 62 71	high-dose
+T15	Drug 26 36	omeprazole
+T11	Potential_therapeutic_event 102 113	prophylaxis
+E1	Potential_therapeutic_event:T11

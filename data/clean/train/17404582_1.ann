@@ -1,0 +1,7 @@
+T3	Treatment 0 9	Docetaxel
+T5	Effect 18 58	Meibomian duct inflammation and blockage
+T6	Subject 103 157	a patient with no history of eyelid masses in the past
+T7	Drug 0 9	Docetaxel
+T9	Speculation_cue 66 72	likely
+T4	Adverse_event 10 17	induced
+E1	Adverse_event:T4 

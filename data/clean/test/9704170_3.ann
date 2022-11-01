@@ -1,0 +1,7 @@
+T4	Treatment 31 40	clozapine
+T5	Effect 0 14	Rhabdomyolysis
+T6	Subject 54 137	a patient with decreased calcium-dependent potassium permeability of cell membranes
+T7	Sub-Disorder 69 137	decreased calcium-dependent potassium permeability of cell membranes
+T8	Drug 31 40	clozapine
+T3	Adverse_event 26 30	with
+E1	Adverse_event:T3 

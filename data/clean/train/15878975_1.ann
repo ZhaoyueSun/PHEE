@@ -1,0 +1,9 @@
+T5	Subject 36 47	15 patients
+T6	Effect 64 102	acute hemoglobinemia or hemoglobinuria
+T8	Treatment 113 124	anti-D IGIV
+T9	Treat-Disorder 144 177	ITP or secondary thrombocytopenia
+T10	Population 36 38	15
+T11	Drug 113 124	anti-D IGIV
+T12	Route 125 139	administration
+T7	Adverse_event 103 112	following
+E1	Adverse_event:T7

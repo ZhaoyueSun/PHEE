@@ -1,0 +1,6 @@
+T4	Treatment 20 25	senna
+T5	Subject 10 16	a case
+T6	Effect 34 55	cholestatic hepatitis
+T7	Drug 20 25	senna
+T3	Adverse_event 26 33	induced
+E1	Adverse_event:T3

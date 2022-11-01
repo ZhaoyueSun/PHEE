@@ -1,0 +1,6 @@
+T9	Treatment 46 55	benzarone
+T10	Effect 56 70;120 158	hepatotoxicity (sub)fulminant hepatitis and cirrhosis
+T12	Drug 46 55	benzarone
+T13	Drug 170 179	benzarone
+T11	Adverse_event 43 45	of
+E1	Adverse_event:T11

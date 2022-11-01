@@ -1,0 +1,7 @@
+T3	Treatment 0 11	Mitomycin C
+T5	Effect 20 45	hemolytic uremic syndrome
+T6	Subject 49 64	cancer patients
+T8	Drug 0 11	Mitomycin C
+T9	Treat-Disorder 49 55	cancer
+T4	Adverse_event 12 19	related
+E1	Adverse_event:T4

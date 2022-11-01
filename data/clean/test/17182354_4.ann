@@ -1,0 +1,5 @@
+T5	Treatment 20 27	Ritalin
+T7	Effect 39 60	cataract and glaucoma
+T9	Drug 20 27	Ritalin
+T6	Adverse_event 28 38	associated
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T3	Effect 12 43	new-onset diabetic ketoacidosis
+T4	Subject 47 82	patients with diabetic risk factors
+T6	Treatment 98 156	perospirone hydrochloride or other atypical antipsychotics
+T7	Sub-Disorder 61 82	diabetic risk factors
+T8	Drug 98 123	perospirone hydrochloride
+T5	Adverse_event 4 8	risk
+E1	Adverse_event:T5 

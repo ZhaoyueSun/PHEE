@@ -1,0 +1,8 @@
+T4	Treatment 55 65	olanzapine
+T5	Effect 103 135	rapidly developing hyperglycemia
+T6	Subject 33 49	elderly patients
+T7	Age 33 40	elderly
+T8	Drug 55 65	olanzapine
+T9	Speculation_cue 89 98	potential
+T3	Adverse_event 50 54	with
+E1	Adverse_event:T3

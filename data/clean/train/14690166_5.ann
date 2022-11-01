@@ -1,0 +1,7 @@
+T9	Treatment 0 5	2-CdA
+T11	Effect 23 63;161 207	a long-lasting state of immunodeficiency emergence of secondary neoplasms after its use
+T12	Drug 0 5	2-CdA
+T13	Speculation_cue 136 145	questions
+T10	Adverse_event 16 22	causes
+E1	Adverse_event:T10 
+A1	Speculated E1

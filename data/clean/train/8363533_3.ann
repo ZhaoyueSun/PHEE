@@ -1,0 +1,10 @@
+T3	Subject 47 90	4 Chinese women with autoimmune thyroiditis
+T4	Treatment 0 7	Lithium
+T6	Effect 19 43	transient thyrotoxicosis
+T7	Population 47 48	4
+T8	Race 49 56	Chinese
+T9	Gender 57 62	women
+T10	Sub-Disorder 68 90	autoimmune thyroiditis
+T11	Drug 0 7	Lithium
+T5	Adverse_event 8 18	associated
+E1	Adverse_event:T5 

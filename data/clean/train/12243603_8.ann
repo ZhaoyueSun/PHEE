@@ -1,0 +1,8 @@
+T6	Effect 0 14	Rhabdomyolysis
+T8	Treatment 59 107	diltiazem and other HMG-CoA reductase inhibitors
+T10	Drug 59 68	diltiazem
+T11	Drug 79 107	HMG-CoA reductase inhibitors
+T7	Adverse_event 15 24	resulting
+T9	Combination 39 50	interaction
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T10 arg2:T11

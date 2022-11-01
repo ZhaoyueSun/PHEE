@@ -1,0 +1,12 @@
+T11	Negation_cue 81 84	not
+T13	Treat-Disorder 100 109	akathisia
+T10	Treatment 0 76	Clonazepam, thioridazine, beta-blockers, anticholinergics, and bromocriptine
+T14	Drug 0 10	Clonazepam
+T15	Drug 12 24	thioridazine
+T16	Drug 26 39	beta-blockers
+T17	Drug 41 57	anticholinergics
+T18	Drug 63 76	bromocriptine
+T19	Subject 96 99	his
+T20	Gender 96 99	his
+T12	Potential_therapeutic_event 85 95	ameliorate
+E1	Potential_therapeutic_event:T12

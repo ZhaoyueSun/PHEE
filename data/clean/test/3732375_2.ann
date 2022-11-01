@@ -1,0 +1,8 @@
+T7	Effect 22 47	theophylline intoxication
+T8	Treatment 111 151	concomitant administration of viloxazine
+T11	Drug 78 90	theophylline
+T12	Drug 141 151	viloxazine
+T9	Adverse_event 48 51	due
+T13	Combination 111 122	concomitant
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T12 arg2:T11

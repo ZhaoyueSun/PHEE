@@ -1,0 +1,6 @@
+T4	Treatment 0 14	Cephalosporins
+T5	Effect 47 68	Vitamin K deficiency.
+T6	Drug 0 14	Cephalosporins
+T7	Speculation_cue 19 30	most likely
+T3	Adverse_event 31 41	associated
+E1	Adverse_event:T3

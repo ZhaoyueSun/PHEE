@@ -1,0 +1,8 @@
+T4	Subject 0 19	One of the patients
+T6	Treatment 26 39	dexamethasone
+T7	Effect 50 76	brain metastatic condition
+T8	Population 0 3	One
+T9	Drug 26 39	dexamethasone
+T5	Treat-Disorder 50 76	brain metastatic condition
+T10	Adverse_event 20 23	had
+E1	Adverse_event:T10

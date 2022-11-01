@@ -1,0 +1,6 @@
+T3	Subject 58 77	man, dogs, and cats
+T5	Treatment 0 10	Benzocaine
+T6	Effect 19 36	methemoglobinemia
+T8	Drug 0 10	Benzocaine
+T4	Adverse_event 11 18	induced
+E1	Adverse_event:T4

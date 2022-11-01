@@ -1,0 +1,8 @@
+T3	Treat-Disorder 138 144	asthma
+T5	Subject 0 3	She
+T6	Treatment 4 128	continued taking verapamil for 6 months, then, on her own, stopped all medications including the sustained-release verapamil
+T7	Gender 0 3	She
+T8	Drug 21 30	verapamil
+T9	Duration 31 43	for 6 months
+T4	Potential_therapeutic_event 154 165	disappeared
+E1	Potential_therapeutic_event:T4 

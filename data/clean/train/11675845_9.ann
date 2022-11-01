@@ -1,0 +1,5 @@
+T6	Treat-Disorder 101 133	gastrointestinal adverse effects
+T7	Treatment 13 86	the warfarin dose was again increased after discontinuation of ropinirole
+T9	Drug 17 25	warfarin
+T8	Potential_therapeutic_event 87 93	due to
+E1	Potential_therapeutic_event:T8 

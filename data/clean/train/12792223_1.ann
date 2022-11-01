@@ -1,0 +1,14 @@
+T4	Subject 0 58	A 45-year-old woman with steroid-dependent Crohn's colitis
+T7	Effect 149 168	lupus-like syndrome
+T8	Age 2 13	45-year-old
+T9	Gender 14 19	woman
+T11	Time_elapsed 169 181	eight months
+T12	Drug 98 108	infliximab
+T13	Route 109 118	infusions
+T14	Drug 123 135	methotrexate
+T16	Treat-Disorder 25 58	steroid-dependent Crohn's colitis
+T5	Treatment 86 135;169 208	maintenance infliximab infusions and methotrexate eight months after her initial infusion
+T6	Adverse_event 137 146	developed
+T15	Combination 119 122	and
+E1	Adverse_event:T6 
+E2	Combination:T15 arg:T12 arg2:T14

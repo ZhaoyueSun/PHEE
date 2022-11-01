@@ -1,0 +1,5 @@
+T3	Effect 0 18	Pulmonary toxicity
+T4	Treatment 32 44	procarbazine
+T6	Drug 32 44	procarbazine
+T5	Adverse_event 19 28	secondary
+E1	Adverse_event:T5

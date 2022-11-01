@@ -1,0 +1,6 @@
+T7	Effect 21 32	convulsions
+T9	Subject 46 66	susceptible patients
+T10	Treatment 77 161	the use of the new anaesthetic agents which are capable of inducing CNS excitability
+T8	Adverse_event 33 42	occurring
+E1	Adverse_event:T8 
+T1	Drug 96 107	anaesthetic

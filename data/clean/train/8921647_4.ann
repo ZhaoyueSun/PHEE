@@ -1,0 +1,7 @@
+T4	Effect 62 87	gastrointestinal bleeding
+T6	Treat-Disorder 0 9	Hypoxemia
+T7	Drug 37 47	tolazoline
+T8	Route 48 56	infusion
+T5	Treatment 0 56	Hypoxemia improved during continuous tolazoline infusion
+T3	Adverse_event 88 96	occurred
+E1	Adverse_event:T3

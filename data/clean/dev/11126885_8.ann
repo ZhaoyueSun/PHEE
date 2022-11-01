@@ -1,0 +1,6 @@
+T11	Treatment 45 59	quinine tablet
+T12	Effect 111 134	severe thrombocytopenia
+T15	Drug 45 52	quinine
+T13	Route 53 59	tablet
+T10	Adverse_event 80 89	triggered
+E1	Adverse_event:T10

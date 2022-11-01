@@ -1,0 +1,6 @@
+T3	Effect 0 13	Neurotoxicity
+T4	Treatment 17 41	intrathecal methotrexate
+T6	Route 17 28	intrathecal
+T7	Drug 29 41	methotrexate
+T5	Adverse_event 14 16	of
+E1	Adverse_event:T5

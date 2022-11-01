@@ -1,0 +1,7 @@
+T6	Treatment 70 104	chronic diphenylhydantoin therapy.
+T7	Subject 57 66	a patient
+T8	Effect 0 53	Monoclonal gammopathy and subsequent multiple myeloma
+T9	Dosage 70 77	chronic
+T10	Drug 78 95	diphenylhydantoin
+T5	Adverse_event 67 69	on
+E1	Adverse_event:T5

@@ -1,0 +1,10 @@
+T10	Treatment 106 145	cisplatinum, vinblastine, and bleomycin
+T11	Treat-Disorder 80 100	testicular carcinoma
+T12	Effect 0 56	Transient left homonymous hemianopsia and encephalopathy
+T13	Drug 106 117	cisplatinum
+T14	Drug 119 130	vinblastine
+T15	Drug 136 145	bleomycin
+T9	Adverse_event 57 66	following
+T16	Combination 132 135	and
+E1	Adverse_event:T9 
+E2	Combination:T16 arg:T13 arg2:T14 arg3:T15

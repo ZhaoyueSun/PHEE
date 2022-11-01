@@ -1,0 +1,7 @@
+T3	Treatment 99 112	cephalosporin
+T4	Effect 18 30	coagulopathy
+T6	Drug 99 112	cephalosporin
+T7	Speculation_cue 31 37	seemed
+T5	Adverse_event 57 72	associated with
+E1	Adverse_event:T5 
+A1	Speculated E1

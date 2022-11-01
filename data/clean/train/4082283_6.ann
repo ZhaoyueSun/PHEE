@@ -1,0 +1,7 @@
+T5	Treatment 56 66	rifampicin
+T6	Effect 75 94	renal insufficiency
+T7	Subject 29 52	83 other reported cases
+T8	Population 29 31	83
+T9	Drug 56 66	rifampicin
+T4	Adverse_event 67 74	induced
+E1	Adverse_event:T4

@@ -1,0 +1,9 @@
+T7	Treatment 63 80	aminoglutethimide
+T8	Subject 0 13	Both patients
+T9	Treat-Disorder 86 92	cancer
+T11	Effect 24 44	severe complications
+T12	Severity_cue 24 30	severe
+T13	Drug 63 80	aminoglutethimide
+T10	Adverse_event 14 23	developed
+E1	Adverse_event:T10 
+A1	Severity E1 High

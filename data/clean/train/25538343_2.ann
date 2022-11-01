@@ -1,0 +1,9 @@
+T5	Treatment 42 52	duloxetine
+T6	Effect 0 12	Hyponatremia
+T7	Effect 73 115	potentially life-threatening complications
+T8	Drug 42 52	duloxetine
+T9	Severity_cue 85 101	life-threatening
+T4	Adverse_event 24 31	adverse
+E1	Adverse_event:T4 
+R1	Adverse_Effect Arg1:T6 Arg2:T7	
+A1	Severity E1 High

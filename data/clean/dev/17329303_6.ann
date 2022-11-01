@@ -1,0 +1,8 @@
+T7	Subject 23 34	a girl of 6
+T8	Treatment 47 58	risperidone
+T11	Gender 25 29	girl
+T12	Age 33 34	6
+T13	Drug 47 58	risperidone
+T14	Treat-Disorder 63 67;72 107	ADHD borderline intellectual functioning
+T10	Potential_therapeutic_event 44 46	on
+E1	Potential_therapeutic_event:T10

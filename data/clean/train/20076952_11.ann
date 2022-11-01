@@ -1,0 +1,13 @@
+T11	Treatment 20 32;45 82	itraconazole receiving multiple doses of oxycodone
+T13	Treat-Disorder 87 98	pain relief
+T14	Effect 124 157	opioid-associated adverse effects
+T15	Speculation_cue 99 102	may
+T12	Subject 36 44	patients
+T16	Drug 73 82	oxycodone
+T17	Dosage 55 69	multiple doses
+T18	Drug 20 32	itraconazole
+T10	Adverse_event 103 111	increase
+T19	Combination 45 54	receiving
+E1	Adverse_event:T10 
+E2	Combination:T19 arg:T18 arg2:T16
+A1	Speculated E1

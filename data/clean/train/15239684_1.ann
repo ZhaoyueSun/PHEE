@@ -1,0 +1,6 @@
+T8	Effect 0 21;49 126	Purple glove syndrome purple discoloration and swelling of the hands in the distribution of a glove
+T9	Treatment 159 235	intravenous phenytoin administration through small dorsal veins of the hands
+T11	Route 159 170	intravenous
+T12	Drug 171 180	phenytoin
+T7	Adverse_event 143 155	complication
+E1	Adverse_event:T7

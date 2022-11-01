@@ -1,0 +1,9 @@
+T3	Treatment 138 162	hydroxyurea chemotherapy
+T5	Effect 204 231	myeloproliferative disorder
+T6	Drug 90 101	hydroxyurea
+T7	Drug 138 149	hydroxyurea
+T8	Speculation_cue 66 74	probably
+T4	Route 150 162	chemotherapy
+T9	Adverse_event 75 82	related
+E2	Adverse_event:T9 
+A1	Speculated E2

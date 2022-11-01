@@ -1,0 +1,6 @@
+T3	Treatment 83 93	gabapentin
+T4	Effect 157 173	renal impairment
+T6	Treat-Disorder 116 129	acute illness
+T7	Drug 83 93	gabapentin
+T5	Adverse_event 147 153	regard
+E1	Adverse_event:T5

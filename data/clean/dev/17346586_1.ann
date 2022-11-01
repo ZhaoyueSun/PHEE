@@ -1,0 +1,6 @@
+T3	Treatment 39 116	bisphosphonate treatment (particularly when it is administered intravenously)
+T5	Effect 136 219	osteonecrosis of the mandible or the maxilla represented by exposed nonhealing bone
+T6	Drug 39 53	bisphosphonate
+T7	Route 102 115	intravenously
+T4	Adverse_event 24 35	side effect
+E1	Adverse_event:T4

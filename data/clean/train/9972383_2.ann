@@ -1,0 +1,5 @@
+T3	Effect 31 78	reversible nonthrombocytopenic palpable purpura
+T5	Treatment 95 109	metoclopramide
+T6	Drug 95 109	metoclopramide
+T4	Adverse_event 79 89	associated
+E1	Adverse_event:T4

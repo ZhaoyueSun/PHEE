@@ -1,0 +1,6 @@
+T4	Treatment 82 102	fluvoxamine therapy.
+T5	Effect 58 74	increased libido
+T6	Drug 82 93	fluvoxamine
+T7	Subject 48 54	a case
+T3	Adverse_event 75 81	during
+E1	Adverse_event:T3

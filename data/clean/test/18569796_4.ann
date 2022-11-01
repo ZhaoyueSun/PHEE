@@ -1,0 +1,6 @@
+T3	Effect 86 95	scleritis
+T5	Treatment 37 55;0 19	alendronate sodium Two weeks following
+T6	Drug 37 55	alendronate sodium
+T7	Time_elapsed 0 19	Two weeks following
+T4	Adverse_event 56 64	resulted
+E1	Adverse_event:T4

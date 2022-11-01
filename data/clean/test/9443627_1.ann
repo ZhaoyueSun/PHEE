@@ -1,0 +1,13 @@
+T3	Treat-Disorder 39 72	ifosfamide-related neurotoxicity.
+T7	Drug 39 49	ifosfamide
+T9	Effect 58 71	neurotoxicity
+T6	Treatment 39 49	ifosfamide
+T4	Treatment 0 12	Hemodialysis
+T10	Drug 0 12	Hemodialysis
+T8	Adverse_event 50 57	related
+T11	Potential_therapeutic_event 31 38	reverse
+E1	Adverse_event:T8 arg:T6 arg2:T9
+E2	Potential_therapeutic_event:T11 arg:T4
+R1	has Arg1:T4 Arg2:T10	
+R2	has Arg1:T4 Arg2:T3	
+R3	has Arg1:T6 Arg2:T7

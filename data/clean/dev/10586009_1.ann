@@ -1,0 +1,7 @@
+T3	Treatment 0 7	Codeine
+T4	Effect 0 20	Codeine intoxication
+T6	Subject 28 35	neonate
+T7	Drug 0 7	Codeine
+T8	Age 28 35	neonate
+T5	Adverse_event 21 23	in
+E1	Adverse_event:T5

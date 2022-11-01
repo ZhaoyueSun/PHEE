@@ -1,0 +1,10 @@
+T8	Treatment 18 41	vismodegib and warfarin
+T10	Effect 75 94	acute INR elevation
+T11	Drug 18 28	vismodegib
+T12	Drug 33 41	warfarin
+T14	Speculation_cue 57 65	probable
+T9	Adverse_event 66 71	cause
+T13	Combination 29 32	and
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T11 arg2:T12
+A1	Speculated E1

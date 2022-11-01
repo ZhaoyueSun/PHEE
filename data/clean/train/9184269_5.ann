@@ -1,0 +1,7 @@
+T4	Treatment 116 119	MTX
+T5	Effect 0 11	Pneumonitis
+T6	Speculation_cue 61 72	potentially
+T7	Drug 116 119	MTX
+T3	Adverse_event 111 115	with
+E1	Adverse_event:T3 
+A1	Speculated E1

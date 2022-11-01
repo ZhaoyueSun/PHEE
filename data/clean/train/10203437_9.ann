@@ -1,0 +1,9 @@
+T9	Subject 0 8;38 152	Patients who experience acute inflammatory symptoms or clinical deterioration not related to their gastrointestinal disease
+T10	Treatment 22 37	5-ASA compounds
+T14	Drug 22 27	5-ASA
+T15	Treat-Disorder 128 152	gastrointestinal disease
+T13	Speculation_cue 175 183	rule out
+T16	Effect 186 205	lupus-like reaction
+T11	Adverse_event 42 52	experience
+E1	Adverse_event:T11 
+A1	Speculated E1

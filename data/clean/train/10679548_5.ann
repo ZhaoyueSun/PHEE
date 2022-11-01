@@ -1,0 +1,5 @@
+T3	Effect 31 42	lung injury
+T5	Treatment 16 30	nitrofurantoin
+T6	Drug 16 30	nitrofurantoin
+T4	Adverse_event 56 61	widen
+E1	Adverse_event:T4

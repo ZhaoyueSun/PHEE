@@ -1,0 +1,8 @@
+T5	Effect 63 77;0 29	nephrotoxicity Secondary hyperparathyroidism
+T6	Subject 33 49	certain patients
+T7	Treatment 55 62	lithium
+T9	Drug 55 62	lithium
+T10	Speculation_cue 86 94	possible
+T8	Adverse_event 30 32	in
+E1	Adverse_event:T8 
+A1	Speculated E1

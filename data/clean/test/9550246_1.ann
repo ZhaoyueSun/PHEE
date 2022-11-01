@@ -1,0 +1,7 @@
+T5	Subject 64 91	patients with schizophrenia
+T6	Effect 0 30	A syndrome of increased affect
+T8	Treatment 46 57	risperidone
+T9	Treat-Disorder 78 91	schizophrenia
+T10	Drug 46 57	risperidone
+T7	Adverse_event 34 42	response
+E1	Adverse_event:T7 

@@ -1,0 +1,9 @@
+T7	Subject 80 106	56-year-old female patient
+T10	Treatment 22 38	arsenic trioxide
+T11	Age 80 91	56-year-old
+T12	Gender 92 98	female
+T13	Drug 22 38	arsenic trioxide
+T15	Treat-Disorder 122 153	chemotherapy/ATRA-resistant APL
+T14	Duration 67 74	42 days
+T9	Potential_therapeutic_event 43 48	given
+E1	Potential_therapeutic_event:T9

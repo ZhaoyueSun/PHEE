@@ -1,0 +1,9 @@
+T7	Effect 58 66	myopathy
+T8	Speculation_cue 35 38	may
+T9	Drug 5 15	colchicine
+T10	Drug 20 26	statin
+T4	Treatment 5 34	colchicine and statin therapy
+T6	Adverse_event 42 52	associated
+T5	Combination 16 19	and
+E1	Adverse_event:T6 
+E2	Combination:T5 arg:T9 arg2:T10

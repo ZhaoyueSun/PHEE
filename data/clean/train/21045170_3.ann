@@ -1,0 +1,21 @@
+T17	Subject 0 150	A 47-year-old HIV-infected man with dilated cardiomyopathy and prolonged QT syndrome with an automatic implantable cardiovascular defibrillator device
+T18	Sub-Disorder 36 58	dilated cardiomyopathy
+T19	Treatment 166 338	subcutaneous enfuvirtide 90 mg twice daily as part of his antiretroviral regimen and oral extended-release niacin 500 mg/day for a high-density lipoprotein level of 8 mg/dL
+T21	Effect 408 526	extreme redness, edema, and swelling at the injection site that corresponded with the flushing sensation due to niacin
+T22	Age 2 13	47-year-old
+T23	Treat-Disorder 14 26	HIV-infected
+T24	Gender 27 30	man
+T25	Dosage 191 196	90 mg
+T26	Freq 197 208	twice daily
+T27	Drug 179 190	enfuvirtide
+T28	Route 166 178	subcutaneous
+T29	Route 251 255	oral
+T30	Drug 273 279	niacin
+T31	Dosage 280 286	500 mg
+T32	Freq 287 290	day
+T20	Adverse_event 395 407	experiencing
+E1	Adverse_event:T20 
+T1	Sub-Disorder 63 84	prolonged QT syndrome
+T2	Combination 247 250	and
+E2	Combination:T2 arg:T30 arg2:T27
+T3	Time_elapsed 346 352	1 week

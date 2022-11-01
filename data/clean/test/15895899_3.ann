@@ -1,0 +1,5 @@
+T5	Treatment 26 36	infliximab
+T7	Effect 56 153	production of granulocyte and neutrophil autoantibodies with resultant autoimmune agranulocytosis
+T8	Drug 26 36	infliximab
+T6	Adverse_event 46 55	triggered
+E1	Adverse_event:T6

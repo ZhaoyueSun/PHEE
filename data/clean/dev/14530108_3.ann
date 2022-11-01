@@ -1,0 +1,6 @@
+T3	Effect 71 74	RTA
+T5	Speculation_cue 57 66	potential
+T6	Treatment 89 126	FK506 after any organ transplantation
+T7	Drug 89 94	FK506
+T4	Adverse_event 78 83	occur
+E1	Adverse_event:T4

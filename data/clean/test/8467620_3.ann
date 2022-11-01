@@ -1,0 +1,11 @@
+T4	Effect 22 42	non-Hodgkin lymphoma
+T3	Subject 46 103	a patient, with a 30-year history of rheumatoid arthritis
+T5	Treatment 112 163	low dose methotrexate weekly over a 10-month period
+T7	Population 46 47	a
+T8	Treat-Disorder 83 103	rheumatoid arthritis
+T9	Drug 121 133	methotrexate
+T10	Freq 134 140	weekly
+T11	Duration 148 164	10-month period.
+T12	Dosage 112 120	low dose
+T6	Adverse_event 105 111	taking
+E1	Adverse_event:T6 

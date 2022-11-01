@@ -1,0 +1,6 @@
+T3	Effect 0 10	Paraplegia
+T5	Treatment 21 53	intrathecal cytosine arabinoside
+T6	Route 21 32	intrathecal
+T7	Drug 33 53	cytosine arabinoside
+T4	Adverse_event 11 20	following
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T5	Effect 63 92	gingival bleeding and purpura
+T6	Treatment 0 61	On the next day, after a total dose of only 600 mg of danazol
+T8	Drug 54 61	danazol
+T9	Dosage 23 50	a total dose of only 600 mg
+T7	Adverse_event 93 101	occurred
+E1	Adverse_event:T7

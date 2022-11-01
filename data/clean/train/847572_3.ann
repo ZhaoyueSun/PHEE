@@ -1,0 +1,9 @@
+T4	Treatment 32 43	paracetamol
+T5	Subject 0 15	Two fatal cases
+T6	Effect 19 28	poisoning
+T7	Population 0 3	Two
+T8	Drug 32 43	paracetamol
+T9	Severity_cue 4 9	fatal
+T3	Adverse_event 29 31	by
+E1	Adverse_event:T3 
+A1	Severity E1 High

@@ -1,0 +1,10 @@
+T9	Subject 0 15;53 70	Cancer patients are DPD deficient
+T10	Treatment 24 38	receiving 5-FU
+T11	Sub-Disorder 57 70	DPD deficient
+T12	Effect 83 102	severe side effects
+T14	Drug 34 38	5-FU
+T15	Speculation_cue 71 74	can
+T16	Severity_cue 83 89	severe
+T18	Treat-Disorder 0 6	Cancer
+T13	Adverse_event 75 82	develop
+E1	Adverse_event:T13 

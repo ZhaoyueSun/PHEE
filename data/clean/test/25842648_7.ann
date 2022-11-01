@@ -1,0 +1,9 @@
+T10	Effect 110 128	serotonin syndrome
+T12	Treatment 176 194	SSRIs and fentanyl
+T13	Drug 176 181	SSRIs
+T14	Drug 186 194	fentanyl
+T16	Subject 101 106	cases
+T11	Adverse_event 142 149	related
+T15	Combination 156 167	interaction
+E1	Adverse_event:T11 
+E2	Combination:T15 arg:T13 arg2:T14

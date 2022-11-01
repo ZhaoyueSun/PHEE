@@ -1,0 +1,8 @@
+T4	Effect 39 55	optic neuropathy
+T6	Treatment 0 24	Isoniazid and ethambutol
+T7	Drug 0 9	Isoniazid
+T8	Drug 14 24	ethambutol
+T5	Adverse_event 30 35	cause
+T9	Combination 10 13	and
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T7 arg2:T8

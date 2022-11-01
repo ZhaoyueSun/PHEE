@@ -1,0 +1,6 @@
+T8	Treatment 98 149	tibolone and Hypericum perforatum (St. John's wort)
+T9	Drug 98 106	tibolone
+T10	Drug 111 131	Hypericum perforatum
+T6	Effect 0 87	Acute hepatitis with prolonged cholestasis and disappearance of interlobular bile ducts
+T7	Adverse_event 88 97	following
+E1	Adverse_event:T7

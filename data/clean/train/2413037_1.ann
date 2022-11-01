@@ -1,0 +1,8 @@
+T5	Treatment 42 81	cis-platinum, vinblastine and bleomycin
+T6	Subject 29 38	a patient
+T7	Effect 0 25	Hemolytic uremic syndrome
+T9	Drug 42 54	cis-platinum
+T10	Drug 56 67	vinblastine
+T11	Drug 72 81	bleomycin
+T8	Adverse_event 26 28	in
+E1	Adverse_event:T8

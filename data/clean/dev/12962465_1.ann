@@ -1,0 +1,6 @@
+T3	Treatment 25 37	receiving RH
+T4	Effect 52 83	painful bilateral gynaecomastia
+T7	Drug 35 37	RH
+T8	Time_elapsed 0 17	After four months
+T6	Adverse_event 42 51	developed
+E1	Adverse_event:T6

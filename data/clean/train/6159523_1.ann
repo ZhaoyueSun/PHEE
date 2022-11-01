@@ -1,0 +1,5 @@
+T4	Effect 0 22	Anaphylactoid reaction
+T6	Treatment 26 50	50% solution of dextrose
+T7	Drug 42 50	dextrose
+T5	Adverse_event 23 25	to
+E1	Adverse_event:T5

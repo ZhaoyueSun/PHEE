@@ -1,0 +1,5 @@
+T3	Treatment 0 13	Biomicroscopy
+T5	Effect 23 50	amiodarone corneal deposits
+T6	Drug 0 13	Biomicroscopy
+T4	Adverse_event 14 22	revealed
+E1	Adverse_event:T4 

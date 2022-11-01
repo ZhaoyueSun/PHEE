@@ -1,0 +1,9 @@
+T5	Effect 0 19	Torsades de Pointes
+T6	Treatment 31 157	a combination of garenoxacin and disopyramide and other cytochrome P450, family 3, subfamily A polypeptide-4-influencing drugs
+T7	Drug 48 59	garenoxacin
+T8	Drug 64 76	disopyramide
+T9	Drug 87 157	cytochrome P450, family 3, subfamily A polypeptide-4-influencing drugs
+T4	Adverse_event 20 27	induced
+T10	Combination 33 44	combination
+E1	Adverse_event:T4 
+E2	Combination:T10 arg:T7 arg2:T8 arg3:T9

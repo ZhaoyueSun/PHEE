@@ -1,0 +1,16 @@
+T4	Subject 0 18	A 33-year-old male
+T5	Effect 34 73	brown discolouration of the fingernails
+T6	Treatment 103 202	4% hydroquinone in sorbolene cream and 0.1% tretinoin cream to the face intermittently for 9 months
+T8	Age 2 13	33-year-old
+T9	Gender 14 18	male
+T10	Drug 106 118	hydroquinone
+T11	Dosage 103 105	4%
+T12	Route 132 137	cream
+T13	Dosage 142 146	0.1%
+T14	Drug 147 156	tretinoin
+T15	Route 157 162	cream
+T16	Route 170 174	face
+T17	Freq 175 189	intermittently
+T18	Duration 194 202	9 months
+T7	Adverse_event 88 99	application
+E1	Adverse_event:T7

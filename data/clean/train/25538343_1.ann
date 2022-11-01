@@ -1,0 +1,10 @@
+T9	Treatment 0 10	Duloxetine
+T11	Effect 19 31	hyponatremia
+T7	Subject 35 85	an elderly patient treated with thiazide diuretics
+T8	Age 38 45	elderly
+T13	Drug 0 10	Duloxetine
+T15	Drug 67 85	thiazide diuretics
+T10	Adverse_event 11 18	induced
+T12	Combination 62 66	with
+E1	Adverse_event:T10 
+E2	Combination:T12 arg:T15 arg2:T13

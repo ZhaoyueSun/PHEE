@@ -1,0 +1,6 @@
+T8	Treatment 12 16;42 87	gold granulocyte colony-stimulating factor (G-CSF)
+T9	Effect 25 36	neutropenia
+T10	Drug 12 16	gold
+T11	Subject 42 79	granulocyte colony-stimulating factor
+T7	Adverse_event 17 24	induced
+E1	Adverse_event:T7

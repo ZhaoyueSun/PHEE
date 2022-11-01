@@ -1,0 +1,8 @@
+T3	Subject 41 74	patients with Cushing's syndrome?
+T5	Treatment 4 12	propofol
+T6	Effect 25 37	pancreatitis
+T8	Drug 4 12	propofol
+T9	Speculation_cue 0 3	Can
+T10	Treat-Disorder 55 73	Cushing's syndrome
+T4	Adverse_event 13 24	precipitate
+E1	Adverse_event:T4

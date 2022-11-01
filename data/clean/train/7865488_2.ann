@@ -1,0 +1,8 @@
+T3	Treatment 9 11	EO
+T5	Effect 20 50	noncardiogenic pulmonary edema
+T6	Negation_cue 55 58	not
+T7	Subject 76 81	human
+T8	Drug 9 11	EO
+T4	Adverse_event 12 19	induced
+E1	Adverse_event:T4 
+A1	Negated E1

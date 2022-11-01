@@ -1,0 +1,5 @@
+T5	Effect 0 24	Stevens-Johnson syndrome
+T7	Treatment 39 69	antiretroviral drug nevirapine
+T8	Drug 59 69	nevirapine
+T6	Adverse_event 25 34	caused by
+E1	Adverse_event:T6

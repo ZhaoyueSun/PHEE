@@ -1,0 +1,5 @@
+T3	Effect 0 13	Lichen planus
+T5	Treatment 25 48	hepatitis B vaccination
+T6	Drug 25 48	hepatitis B vaccination
+T4	Adverse_event 14 21	induced
+E1	Adverse_event:T4

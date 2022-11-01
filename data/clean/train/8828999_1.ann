@@ -1,0 +1,9 @@
+T3	Subject 0 39	a 67-year-old man with bipolar disorder
+T5	Effect 52 83	Creutzfeldt-Jakob like syndrome
+T6	Treatment 91 108	lithium carbonate
+T7	Age 2 13	67-year-old
+T9	Gender 14 17	man
+T10	Drug 91 108	lithium carbonate
+T11	Treat-Disorder 23 39	bipolar disorder
+T4	Adverse_event 84 90	during
+E1	Adverse_event:T4

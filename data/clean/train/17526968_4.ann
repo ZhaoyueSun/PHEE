@@ -1,0 +1,6 @@
+T6	Treatment 145 154	bleomycin
+T7	Effect 4 81	hyperpigmentation was diffuse scattered, flagellate like and linear streaking
+T8	Speculation_cue 106 112	mainly
+T9	Drug 145 154	bleomycin
+T5	Adverse_event 133 141	toxicity
+E1	Adverse_event:T5

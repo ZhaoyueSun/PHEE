@@ -1,0 +1,15 @@
+T8	Subject 14 99	A 66-year-old white woman with a 10-year history of hypertension and bronchial asthma
+T10	Treatment 104 211	switched from immediate-release verapamil hydrocloride 40 mg tid to sustained-release verapamil 240 mg/d po
+T12	Age 16 27	66-year-old
+T13	Race 28 33	white
+T14	Gender 34 39	woman
+T15	Treat-Disorder 66 78	hypertension
+T16	Sub-Disorder 83 99	bronchial asthma
+T11	Drug 118 158	immediate-release verapamil hydrocloride
+T17	Drug 172 199	sustained-release verapamil
+T18	Dosage 200 208	240 mg/d
+T19	Dosage 159 168	40 mg tid
+T22	Route 209 211	po
+T9	Potential_therapeutic_event 236 243	control
+E1	Potential_therapeutic_event:T9 
+T1	Treat-Disorder 223 235	hypertension

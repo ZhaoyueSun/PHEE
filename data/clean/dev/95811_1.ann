@@ -1,0 +1,9 @@
+T7	Subject 2 17	61-year-old man
+T9	Effect 28 184	clinical lupus syndrome with positive antinuclear antibody, positive lupus erythematosus (LE) cell preparation, and diffuse proliferative glomerulonephritis
+T10	Treatment 195 228	26 months of procainamide therapy
+T11	Age 2 13	61-year-old
+T12	Gender 14 17	man
+T13	Drug 208 220	procainamide
+T14	Duration 195 204	26 months
+T8	Adverse_event 18 27	developed
+E1	Adverse_event:T8

@@ -1,0 +1,8 @@
+T6	Subject 14 29	43-year-old man
+T8	Effect 66 92	bilateral optic neuropathy
+T9	Treatment 115 125	ethambutol
+T10	Age 14 25	43-year-old
+T11	Gender 26 29	man
+T12	Drug 115 125	ethambutol
+T7	Adverse_event 34 43	developed
+E1	Adverse_event:T7

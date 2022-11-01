@@ -1,0 +1,14 @@
+T10	Effect 20 35	QT prolongation
+T12	Treatment 52 109	concomitant cyclobenzaprine and fluoxetine administration
+T14	Drug 64 79	cyclobenzaprine
+T15	Drug 84 94	fluoxetine
+T16	Effect 122 140	torsade de pointes
+T18	Treatment 156 166	droperidol
+T19	Drug 156 166	droperidol
+T11	Adverse_event 36 46	associated
+T13	Combination 52 63	concomitant
+T17	Adverse_event 141 152	potentiated
+E1	Adverse_event:T11 arg:T10 arg2:T12
+E2	Combination:T13 arg:T14 arg2:T15
+E3	Adverse_event:T17 arg:T16 arg2:T18
+R1	has_child Arg1:E1 Arg2:E2

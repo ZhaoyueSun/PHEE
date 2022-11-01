@@ -1,0 +1,8 @@
+T6	Effect 35 64	acute myeloid leukaemia (AML)
+T7	Treatment 72 107	tamoxifen therapy for breast cancer
+T8	Treat-Disorder 94 107	breast cancer
+T9	Subject 10 19	two cases
+T10	Population 10 13	two
+T11	Drug 72 81	tamoxifen
+T5	Adverse_event 25 34	developed
+E1	Adverse_event:T5

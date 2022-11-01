@@ -1,0 +1,7 @@
+T3	Effect 7 33	hypo-alpha-lipoproteinemia
+T5	Treatment 56 69	rosiglitazone
+T6	Drug 56 69	rosiglitazone
+T7	Severity_cue 0 6	Severe
+T4	Adverse_event 34 40	during
+E1	Adverse_event:T4 
+A1	Severity E1 High

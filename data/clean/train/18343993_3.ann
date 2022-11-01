@@ -1,0 +1,6 @@
+T4	Treatment 59 70	trastuzumab
+T5	Effect 0 42	Life-threatening interstitial lung disease
+T6	Drug 59 70	trastuzumab
+T7	Subject 72 76	case
+T3	Adverse_event 43 53	associated
+E1	Adverse_event:T3

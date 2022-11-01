@@ -1,0 +1,6 @@
+T3	Effect 26 42	HBV reactivation
+T5	Treatment 60 153	the year following rituximab monotherapy in the absence of any other immunosuppressive factor
+T6	Drug 79 88	rituximab
+T7	Time_elapsed 64 78	year following
+T4	Adverse_event 43 52	occurring
+E1	Adverse_event:T4

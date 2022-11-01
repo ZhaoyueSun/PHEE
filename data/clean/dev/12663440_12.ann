@@ -1,0 +1,16 @@
+T10	Effect 106 122	improves CR rate
+T11	Subject 126 186	a small subgroup of patients defined by rhodamine 123 efflux
+T12	Treatment 17 24	quinine
+T13	Sub-Disorder 166 186	rhodamine 123 efflux
+T14	Population 126 142	a small subgroup
+T15	Negation_cue 30 33	not
+T17	Drug 17 24	quinine
+T20	Subject 58 72	adult patients
+T21	Age 58 63	adult
+T22	Treat-Disorder 78 89	de novo AML
+T9	Potential_therapeutic_event 106 114	improves
+T19	Potential_therapeutic_event 34 41	improve
+E1	Potential_therapeutic_event:T9 arg:T12 arg2:T10 arg3:T11
+E2	Potential_therapeutic_event:T19 arg:T12 arg2:T20
+R1	has_cue Arg1:E2 Arg2:T15	
+R2	has Arg1:T12 Arg2:T22

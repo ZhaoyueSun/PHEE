@@ -1,0 +1,10 @@
+T5	Treatment 39 64	Efalizumab and Etanercept
+T6	Treat-Disorder 82 140	refractory palmopustular psoriasis and psoriatic arthritis
+T4	Subject 26 35	a patient
+T7	Effect 10 22	tuberculosis
+T9	Drug 39 49	Efalizumab
+T10	Drug 54 64	Etanercept
+T8	Adverse_event 69 78	treatment
+T11	Combination 50 53	and
+E1	Adverse_event:T8 
+E2	Combination:T11 arg:T9 arg2:T10

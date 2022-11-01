@@ -1,0 +1,5 @@
+T5	Treatment 56 63	lithium
+T7	Effect 75 86	CDI and NDI
+T8	Drug 56 63	lithium
+T6	Adverse_event 64 74	associated
+E1	Adverse_event:T6

@@ -1,0 +1,6 @@
+T3	Effect 0 78	Complications associated with primary and secondary perforation of the bladder
+T6	Drug 116 126	epirubicin
+T7	Route 99 112	instillations
+T5	Treatment 99 126	instillations of epirubicin
+T4	Adverse_event 79 88	following
+E1	Adverse_event:T4

@@ -1,0 +1,8 @@
+T3	Subject 59 83	three depressed patients
+T4	Treatment 10 19	trazodone
+T6	Effect 28 46	hypomanic symptoms
+T7	Population 59 64	three
+T8	Treat-Disorder 65 74	depressed
+T9	Drug 10 19	trazodone
+T5	Adverse_event 20 27	induced
+E1	Adverse_event:T5 

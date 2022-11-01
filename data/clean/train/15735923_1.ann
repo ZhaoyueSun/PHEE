@@ -1,0 +1,6 @@
+T6	Effect 18 42	myelodysplastic syndrome
+T8	Treatment 49 61	temozolomide
+T10	Drug 49 61	temozolomide
+T11	Treat-Disorder 66 93	recurrent high-grade glioma
+T7	Adverse_event 43 48	after
+E1	Adverse_event:T7

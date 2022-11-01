@@ -1,0 +1,5 @@
+T5	Treat-Disorder 107 113	angina
+T6	Treatment 4 28	calcium channel blockers
+T7	Drug 4 28	calcium channel blockers
+T4	Potential_therapeutic_event 94 103	treatment
+E1	Potential_therapeutic_event:T4

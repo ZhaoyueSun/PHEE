@@ -1,0 +1,6 @@
+T9	Effect 24 155	fall of the filtration fraction, the rise in the relative clearance of 99Tc-dimercaptosuccinic acid and the increase in proteinuria
+T11	Treatment 243 257	cyclosporine A
+T10	Speculation_cue 160 167	suggest
+T13	Drug 243 257	cyclosporine A
+T12	Adverse_event 15 23	observed
+E1	Adverse_event:T12

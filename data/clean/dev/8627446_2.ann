@@ -1,0 +1,8 @@
+T6	Subject 12 107	two patients with rheumatoid factor-positive, polyarticular-onset juvenile rheumatoid arthritis
+T8	Effect 116 137	accelerated nodulosis
+T9	Treatment 155 175	methotrexate therapy
+T11	Population 12 15	two
+T13	Drug 155 167	methotrexate
+T14	Treat-Disorder 30 107	rheumatoid factor-positive, polyarticular-onset juvenile rheumatoid arthritis
+T10	Adverse_event 138 147	developed
+E1	Adverse_event:T10

@@ -1,0 +1,7 @@
+T4	Effect 31 36	fever
+T6	Treatment 18 22;59 145	drug with the use of diltiazem hydrochloride, a commonly prescribed calcium channel blocker
+T7	Drug 75 98	diltiazem hydrochloride
+T5	Negation_cue 41 44	not
+T3	Adverse_event 23 30	induced
+E1	Adverse_event:T3 
+A1	Negated E1

@@ -1,0 +1,8 @@
+T6	Effect 97 126	statin-induced rhabdomyolysis
+T8	Treatment 147 156	diltiazem
+T9	Negation_cue 79 87	unlikely
+T10	Drug 147 156	diltiazem
+T11	Speculation_cue 79 87	unlikely
+T7	Adverse_event 131 143	precipitated
+E1	Adverse_event:T7 
+A1	Negated E1

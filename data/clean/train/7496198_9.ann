@@ -1,0 +1,9 @@
+T9	Treatment 76 105;132 159	prescription of thiabendazole during the melarsoprol cure
+T10	Effect 46 70	increase the risk of ARE
+T13	Drug 92 105	thiabendazole
+T14	Treat-Disorder 115 131	strongyloidiasis
+T15	Drug 143 154	melarsoprol
+T16	Speculation_cue 36 45	appear to
+T12	Adverse_event 36 45	appear to
+E1	Adverse_event:T12 
+A1	Speculated E1

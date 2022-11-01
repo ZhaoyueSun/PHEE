@@ -1,0 +1,5 @@
+T4	Effect 31 50	fulminant hepatitis
+T6	Treatment 62 72	nevirapine
+T7	Drug 62 72	nevirapine
+T5	Adverse_event 51 58	induced
+E1	Adverse_event:T5

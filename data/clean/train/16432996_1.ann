@@ -1,0 +1,9 @@
+T9	Effect 15 26	sarcoidosis
+T10	Treatment 34 67	interferon alpha 2b and ribavirin
+T12	Drug 34 53	interferon alpha 2b
+T13	Drug 58 67	ribavirin
+T15	Treat-Disorder 92 111	chronic hepatitis C
+T8	Adverse_event 0 11	Development
+T14	Combination 68 79	combination
+E1	Adverse_event:T8 
+E2	Combination:T14 arg:T13 arg2:T12

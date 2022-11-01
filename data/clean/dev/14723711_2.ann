@@ -1,0 +1,5 @@
+T5	Treatment 59 121	semi-synthetic tetracycline derivative antibiotic, minocycline
+T7	Effect 0 20	Pigmentary disorders
+T8	Drug 110 121	minocycline
+T6	Adverse_event 36 43	adverse
+E1	Adverse_event:T6

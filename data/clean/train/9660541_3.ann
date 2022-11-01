@@ -1,0 +1,7 @@
+T3	Treatment 20 23	MMC
+T5	Effect 32 57	hemolytic uremic syndrome
+T6	Drug 20 23	MMC
+T7	Severity_cue 158 164	severe
+T4	Adverse_event 24 31	related
+E1	Adverse_event:T4 
+A1	Severity E1 High

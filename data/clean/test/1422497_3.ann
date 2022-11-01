@@ -1,0 +1,7 @@
+T4	Treatment 0 51	Continuous bladder irrigation of a 1% alum solution
+T5	Treat-Disorder 123 142	bleeding urothelium
+T7	Drug 35 42	1% alum
+T8	Route 11 29	bladder irrigation
+T9	Freq 0 10	Continuous
+T6	Potential_therapeutic_event 113 118	treat
+E1	Potential_therapeutic_event:T6

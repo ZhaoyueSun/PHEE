@@ -1,0 +1,6 @@
+T4	Effect 0 28	Drug-induced agranulocytosis
+T5	Treatment 51 61	infliximab
+T7	Drug 51 61	infliximab
+T8	Treat-Disorder 65 97	enteropathic spondyloarthropathy
+T3	Adverse_event 29 35	during
+E1	Adverse_event:T3

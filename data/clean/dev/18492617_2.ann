@@ -1,0 +1,7 @@
+T3	Treatment 0 10	Pregabalin
+T5	Effect 19 46	cortical negative myoclonus
+T6	Subject 50 81	a patient with neuropathic pain
+T7	Treat-Disorder 65 81	neuropathic pain
+T8	Drug 0 10	Pregabalin
+T4	Adverse_event 11 18	induced
+E1	Adverse_event:T4 

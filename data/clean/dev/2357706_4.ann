@@ -1,0 +1,9 @@
+T3	Subject 12 24	six patients
+T5	Effect 39 57	tardive dyskinesia
+T6	Treatment 79 88	sulpiride
+T8	Population 12 15	six
+T9	Drug 79 88	sulpiride
+T7	Treat-Disorder 93 103	depression
+T10	Treat-Disorder 107 132	gastrointestinal symptoms
+T4	Adverse_event 29 38	developed
+E1	Adverse_event:T4

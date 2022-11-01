@@ -1,0 +1,5 @@
+T3	Effect 24 35	speech loss
+T5	Treatment 46 51	FK506
+T7	Drug 46 51	FK506
+T4	Adverse_event 36 42	linked
+E1	Adverse_event:T4 

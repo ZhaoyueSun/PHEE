@@ -1,0 +1,9 @@
+T6	Treatment 32 42	vismodegib
+T8	Effect 112 118	deaths
+T9	Subject 87 111	seven reports of patient
+T10	Population 87 92	seven
+T11	Drug 32 42	vismodegib
+T12	Speculation_cue 68 76	possible
+T7	Adverse_event 52 62	implicated
+E1	Adverse_event:T7 
+A1	Speculated E1

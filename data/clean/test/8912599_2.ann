@@ -1,0 +1,5 @@
+T6	Treatment 0 12	Methotrexate
+T9	Drug 0 12	Methotrexate
+T10	Treat-Disorder 65 74	psoriasis
+T8	Potential_therapeutic_event 51 60	treatment
+E1	Potential_therapeutic_event:T8

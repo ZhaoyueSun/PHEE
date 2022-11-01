@@ -1,0 +1,8 @@
+T3	Subject 10 20	4 patients
+T5	Effect 35 64	symptoms of myasthenia gravis
+T6	Treatment 65 115	within 2 weeks of starting treatment with a statin
+T7	Population 10 11	4
+T8	Drug 109 115	statin
+T9	Time_elapsed 72 79	2 weeks
+T4	Adverse_event 25 34	developed
+E1	Adverse_event:T4

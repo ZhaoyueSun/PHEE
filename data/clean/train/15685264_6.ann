@@ -1,0 +1,8 @@
+T6	Treatment 24 49	Carbamazepine 1000 mg/day
+T7	Treat-Disorder 54 70	neuropathic pain
+T9	Subject 0 3	She
+T10	Drug 24 37	Carbamazepine
+T11	Dosage 38 49	1000 mg/day
+T13	Time_elapsed 75 82	2 years
+T8	Potential_therapeutic_event 13 20	treated
+E1	Potential_therapeutic_event:T8

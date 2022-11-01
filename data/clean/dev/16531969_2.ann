@@ -1,0 +1,8 @@
+T3	Effect 0 22	Grade 3 hepatotoxicity
+T6	Subject 108 127	1.4% of MS patients
+T7	Treatment 131 139	IFN beta
+T5	Population 108 112	1.4%
+T9	Drug 131 139	IFN beta
+T10	Treat-Disorder 116 118	MS
+T4	Adverse_event 85 93	observed
+E1	Adverse_event:T4

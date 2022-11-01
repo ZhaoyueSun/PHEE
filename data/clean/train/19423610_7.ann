@@ -1,0 +1,6 @@
+T5	Treatment 0 14	Methylene blue
+T6	Effect 104 122	serotonin toxicity
+T8	Subject 87 100	several cases
+T11	Drug 0 14	Methylene blue
+T9	Adverse_event 151 160	following
+E2	Adverse_event:T9

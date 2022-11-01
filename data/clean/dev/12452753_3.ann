@@ -1,0 +1,11 @@
+T3	Effect 17 35	allergic reactions
+T4	Treatment 0 12	Fluorouracil
+T5	Treatment 39 51	capecitabine
+T7	Drug 0 12	Fluorouracil
+T9	Drug 39 51	capecitabine
+T10	Treat-Disorder 17 51	allergic reactions to capecitabine
+T6	Adverse_event 36 38	to
+T8	Potential_therapeutic_event 13 16	for
+E1	Adverse_event:T6 arg:T3 arg2:T5
+E2	Potential_therapeutic_event:T8 arg:T4
+R1	has Arg1:T4 Arg2:T10

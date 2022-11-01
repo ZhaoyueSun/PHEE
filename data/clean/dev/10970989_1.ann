@@ -1,0 +1,9 @@
+T4	Effect 29 44	lactic acidosis
+T5	Subject 48 57	a patient
+T6	Treatment 61 85	stavudine and lamivudine
+T8	Drug 61 70	stavudine
+T9	Drug 75 85	lamivudine
+T7	Adverse_event 58 60	on
+T10	Combination 71 74	and
+E1	Adverse_event:T7 
+E2	Combination:T10 arg:T9 arg2:T8

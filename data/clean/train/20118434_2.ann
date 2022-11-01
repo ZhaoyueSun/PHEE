@@ -1,0 +1,6 @@
+T4	Effect 19 28	psychosis
+T5	Treatment 0 10	Interferon
+T6	Drug 0 10	Interferon
+T7	Treat-Disorder 68 79	hepatitis C
+T3	Adverse_event 11 18	induced
+E1	Adverse_event:T3

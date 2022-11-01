@@ -1,0 +1,5 @@
+T5	Effect 34 55	prolonged ECT seizure
+T4	Treatment 67 80	ciprofloxacin
+T6	Drug 67 80	ciprofloxacin
+T3	Adverse_event 56 63	related
+E1	Adverse_event:T3

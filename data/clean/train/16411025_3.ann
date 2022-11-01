@@ -1,0 +1,8 @@
+T5	Effect 14 53	delayed stroke-like leukoencephalopathy
+T6	Treatment 94 112	methotrexate (MTX)
+T8	Subject 75 83;117 135	patients childhood leukemia
+T9	Drug 94 106	methotrexate
+T10	Treat-Disorder 117 135	childhood leukemia
+T7	Age 117 126	childhood
+T4	Adverse_event 54 71	has been observed
+E1	Adverse_event:T4

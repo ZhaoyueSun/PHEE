@@ -1,0 +1,7 @@
+T5	Treatment 57 102	sargramostim treatment following chemotherapy
+T3	Effect 20 36	Sweet's syndrome
+T7	Drug 57 69	sargramostim
+T8	Route 90 102	chemotherapy
+T9	Treat-Disorder 107 133	acute myelogenous leukemia
+T4	Adverse_event 40 51	association
+E1	Adverse_event:T4

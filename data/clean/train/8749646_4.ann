@@ -1,0 +1,7 @@
+T3	Treatment 59 68	ofloxacin
+T5	Effect 34 42	seizures
+T6	Subject 12 25	four patients
+T7	Population 12 16	four
+T8	Drug 59 68	ofloxacin
+T4	Adverse_event 49 58	receiving
+E1	Adverse_event:T4

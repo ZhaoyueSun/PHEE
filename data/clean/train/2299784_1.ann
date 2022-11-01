@@ -1,0 +1,10 @@
+T6	Treatment 56 94	a large dose of pyridostigmine bromide
+T7	Effect 105 178	postoperative psychosis and was diagnosed as having bromide intoxication.
+T8	Subject 0 42	A 59-year-old woman with myasthenia gravis
+T9	Age 2 13	59-year-old
+T10	Gender 14 19	woman
+T12	Drug 72 94	pyridostigmine bromide
+T13	Treat-Disorder 25 42	myasthenia gravis
+T14	Dosage 56 68	a large dose
+T5	Adverse_event 95 104	developed
+E1	Adverse_event:T5

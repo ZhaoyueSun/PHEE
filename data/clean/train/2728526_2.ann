@@ -1,0 +1,7 @@
+T9	Treatment 0 8	Rifampin
+T11	Effect 63 133	hepatitis, acute renal failure, hemolytic anemia, and thrombocytopenia
+T12	Drug 0 8	Rifampin
+T13	Severity_cue 32 38	severe
+T10	Adverse_event 16 26	associated
+E1	Adverse_event:T10 
+A1	Severity E1 High

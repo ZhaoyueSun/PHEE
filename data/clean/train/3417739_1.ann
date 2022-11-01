@@ -1,0 +1,10 @@
+T5	Effect 0 19	Acute renal failure
+T6	Subject 23 32	a patient
+T7	Treatment 44 93	continuous povidone-iodine mediastinal irrigation
+T8	Drug 55 63	povidone
+T9	Drug 64 70	iodine
+T10	Route 83 93	irrigation
+T4	Adverse_event 20 22	in
+T11	Combination 63 64	-
+E1	Adverse_event:T4 
+E2	Combination:T11 arg:T8 arg2:T9

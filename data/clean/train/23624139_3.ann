@@ -1,0 +1,12 @@
+T12	Effect 29 48	severe hyponatremia
+T15	Treatment 92 148;162 190	intake of non-steroidal anti-inflammatory drugs (NSAIDs) on DDAVP replacement therapy
+T17	Effect 64 80	seizure and coma
+T13	Subject 152 161;191 226	a patient for central diabetes insipidus (DI)
+T18	Severity_cue 29 35	severe
+T19	Drug 102 139	non-steroidal anti-inflammatory drugs
+T20	Drug 165 170	DDAVP
+T22	Treat-Disorder 195 221	central diabetes insipidus
+T16	Adverse_event 81 87	due to
+T21	Combination 162 164	on
+E1	Adverse_event:T16 
+E2	Combination:T21 arg:T20 arg2:T19

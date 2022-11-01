@@ -1,0 +1,5 @@
+T7	Treatment 0 23	All-trans retinoic acid
+T9	Effect 32 75	focal myositis, synovitis, and mononeuritis
+T10	Drug 0 23	All-trans retinoic acid
+T8	Adverse_event 24 31	induced
+E1	Adverse_event:T8

@@ -1,0 +1,6 @@
+T4	Treatment 65 86	clonazepam 0.5 mg qhs
+T7	Drug 65 75	clonazepam
+T8	Dosage 76 86	0.5 mg qhs
+T9	Treat-Disorder 29 50	restless leg syndrome
+T6	Potential_therapeutic_event 52 59	therapy
+E1	Potential_therapeutic_event:T6

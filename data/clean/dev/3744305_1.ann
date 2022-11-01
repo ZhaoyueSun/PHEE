@@ -1,0 +1,7 @@
+T5	Effect 0 33;89 111	Idiosyncratic pulmonary reactions eosinophilic pneumonia
+T6	Treatment 37 51	nitrofurantoin
+T8	Drug 37 51	nitrofurantoin
+T9	Speculation_cue 56 67	not unusual
+T7	Adverse_event 34 36	to
+E1	Adverse_event:T7 
+A1	Speculated E1

@@ -1,0 +1,5 @@
+T10	Treatment 0 24	Amiodarone hydrochloride
+T11	Effect 79 163	pulmonary toxicity characterized by cough, dyspnea and diffuse pulmonary infiltrates
+T12	Drug 0 24	Amiodarone hydrochloride
+T9	Adverse_event 63 73	associated
+E1	Adverse_event:T9

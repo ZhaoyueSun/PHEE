@@ -1,0 +1,8 @@
+T3	Treatment 22 63	a 3-week course of intravenous tobramycin
+T6	Effect 94 166	elevated serum tobramycin trough level 1 week before the onset of tetany
+T7	Drug 53 63	tobramycin
+T8	Duration 24 37	3-week course
+T9	Route 41 52	intravenous
+T10	Treat-Disorder 68 82	bronchiectasis
+T5	Adverse_event 87 90	had
+E1	Adverse_event:T5

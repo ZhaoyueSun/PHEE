@@ -1,0 +1,5 @@
+T3	Effect 30 48	catatonic syndrome
+T5	Treatment 82 102	disulfiram treatment
+T6	Drug 82 92	disulfiram
+T4	Adverse_event 49 58	occurring
+E1	Adverse_event:T4

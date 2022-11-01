@@ -1,0 +1,11 @@
+T7	Treatment 22 44;185 258	under tibolone therapy a ten weeks treatment with St. John wort (Hypericum Perforatum) infusions
+T8	Subject 12 44	a patient under tibolone therapy
+T9	Effect 73 174	a mixed-type liver injury with prolonged cholestasis and features of the vanishing bile duct syndrome
+T10	Drug 227 247	Hypericum Perforatum
+T11	Route 249 258	infusions
+T12	Duration 187 196	ten weeks
+T13	Drug 28 36	tibolone
+T6	Adverse_event 63 72	developed
+T14	Combination 175 184	following
+E1	Adverse_event:T6 
+E2	Combination:T14 arg:T13 arg2:T10

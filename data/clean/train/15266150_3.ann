@@ -1,0 +1,5 @@
+T3	Effect 0 10	Trichiasis
+T4	Treatment 27 47	prostaglandin analog
+T6	Drug 27 47	prostaglandin analog
+T5	Adverse_event 11 21	associated
+E1	Adverse_event:T5

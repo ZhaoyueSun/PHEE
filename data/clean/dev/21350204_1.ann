@@ -1,0 +1,11 @@
+T8	Treatment 0 23;94 135	Subtherapeutic warfarin treated with tissue plasminogen activator
+T10	Effect 47 73	increased hemorrhage rates
+T11	Treat-Disorder 77 93	ischemic strokes
+T12	Negation_cue 27 30	not
+T14	Drug 107 135	tissue plasminogen activator
+T15	Drug 15 23	warfarin
+T9	Adverse_event 31 41	associated
+T13	Combination 94 101	treated
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T15 arg2:T14
+A1	Negated E1

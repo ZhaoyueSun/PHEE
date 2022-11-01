@@ -1,0 +1,6 @@
+T3	Effect 0 33	Interstitial fibrosis of the lung
+T4	Treatment 65 77	methotrexate
+T7	Drug 65 77	methotrexate
+T8	Treat-Disorder 90 99	psoriasis
+T6	Adverse_event 49 61	complication
+E1	Adverse_event:T6

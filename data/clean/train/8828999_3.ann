@@ -1,0 +1,7 @@
+T5	Treatment 0 7	Lithium
+T6	Effect 0 21	Lithium neurotoxicity
+T7	Treat-Disorder 46 71	Creutzfeldt-Jakob disease
+T9	Speculation_cue 22 28	should
+T10	Drug 0 7	Lithium
+T8	Adverse_event 32 42	considered
+E1	Adverse_event:T8

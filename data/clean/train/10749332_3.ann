@@ -1,0 +1,4 @@
+T3	Treatment 6 24	thiazolidinediones
+T6	Drug 6 24	thiazolidinediones
+T4	Potential_therapeutic_event 69 76	provide
+E1	Potential_therapeutic_event:T4

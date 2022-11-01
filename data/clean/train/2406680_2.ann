@@ -1,0 +1,8 @@
+T4	Treatment 34 41	quinine
+T5	Treat-Disorder 54 61	malaria
+T6	Effect 0 26	Sensorineural hearing loss
+T7	Speculation_cue 66 91	frequently been mentioned
+T8	Drug 34 41	quinine
+T3	Adverse_event 27 30	due
+E1	Adverse_event:T3 
+A1	Speculated E1

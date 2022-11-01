@@ -1,0 +1,9 @@
+T3	Treatment 0 54	One week after the initial-dose of adalimumab (160 mg)
+T5	Effect 149 173	fulminant cardiomyopathy
+T8	Treat-Disorder 108 123	Crohn's disease
+T9	Drug 35 45	adalimumab
+T10	Dosage 47 53	160 mg
+T6	Subject 83 136	an acute exacerbation of Crohn's disease, the patient
+T4	Adverse_event 137 146	developed
+E1	Adverse_event:T4 
+T1	Time_elapsed 0 8	One week

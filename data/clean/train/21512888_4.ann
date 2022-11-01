@@ -1,0 +1,10 @@
+T7	Treatment 0 68	Valproic acid also displaces warfarin from the protein binding sites
+T8	Effect 82 105	significant INR changes
+T10	Speculation_cue 143 158	less well known
+T12	Drug 0 13	Valproic acid
+T13	Drug 29 37	warfarin
+T9	Adverse_event 69 78	resulting
+T11	Combination 19 28	displaces
+E1	Adverse_event:T9 
+E2	Combination:T11 arg:T12 arg2:T13
+A1	Speculated E1

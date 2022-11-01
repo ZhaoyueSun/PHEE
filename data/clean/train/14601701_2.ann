@@ -1,0 +1,7 @@
+T6	Treat-Disorder 62 74	tuberculosis
+T7	Treatment 0 10	Ethambutol
+T8	Speculation_cue 42 52	frequently
+T9	Drug 0 10	Ethambutol
+T5	Potential_therapeutic_event 56 61	treat
+E1	Potential_therapeutic_event:T5 
+A1	Speculated E1

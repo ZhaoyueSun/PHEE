@@ -1,0 +1,7 @@
+T3	Effect 25 89	four day course of lethargy with unexplained high lithium levels
+T4	Treatment 75 82	lithium
+T7	Drug 75 82	lithium
+T6	Subject 4 11	newborn
+T8	Age 4 11	newborn
+T5	Adverse_event 12 22	manifested
+E1	Adverse_event:T5 

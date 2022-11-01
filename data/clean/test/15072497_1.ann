@@ -1,0 +1,6 @@
+T3	Effect 15 33	Peyronie's disease
+T6	Drug 51 61	colchicine
+T7	Freq 41 50	long-term
+T4	Treatment 41 71	long-term colchicine treatment
+T5	Adverse_event 34 40	during
+E1	Adverse_event:T5

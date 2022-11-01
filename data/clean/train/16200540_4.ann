@@ -1,0 +1,8 @@
+T3	Subject 12 41	a patient with idiopathic RLS
+T6	Effect 56 68	augmentation
+T7	Treatment 69 105	after 8 months of levodopa treatment
+T4	Treat-Disorder 27 41	idiopathic RLS
+T8	Time_elapsed 75 83	8 months
+T9	Drug 87 95	levodopa
+T5	Adverse_event 46 55	developed
+E1	Adverse_event:T5 

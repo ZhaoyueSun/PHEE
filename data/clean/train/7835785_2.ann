@@ -1,0 +1,8 @@
+T4	Effect 110 155	development of ovarian endometrioid carcinoma
+T6	Speculation_cue 87 102	possible factor
+T7	Duration 21 30	prolonged
+T5	Treatment 21 81	prolonged unopposed estrogen-like stimulation with tamoxifen
+T8	Drug 72 81	tamoxifen
+T3	Adverse_event 16 20	with
+E1	Adverse_event:T3 
+A1	Speculated E1

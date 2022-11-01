@@ -1,0 +1,5 @@
+T3	Effect 0 21	Uncontrolled headache
+T5	Treatment 33 46	oxcarbazepine
+T6	Drug 33 46	oxcarbazepine
+T4	Adverse_event 22 29	induced
+E1	Adverse_event:T4

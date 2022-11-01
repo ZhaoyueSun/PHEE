@@ -1,0 +1,5 @@
+T6	Effect 47 100	QT prolongation and refractory ventricular arrhythmia
+T7	Treatment 0 26	Chronic hydroxychloroquine
+T8	Drug 8 26	hydroxychloroquine
+T5	Adverse_event 31 41	associated
+E1	Adverse_event:T5

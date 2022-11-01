@@ -1,0 +1,7 @@
+T3	Treat-Disorder 114 148	elevated serum triglyceride levels
+T5	Treatment 19 71	clozapine was switched to risperidone and vice versa
+T7	Drug 19 28	clozapine
+T8	Drug 45 56	risperidone
+T4	Subject 170 178	patients
+T6	Adverse_event 75 85	consistent
+E1	Adverse_event:T6

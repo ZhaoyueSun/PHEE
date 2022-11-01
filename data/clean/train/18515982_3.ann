@@ -1,0 +1,7 @@
+T3	Effect 13 42	sclerosing glomerulonephritis
+T5	Subject 60 67	patient
+T6	Treatment 75 86	anastrozole
+T7	Speculation_cue 92 102	suggesting
+T8	Drug 75 86	anastrozole
+T4	Adverse_event 68 74	during
+E1	Adverse_event:T4

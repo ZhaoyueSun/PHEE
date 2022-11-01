@@ -1,0 +1,8 @@
+T4	Treatment 139 170	two instillations of epirubicin
+T5	Subject 34 43	two cases
+T3	Effect 47 128	significant morbidity related to primary and secondary perforation of the bladder
+T7	Population 34 37	two
+T8	Route 143 156	instillations
+T9	Drug 160 170	epirubicin
+T6	Adverse_event 129 138	following
+E1	Adverse_event:T6

@@ -1,0 +1,6 @@
+T4	Treatment 29 38	clonidine
+T6	Effect 106 117	bradycardia
+T7	Drug 29 38	clonidine
+T8	Treat-Disorder 199 218	spinal cord injured
+T5	Adverse_event 98 105	induced
+E1	Adverse_event:T5

@@ -1,0 +1,6 @@
+T5	Effect 0 14	Hepatotoxicity
+T7	Treatment 31 62	choline magnesium trisalicylate
+T8	Drug 31 62	choline magnesium trisalicylate
+T9	Subject 64 68	case
+T6	Adverse_event 15 25	associated
+E1	Adverse_event:T6

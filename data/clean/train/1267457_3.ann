@@ -1,0 +1,5 @@
+T5	Treatment 4 16	sulfonamides
+T6	Effect 56 104	erythema multiforme and Stevens-Johnson syndrome
+T8	Drug 4 16	sulfonamides
+T9	Adverse_event 39 51	drug-trigger
+E2	Adverse_event:T9

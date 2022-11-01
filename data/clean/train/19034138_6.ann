@@ -1,0 +1,10 @@
+T3	Subject 9 51	A 52-year-old woman with Parkinson disease
+T4	Effect 93 141	bilateral corneal edema for 2 months at baseline
+T5	Treatment 60 88	taken amantadine for 6 years
+T7	Age 11 22	52-year-old
+T8	Gender 23 28	woman
+T9	Treat-Disorder 34 51	Parkinson disease
+T10	Drug 66 76	amantadine
+T11	Duration 81 88	6 years
+T6	Adverse_event 89 92	had
+E1	Adverse_event:T6 

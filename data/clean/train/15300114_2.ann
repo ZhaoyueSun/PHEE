@@ -1,0 +1,7 @@
+T6	Treatment 134 153	topical bimatoprost
+T7	Subject 15 38	three reported patients
+T8	Effect 40 104	alteration of eyelid appearance with deepening of the lid sulcus
+T9	Population 15 20	three
+T10	Drug 142 152	bimatopros
+T5	Adverse_event 109 116	evident
+E1	Adverse_event:T5

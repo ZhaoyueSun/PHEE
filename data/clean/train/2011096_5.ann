@@ -1,0 +1,6 @@
+T5	Effect 0 13	Neurotoxicity
+T6	Treatment 42 60	high-dose cytosine
+T9	Dosage 42 51	high-dose
+T10	Drug 52 60	cytosine
+T7	Adverse_event 18 23	occur
+E1	Adverse_event:T7

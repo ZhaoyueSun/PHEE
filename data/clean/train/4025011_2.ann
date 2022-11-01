@@ -1,0 +1,8 @@
+T3	Subject 0 31	Two patients with osteomyelitis
+T4	Effect 46 77	reversible cholestatic jaundice
+T6	Treatment 100 109	oxacillin
+T7	Population 0 3	Two
+T8	Treat-Disorder 18 31	osteomyelitis
+T9	Drug 100 109	oxacillin
+T5	Adverse_event 36 45	developed
+E1	Adverse_event:T5 

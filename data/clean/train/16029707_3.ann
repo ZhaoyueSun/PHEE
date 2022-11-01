@@ -1,0 +1,5 @@
+T5	Effect 4 52	multiple comedones and ruptured epidermoid cysts
+T6	Treatment 91 108	imiquimod therapy
+T8	Drug 91 100	imiquimod
+T7	Adverse_event 63 71	reported
+E1	Adverse_event:T7

@@ -1,0 +1,10 @@
+T14	Sub-Disorder 53 68	G6PD deficiency
+T16	Effect 79 155	hemolytic anemia, hepatitis, orthostatic hypotension, and aseptic meningitis
+T17	Treatment 183 212	trimethoprim-sulfamethoxazole
+T18	Age 14 25	37-year-old
+T19	Race 26 43	African- American
+T20	Gender 44 47	man
+T13	Subject 12 68	A 37-year-old African- American man with G6PD deficiency
+T21	Drug 183 212	trimethoprim-sulfamethoxazole
+T15	Adverse_event 69 78	developed
+E1	Adverse_event:T15 

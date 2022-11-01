@@ -1,0 +1,6 @@
+T4	Treatment 45 75	long-term itraconazole therapy
+T5	Effect 0 6	Tremor
+T6	Drug 55 67	itraconazole
+T7	Duration 45 54	long-term
+T3	Adverse_event 40 44	with
+E1	Adverse_event:T3

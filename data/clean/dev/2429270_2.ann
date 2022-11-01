@@ -1,0 +1,5 @@
+T5	Treatment 211 223	procainamide
+T6	Effect 138 149	tachycardia
+T3	Drug 211 223	procainamide
+T7	Adverse_event 161 172	reinitiated
+E2	Adverse_event:T7

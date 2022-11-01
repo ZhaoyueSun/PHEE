@@ -1,0 +1,9 @@
+T6	Effect 89 123	chemical cellulitis and ulceration
+T9	Subject 20 74	a renal transplant patient with Pneumocystis pneumonia
+T7	Treatment 155 229	intravenous pentamidine into the soft tissues of the left hand and forearm
+T10	Treat-Disorder 52 74	Pneumocystis pneumonia
+T11	Sub-Disorder 22 38	renal transplant
+T12	Route 155 166	intravenous
+T13	Drug 167 178	pentamidine
+T5	Adverse_event 79 88	developed
+E1	Adverse_event:T5 

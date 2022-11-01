@@ -1,0 +1,7 @@
+T5	Effect 0 28	Peripheral nerve dysfunction
+T7	Treatment 80 100	cytosine arabinoside
+T8	Speculation_cue 34 45	potentially
+T9	Drug 80 100	cytosine arabinoside
+T10	Dosage 70 79	high-dose
+T6	Adverse_event 67 69	of
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T4	Treatment 63 74	pravastatin
+T5	Effect 45 57;0 8	exacerbation Myotonia
+T6	Sub-Disorder 25 36	sarcoidosis
+T7	Drug 63 74	pravastatin
+T8	Subject 25 36	sarcoidosis
+T3	Adverse_event 9 19	associated
+E1	Adverse_event:T3 

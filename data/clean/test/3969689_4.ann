@@ -1,0 +1,6 @@
+T7	Effect 24 38	hepatotoxicity
+T8	Treatment 58 71;91 99	acetaminophen caffeine
+T10	Drug 58 71	acetaminophen
+T11	Drug 91 99	caffeine
+T9	Adverse_event 86 90	with
+E1	Adverse_event:T9

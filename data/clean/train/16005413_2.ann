@@ -1,0 +1,10 @@
+T10	Treatment 50 57;62 90	opioids serotonergic antidepressants
+T12	Effect 121 139	serotonin syndrome
+T13	Subject 202 219	elderly residents
+T14	Age 202 209	elderly
+T16	Drug 50 57	opioids
+T17	Drug 62 90	serotonergic antidepressants
+T11	Adverse_event 91 98	leading
+T15	Combination 30 41	interaction
+E1	Adverse_event:T11 
+E2	Combination:T15 arg:T16 arg2:T17

@@ -1,0 +1,8 @@
+T10	Treatment 6 60	discontinuing captopril and starting systemic steroids
+T8	Effect 103 164	her eosinophilia and radiographic abnormalities both resolved
+T11	Drug 20 29	captopril
+T12	Drug 52 60	steroids
+T13	Treat-Disorder 107 119	eosinophilia
+T14	Treat-Disorder 124 150	radiographic abnormalities
+T9	Potential_therapeutic_event 156 164	resolved
+E1	Potential_therapeutic_event:T9

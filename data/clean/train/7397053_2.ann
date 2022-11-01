@@ -1,0 +1,5 @@
+T7	Effect 0 36	Papilloedema and hepatic dysfunction
+T9	Treatment 59 86	perhexiline maleate (Pexid)
+T10	Drug 59 78	perhexiline maleate
+T8	Adverse_event 48 55	induced
+E1	Adverse_event:T8

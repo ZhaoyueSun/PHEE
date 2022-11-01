@@ -1,0 +1,9 @@
+T7	Effect 0 43	Clinical symptoms and leukopenia normalized
+T9	Treatment 50 116	discontinuation of CBZ and administration of prednisolone at 40 mg
+T11	Drug 69 72	CBZ
+T12	Drug 95 107	prednisolone
+T13	Dosage 111 116	40 mg
+T8	Potential_therapeutic_event 33 43	normalized
+T14	Combination 73 76	and
+E1	Potential_therapeutic_event:T8 
+E2	Combination:T14 arg:T11 arg2:T12

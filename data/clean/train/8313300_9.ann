@@ -1,0 +1,6 @@
+T4	Treatment 39 83	within 72 hours of the withdrawal of lithium
+T5	Treat-Disorder 4 16	exophthalmos
+T6	Drug 76 83	lithium
+T8	Time_elapsed 39 54	within 72 hours
+T7	Potential_therapeutic_event 17 25	improved
+E2	Potential_therapeutic_event:T7

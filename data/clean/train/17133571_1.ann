@@ -1,0 +1,5 @@
+T3	Effect 0 45	Liver transplantation for fulminant hepatitis
+T5	Treatment 57 75	nevirapine therapy
+T6	Drug 57 67	nevirapine
+T4	Adverse_event 46 53	related
+E1	Adverse_event:T4

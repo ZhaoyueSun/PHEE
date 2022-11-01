@@ -1,0 +1,4 @@
+T3	Treatment 0 7	Lithium
+T4	Effect 94 102	polyuria
+T5	Adverse_event 33 40	because
+E1	Adverse_event:T5

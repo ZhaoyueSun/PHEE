@@ -1,0 +1,7 @@
+T6	Subject 0 3	She
+T7	Treatment 54 62	caffeine
+T8	Effect 15 72	all the clinical symptoms and signs of caffeine toxicity.
+T5	Gender 0 3	She
+T10	Drug 54 62	caffeine
+T9	Adverse_event 4 14	manifested
+E2	Adverse_event:T9

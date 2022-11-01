@@ -1,0 +1,7 @@
+T5	Treatment 31 49	use of risperidone
+T6	Subject 53 83	elderly patients with dementia
+T9	Age 53 60	elderly
+T11	Drug 38 49	risperidone
+T12	Treat-Disorder 75 83	dementia
+T8	Potential_therapeutic_event 185 187	is
+E1	Potential_therapeutic_event:T8

@@ -1,0 +1,10 @@
+T7	Treatment 12 39;252 291	Amphotericin B deoxycholate conventional dosages and infusion rates
+T9	Effect 81 143	cardiac toxicity, with ventricular arrhythmias and bradycardia
+T10	Subject 166 224	in children and in adults with preexisting cardiac disease
+T12	Age 166 191	in children and in adults
+T13	Sub-Disorder 197 224	preexisting cardiac disease
+T15	Drug 12 39	Amphotericin B deoxycholate
+T16	Dosage 252 272	conventional dosages
+T17	Route 277 285	infusion
+T8	Adverse_event 61 68	produce
+E1	Adverse_event:T8 

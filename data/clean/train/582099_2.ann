@@ -1,0 +1,6 @@
+T3	Effect 0 13	Neurotoxicity
+T4	Treatment 17 61	intrathecal administration of amphotericin B
+T6	Drug 47 61	amphotericin B
+T7	Route 17 28	intrathecal
+T5	Adverse_event 14 16	of
+E1	Adverse_event:T5

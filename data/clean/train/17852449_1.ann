@@ -1,0 +1,7 @@
+T5	Treatment 43 66	all-trans retinoic acid
+T6	Subject 11 29	pregnancy in women
+T8	Gender 24 29	women
+T9	Drug 43 66	all-trans retinoic acid
+T10	Treat-Disorder 11 20	pregnancy
+T4	Potential_therapeutic_event 30 37	treated
+E1	Potential_therapeutic_event:T4

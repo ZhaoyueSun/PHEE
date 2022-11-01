@@ -1,0 +1,14 @@
+T12	Subject 147 177	patients with multiple myeloma
+T13	Treatment 0 143	Consolidation therapy with bortezomib/lenalidomide/ dexamethasone versus bortezomib/dexamethasone after a dexamethasone-based induction regimen
+T15	Treat-Disorder 161 177	multiple myeloma
+T16	Drug 27 37	bortezomib
+T17	Drug 38 50	lenalidomide
+T18	Drug 52 65	dexamethasone
+T19	Drug 73 83	bortezomib
+T20	Drug 84 97	dexamethasone
+T11	Potential_therapeutic_event 144 146	in
+T21	Combination 37 38	/
+T22	Combination 83 84	/
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T21 arg:T16 arg2:T17 arg3:T18
+E3	Combination:T22 arg:T19 arg2:T20

@@ -1,0 +1,7 @@
+T8	Effect 138 157	collagenous colitis
+T9	Subject 213 246	patients with microscopic colitis
+T10	Treatment 80 114	proton pump inhibitor lansoprazole
+T11	Sub-Disorder 227 246	microscopic colitis
+T12	Drug 102 114	lansoprazole
+T7	Adverse_event 40 51	association
+E1	Adverse_event:T7 

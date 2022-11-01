@@ -1,0 +1,5 @@
+T4	Effect 22 31	hepatitis
+T5	Treatment 0 10	Diclofenac
+T6	Drug 0 10	Diclofenac
+T3	Adverse_event 11 21	associated
+E1	Adverse_event:T3

@@ -1,0 +1,7 @@
+T3	Effect 20 25	cough
+T5	Treatment 36 67	the administration of quinapril
+T7	Drug 58 67	quinapril
+T8	Subject 158 193	patient with essential hypertension
+T9	Treat-Disorder 181 193	hypertension
+T4	Adverse_event 26 35	following
+E1	Adverse_event:T4

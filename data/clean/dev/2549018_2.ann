@@ -1,0 +1,7 @@
+T3	Subject 0 13	Five patients
+T4	Treatment 24 34	fluoxetine
+T6	Effect 116 125	akathisia
+T7	Population 0 4	Five
+T8	Drug 24 34	fluoxetine
+T5	Adverse_event 106 115	developed
+E1	Adverse_event:T5

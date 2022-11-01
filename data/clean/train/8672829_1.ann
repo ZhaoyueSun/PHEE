@@ -1,0 +1,10 @@
+T4	Treatment 27 43	ifosfamide/mesna
+T6	Effect 65 77	unresponsive
+T7	Drug 27 37	ifosfamide
+T8	Drug 38 43	mesna
+T9	Subject 45 48	she
+T10	Gender 45 48	she
+T5	Potential_therapeutic_event 53 58	found
+T11	Combination 37 38	/
+E1	Potential_therapeutic_event:T5 
+E2	Combination:T11 arg:T7 arg2:T8

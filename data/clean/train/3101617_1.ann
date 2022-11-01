@@ -1,0 +1,6 @@
+T3	Treat-Disorder 35 44	leukaemia
+T4	Treatment 0 14	Co-trimoxazole
+T5	Effect 15 31	red cell aplasia
+T7	Drug 0 14	Co-trimoxazole
+T6	Adverse_event 32 34	in
+E1	Adverse_event:T6

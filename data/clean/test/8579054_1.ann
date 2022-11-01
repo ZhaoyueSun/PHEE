@@ -1,0 +1,8 @@
+T3	Subject 66 78	two patients
+T4	Treatment 92 103	hydroxyurea
+T5	Effect 0 22	Acute myeloid leukemia
+T7	Treat-Disorder 37 62	essential thrombocythemia
+T8	Population 66 69	two
+T9	Drug 92 103	hydroxyurea
+T6	Adverse_event 79 86	treated
+E1	Adverse_event:T6

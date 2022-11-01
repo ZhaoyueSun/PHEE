@@ -1,0 +1,11 @@
+T4	Treatment 125 153	metripranolol 0.6% eye drops
+T5	Subject 0 60	Two case reports of bilateral granulomatous anterior uveitis
+T7	Population 0 3	Two
+T8	Sub-Disorder 20 60	bilateral granulomatous anterior uveitis
+T9	Subject 78 111	patients with open angle glaucoma
+T10	Treat-Disorder 92 111	open angle glaucoma
+T11	Drug 125 138	metripranolol
+T12	Route 144 153	eye drops
+T13	Dosage 139 143	0.6%
+T3	Adverse_event 112 119	treated
+E1	Adverse_event:T3 

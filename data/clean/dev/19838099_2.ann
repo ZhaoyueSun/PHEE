@@ -1,0 +1,5 @@
+T3	Treatment 0 9	Dasatinib
+T5	Effect 18 35	pleural effusions
+T6	Drug 0 9	Dasatinib
+T4	Adverse_event 10 17	induced
+E1	Adverse_event:T4

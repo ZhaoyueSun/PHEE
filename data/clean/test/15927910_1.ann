@@ -1,0 +1,7 @@
+T3	Treatment 15 40	third dose of pentamidine
+T4	Subject 64 73	patient's
+T5	Effect 74 117	heart rate had decreased to 48 beats/minute
+T7	Dosage 15 25	third dose
+T8	Drug 29 40	pentamidine
+T6	Adverse_event 0 5	After
+E1	Adverse_event:T6

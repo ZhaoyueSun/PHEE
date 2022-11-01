@@ -1,0 +1,9 @@
+T9	Subject 132 149	a 43-year-old man
+T10	Treat-Disorder 205 231	chronic ulcerative colitis
+T11	Treatment 169 192	long-term sulfasalazine
+T12	Effect 0 118	Pneumonitis, bilateral pleural effusions, echocardiographic evidence of cardiac tamponade, and positive autoantibodies
+T14	Age 134 145	43-year-old
+T15	Gender 146 149	man
+T16	Drug 179 192	sulfasalazine
+T13	Adverse_event 119 128	developed
+E1	Adverse_event:T13

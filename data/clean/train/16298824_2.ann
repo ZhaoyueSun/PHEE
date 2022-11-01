@@ -1,0 +1,8 @@
+T5	Effect 0 4	ARDS
+T7	Treatment 30 132	the administration of other monoclonal antibodies, such as infliximab, gemtuzumab ozogamicin, and OKT3
+T8	Drug 89 99	infliximab
+T9	Drug 101 111	gemtuzumab
+T10	Drug 112 122	ozogamicin
+T11	Drug 128 132	OKT3
+T6	Adverse_event 14 24	associated
+E1	Adverse_event:T6

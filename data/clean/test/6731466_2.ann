@@ -1,0 +1,7 @@
+T9	Subject 117 126;158 167	a patient toothache
+T10	Treatment 137 153	zomepirac sodium
+T8	Effect 0 104	Anaphylactoid shock, disseminated intravascular coagulation, and anuric renal failure requiring dialysis
+T13	Drug 137 153	zomepirac sodium
+T14	Treat-Disorder 158 167	toothache
+T11	Adverse_event 105 113	occurred
+E1	Adverse_event:T11

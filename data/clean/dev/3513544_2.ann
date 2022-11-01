@@ -1,0 +1,10 @@
+T3	Effect 28 46	herpes esophagitis
+T4	Subject 50 76	a renal transplant patient
+T5	Treatment 90 137	Cyclosporine A while on chronic steroid therapy
+T8	Drug 90 104	Cyclosporine A
+T10	Drug 114 129	chronic steroid
+T11	Treat-Disorder 52 68	renal transplant
+T6	Adverse_event 47 49	in
+T9	Combination 105 110	while
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T8 arg2:T10

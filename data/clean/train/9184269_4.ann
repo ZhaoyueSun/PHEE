@@ -1,0 +1,10 @@
+T3	Treatment 121 124	MTX
+T5	Effect 133 144	pneumonitis
+T6	Subject 14 115	194 RA patients and 38 PsA patients receiving MTX has identified four RA patients and one PsA patient
+T7	Population 79 83	four
+T8	Population 100 103	one
+T12	Treat-Disorder 84 86	RA
+T13	Treat-Disorder 104 107	PsA
+T14	Drug 121 124	MTX
+T4	Adverse_event 125 132	induced
+E1	Adverse_event:T4

@@ -1,0 +1,13 @@
+T7	Subject 66 82	African children
+T10	Treatment 93 157	artemether-lumefantrine crushed or dispersible tablets (Coartem)
+T11	Race 66 73	African
+T12	Age 74 82	children
+T13	Treat-Disorder 162 211	acute uncomplicated Plasmodium falciparum malaria
+T14	Drug 93 103	artemether
+T15	Drug 104 116	lumefantrine
+T17	Route 128 147	dispersible tablets
+T18	Route 117 124;140 147	crushed tablets
+T9	Potential_therapeutic_event 83 92	receiving
+T16	Combination 103 104	-
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T16 arg:T15 arg2:T14

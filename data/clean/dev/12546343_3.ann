@@ -1,0 +1,7 @@
+T4	Subject 0 2	He
+T5	Effect 36 43	allergy
+T6	Treatment 47 50	MTX
+T7	Gender 0 2	He
+T8	Drug 47 50	MTX
+T3	Adverse_event 44 46	to
+E1	Adverse_event:T3 

@@ -1,0 +1,8 @@
+T5	Subject 22 72	an adult patient with acute lymphoblastic leukemia
+T8	Treatment 157 200	consolidation treatment with L-asparaginase
+T7	Effect 92 149	repeated transient ischemic attacks followed by a seizure
+T9	Age 25 30	adult
+T10	Treat-Disorder 44 72	acute lymphoblastic leukemia
+T11	Drug 186 200	L-asparaginase
+T6	Adverse_event 77 86	presented
+E1	Adverse_event:T6 

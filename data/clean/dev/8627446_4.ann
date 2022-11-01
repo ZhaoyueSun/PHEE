@@ -1,0 +1,17 @@
+T6	Treatment 28 62	withdrawal of methotrexate therapy
+T7	Treat-Disorder 4 11	nodules
+T8	Subject 66 77	one patient
+T9	Population 66 69	one
+T10	Drug 42 54	methotrexate
+T13	Treatment 101 135	the addition of hydroxychloroquine
+T14	Drug 117 135	hydroxychloroquine
+T15	Treat-Disorder 4 11	nodules
+T16	Effect 12 21	regressed
+T17	Effect 87 95	arrested
+T18	Subject 139 148	the other
+T5	Potential_therapeutic_event 22 27	after
+T12	Potential_therapeutic_event 96 100	with
+E1	Potential_therapeutic_event:T5 arg:T6 arg3:T8 arg4:T16
+E2	Potential_therapeutic_event:T12 arg:T13 arg2:T8 arg3:T17 arg4:T18
+R1	has Arg1:T13 Arg2:T15	
+R2	has Arg1:T6 Arg2:T7

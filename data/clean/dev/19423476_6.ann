@@ -1,0 +1,5 @@
+T5	Effect 39 63	opportunistic infections
+T6	Treatment 70 112	immunosuppressive therapy with alemtuzumab
+T8	Drug 101 112	alemtuzumab
+T7	Adverse_event 64 69	after
+E1	Adverse_event:T7

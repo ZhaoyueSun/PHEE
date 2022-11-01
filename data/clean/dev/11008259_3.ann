@@ -1,0 +1,7 @@
+T3	Effect 28 61	non-convulsive status epilepticus
+T5	Treatment 74 83	tiagabine
+T6	Subject 87 106	adolescent patients
+T7	Age 87 97	adolescent
+T8	Drug 74 83	tiagabine
+T4	Adverse_event 62 70	provoked
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T3	Effect 26 73	aggravation and spreading of a psoriatic plaque
+T4	Treatment 102 150	the toll-like receptor (TLR) 7 agonist imiquimod
+T6	Drug 141 150	imiquimod
+T7	Route 87 96	topically
+T5	Adverse_event 17 25	observed
+E1	Adverse_event:T5

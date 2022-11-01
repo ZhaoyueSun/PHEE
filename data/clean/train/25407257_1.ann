@@ -1,0 +1,8 @@
+T6	Effect 40 59	convulsive seizures
+T8	Treatment 67 115	co-administration of valproic acid and tebipenem
+T9	Drug 88 101	valproic acid
+T10	Drug 106 115	tebipenem
+T7	Adverse_event 60 63	due
+T11	Combination 67 84	co-administration
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

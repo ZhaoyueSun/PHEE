@@ -1,0 +1,6 @@
+T5	Treatment 121 128	lithium
+T7	Treat-Disorder 66 104	chronic nephrogenic diabetes insipidus
+T8	Effect 0 36	Transient central diabetes insipidus
+T9	Drug 121 128	lithium
+T6	Adverse_event 105 115	associated
+E1	Adverse_event:T6

@@ -1,0 +1,6 @@
+T4	Treatment 72 85	cephalosporin
+T5	Effect 94 104	leukopenia
+T6	Drug 72 85	cephalosporin
+T7	Speculation_cue 111 119	probable
+T3	Adverse_event 86 89	use
+E1	Adverse_event:T3

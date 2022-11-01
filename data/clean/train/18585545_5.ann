@@ -1,0 +1,8 @@
+T3	Subject 9 47	A previously healthy 42-year-old woman
+T4	Effect 63 107	acute-onset delirium with psychotic features
+T6	Treatment 128 148	levofloxacin therapy
+T7	Age 30 41	42-year-old
+T8	Gender 42 47	woman
+T9	Drug 128 140	levofloxacin
+T5	Adverse_event 108 127	as a consequence of
+E1	Adverse_event:T5

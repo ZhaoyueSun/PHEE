@@ -1,0 +1,9 @@
+T3	Treat-Disorder 24 53	anaphylaxis under anaesthesia
+T4	Treatment 112 123;152 199	epinephrine administration of the alpha-agonist metaraminol
+T6	Drug 188 199	metaraminol
+T7	Drug 112 123	epinephrine
+T8	Effect 60 93	return of spontaneous circulation
+T5	Combination 152 166	administration
+T9	Potential_therapeutic_event 129 137	occurred
+E1	Combination:T5 arg:T7 arg2:T6
+E2	Potential_therapeutic_event:T9

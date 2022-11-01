@@ -1,0 +1,6 @@
+T5	Treatment 59 77	infliximab therapy
+T6	Effect 0 51	Sensory neuropathy revealing necrotizing vasculitis
+T9	Drug 59 69	infliximab
+T10	Treat-Disorder 82 102	rheumatoid arthritis
+T8	Adverse_event 52 58	during
+E1	Adverse_event:T8

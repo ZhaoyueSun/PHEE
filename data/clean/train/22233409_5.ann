@@ -1,0 +1,6 @@
+T5	Treatment 30 39	ribavirin
+T8	Effect 4 18	adverse events
+T9	Drug 30 39	ribavirin
+T10	Treat-Disorder 86 97	hepatitis C
+T7	Adverse_event 19 26	related
+E1	Adverse_event:T7

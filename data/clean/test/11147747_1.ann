@@ -1,0 +1,11 @@
+T3	Subject 20 32	the patients
+T4	Treatment 50 85	lithium carbonate and beta-blockers
+T5	Effect 131 143	incontinence
+T7	Drug 50 67	lithium carbonate
+T8	Drug 72 85	beta-blockers
+T10	Speculation_cue 101 106	could
+T6	Adverse_event 112 123	contributed
+T9	Combination 68 71	and
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T8 arg2:T7
+A1	Speculated E1

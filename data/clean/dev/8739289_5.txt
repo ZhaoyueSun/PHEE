@@ -1,0 +1,1 @@
+To the best of our knowledge, this is the first case of lithium-associated CDI and NDI presenting concurrently.

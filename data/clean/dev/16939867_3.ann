@@ -1,0 +1,11 @@
+T4	Treatment 149 185	23 months of lamotrigine monotherapy
+T5	Effect 125 142	localized purpura
+T6	Subject 22 110	a 13-year-old female with a right frontal high-grade glioma and complex partial seizures
+T7	Age 24 35	13-year-old
+T8	Gender 36 42	female
+T9	Sub-Disorder 50 81	right frontal high-grade glioma
+T11	Drug 162 173	lamotrigine
+T12	Treat-Disorder 149 158	23 months
+T13	Treat-Disorder 86 110	complex partial seizures
+T3	Adverse_event 143 148	after
+E1	Adverse_event:T3 

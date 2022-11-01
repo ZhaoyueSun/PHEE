@@ -1,0 +1,16 @@
+T9	Effect 62 74	elevated INR
+T10	Subject 253 266	both patients
+T8	Treatment 42 53	tolterodine
+T12	Population 253 257	both
+T14	Drug 42 53	tolterodine
+T15	Speculation_cue 4 24	temporal association
+T16	Effect 80 142	return to the previous warfarin dose-INR response relationship
+T18	Treatment 149 176	tolterodine discontinuation
+T19	Drug 149 160	tolterodine
+T20	Treat-Disorder 62 74	elevated INR
+T11	Adverse_event 32 38	course
+T17	Potential_therapeutic_event 80 86	return
+E1	Adverse_event:T11 arg:T8 arg2:T9 arg3:T10
+E2	Potential_therapeutic_event:T17 arg:T18 arg2:T16 arg3:T10
+R1	has_cue Arg1:E1 Arg2:T15	
+R2	has Arg1:T18 Arg2:T20

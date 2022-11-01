@@ -1,0 +1,7 @@
+T5	Treatment 0 16;120 192	Cyclophosphamide high-dose chemotherapy and had received a lower dose of cyclophosphamide
+T7	Effect 25 39	cardiotoxicity
+T8	Subject 62 112	the patient had both shown normal cardiac function
+T9	Drug 0 16	Cyclophosphamide
+T10	Dosage 162 172	lower dose
+T6	Adverse_event 17 24	induced
+E1	Adverse_event:T6

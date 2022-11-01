@@ -1,0 +1,6 @@
+T3	Effect 12 35	Significant weight loss
+T5	Treatment 116 127	leflunomide
+T6	Drug 116 127	leflunomide
+T7	Treat-Disorder 82 102	rheumatoid arthritis
+T4	Adverse_event 41 63	potential adverse even
+E1	Adverse_event:T4

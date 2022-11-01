@@ -1,0 +1,13 @@
+T8	Subject 14 50	A 25-year-old postpartum white woman
+T11	Effect 61 106	multiple watery stools and abdominal cramping
+T12	Treatment 132 181	clindamycin vaginal cream for bacterial vaginosis
+T13	Treat-Disorder 162 181	bacterial vaginosis
+T14	Age 16 27	25-year-old
+T15	Sub-Disorder 28 38	postpartum
+T16	Race 39 44	white
+T17	Gender 45 50	woman
+T18	Route 144 157	vaginal cream
+T19	Drug 132 143	clindamycin
+T9	Adverse_event 51 60	developed
+E1	Adverse_event:T9 
+T1	Time_elapsed 110 115	day 6

@@ -1,0 +1,5 @@
+T3	Treatment 96 105	tamoxifen
+T5	Effect 32 59	corneal and retinal changes
+T6	Drug 96 105	tamoxifen
+T4	Adverse_event 68 74	result
+E1	Adverse_event:T4

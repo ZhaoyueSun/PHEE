@@ -1,0 +1,11 @@
+T8	Treatment 54 61	heparin
+T9	Effect 73 104	thrombocytopenia and thrombosis
+T11	Drug 54 61	heparin
+T13	Drug 14 32	antiplatelet drugs
+T14	Treatment 14 32	antiplatelet drugs
+T15	Treat-Disorder 54 104	heparin-associated thrombocytopenia and thrombosis
+T7	Adverse_event 62 72	associated
+T12	Potential_therapeutic_event 0 10	Usefulness
+E1	Adverse_event:T7 arg:T8 arg2:T9
+E2	Potential_therapeutic_event:T12 arg:T14
+R1	has Arg1:T14 Arg2:T15

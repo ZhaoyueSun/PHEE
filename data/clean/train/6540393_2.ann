@@ -1,0 +1,6 @@
+T3	Treatment 26 59	methylprednisolone pulsed therapy
+T4	Treat-Disorder 64 82	multiple sclerosis
+T5	Effect 0 22	Anaphylactoid reaction
+T7	Drug 26 44	methylprednisolone
+T6	Adverse_event 23 25	to
+E1	Adverse_event:T6

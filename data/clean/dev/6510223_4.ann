@@ -1,0 +1,10 @@
+T8	Negation_cue 37 56	no cross reactivity
+T10	Effect 107 123	hemolytic anemia
+T11	Treatment 65 93	glyburide and chlorpropamide
+T13	Drug 65 74	glyburide
+T14	Drug 79 93	chlorpropamide
+T9	Adverse_event 97 106	producing
+T12	Combination 75 78	and
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T13 arg2:T14
+A1	Negated E1

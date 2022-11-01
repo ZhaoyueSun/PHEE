@@ -1,0 +1,5 @@
+T3	Treatment 0 10	Cimetidine
+T5	Effect 43 48	fever
+T6	Drug 0 10	Cimetidine
+T4	Adverse_event 21 26	cause
+E1	Adverse_event:T4

@@ -1,0 +1,10 @@
+T4	Subject 20 30	2 patients
+T5	Effect 53 87	CD8+ cutaneous lymphoproliferative
+T6	Treatment 119 144	efalizumab and infliximab
+T8	Population 20 21	2
+T9	Drug 119 129	efalizumab
+T10	Drug 134 144	infliximab
+T7	Adverse_event 35 44	developed
+T11	Combination 130 133	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

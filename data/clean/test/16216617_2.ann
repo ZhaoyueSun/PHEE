@@ -1,0 +1,8 @@
+T1	Treatment 11 40	maximal dose of phenylephrine
+T4	Effect 65 81	positive U waves
+T5	Dosage 11 23	maximal dose
+T6	Drug 27 40	phenylephrine
+T7	Subject 41 44	she
+T8	Gender 41 44	she
+T2	Adverse_event 45 54	developed
+E1	Adverse_event:T2

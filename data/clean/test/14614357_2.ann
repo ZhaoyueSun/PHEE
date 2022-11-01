@@ -1,0 +1,9 @@
+T3	Subject 22 43	a young healthy woman
+T5	Effect 61 86	early overanticoagulation
+T6	Treatment 102 115	acenocoumarol
+T7	Treat-Disorder 128 142	thromboembolic
+T8	Age 24 29	young
+T9	Gender 38 43	woman
+T10	Drug 102 115	acenocoumarol
+T4	Adverse_event 48 57	presented
+E1	Adverse_event:T4

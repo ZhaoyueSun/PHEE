@@ -1,0 +1,5 @@
+T15	Treatment 8 37	second dose of metoclopramide
+T17	Effect 88 170	confusion, agitation, fever, diaphoresis, tachypnea, tachycardia, and hypertension
+T19	Drug 23 37	metoclopramide
+T16	Adverse_event 72 82	associated
+E1	Adverse_event:T16

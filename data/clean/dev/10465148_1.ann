@@ -1,0 +1,6 @@
+T4	Treatment 41 65	intrathecal methotrexate
+T5	Effect 0 34	Anterior lumbosacral radiculopathy
+T7	Drug 53 65	methotrexate
+T8	Route 41 52	intrathecal
+T9	Adverse_event 35 40	after
+E2	Adverse_event:T9

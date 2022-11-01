@@ -1,0 +1,6 @@
+T9	Treatment 30 41	raltegravir
+T11	Effect 50 64	DRESS syndrome
+T12	Speculation_cue 80 89	potential
+T13	Drug 30 41	raltegravir
+T10	Adverse_event 42 49	induced
+E1	Adverse_event:T10

@@ -1,0 +1,9 @@
+T8	Treatment 23 61	methylene blue and serotonergic agents
+T9	Effect 83 101	serotonin syndrome
+T10	Drug 23 37	methylene blue
+T11	Drug 42 61	serotonergic agents
+T13	Speculation_cue 62 65	may
+T12	Combination 38 41	and
+T7	Adverse_event 71 75	rise
+E2	Combination:T12 arg:T11 arg2:T10
+E1	Adverse_event:T7

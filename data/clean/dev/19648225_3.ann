@@ -1,0 +1,9 @@
+T3	Subject 16 46	three palliative care patients
+T4	Treatment 62 70	ketamine
+T6	Effect 143 162	urological symptoms
+T8	Population 16 21	three
+T9	Drug 62 70	ketamine
+T7	Severity_cue 114 142	significant and debilitating
+T5	Adverse_event 104 113	developed
+E1	Adverse_event:T5 
+A1	Severity E1 High

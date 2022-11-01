@@ -1,0 +1,8 @@
+T4	Effect 87 112	drug-induced pericarditis
+T5	Treat-Disorder 57 72	Crohn's disease
+T6	Subject 22 27	a man
+T7	Treatment 42 52	mesalazine
+T8	Gender 24 27	man
+T9	Drug 42 52	mesalazine
+T3	Adverse_event 77 86	developed
+E1	Adverse_event:T3

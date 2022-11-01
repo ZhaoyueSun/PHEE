@@ -1,0 +1,6 @@
+T3	Treatment 161 171	thiopurine
+T5	Effect 180 194	hepatic injury
+T6	Drug 161 171	thiopurine
+T7	Subject 58 84	patients treated with 6-TG
+T4	Adverse_event 172 179	induced
+E1	Adverse_event:T4

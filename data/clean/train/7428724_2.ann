@@ -1,0 +1,5 @@
+T3	Effect 0 22	Oesophageal ulceration
+T5	Treatment 30 48	emepronium bromide
+T6	Drug 30 48	emepronium bromide
+T4	Adverse_event 23 29	due to
+E1	Adverse_event:T4

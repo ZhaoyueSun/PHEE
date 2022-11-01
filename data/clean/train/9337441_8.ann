@@ -1,0 +1,8 @@
+T7	Treatment 0 56	Furosemide, spironolactone, allopurinol, and hydroxyurea
+T8	Effect 96 104	reaction
+T10	Drug 0 10	Furosemide
+T11	Drug 12 26	spironolactone
+T12	Drug 28 39	allopurinol
+T13	Drug 45 56	hydroxyurea
+T9	Adverse_event 82 88	causes
+E1	Adverse_event:T9

@@ -1,0 +1,6 @@
+T7	Treatment 0 9	Methadone
+T8	Effect 18 27	myoclonus
+T9	Treat-Disorder 31 46	advanced cancer
+T10	Drug 0 9	Methadone
+T6	Adverse_event 10 17	induced
+E1	Adverse_event:T6

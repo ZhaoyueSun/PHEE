@@ -1,0 +1,5 @@
+T3	Treatment 0 30	Sustained-release procainamide
+T5	Effect 39 66	reversible granulocytopenia
+T7	Drug 18 30	procainamide
+T4	Adverse_event 31 38	induced
+E1	Adverse_event:T4

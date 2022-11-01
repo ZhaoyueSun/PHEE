@@ -1,0 +1,8 @@
+T9	Treatment 75 121	coadministration of atorvastatin and diltiazem
+T10	Effect 20 54	rhabdomyolysis and acute hepatitis
+T11	Drug 95 107	atorvastatin
+T12	Drug 112 121	diltiazem
+T8	Adverse_event 55 65	associated
+T13	Combination 75 91	coadministration
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T11 arg2:T12

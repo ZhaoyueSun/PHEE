@@ -1,0 +1,10 @@
+T13	Treatment 25 122	a poly-drug overdose (venlafaxine, topiramate, divalproex sodium, risperidone, and carbamazepine)
+T14	Effect 139 160	mixed SS/NMS features
+T16	Drug 47 58	venlafaxine
+T17	Drug 60 70	topiramate
+T18	Drug 72 89	divalproex sodium
+T19	Drug 91 102	risperidone
+T20	Drug 108 121	carbamazepine
+T21	Dosage 37 45	overdose
+T15	Adverse_event 123 133	presenting
+E1	Adverse_event:T15

@@ -1,0 +1,7 @@
+T4	Treatment 29 50	low-dosage amiodarone
+T5	Effect 0 24	Interstitial pneumopathy
+T6	Drug 40 50	amiodarone
+T7	Dosage 29 39	low-dosage
+T3	Adverse_event 25 28	and
+E1	Adverse_event:T3 
+A1	Speculated E1

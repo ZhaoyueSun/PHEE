@@ -1,0 +1,7 @@
+T5	Effect 46 60;86 117	hepatotoxicity severe chronic active hepatitis
+T7	Treatment 27 36	benzarone
+T9	Speculation_cue 14 23	potential
+T10	Severity_cue 86 92	severe
+T11	Drug 27 36	benzarone
+T6	Adverse_event 40 45	cause
+E1	Adverse_event:T6

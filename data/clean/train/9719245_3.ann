@@ -1,0 +1,7 @@
+T3	Effect 0 12	Pancytopenia
+T5	Treatment 29 50	5-aminosalicylic acid
+T7	Treat-Disorder 73 88	Crohn's disease
+T6	Subject 58 88	a patient with Crohn's disease
+T8	Drug 29 50	5-aminosalicylic acid
+T4	Adverse_event 13 23	associated
+E1	Adverse_event:T4 

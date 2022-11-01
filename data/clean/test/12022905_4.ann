@@ -1,0 +1,5 @@
+T3	Treatment 39 53	zuclopenthixol
+T5	Effect 62 70	priapism
+T6	Drug 39 53	zuclopenthixol
+T4	Adverse_event 54 61	induced
+E1	Adverse_event:T4

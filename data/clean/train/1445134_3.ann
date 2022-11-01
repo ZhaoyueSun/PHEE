@@ -1,0 +1,6 @@
+T3	Effect 69 89	gestational diabetes
+T5	Subject 93 104	pregnancies
+T6	Treatment 114 128	norethisterone
+T7	Drug 114 128	norethisterone
+T4	Adverse_event 56 65	incidence
+E1	Adverse_event:T4 

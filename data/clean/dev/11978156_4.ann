@@ -1,0 +1,5 @@
+T3	Treatment 0 12	Lansoprazole
+T5	Effect 21 37	thrombocytopenia
+T6	Drug 0 12	Lansoprazole
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4

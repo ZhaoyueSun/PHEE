@@ -1,0 +1,6 @@
+T3	Treatment 154 161	insulin
+T5	Effect 170 183	lipoatrophies
+T6	Drug 154 161	insulin
+T7	Treat-Disorder 189 197	diabetic
+T4	Adverse_event 162 169	induced
+E1	Adverse_event:T4

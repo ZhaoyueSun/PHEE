@@ -1,0 +1,7 @@
+T6	Subject 59 108	a patient with antiphospholipid antibody syndrome
+T7	Effect 0 13	Skin necrosis
+T9	Treatment 27 55	low-molecular weight heparin
+T10	Treat-Disorder 74 108	antiphospholipid antibody syndrome
+T11	Drug 27 55	low-molecular weight heparin
+T8	Adverse_event 14 26	secondary to
+E1	Adverse_event:T8 

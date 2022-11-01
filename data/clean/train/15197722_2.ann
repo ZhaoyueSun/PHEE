@@ -1,0 +1,5 @@
+T3	Effect 0 22	Restless legs syndrome
+T4	Treatment 30 46	interferon-alpha
+T6	Drug 30 46	interferon-alpha
+T5	Adverse_event 23 26	due
+E1	Adverse_event:T5

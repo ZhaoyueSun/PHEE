@@ -1,0 +1,5 @@
+T5	Treatment 53 56	IFN
+T6	Effect 90 120	congestive heart failure (CHF)
+T8	Drug 53 56	IFN
+T7	Adverse_event 61 70	suspended
+E1	Adverse_event:T7

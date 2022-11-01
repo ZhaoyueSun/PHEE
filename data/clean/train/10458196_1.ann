@@ -1,0 +1,10 @@
+T5	Subject 0 20	A 5-month-old infant
+T6	Effect 28 59	lethargic and poorly responsive
+T7	Treatment 66 109	receiving 1 drop of brimonidine in each eye
+T9	Drug 86 97	brimonidine
+T10	Dosage 76 82	1 drop
+T11	Age 2 13	5-month-old
+T12	Age 14 20	infant
+T13	Route 98 109	in each eye
+T8	Adverse_event 21 27	became
+E1	Adverse_event:T8

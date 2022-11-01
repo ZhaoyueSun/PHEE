@@ -1,0 +1,6 @@
+T5	Effect 0 14	Hyperammonemia
+T7	Treatment 28 41	valproic acid
+T8	Subject 68 87	a postictal patient
+T9	Drug 28 41	valproic acid
+T6	Adverse_event 47 52	cause
+E1	Adverse_event:T6

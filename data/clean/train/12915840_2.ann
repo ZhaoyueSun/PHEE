@@ -1,0 +1,6 @@
+T3	Effect 28 31	IHA
+T5	Treatment 48 58	cefuroxime
+T6	Drug 48 58	cefuroxime
+T7	Subject 10 24	the first case
+T4	Adverse_event 32 42	associated
+E1	Adverse_event:T4

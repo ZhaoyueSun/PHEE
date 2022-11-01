@@ -1,0 +1,9 @@
+T3	Subject 10 44	Two patients, ages 40 and 51 years
+T4	Treatment 72 87	interferon alfa
+T5	Treat-Disorder 92 111	malignant neoplasms
+T7	Effect 131 227	bilateral, sequential visual loss with disc-related field defects and segmental optic disc edema
+T9	Population 10 13	Two
+T10	Age 24 44	ages 40 and 51 years
+T11	Drug 72 87	interferon alfa
+T8	Adverse_event 112 123	experienced
+E1	Adverse_event:T8 

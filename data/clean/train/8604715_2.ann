@@ -1,0 +1,5 @@
+T3	Effect 49 79	nephrogenic diabetes insipidus
+T5	Treatment 131 150	foscarnet treatment
+T6	Drug 131 140	foscarnet
+T4	Adverse_event 101 109	reported
+E1	Adverse_event:T4

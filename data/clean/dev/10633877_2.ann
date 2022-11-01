@@ -1,0 +1,4 @@
+T3	Treatment 42 54	theophylline
+T5	Drug 42 54	theophylline
+T4	Adverse_event 67 79	incriminated
+E1	Adverse_event:T4

@@ -1,0 +1,8 @@
+T7	Subject 22 31;48 86	six cases patients with akinetic-rigid syndromes
+T8	Treat-Disorder 35 44	psychosis
+T10	Treatment 109 120	risperidone
+T11	Population 22 25	six
+T12	Sub-Disorder 62 86	akinetic-rigid syndromes
+T13	Drug 109 120	risperidone
+T9	Potential_therapeutic_event 96 103	treated
+E1	Potential_therapeutic_event:T9 

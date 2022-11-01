@@ -1,0 +1,9 @@
+T13	Effect 48 69;119 167	dermatologic toxicity an 'allergic' or acute hypersensitivity reaction
+T15	Treatment 80 109;171 174	a single low dose of the drug MTX
+T16	Subject 178 190	this patient
+T17	Drug 171 174	MTX
+T19	Dosage 82 97	single low dose
+T20	Severity_cue 41 47	severe
+T14	Adverse_event 70 79	following
+E1	Adverse_event:T14 
+A1	Severity E1 High

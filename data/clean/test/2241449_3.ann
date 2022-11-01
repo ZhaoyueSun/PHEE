@@ -1,0 +1,9 @@
+T6	Subject 12 21	two cases
+T7	Treatment 25 37	sulfadiazine
+T8	Effect 46 76	crystalluria and renal failure
+T10	Population 12 15	two
+T11	Drug 25 37	sulfadiazine
+T12	Subject 80 128	patients with acquired immunodeficiency syndrome
+T5	Adverse_event 38 45	induced
+E1	Adverse_event:T5 
+T1	Treat-Disorder 94 128	acquired immunodeficiency syndrome

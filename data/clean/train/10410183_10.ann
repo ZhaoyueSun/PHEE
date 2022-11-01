@@ -1,0 +1,5 @@
+T5	Effect 13 41	Marked elevation of serum CK
+T6	Treatment 76 94	olanzapine therapy
+T8	Drug 76 86	olanzapine
+T7	Adverse_event 60 72	complication
+E1	Adverse_event:T7 

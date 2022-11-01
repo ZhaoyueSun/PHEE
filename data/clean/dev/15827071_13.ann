@@ -1,0 +1,6 @@
+T3	Effect 42 75	a short time to onset of symptoms
+T5	Treatment 90 142	introduction of linezolid, generally within 1-3 days
+T6	Drug 106 115	linezolid
+T7	Time_elapsed 127 142	within 1-3 days
+T4	Adverse_event 76 85	following
+E1	Adverse_event:T4

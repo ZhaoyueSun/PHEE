@@ -1,0 +1,6 @@
+T5	Speculation_cue 51 62	possibility
+T6	Treatment 66 79	phenobarbital
+T8	Effect 80 156	behavioral side effects or exacerbation of preexisting maladaptive behaviors
+T9	Drug 66 79	phenobarbital
+T7	Adverse_event 20 27	trigger
+E1	Adverse_event:T7

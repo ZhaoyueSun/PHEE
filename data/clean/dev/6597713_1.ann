@@ -1,0 +1,9 @@
+T7	Treatment 13 65	cholestyramine II sachets twice daily for two months
+T8	Effect 85 119	lethargy, confusion and drowsiness
+T10	Drug 13 30	cholestyramine II
+T11	Route 31 38	sachets
+T12	Freq 39 50	twice daily
+T13	Duration 55 65	two months
+T14	Subject 66 69	she
+T9	Adverse_event 0 5	After
+E1	Adverse_event:T9

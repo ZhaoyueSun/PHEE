@@ -1,0 +1,7 @@
+T5	Treatment 26 30	5-FU
+T7	Effect 39 48	ectropion
+T8	Subject 12 48	Patients with 5-FU-induced ectropion
+T9	Effect 60 84	tender, red, scaled lids
+T10	Drug 26 30	5-FU
+T6	Adverse_event 31 38	induced
+E1	Adverse_event:T6

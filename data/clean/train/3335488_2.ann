@@ -1,0 +1,7 @@
+T6	Treatment 92 103	desipramine
+T7	Subject 0 12	Two patients
+T8	Effect 41 69	testicular swelling and pain
+T9	Population 0 3	Two
+T10	Drug 92 103	desipramine
+T5	Adverse_event 70 76	during
+E1	Adverse_event:T5

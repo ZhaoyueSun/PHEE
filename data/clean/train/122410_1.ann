@@ -1,0 +1,6 @@
+T3	Subject 0 9	A patient
+T4	Treatment 138 164	thyroid hormone withdrawal
+T5	Effect 107 131	secondary hypothyroidism
+T7	Drug 138 153	thyroid hormone
+T6	Adverse_event 85 94	developed
+E1	Adverse_event:T6

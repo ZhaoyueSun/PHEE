@@ -1,0 +1,18 @@
+T7	Subject 9 26	A 44-year-old man
+T9	Treat-Disorder 47 68	chronic low back pain
+T11	Effect 146 220	tense bullae and cutaneous fragility on the face and the back of the hands
+T12	Drug 34 42	naproxen
+T13	Drug 96 105	oxaprozin
+T14	Treat-Disorder 110 130	rheumatoid arthritis
+T15	Age 11 22	44-year-old
+T16	Gender 23 26	man
+T17	Age 75 86	20-year-old
+T18	Gender 87 92	woman
+T8	Treatment 34 42	naproxen
+T20	Subject 73 92	a 20-year-old woman
+T21	Treatment 96 105	oxaprozin
+T10	Adverse_event 131 140	presented
+E1	Adverse_event:T10 arg:T20 arg2:T21 arg3:T11
+E2	Adverse_event:T10 arg:T7 arg2:T8 arg3:T11
+R1	has Arg1:T8 Arg2:T9	
+R2	has Arg1:T21 Arg2:T14

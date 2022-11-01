@@ -1,0 +1,6 @@
+T5	Subject 180 221	a patient without coronary artery disease
+T6	Treatment 166 175	amsacrine
+T7	Effect 29 111	focal myocardial necrosis, presenting clinically as an acute myocardial infarction
+T9	Drug 166 175	amsacrine
+T8	Adverse_event 112 118	during
+E1	Adverse_event:T8

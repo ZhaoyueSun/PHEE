@@ -1,0 +1,6 @@
+T4	Effect 0 35	Long lasting respiratory depression
+T5	Treatment 47 69	morphine-6-glucuronide
+T6	Speculation_cue 69 70	?
+T8	Drug 47 69	morphine-6-glucuronide
+T3	Adverse_event 36 43	induced
+E1	Adverse_event:T3

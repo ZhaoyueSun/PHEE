@@ -1,0 +1,6 @@
+T3	Effect 0 28	Thrombo-embolic complication
+T5	Treatment 35 48	streptokinase
+T7	Drug 35 48	streptokinase
+T8	Treat-Disorder 60 77	pulmonary emboli.
+T4	Adverse_event 29 34	after
+E1	Adverse_event:T4 

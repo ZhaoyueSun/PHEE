@@ -1,0 +1,15 @@
+T12	Treatment 83 265	local therapy with topical corticosteroids, silver nitrate, and conjunctival resection, as well as systemic immunosuppression with corticosteroids, cyclophosphamide, and azathioprine
+T13	Drug 110 125	corticosteroids
+T14	Drug 127 141	silver nitrate
+T15	Drug 214 229	corticosteroids
+T16	Drug 231 247	cyclophosphamide
+T17	Drug 253 265	azathioprine
+T18	Negation_cue 62 68	failed
+T19	Subject 20 56	a case with bilateral Mooren's ulcer
+T20	Treat-Disorder 32 56	bilateral Mooren's ulcer
+T22	Route 102 109	topical
+T11	Potential_therapeutic_event 72 79	respond
+T21	Combination 143 146	and
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T21 arg:T13 arg2:T14 arg3:T15 arg4:T16 arg5:T17
+A1	Negated E1

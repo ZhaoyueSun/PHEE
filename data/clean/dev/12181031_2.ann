@@ -1,0 +1,6 @@
+T3	Treatment 69 79	cladribine
+T4	Effect 0 19	Systemic vasculitis
+T7	Treat-Disorder 33 53	hairy cell leukaemia
+T8	Drug 69 79	cladribine
+T5	Adverse_event 54 63	treatment
+E1	Adverse_event:T5 

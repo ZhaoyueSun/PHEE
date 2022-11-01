@@ -1,0 +1,8 @@
+T3	Treatment 82 98	cyclophosphamide
+T4	Effect 20 60	NEH masquerading as cutaneous vasculitis
+T5	Subject 64 71;99 118	a woman for lupus nephritis
+T7	Gender 66 71	woman
+T9	Drug 82 98	cyclophosphamide
+T10	Treat-Disorder 103 119	lupus nephritis.
+T6	Adverse_event 61 63	in
+E1	Adverse_event:T6

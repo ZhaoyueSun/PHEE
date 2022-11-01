@@ -1,0 +1,11 @@
+T9	Treatment 125 159;18 28	concomitant neuroleptic medication amantadine
+T11	Effect 49 74	psychotic decompensations
+T12	Subject 78 104	two schizophrenic patients
+T13	Population 78 81	two
+T14	Sub-Disorder 82 95	schizophrenic
+T15	Drug 18 28	amantadine
+T16	Drug 137 148	neuroleptic
+T10	Adverse_event 33 43	associated
+T17	Combination 125 136	concomitant
+E1	Adverse_event:T10 
+E2	Combination:T17 arg:T16 arg2:T15

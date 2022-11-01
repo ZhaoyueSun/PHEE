@@ -1,0 +1,5 @@
+T3	Effect 0 22	Delusional parasitosis
+T5	Treatment 39 49	phenelzine
+T6	Drug 39 49	phenelzine
+T4	Adverse_event 23 33	associated
+E1	Adverse_event:T4

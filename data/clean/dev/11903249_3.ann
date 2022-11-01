@@ -1,0 +1,11 @@
+T4	Treatment 101 130	interferon alfa and ribavirin
+T5	Effect 27 38	sarcoidosis
+T6	Subject 42 87	two patients with hepatitis C virus infection
+T8	Population 42 45	two
+T10	Treat-Disorder 60 87	hepatitis C virus infection
+T12	Drug 101 116	interferon alfa
+T13	Drug 121 130	ribavirin
+T7	Adverse_event 39 41	in
+T11	Combination 117 120	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T12 arg2:T13

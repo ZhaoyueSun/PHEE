@@ -1,0 +1,9 @@
+T10	Subject 9 26	A 68-year-old man
+T12	Effect 37 92	intense conjunctival hyperemia and cystoid macula edema
+T13	Treat-Disorder 156 172	cataract surgery
+T14	Treatment 129 140	bimatoprost
+T15	Age 11 22	68-year-old
+T16	Gender 23 26	man
+T17	Drug 129 140	bimatoprost
+T11	Adverse_event 27 36	developed
+E1	Adverse_event:T11

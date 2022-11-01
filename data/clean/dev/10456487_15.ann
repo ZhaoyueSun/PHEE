@@ -1,0 +1,14 @@
+T9	Treatment 50 57	tacrine
+T10	Effect 66 80	hepatotoxicity
+T11	Speculation_cue 0 7	Whether
+T13	Drug 50 57	tacrine
+T14	Treatment 8 31	concomitant fluvoxamine
+T15	Drug 20 31	fluvoxamine
+T16	Treat-Disorder 50 80	tacrine-induced hepatotoxicity
+T8	Adverse_event 58 65	induced
+T17	Potential_therapeutic_event 42 49	reduces
+E1	Adverse_event:T8 arg:T9 arg2:T10
+E2	Potential_therapeutic_event:T17 arg:T14
+R1	has Arg1:T14 Arg2:T16	
+R2	has_cue Arg1:E2 Arg2:T11	
+A1	Speculated E2

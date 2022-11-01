@@ -1,0 +1,10 @@
+T10	Subject 0 11	The patient
+T7	Effect 27 91	fulminant microangiopathic hemolytic anemia and thrombocytopenia
+T8	Treatment 92 161	within 48 hr of initiating therapy with trimethoprim-sulfamethoxazole
+T11	Time_elapsed 99 104	48 hr
+T12	Drug 132 144	trimethoprim
+T13	Drug 145 161	sulfamethoxazole
+T9	Adverse_event 12 21	presented
+T14	Combination 144 145	-
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T12 arg2:T13

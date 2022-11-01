@@ -1,0 +1,5 @@
+T3	Treatment 67 70	TCA
+T5	Effect 88 117	protracted Cushing's syndrome
+T6	Drug 67 70	TCA
+T4	Adverse_event 80 87	lead to
+E1	Adverse_event:T4

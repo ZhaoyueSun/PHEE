@@ -1,0 +1,6 @@
+T4	Effect 96 123	cortical negative myoclonus
+T5	Treatment 73 83	pregabalin
+T7	Subject 33 71	patients without a history of seizures
+T9	Drug 73 83	pregabalin
+T6	Adverse_event 88 93	cause
+E1	Adverse_event:T6

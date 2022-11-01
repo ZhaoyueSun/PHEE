@@ -1,0 +1,11 @@
+T3	Effect 17 32	acute hepatitis
+T5	Treatment 43 62	cyproterone acetate
+T6	Subject 66 108	a 71 year old man with prostatic carcinoma
+T7	Age 68 79	71 year old
+T8	Gender 80 83	man
+T10	Drug 43 62	cyproterone acetate
+T11	Treat-Disorder 89 108	prostatic carcinoma
+T12	Severity_cue 10 16	severe
+T4	Adverse_event 33 39	caused
+E1	Adverse_event:T4 
+A1	Severity E1 High

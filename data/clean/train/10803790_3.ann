@@ -1,0 +1,11 @@
+T5	Subject 8 38	A 29-year-old female alcoholic
+T6	Effect 53 87	general fatigue and a slight fever
+T7	Treatment 88 132	after 1.5 years of abstinence with cyanamide
+T9	Age 10 21	29-year-old
+T10	Gender 22 28	female
+T11	Treat-Disorder 29 38	alcoholic
+T12	Severity_cue 75 81	slight
+T13	Duration 94 103	1.5 years
+T15	Drug 123 132	cyanamide
+T8	Adverse_event 39 49	complained
+E1	Adverse_event:T8 

@@ -1,0 +1,6 @@
+T4	Treatment 52 63	venlafaxine
+T5	Effect 0 24	An acute ischaemic event
+T7	Drug 52 63	venlafaxine
+T6	Subject 65 71	a case
+T3	Adverse_event 25 35	associated
+E1	Adverse_event:T3

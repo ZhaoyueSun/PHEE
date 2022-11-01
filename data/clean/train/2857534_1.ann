@@ -1,0 +1,7 @@
+T4	Treatment 0 10	Alprazolam
+T5	Effect 19 24	mania
+T6	Subject 26 44	two clinical cases
+T7	Population 26 29	two
+T8	Drug 0 10	Alprazolam
+T3	Adverse_event 11 18	induced
+E1	Adverse_event:T3

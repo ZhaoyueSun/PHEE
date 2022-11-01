@@ -1,0 +1,9 @@
+T4	Effect 211 240	respiratory distress syndrome
+T5	Treatment 42 109	relatively high dose of methotrimeprazine meleate (Levemepromazine)
+T7	Subject 0 18	An 11-year-old boy
+T8	Age 3 14	11-year-old
+T9	Gender 15 18	boy
+T10	Dosage 42 62	relatively high dose
+T11	Drug 66 91	methotrimeprazine meleate
+T6	Adverse_event 196 205	suffering
+E1	Adverse_event:T6

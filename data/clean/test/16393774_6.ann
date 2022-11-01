@@ -1,0 +1,7 @@
+T6	Subject 4 18	second patient
+T8	Effect 29 99	both autoimmune thyroid disease and a refractory pre-patellar bursitis
+T9	Treatment 106 135	50 months of IFN-beta therapy
+T10	Drug 119 127	IFN-beta
+T11	Time_elapsed 106 115	50 months
+T7	Adverse_event 19 28	developed
+E1	Adverse_event:T7

@@ -1,0 +1,8 @@
+T4	Treatment 165 192	Viokase and Pancrease MT 16
+T5	Effect 112 120	vomiting
+T7	Drug 165 172	Viokase
+T8	Drug 177 192	Pancrease MT 16
+T6	Adverse_event 91 102	resulted in
+T9	Combination 173 176	and
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T7 arg2:T8

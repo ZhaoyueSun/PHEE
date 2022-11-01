@@ -1,0 +1,8 @@
+T3	Effect 168 186	acute pancreatitis
+T5	Treatment 197 205	propofol
+T6	Subject 113 144	patients with Cushing's disease
+T7	Speculation_cue 145 150	might
+T12	Drug 197 205	propofol
+T13	Treat-Disorder 127 144	Cushing's disease
+T4	Adverse_event 187 196	following
+E1	Adverse_event:T4

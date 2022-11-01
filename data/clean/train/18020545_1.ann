@@ -1,0 +1,9 @@
+T4	Effect 63 74	tardive OGC
+T5	Treatment 88 97	clozapine
+T6	Subject 28 42	three patients
+T7	Population 28 33	three
+T8	Drug 88 97	clozapine
+T9	Speculation_cue 43 51	appeared
+T3	Adverse_event 55 62	develop
+E1	Adverse_event:T3 
+A1	Speculated E1

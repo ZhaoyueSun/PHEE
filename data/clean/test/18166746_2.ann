@@ -1,0 +1,6 @@
+T7	Treatment 84 129	methylene blue infusion for parathyroidectomy
+T9	Effect 20 73	autonomic, neurological and neuromuscular instability
+T11	Drug 84 98	methylene blue
+T12	Route 99 107	infusion
+T6	Adverse_event 74 83	following
+E1	Adverse_event:T6 

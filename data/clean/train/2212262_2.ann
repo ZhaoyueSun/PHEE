@@ -1,0 +1,6 @@
+T4	Treatment 34 41;77 117	heparin continuous arteriovenous haemofiltration
+T5	Subject 10 19	a patient
+T6	Effect 34 69	heparin associated thrombocytopenia
+T7	Drug 34 41	heparin
+T3	Adverse_event 70 76	during
+E1	Adverse_event:T3

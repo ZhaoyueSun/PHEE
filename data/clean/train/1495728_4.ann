@@ -1,0 +1,8 @@
+T9	Subject 89 135	patients with early unruptured tubal pregnancy
+T10	Treatment 16 28	methotrexate
+T11	Speculation_cue 141 148;189 197	suggest possible
+T13	Effect 198 215	systemic toxicity
+T15	Drug 16 28	methotrexate
+T16	Treat-Disorder 103 135	early unruptured tubal pregnancy
+T12	Adverse_event 170 177	caution
+E1	Adverse_event:T12

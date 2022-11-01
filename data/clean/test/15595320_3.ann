@@ -1,0 +1,6 @@
+T17	Treatment 54 122	MTX and a variety of non-steroidal, anti-inflammatory drugs (NSAIDs)
+T18	Effect 170 297	acute renal failure, pancytopenia, vomiting, diarrhea, elevated liver transaminases, jaundice, mucosal ulcerations, and pyrexia
+T20	Drug 54 57	MTX
+T21	Drug 75 113	non-steroidal, anti-inflammatory drugs
+T19	Adverse_event 145 159	manifestations
+E1	Adverse_event:T19

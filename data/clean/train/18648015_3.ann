@@ -1,0 +1,7 @@
+T3	Treatment 33 42	cefazolin
+T5	Effect 51 61	leukopenia
+T6	Subject 65 89	a critically ill patient
+T7	Sub-Disorder 67 81	critically ill
+T8	Drug 33 42	cefazolin
+T4	Adverse_event 43 50	induced
+E1	Adverse_event:T4 

@@ -1,0 +1,7 @@
+T8	Treatment 22 29	esmolol
+T11	Drug 22 29	esmolol
+T12	Treat-Disorder 47 59	dysrhythmias
+T13	Drug 73 81	caffeine
+T14	Drug 133 140	esmolol
+T9	Potential_therapeutic_event 34 43	treatment
+E1	Potential_therapeutic_event:T9

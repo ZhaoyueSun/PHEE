@@ -1,0 +1,6 @@
+T3	Treatment 75 83	naloxone
+T5	Treat-Disorder 0 37	Central nervous system manifestations
+T7	Drug 44 53	ibuprofen
+T8	Drug 75 83	naloxone
+T4	Potential_therapeutic_event 72 74	by
+E1	Potential_therapeutic_event:T4

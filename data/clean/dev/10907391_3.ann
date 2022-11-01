@@ -1,0 +1,7 @@
+T3	Treatment 66 76	paclitaxel
+T4	Effect 32 35	PLP
+T6	Drug 66 76	paclitaxel
+T7	Speculation_cue 36 39	can
+T5	Adverse_event 40 45	occur
+E1	Adverse_event:T5 
+A1	Speculated E1

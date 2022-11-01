@@ -1,0 +1,7 @@
+T3	Subject 21 30	two cases
+T5	Treatment 65 80	methylphenidate
+T6	Effect 34 53	fixed drug eruption
+T7	Population 21 24	two
+T8	Drug 65 80	methylphenidate
+T4	Adverse_event 54 61	induced
+E1	Adverse_event:T4

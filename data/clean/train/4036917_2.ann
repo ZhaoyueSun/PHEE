@@ -1,0 +1,7 @@
+T5	Effect 0 18	Reye syndrome (RS)
+T6	Treatment 78 95	long-term aspirin
+T7	Subject 59 67	children
+T10	Age 59 67	children
+T11	Drug 88 95	aspirin
+T8	Adverse_event 34 39	occur
+E1	Adverse_event:T8

@@ -1,0 +1,7 @@
+T3	Effect 91 109	cutaneous eruption
+T4	Subject 113 124	our patient
+T5	Treatment 64 85	gemcitabine treatment
+T7	Drug 64 75	gemcitabine
+T8	Speculation_cue 128 136	possible
+T6	Adverse_event 86 90	with
+E1	Adverse_event:T6

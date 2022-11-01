@@ -1,0 +1,1 @@
+In vitro inhibition of CYP2C9 by zafirlukast is consistent with clinical studies showing impaired clearance of  S-warfarin and enhanced anti-thrombotic effects, although the in vitro IC(50) value is higher than the usual range of clinically relevant plasma concentrations.

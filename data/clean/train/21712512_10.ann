@@ -1,0 +1,11 @@
+T8	Treatment 121 166	inhaled corticosteroids and CYP3A4 inhibitors
+T10	Effect 0 27	Iatrogenic Cushing syndrome
+T11	Subject 49 65	patients with CF
+T12	Sub-Disorder 63 65	CF
+T14	Route 121 128	inhaled
+T15	Drug 129 144	corticosteroids
+T16	Drug 149 166	CYP3A4 inhibitors
+T9	Adverse_event 37 45	reported
+T13	Combination 145 148	and
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T15 arg2:T16

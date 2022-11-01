@@ -1,0 +1,8 @@
+T4	Treatment 0 8	Warfarin
+T5	Effect 20 46	thoracic aortic dissection
+T6	Subject 50 66	an elderly woman
+T7	Age 53 60	elderly
+T8	Gender 61 66	woman
+T9	Drug 0 8	Warfarin
+T3	Adverse_event 9 19	associated
+E1	Adverse_event:T3

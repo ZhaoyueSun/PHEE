@@ -1,0 +1,6 @@
+T3	Subject 0 8	Patients
+T4	Effect 46 59	osteonecrosis
+T5	Treatment 72 85	dexamethasone
+T7	Drug 72 85	dexamethasone
+T6	Adverse_event 38 42	risk
+E1	Adverse_event:T6

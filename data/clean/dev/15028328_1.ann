@@ -1,0 +1,7 @@
+T3	Subject 23 40	pediatric patient
+T4	Effect 0 17	Cerebral infarcts
+T6	Treatment 54 73	phenylpropanolamine
+T7	Age 23 32	pediatric
+T8	Drug 54 73	phenylpropanolamine
+T5	Adverse_event 41 50	secondary
+E1	Adverse_event:T5

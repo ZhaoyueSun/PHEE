@@ -1,0 +1,10 @@
+T3	Subject 0 62	A 52 year-old male patient diagnosed of ankylosing spondylitis
+T5	Effect 78 103	an iron deficiency anemia
+T6	Treatment 110 147	a ten-month treatment of methotrexate
+T7	Age 2 13	52 year-old
+T8	Gender 14 18	male
+T10	Time_elapsed 112 121	ten-month
+T11	Drug 135 147	methotrexate
+T12	Treat-Disorder 40 62	ankylosing spondylitis
+T4	Adverse_event 63 72	presented
+E1	Adverse_event:T4

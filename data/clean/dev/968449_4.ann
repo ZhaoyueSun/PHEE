@@ -1,0 +1,8 @@
+T4	Treatment 23 60	25 months of myelosuppressive therapy
+T5	Effect 61 137	a deletion of chromosome no. 12, del (12) (p11), in 60% of the diploid cells
+T7	Subject 0 6	Case 1
+T8	Population 5 6	1
+T9	Time_elapsed 23 32	25 months
+T10	Drug 36 52	myelosuppressive
+T6	Adverse_event 17 22	after
+E1	Adverse_event:T6

@@ -1,0 +1,9 @@
+T10	Subject 29 36	patient
+T11	Effect 108 162	postoperative hypophosphatemia and hypocalcemic tetany
+T12	Treatment 67 88;163 210	alendronate (Fosamax) after bowel preparation with Fleet Phospho-Soda
+T13	Drug 67 78	alendronate
+T14	Drug 192 210	Fleet Phospho-Soda
+T9	Adverse_event 93 102	presented
+T15	Combination 187 191	with
+E1	Adverse_event:T9 
+E2	Combination:T15 arg:T13 arg2:T14

@@ -1,0 +1,6 @@
+T4	Treatment 41 52	gemcitabine
+T5	Effect 61 65	LABD
+T7	Drug 41 52	gemcitabine
+T3	Adverse_event 53 60	induced
+E1	Adverse_event:T3 
+A1	Speculated E1

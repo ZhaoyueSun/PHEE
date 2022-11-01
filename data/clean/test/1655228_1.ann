@@ -1,0 +1,5 @@
+T3	Effect 0 16	Cardiac toxicity
+T5	Treatment 28 32	BCNU
+T7	Drug 28 32	BCNU
+T4	Adverse_event 17 24	related
+E1	Adverse_event:T4

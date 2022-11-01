@@ -1,0 +1,9 @@
+T6	Speculation_cue 94 97	may
+T7	Treatment 21 93	simultaneous administration of ciprofloxacin and tazobactam/piperacillin
+T8	Effect 104 125	marked thrombocytosis
+T9	Drug 52 65	ciprofloxacin
+T10	Drug 70 93	tazobactam/piperacillin
+T5	Adverse_event 98 103	cause
+T11	Combination 66 69	and
+E1	Adverse_event:T5 
+E2	Combination:T11 arg:T9 arg2:T10

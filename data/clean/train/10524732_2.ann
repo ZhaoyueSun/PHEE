@@ -1,0 +1,8 @@
+T3	Treatment 75 118	pentavalent antimonial drugs and amiodarone
+T5	Effect 20 49	recurrent torsades de pointes
+T6	Drug 108 118	amiodarone
+T7	Drug 75 103	pentavalent antimonial drugs
+T4	Adverse_event 60 74	treatment with
+T8	Combination 104 107	and
+E1	Adverse_event:T4 
+E2	Combination:T8 arg:T7 arg2:T6

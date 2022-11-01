@@ -1,0 +1,5 @@
+T4	Treatment 38 47	captopril
+T5	Effect 0 31	Nonoliguric acute renal failure
+T6	Drug 38 47	captopril
+T3	Adverse_event 32 37	after
+E1	Adverse_event:T3

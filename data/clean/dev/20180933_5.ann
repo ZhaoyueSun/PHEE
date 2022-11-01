@@ -1,0 +1,12 @@
+T5	Subject 77 156	899 infants and children with acute uncomplicated Plasmodium falciparum malaria
+T8	Treatment 166 280	six doses of AL according to body weight over 3 days either as crushed tablets (Coartem) or as dispersible tablets
+T9	Population 77 80	899
+T10	Age 81 101	infants and children
+T11	Drug 179 181	AL
+T12	Duration 212 218	3 days
+T13	Dosage 166 175	six doses
+T14	Treat-Disorder 127 156	Plasmodium falciparum malaria
+T15	Route 229 244	crushed tablets
+T16	Route 261 280	dispersible tablets
+T7	Potential_therapeutic_event 157 165	received
+E1	Potential_therapeutic_event:T7

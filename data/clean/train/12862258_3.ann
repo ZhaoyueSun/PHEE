@@ -1,0 +1,5 @@
+T3	Treatment 32 39	dapsone
+T4	Effect 48 63	agranulocytosis
+T6	Drug 32 39	dapsone
+T5	Adverse_event 40 47	induced
+E1	Adverse_event:T5

@@ -1,0 +1,6 @@
+T5	Effect 28 49	dysarthria and ataxia
+T7	Treatment 119 125	HDARAC
+T8	Subject 80 93	the patient's
+T9	Drug 119 125	HDARAC
+T6	Adverse_event 55 59	seen
+E1	Adverse_event:T6

@@ -1,0 +1,12 @@
+T4	Treatment 46 72;129 148	etizolam and flunitrazepam mianserin 30 mg/day
+T5	Effect 154 209	because of that the depressive symptom also disappeared
+T6	Treat-Disorder 5 18	panic anxiety
+T7	Drug 59 72	flunitrazepam
+T8	Drug 46 54	etizolam
+T9	Drug 129 138	mianserin
+T10	Dosage 139 148	30 mg/day
+T13	Treat-Disorder 174 192	depressive symptom
+T12	Potential_therapeutic_event 84 92	subsided
+T3	Combination 55 58	and
+E2	Potential_therapeutic_event:T12 
+E1	Combination:T3 arg:T8 arg2:T7 arg3:T9

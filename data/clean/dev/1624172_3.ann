@@ -1,0 +1,7 @@
+T3	Effect 0 19	Thyroid dysfunction
+T5	Subject 41 72	patients with malignant disease
+T6	Treatment 86 114	recombinant alpha interferon
+T8	Treat-Disorder 55 72	malignant disease
+T9	Drug 86 114	recombinant alpha interferon
+T4	Adverse_event 29 37	reported
+E1	Adverse_event:T4 

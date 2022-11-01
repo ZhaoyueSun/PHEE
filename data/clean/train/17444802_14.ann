@@ -1,0 +1,7 @@
+T4	Treatment 13 37	Topical INF alpha 2-beta
+T6	Treat-Disorder 77 80	CIN
+T7	Subject 84 125	patients for whom surgery is not possible
+T8	Route 13 20	Topical
+T9	Drug 21 37	INF alpha 2-beta
+T5	Potential_therapeutic_event 41 55	a valid choice
+E1	Potential_therapeutic_event:T5

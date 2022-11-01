@@ -1,0 +1,13 @@
+T8	Treatment 74 94	combined RLX and ALN
+T9	Subject 98 181	331 postmenopausal women with osteoporosis (femoral neck BMD T-score, less than -2)
+T12	Population 98 101	331
+T13	Gender 117 122	women
+T14	Treat-Disorder 128 140	osteoporosis
+T16	Age 102 116	postmenopausal
+T17	Speculation_cue 50 58	assessed
+T18	Drug 83 86	RLX
+T19	Drug 91 94	ALN
+T11	Potential_therapeutic_event 63 70	effects
+T20	Combination 74 82	combined
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T20 arg:T18 arg2:T19

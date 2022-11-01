@@ -1,0 +1,6 @@
+T9	Treatment 113 122	clonidine
+T11	Effect 131 142	bradycardia
+T12	Speculation_cue 98 109	possibility
+T13	Drug 113 122	clonidine
+T10	Adverse_event 123 130	induced
+E1	Adverse_event:T10

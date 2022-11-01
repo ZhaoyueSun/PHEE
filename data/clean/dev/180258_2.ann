@@ -1,0 +1,9 @@
+T4	Treatment 66 111	the ingestion of 30.6 and 114 g metronidazole
+T5	Subject 0 12	Two patients
+T6	Effect 41 59	sensory neuropathy
+T7	Population 0 3	Two
+T8	Drug 98 111	metronidazole
+T9	Dosage 92 97	114 g
+T10	Dosage 83 87;96 97	30.6 g
+T3	Adverse_event 60 65	after
+E1	Adverse_event:T3

@@ -1,0 +1,8 @@
+T6	Effect 12 26	Oral mucositis
+T7	Treatment 80 99	cancer chemotherapy
+T9	Speculation_cue 45 56	potentially
+T10	Severity_cue 57 63	severe
+T11	Route 87 99	chemotherapy
+T12	Treat-Disorder 80 86	cancer
+T8	Adverse_event 64 76	complication
+E1	Adverse_event:T8

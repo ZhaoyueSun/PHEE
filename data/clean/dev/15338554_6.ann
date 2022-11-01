@@ -1,0 +1,7 @@
+T3	Effect 0 55	Progression of chronic myeloid leukemia to blast crisis
+T5	Treatment 78 95	imatinib mesylate
+T6	Drug 78 95	imatinib mesylate
+T7	Severity_cue 43 55	blast crisis
+T4	Adverse_event 56 62	during
+E1	Adverse_event:T4 
+A1	Severity E1 High

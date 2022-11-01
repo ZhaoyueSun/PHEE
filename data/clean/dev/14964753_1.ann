@@ -1,0 +1,5 @@
+T5	Treatment 34 42	ramipril
+T6	Effect 0 20	Cutaneous vasculitis
+T7	Drug 34 42	ramipril
+T4	Adverse_event 21 30	secondary
+E1	Adverse_event:T4

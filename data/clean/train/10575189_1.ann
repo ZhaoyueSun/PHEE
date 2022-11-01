@@ -1,0 +1,8 @@
+T3	Effect 44 85	thrombotic microangiopathy of the kidneys
+T5	Treatment 151 162	gemcitabine
+T6	Subject 19 29	2 patients
+T7	Population 19 20	2
+T8	Dosage 102 123	high cumulative doses
+T9	Drug 151 162	gemcitabine
+T4	Adverse_event 92 101	receiving
+E1	Adverse_event:T4

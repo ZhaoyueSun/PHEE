@@ -1,0 +1,9 @@
+T6	Effect 113 145	neutropenic with marrow aplasia.
+T8	Treatment 34 67	receiving ticlopidine for 2 years
+T5	Subject 18 33	82-year-old man
+T9	Age 18 29	82-year-old
+T10	Gender 30 33	man
+T11	Duration 60 67	2 years
+T12	Drug 44 55	ticlopidine
+T7	Adverse_event 107 112	found
+E1	Adverse_event:T7

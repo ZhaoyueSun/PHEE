@@ -1,0 +1,7 @@
+T8	Treatment 134 145	alemtuzumab
+T10	Effect 20 48	fatal C. neoformans fungemia
+T11	Subject 52 120	a neutropenic patient with a history of chronic lymphocytic leukemia
+T13	Drug 134 145	alemtuzumab
+T14	Treat-Disorder 92 120	chronic lymphocytic leukemia
+T9	Adverse_event 121 133	treated with
+E1	Adverse_event:T9

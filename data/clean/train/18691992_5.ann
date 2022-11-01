@@ -1,0 +1,7 @@
+T5	Treatment 0 11	Hydroxyurea
+T7	Effect 28 125	concomitant occurrence of diffuse longitudinal melanonychia and multiple squamous cell carcinomas
+T8	Subject 129 147	an elderly subject
+T9	Age 132 139	elderly
+T10	Drug 0 11	Hydroxyurea
+T6	Adverse_event 12 22	associated
+E1	Adverse_event:T6

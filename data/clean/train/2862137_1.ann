@@ -1,0 +1,9 @@
+T3	Subject 31 46	68-year-old man
+T4	Treatment 76 117	withdrawn from a low dosage of alprazolam
+T5	Effect 54 63	delirious
+T7	Age 31 42	68-year-old
+T8	Gender 43 46	man
+T9	Drug 107 117	alprazolam
+T10	Dosage 93 103	low dosage
+T6	Adverse_event 64 69	after
+E1	Adverse_event:T6

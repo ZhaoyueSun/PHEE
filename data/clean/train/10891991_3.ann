@@ -1,0 +1,9 @@
+T3	Subject 13 24;148 167	The 3 cases women with epilepsy
+T5	Effect 70 102	reproductive endocrine disorders
+T6	Treatment 103 144	after the initiation of valproate therapy
+T9	Population 17 18	3
+T7	Gender 148 153	women
+T11	Drug 127 136	valproate
+T12	Treat-Disorder 159 167	epilepsy
+T4	Adverse_event 55 66	development
+E1	Adverse_event:T4

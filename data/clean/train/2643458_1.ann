@@ -1,0 +1,6 @@
+T3	Treatment 56 138	substitution of the Erwinia carotovora for the Escherichia coli enzyme preparation
+T5	Effect 0 49	Attenuation of asparaginase-induced hyperglycemia
+T6	Drug 76 94	Erwinia carotovora
+T7	Drug 103 138	Escherichia coli enzyme preparation
+T4	Potential_therapeutic_event 50 55	after
+E1	Potential_therapeutic_event:T4

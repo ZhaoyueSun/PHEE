@@ -1,0 +1,5 @@
+T3	Treatment 0 9	Isoniazid
+T5	Effect 22 54	painful, bilateral gynaecomastia
+T6	Drug 0 9	Isoniazid
+T4	Adverse_event 10 20	associated
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T5	Treatment 123 126	PTU
+T6	Effect 146 150	ANCA
+T7	Speculation_cue 127 138	appeared to
+T9	Drug 123 126	PTU
+T4	Adverse_event 139 145	induce
+E1	Adverse_event:T4

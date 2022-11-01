@@ -1,0 +1,5 @@
+T5	Treatment 33 49	Dihydropyridines
+T7	Drug 33 49	Dihydropyridines
+T6	Effect 0 16	Bullous Eruption
+T4	Adverse_event 17 27	Associated
+E1	Adverse_event:T4

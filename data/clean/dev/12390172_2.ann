@@ -1,0 +1,8 @@
+T5	Subject 71 82	a young boy
+T6	Effect 88 104;121 135	decreased vision retinal damage
+T8	Treatment 139 148	rifabutin
+T9	Age 73 78	young
+T10	Gender 79 82	boy
+T11	Drug 139 148	rifabutin
+T7	Adverse_event 114 117	due
+E1	Adverse_event:T7

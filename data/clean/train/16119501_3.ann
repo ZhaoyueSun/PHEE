@@ -1,0 +1,7 @@
+T5	Treatment 123 193	24 hours of reinstitution of full preadmission dosing of oral baclofen
+T6	Effect 30 115	fever and autonomic instability without evidence of infection which entirely resolved
+T8	Route 180 184	oral
+T10	Drug 185 193	baclofen
+T9	Time_elapsed 123 131	24 hours
+T7	Adverse_event 25 29	have
+E1	Adverse_event:T7

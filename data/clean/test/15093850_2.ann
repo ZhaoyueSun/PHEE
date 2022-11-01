@@ -1,0 +1,6 @@
+T7	Treatment 51 62	pilocarpine
+T9	Effect 88 142	bradycardia, mild hypotension, and muscarinic symptoms
+T10	Route 46 50	oral
+T11	Drug 51 62	pilocarpine
+T8	Adverse_event 76 84	resulted
+E1	Adverse_event:T8

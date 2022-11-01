@@ -1,0 +1,5 @@
+T6	Treatment 135 159	L-asparaginase treatment
+T7	Effect 67 118	posterior reversible encephalopathy syndrome (PRES)
+T8	Drug 135 149	L-asparaginase
+T5	Adverse_event 119 129	associated
+E1	Adverse_event:T5

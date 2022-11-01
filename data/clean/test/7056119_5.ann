@@ -1,0 +1,14 @@
+T7	Treatment 0 98	Two years later, 24 hours following an increase in the dose of disopyramide from 300 to 600 mg/day
+T8	Effect 100 116	AVT with syncope
+T11	Time_elapsed 17 25	24 hours
+T12	Dosage 81 98	300 to 600 mg/day
+T14	Drug 63 75	disopyramide
+T15	Drug 127 140	isoproterenol
+T17	Treatment 127 140	isoproterenol
+T19	Treat-Disorder 155 165	arrhythmia
+T10	Duration 0 9	Two years
+T9	Adverse_event 117 125	occurred
+T18	Potential_therapeutic_event 141 150	abolished
+E1	Adverse_event:T9 arg:T7 arg2:T8
+E2	Potential_therapeutic_event:T18 arg:T17
+R1	has Arg1:T17 Arg2:T19

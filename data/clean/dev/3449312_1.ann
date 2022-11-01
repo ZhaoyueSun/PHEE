@@ -1,0 +1,5 @@
+T5	Treatment 0 4	Gold
+T6	Effect 13 28	aplastic anemia
+T7	Drug 0 4	Gold
+T4	Adverse_event 5 12	induced
+E1	Adverse_event:T4

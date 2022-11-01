@@ -1,0 +1,9 @@
+T3	Effect 12 26	Ovarian cancer
+T5	Subject 65 87	a postmenopausal woman
+T6	Treatment 94 103	tamoxifen
+T7	Treat-Disorder 40 61	an endometriotic cyst
+T8	Age 67 81	postmenopausal
+T9	Gender 82 87	woman
+T10	Drug 94 103	tamoxifen
+T4	Adverse_event 27 34	arising
+E1	Adverse_event:T4

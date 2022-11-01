@@ -1,0 +1,6 @@
+T6	Treatment 45 55	cefuroxime
+T7	Effect 16 20	DIAN
+T9	Subject 3 14	our patient
+T10	Drug 45 55	cefuroxime
+T8	Adverse_event 34 44	related to
+E1	Adverse_event:T8

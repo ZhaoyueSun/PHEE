@@ -1,0 +1,7 @@
+T7	Effect 2 105	transient tonic pupillary response, denervation supersensitivity, and abnormal visual-evoked potentials
+T8	Treatment 109 116	quinine
+T9	Negation_cue 150 153	not
+T11	Drug 109 116	quinine
+T10	Adverse_event 170 178	reported
+E1	Adverse_event:T10 
+A1	Negated E1

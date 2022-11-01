@@ -1,0 +1,10 @@
+T7	Treatment 13 36	Amphotericin B overdose
+T8	Severity_cue 44 49	fatal
+T9	Subject 53 73	children and infants
+T11	Age 53 61	children
+T12	Age 66 73	infants
+T13	Drug 13 27	Amphotericin B
+T14	Dosage 28 36	overdose
+T10	Adverse_event 41 43	be
+E1	Adverse_event:T10 
+A1	Severity E1 High

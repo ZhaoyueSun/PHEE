@@ -1,0 +1,7 @@
+T7	Effect 0 16	Gold nephropathy
+T9	Treatment 24 33	auranofin
+T10	Drug 0 4	Gold
+T11	Drug 24 33	auranofin
+T12	Drug 46 54	tolmetin
+T8	Adverse_event 17 20	due
+E1	Adverse_event:T8

@@ -1,0 +1,9 @@
+T7	Treatment 100 110	dofetilide
+T8	Subject 78 92	an elderly man
+T9	Effect 0 74	Marked QT prolongation and torsades de pointes secondary to acute ischemia
+T11	Age 81 88	elderly
+T12	Gender 89 92	man
+T14	Drug 100 110	dofetilide
+T15	Treat-Disorder 115 134	atrial fibrillation
+T10	Adverse_event 93 99	taking
+E1	Adverse_event:T10

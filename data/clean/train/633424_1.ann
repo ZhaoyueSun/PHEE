@@ -1,0 +1,5 @@
+T3	Effect 0 16	Acute leukopenia
+T5	Treatment 33 52	silver sulfadiazine
+T6	Drug 33 52	silver sulfadiazine
+T4	Adverse_event 17 27	associated
+E1	Adverse_event:T4

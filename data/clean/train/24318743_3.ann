@@ -1,0 +1,11 @@
+T10	Treatment 176 309	phenoxodiol (PXD), a novel biomodulator shown to have chemoresistance reversing potential, when combined with weekly AUC2-carboplatin
+T11	Effect 143 172	potential therapeutic benefit
+T13	Subject 313 326	PROC patients
+T15	Drug 176 187	phenoxodiol
+T16	Treat-Disorder 313 317	PROC
+T18	Freq 286 292	weekly
+T19	Drug 298 309	carboplatin
+T12	Potential_therapeutic_event 132 138	assess
+T17	Combination 272 280	combined
+E1	Potential_therapeutic_event:T12 
+E2	Combination:T17 arg:T19 arg2:T15

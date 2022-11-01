@@ -1,0 +1,54 @@
+Controller:
+  model_structure: null
+ReinforcementTrainer:
+  controller_learning_rate: 0.1
+  controller_optimizer: SGD
+  distill_mode: false
+  optimizer: SGD
+  sentence_level_batch: true
+embeddings:
+  TransformerWordEmbeddings-1:
+    model: ./resources/taggers/en-bert_phee_finetune/bert-base-cased
+    embedding_name: bert-base-cased
+    layers: '-1'
+    pooling_operation: mean
+  TransformerWordEmbeddings-2:
+    model: ./resources/taggers/en-biobert_phee_finetune/biobert_v1.1_pubmed
+    embedding_name: biobert_v1.1_pubmed
+    layers: '-1'
+    pooling_operation: mean
+
+interpolation: 0.5
+model:
+  FastSequenceTagger:
+    crf_attention: false
+    dropout: 0.0
+    hidden_size: 800
+    sentence_loss: true
+    use_crf: true
+model_name: phee_ace
+ner:
+  Corpus: ColumnCorpus-PHEE
+  tag_dictionary: resources/taggers/phee_tags.pkl
+  ColumnCorpus-PHEE:
+    data_folder: datasets/phee
+    column_format:
+      0: text
+      1: ner
+    tag_to_bioes: ner
+target_dir: resources/taggers/
+targets: ner
+train:
+  controller_momentum: 0.9
+  discount: 0.5
+  learning_rate: 0.1
+  max_episodes: 30
+  max_epochs: 50
+  max_epochs_without_improvement: 10
+  mini_batch_size: 32
+  monitor_test: false
+  patience: 5
+  save_final_model: false
+  train_with_dev: false
+  true_reshuffle: false
+trainer: ReinforcementTrainer

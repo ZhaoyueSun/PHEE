@@ -1,0 +1,5 @@
+T4	Treatment 52 63	oxaliplatin
+T5	Effect 0 25	Hemolytic uremic syndrome
+T7	Drug 52 63	oxaliplatin
+T6	Adverse_event 26 35	following
+E1	Adverse_event:T6

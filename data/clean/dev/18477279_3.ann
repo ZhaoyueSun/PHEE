@@ -1,0 +1,9 @@
+T8	Treatment 25 109	a course of fusidic acid at discharge in addition to his ongoing statin prescription
+T9	Effect 143 182	symptoms consistent with rhabdomyolysis
+T11	Drug 90 96	statin
+T12	Time_elapsed 124 137	4 weeks later
+T13	Drug 37 49	fusidic acid
+T10	Adverse_event 114 123	presented
+T14	Combination 66 74	addition
+E1	Adverse_event:T10 
+E2	Combination:T14 arg:T13 arg2:T11

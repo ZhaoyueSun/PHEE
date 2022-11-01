@@ -1,0 +1,5 @@
+T3	Effect 0 8	Priapism
+T5	Treatment 25 42	trazodone therapy
+T6	Drug 25 34	trazodone
+T4	Adverse_event 9 19	associated
+E1	Adverse_event:T4

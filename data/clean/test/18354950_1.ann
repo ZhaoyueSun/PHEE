@@ -1,0 +1,5 @@
+T3	Effect 0 13	Hyponatraemia
+T5	Treatment 30 79	rechallenge with controlled release carbamazepine
+T6	Drug 66 79	carbamazepine
+T4	Adverse_event 14 23	developed
+E1	Adverse_event:T4

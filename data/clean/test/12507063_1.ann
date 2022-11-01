@@ -1,0 +1,7 @@
+T13	Effect 164 207	generalized seizures and status epilepticus
+T14	Treatment 208 242	secondary to gabapentin withdrawal
+T15	Subject 151 158	patient
+T17	Drug 221 231	gabapentin
+T18	Dosage 232 242	withdrawal
+T16	Adverse_event 159 163	with
+E1	Adverse_event:T16

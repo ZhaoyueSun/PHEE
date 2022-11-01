@@ -1,0 +1,10 @@
+T5	Subject 10 46	Six children with growth retardation
+T7	Treatment 74 106	high-dose fluticasone propionate
+T9	Effect 126 145	adrenal suppression
+T10	Population 10 13	Six
+T11	Age 14 22	children
+T12	Dosage 74 83	high-dose
+T13	Drug 84 106	fluticasone propionate
+T14	Treat-Disorder 28 46	growth retardation
+T8	Adverse_event 121 125	have
+E1	Adverse_event:T8

@@ -1,0 +1,10 @@
+T7	Subject 10 17	2 cases
+T9	Treatment 61 112	concomitant use of linezolid and serotonergic drugs
+T10	Population 10 11	2
+T11	Effect 21 44	serotonin toxicity (ST)
+T13	Drug 80 89	linezolid
+T14	Drug 94 106	serotonergic
+T8	Adverse_event 45 55	associated
+T12	Combination 61 72	concomitant
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T13 arg2:T14

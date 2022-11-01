@@ -1,0 +1,10 @@
+T8	Effect 67 81	rhabdomyolysis
+T9	Treatment 10 58	drug interaction between simvastatin and danazol
+T11	Drug 35 46	simvastatin
+T12	Drug 51 58	danazol
+T13	Speculation_cue 0 9	Potential
+T7	Adverse_event 59 66	causing
+T10	Combination 15 26	interaction
+E1	Adverse_event:T7 
+E2	Combination:T10 arg:T11 arg2:T12
+A1	Speculated E1

@@ -1,0 +1,9 @@
+T3	Subject 0 14	Young children
+T4	Treatment 15 48	undergoing cisplatin chemotherapy
+T6	Effect 77 115	progressive sensorineural hearing loss
+T7	Age 0 5	Young
+T8	Age 6 14	children
+T9	Drug 26 35	cisplatin
+T10	Route 36 48	chemotherapy
+T5	Adverse_event 68 72	risk
+E1	Adverse_event:T5

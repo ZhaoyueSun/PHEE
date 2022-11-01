@@ -1,0 +1,7 @@
+T6	Treatment 9 14	HAART
+T7	Treat-Disorder 53 56	HIV
+T8	Effect 105 133	non-adherence to medications
+T9	Subject 95 103	patients
+T10	Drug 9 14	HAART
+T5	Adverse_event 62 74	side effects
+E1	Adverse_event:T5

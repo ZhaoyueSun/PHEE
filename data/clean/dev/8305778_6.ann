@@ -1,0 +1,4 @@
+T5	Treatment 0 10	Amiodarone
+T6	Effect 46 110	an adverse-effect profile involving many different organ systems
+T4	Adverse_event 49 63	adverse-effect
+E1	Adverse_event:T4

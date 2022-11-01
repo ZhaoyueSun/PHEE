@@ -1,0 +1,5 @@
+T3	Effect 0 26	Generalised cutaneous rash
+T5	Treatment 43 62	ganciclovir therapy
+T7	Drug 43 54	ganciclovir
+T4	Adverse_event 27 42	associated with
+E1	Adverse_event:T4

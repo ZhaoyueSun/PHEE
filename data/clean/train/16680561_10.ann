@@ -1,0 +1,12 @@
+T13	Treatment 248 273	desipramine or cinacalcet
+T12	Effect 175 194	nausea and headache
+T15	Drug 248 259	desipramine
+T16	Drug 263 273	cinacalcet
+T17	Drug 64 75	desipramine
+T18	Drug 102 113	desipramine
+T19	Drug 119 129	cinacalcet
+T22	Subject 219 227	patients
+T14	Adverse_event 206 214	reported
+T20	Combination 114 118	with
+E1	Adverse_event:T14 
+E2	Combination:T20 arg:T18 arg2:T19

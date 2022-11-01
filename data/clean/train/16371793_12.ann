@@ -1,0 +1,8 @@
+T6	Treatment 6 55	intravitreal injection of triamcinolone acetonide
+T7	Effect 57 65	cataract
+T8	Speculation_cue 66 69	may
+T10	Route 6 28	intravitreal injection
+T11	Drug 32 55	triamcinolone acetonide
+T9	Adverse_event 78 85	develop
+E1	Adverse_event:T9 
+A1	Speculated E1

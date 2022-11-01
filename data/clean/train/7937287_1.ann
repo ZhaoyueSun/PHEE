@@ -1,0 +1,5 @@
+T4	Treatment 0 10	Cefuroxime
+T6	Effect 19 38	acute renal failure
+T7	Drug 0 10	Cefuroxime
+T5	Adverse_event 11 18	induced
+E1	Adverse_event:T5

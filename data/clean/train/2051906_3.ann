@@ -1,0 +1,5 @@
+T5	Effect 0 44	Reversible cholestasis with bile duct injury
+T7	Treatment 55 67	azathioprine
+T8	Drug 55 67	azathioprine
+T6	Adverse_event 45 54	following
+E1	Adverse_event:T6

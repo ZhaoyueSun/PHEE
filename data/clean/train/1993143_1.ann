@@ -1,0 +1,7 @@
+T3	Effect 61 77	acute dermatitis
+T4	Subject 0 15;35 47	Of 371 patients three (0.8%)
+T6	Treatment 16 33	treated with 8MOP
+T7	Population 3 6;35 47	371 three (0.8%)
+T8	Drug 29 33	8MOP
+T5	Adverse_event 48 57	developed
+E1	Adverse_event:T5

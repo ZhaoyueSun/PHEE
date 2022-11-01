@@ -1,0 +1,10 @@
+T5	Subject 22 48	a 27-year-old Indian woman
+T6	Effect 63 96	maculopapular rash and angioedema
+T7	Treatment 110 138	carbamazepine administration
+T9	Age 24 35	27-year-old
+T10	Race 36 42	Indian
+T11	Gender 43 48	woman
+T12	Drug 110 123	carbamazepine
+T13	Route 124 138	administration
+T8	Adverse_event 53 62	developed
+E1	Adverse_event:T8

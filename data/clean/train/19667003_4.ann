@@ -1,0 +1,8 @@
+T5	Subject 48 55	patient
+T6	Effect 102 142	severe agitation and aggressive behavior
+T7	Treatment 0 42	After three weeks of carbamazepine therapy
+T9	Severity_cue 102 108	severe
+T10	Duration 6 17	three weeks
+T11	Drug 21 34	carbamazepine
+T8	Adverse_event 0 5	After
+E1	Adverse_event:T8

@@ -1,0 +1,9 @@
+T4	Effect 20 28	jaundice
+T5	Treatment 42 113	intravaginal administration of a mixture of furazolidone and nifuroxime
+T7	Drug 86 98	furazolidone
+T8	Drug 103 113	nifuroxime
+T10	Route 42 54	intravaginal
+T6	Adverse_event 29 37	followed
+T9	Combination 75 82	mixture
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T7 arg2:T8

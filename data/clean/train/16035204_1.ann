@@ -1,0 +1,8 @@
+T5	Treatment 29 57	massive fluoxetine ingestion
+T7	Effect 71 130	neurological and cardiovascular toxicity resulting in death
+T8	Drug 37 47	fluoxetine
+T9	Dosage 29 36	massive
+T10	Subject 10 25	an unusual case
+T11	Route 48 57	ingestion
+T6	Adverse_event 58 70	resulting in
+E1	Adverse_event:T6

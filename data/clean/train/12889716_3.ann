@@ -1,0 +1,8 @@
+T3	Treatment 109 145	subcutaneous injection of enoxaparin
+T4	Effect 81 101	generalized exanthem
+T5	Subject 26 40	the first case
+T7	Speculation_cue 0 16	To our knowledge
+T8	Route 109 131	subcutaneous injection
+T9	Drug 135 145	enoxaparin
+T6	Adverse_event 102 105	due
+E1	Adverse_event:T6

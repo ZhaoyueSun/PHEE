@@ -1,0 +1,13 @@
+T3	Subject 91 160	mid-borderline leprosy in type I reaction with triple nerve paralysis
+T4	Effect 0 21	Fatal agranulocytosis
+T5	Treatment 50 72	100mg of dapsone daily
+T8	Race 28 34	Indian
+T9	Gender 35 39	male
+T10	Dosage 50 55	100mg
+T11	Drug 59 66	dapsone
+T12	Freq 67 72	daily
+T13	Treat-Disorder 91 160	mid-borderline leprosy in type I reaction with triple nerve paralysis
+T14	Severity_cue 0 5	Fatal
+T7	Adverse_event 40 49	receiving
+E1	Adverse_event:T7 
+A1	Severity E1 High

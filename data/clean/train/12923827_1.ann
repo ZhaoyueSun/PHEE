@@ -1,0 +1,5 @@
+T4	Treatment 49 60	fluvoxamine
+T5	Effect 0 32	Schneiderian first-rank symptoms
+T6	Drug 49 60	fluvoxamine
+T3	Adverse_event 33 43	associated
+E1	Adverse_event:T3 

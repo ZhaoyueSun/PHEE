@@ -1,0 +1,12 @@
+T4	Effect 10 55	a case of long lasting respiratory depression
+T5	Treatment 62 100	intravenous administration of morphine
+T6	Subject 104 154	a 7 year old girl with haemolytic uraemic syndrome
+T7	Age 106 116	7 year old
+T8	Gender 117 121	girl
+T9	Sub-Disorder 127 154	haemolytic uraemic syndrome
+T10	Severity_cue 20 32	long lasting
+T11	Route 62 73	intravenous
+T12	Drug 92 100	morphine
+T3	Adverse_event 56 61	after
+E1	Adverse_event:T3 
+A1	Severity E1 High

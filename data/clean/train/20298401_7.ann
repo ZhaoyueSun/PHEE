@@ -1,0 +1,6 @@
+T4	Effect 59 122	rapid progression of reticular infiltration in both lung fields
+T5	Treatment 0 8;22 31	Six days erlotinib
+T7	Time_elapsed 0 8	Six days
+T8	Drug 22 31	erlotinib
+T6	Adverse_event 9 14	after
+E1	Adverse_event:T6

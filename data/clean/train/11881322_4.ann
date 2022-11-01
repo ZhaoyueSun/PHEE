@@ -1,0 +1,7 @@
+T3	Treatment 38 50	itraconazole
+T5	Effect 59 71	liver injury
+T6	Subject 9 23	Three patients
+T7	Population 9 14	Three
+T8	Drug 38 50	itraconazole
+T4	Adverse_event 51 58	induced
+E1	Adverse_event:T4 

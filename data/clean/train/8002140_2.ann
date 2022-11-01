@@ -1,0 +1,5 @@
+T4	Effect 0 18	Contact dermatitis
+T5	Treatment 26 36	budesonide
+T6	Drug 26 36	budesonide
+T3	Adverse_event 19 22	due
+E1	Adverse_event:T3

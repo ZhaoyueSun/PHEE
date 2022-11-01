@@ -1,0 +1,6 @@
+T4	Effect 0 18	Torsade de pointes
+T6	Treatment 50 60;76 91	droperidol cytochrome P450
+T7	Drug 50 60	droperidol
+T8	Drug 76 91	cytochrome P450
+T5	Adverse_event 19 28	resulting
+E1	Adverse_event:T5

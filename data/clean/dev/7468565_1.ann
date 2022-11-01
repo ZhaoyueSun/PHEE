@@ -1,0 +1,5 @@
+T5	Treatment 0 11	Barbiturate
+T6	Effect 20 47	submassive hepatic necrosis
+T7	Drug 0 11	Barbiturate
+T4	Adverse_event 12 19	induced
+E1	Adverse_event:T4

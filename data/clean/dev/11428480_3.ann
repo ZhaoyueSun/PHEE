@@ -1,0 +1,9 @@
+T3	Subject 40 129	2 patients who presented to the emergency department with pre-excited atrial fibrillation
+T5	Treatment 145 163	12 mg of adenosine
+T6	Effect 12 36	ventricular fibrillation
+T7	Population 40 41	2
+T8	Treat-Disorder 98 129	pre-excited atrial fibrillation
+T9	Dosage 145 150	12 mg
+T10	Drug 154 163	adenosine
+T4	Adverse_event 139 144	given
+E1	Adverse_event:T4 

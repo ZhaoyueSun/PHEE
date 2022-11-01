@@ -1,0 +1,10 @@
+T3	Subject 22 41	a 78-year-old woman
+T4	Effect 43 74	Neisseria mucosa knee arthritis
+T6	Treatment 90 127	a single sodium hyaluronate injection
+T7	Age 24 35	78-year-old
+T8	Gender 36 41	woman
+T9	Route 118 127	injection
+T11	Drug 99 117	sodium hyaluronate
+T10	Dosage 92 98;118 127	single injection
+T5	Adverse_event 75 83	occurred
+E1	Adverse_event:T5

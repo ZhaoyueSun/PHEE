@@ -1,0 +1,5 @@
+T3	Treatment 9 19	Topiramate
+T5	Effect 28 58	angle-closure glaucoma (TiACG)
+T6	Drug 9 19	Topiramate
+T4	Adverse_event 20 27	induced
+E1	Adverse_event:T4

@@ -1,0 +1,8 @@
+T3	Effect 20 42	exfoliative dermatitis
+T4	Subject 10 16	a case
+T7	Route 61 72	intravenous
+T8	Route 77 92	intraperitoneal
+T9	Drug 111 121	tobramycin
+T6	Treatment 61 121	intravenous and intraperitoneal administration of tobramycin
+T5	Adverse_event 51 57	linked
+E1	Adverse_event:T5

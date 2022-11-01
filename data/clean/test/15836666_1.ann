@@ -1,0 +1,6 @@
+T4	Effect 37 65	adrenocortical insufficiency
+T5	Treatment 0 16	Chronic fentanyl
+T6	Drug 8 16	fentanyl
+T7	Duration 0 7	Chronic
+T3	Adverse_event 29 36	induces
+E1	Adverse_event:T3

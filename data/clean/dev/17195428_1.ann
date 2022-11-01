@@ -1,0 +1,9 @@
+T3	Subject 54 93	a 16-year-old girl with cystic fibrosis
+T4	Sub-Disorder 78 93	cystic fibrosis
+T5	Effect 33 50	oculogyric crisis
+T7	Age 56 67	16-year-old
+T8	Gender 68 72	girl
+T6	Adverse_event 25 32	induced
+E1	Adverse_event:T6 
+T1	Treatment 10 24	metoclopramide
+T2	Drug 10 24	metoclopramide

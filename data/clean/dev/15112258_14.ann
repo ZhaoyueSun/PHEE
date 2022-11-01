@@ -1,0 +1,5 @@
+T4	Treatment 13 50	other common agents for the most part
+T6	Effect 59 81	cutaneous inflammation
+T7	Drug 13 32	other common agents
+T5	Adverse_event 51 58	trigger
+E1	Adverse_event:T5

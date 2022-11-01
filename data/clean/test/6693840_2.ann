@@ -1,0 +1,5 @@
+T4	Effect 0 12	Gynecomastia
+T5	Treatment 29 41	theophylline
+T6	Drug 29 41	theophylline
+T3	Adverse_event 13 23	associated
+E1	Adverse_event:T3

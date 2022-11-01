@@ -1,0 +1,5 @@
+T3	Treatment 18 28	dextran-40
+T5	Effect 40 59	acute renal failure
+T6	Drug 18 28	dextran-40
+T4	Adverse_event 29 39	associated
+E1	Adverse_event:T4

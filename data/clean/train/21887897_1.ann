@@ -1,0 +1,6 @@
+T4	Effect 46 55	poisoning
+T6	Treatment 19 45	multiple psychotropic drug
+T7	Subject 0 15	An autopsy case
+T9	Drug 28 40	psychotropic
+T5	Adverse_event 46 55	poisoning
+E1	Adverse_event:T5 

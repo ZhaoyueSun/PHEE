@@ -1,0 +1,7 @@
+T9	Treatment 37 43;97 141	Halfan when a higher dose than recommended was used
+T7	Effect 57 74;87 95	8 cardiac arrests 6 deaths
+T10	Drug 37 43	Halfan
+T11	Dosage 102 132	a higher dose than recommended
+T12	Drug 190 200	mefloquine
+T8	Adverse_event 48 56	reported
+E1	Adverse_event:T8

@@ -1,0 +1,6 @@
+T3	Effect 31 101	the edema resolved, and the endothelial cell densities were <or=600/mm
+T5	Treatment 6 29	cessation of amantadine
+T6	Drug 19 29	amantadine
+T7	Dosage 91 101	<or=600/mm
+T4	Potential_therapeutic_event 0 5	After
+E1	Potential_therapeutic_event:T4

@@ -1,0 +1,15 @@
+T13	Subject 23 110	a 32-year-old woman with HIV, anxiety disorder, and a history of intravenous drug abuse
+T15	Effect 125 164	increased sedation and mental confusion
+T16	Treatment 173 298	atazanavir-ritonavir-based antiretroviral regimen was added to her stable antianxiety drug regimen, which included quetiapine
+T17	Age 25 36	32-year-old
+T18	Gender 37 42	woman
+T21	Sub-Disorder 88 110	intravenous drug abuse
+T22	Drug 288 298	quetiapine
+T23	Drug 173 183	atazanavir
+T24	Drug 184 193	ritonavir
+T26	Treat-Disorder 48 51	HIV
+T27	Treat-Disorder 53 69	anxiety disorder
+T14	Adverse_event 115 124	developed
+T25	Combination 227 232	added
+E1	Adverse_event:T14 
+E2	Combination:T25 arg:T24 arg2:T23 arg3:T22

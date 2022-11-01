@@ -1,0 +1,5 @@
+T3	Effect 0 29	Obsessive-compulsive symptoms
+T5	Treatment 70 81	risperidone
+T6	Drug 70 81	risperidone
+T4	Adverse_event 39 46	emerged
+E1	Adverse_event:T4

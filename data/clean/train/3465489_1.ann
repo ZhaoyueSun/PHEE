@@ -1,0 +1,8 @@
+T3	Treatment 32 48	6-mercaptopurine
+T4	Effect 49 86	myelotoxicity and therapeutic failure
+T5	Subject 90 132	children with acute lymphoblastic leukemia
+T7	Age 90 98	children
+T9	Drug 32 48	6-mercaptopurine
+T10	Treat-Disorder 104 132	acute lymphoblastic leukemia
+T6	Adverse_event 87 89	in
+E1	Adverse_event:T6 

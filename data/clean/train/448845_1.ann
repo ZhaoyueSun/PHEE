@@ -1,0 +1,7 @@
+T7	Effect 0 35	Aplastic anemia and agranulocytosis
+T8	Subject 39 47;72 80	patients glaucoma
+T9	Treatment 54 67	methazolamide
+T12	Drug 54 67	methazolamide
+T13	Treat-Disorder 72 80	glaucoma
+T11	Adverse_event 36 38	in
+E1	Adverse_event:T11

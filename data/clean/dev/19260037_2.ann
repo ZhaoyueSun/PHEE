@@ -1,0 +1,7 @@
+T5	Subject 26 38	TTP patients
+T6	Treatment 44 51	quinine
+T8	Effect 63 95	thrombotic microangiopathy (TMA)
+T9	Sub-Disorder 26 29	TTP
+T10	Drug 44 51	quinine
+T7	Adverse_event 52 62	associated
+E1	Adverse_event:T7 

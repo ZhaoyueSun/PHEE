@@ -1,0 +1,5 @@
+T4	Treatment 0 10	Amiodarone
+T5	Effect 33 64	thyrotoxicosis gradually abated
+T6	Drug 0 10	Amiodarone
+T3	Potential_therapeutic_event 11 27	was discontinued
+E1	Potential_therapeutic_event:T3

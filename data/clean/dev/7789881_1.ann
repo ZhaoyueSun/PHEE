@@ -1,0 +1,7 @@
+T4	Treatment 53 80	tamoxifen for breast cancer
+T5	Treat-Disorder 67 80	breast cancer
+T6	Effect 0 36	Secretory endometrial adenocarcinoma
+T7	Subject 40 49	a patient
+T8	Drug 53 62	tamoxifen
+T3	Adverse_event 50 52	on
+E1	Adverse_event:T3

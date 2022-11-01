@@ -1,0 +1,7 @@
+T4	Subject 89 93;0 9	acne A patient
+T6	Effect 20 43	transient, acute myopia
+T7	Treatment 53 76	isotretinoin (Accutane)
+T8	Treat-Disorder 89 93	acne
+T10	Drug 53 65	isotretinoin
+T5	Adverse_event 10 19	developed
+E1	Adverse_event:T5

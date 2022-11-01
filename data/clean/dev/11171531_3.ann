@@ -1,0 +1,6 @@
+T3	Effect 0 30	Poorly controlled hypertension
+T4	Subject 34 43	a painter
+T5	Treatment 57 61	lead
+T7	Drug 57 61	lead
+T6	Adverse_event 44 48	with
+E1	Adverse_event:T6

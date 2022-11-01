@@ -1,0 +1,10 @@
+T5	Effect 0 7	Uveitis
+T7	Treat-Disorder 28 93	disseminated Mycobacterium avium-intracellulare complex infection
+T8	Treatment 103 158	combination of rifabutin, clarithromycin and ethambutol
+T10	Drug 118 127	rifabutin
+T11	Drug 129 143	clarithromycin
+T12	Drug 148 158	ethambutol
+T6	Adverse_event 8 14	during
+T9	Combination 103 114	combination
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T10 arg2:T11 arg3:T12

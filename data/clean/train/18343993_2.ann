@@ -1,0 +1,9 @@
+T5	Subject 0 61	A female patient with HER2 positive, metastatic breast cancer
+T8	Treatment 155 166	trastuzumab
+T7	Effect 77 130	pulmonary infiltrates, and a plural effusion dyspnoea
+T9	Gender 2 8	female
+T10	Treat-Disorder 22 61	HER2 positive, metastatic breast cancer
+T11	Drug 155 166	trastuzumab
+T12	Time_elapsed 137 151	several months
+T6	Adverse_event 62 71	presented
+E1	Adverse_event:T6 

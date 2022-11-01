@@ -1,0 +1,7 @@
+T5	Effect 0 46	Symptomatic hypocalcaemia and renal impairment
+T7	Treatment 63 87	bisphosphonate treatment
+T8	Subject 91 121	patients with multiple myeloma
+T10	Drug 63 77	bisphosphonate
+T11	Treat-Disorder 105 121	multiple myeloma
+T6	Adverse_event 47 57	associated
+E1	Adverse_event:T6

@@ -1,0 +1,8 @@
+T6	Treatment 0 60;97 118;156 212	Aggressive hydration, urinary alkalinization, and leucovorin elevated methotrexate course of hemodialysis and a dose of carboxypeptidase G2
+T8	Subject 132 143	the patient
+T9	Drug 50 60	leucovorin
+T10	Drug 106 118	methotrexate
+T11	Drug 193 212	carboxypeptidase G2
+T12	Dosage 183 189	a dose
+T7	Potential_therapeutic_event 66 75	continued
+E1	Potential_therapeutic_event:T7

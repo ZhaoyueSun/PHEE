@@ -1,0 +1,7 @@
+T6	Subject 10 22	two patients
+T8	Treatment 124 135	desipramine
+T9	Population 10 13	two
+T11	Drug 124 135	desipramine
+T5	Effect 28 78	anhedonic ejaculation (ejaculation without orgasm)
+T7	Adverse_event 79 89	associated
+E1	Adverse_event:T7

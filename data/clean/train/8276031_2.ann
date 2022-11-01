@@ -1,0 +1,9 @@
+T6	Subject 0 41	A 15-month-old girl with rhinopharyngitis
+T8	Treatment 59 125	a nasal solution containing the imidazoline derivative naphazoline
+T9	Age 2 14	15-month-old
+T10	Gender 15 19	girl
+T11	Treat-Disorder 25 41	rhinopharyngitis
+T12	Drug 91 113	imidazoline derivative
+T13	Route 114 125	naphazoline
+T7	Potential_therapeutic_event 46 53	treated
+E1	Potential_therapeutic_event:T7 

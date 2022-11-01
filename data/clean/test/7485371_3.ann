@@ -1,0 +1,7 @@
+T5	Treatment 74 84;128 153	atovaquone its lipophilic properties
+T6	Effect 85 103	vortex keratopathy
+T8	Speculation_cue 107 117	presumably
+T4	Drug 74 84	atovaquone
+T7	Adverse_event 118 124	caused
+E1	Adverse_event:T7 
+A1	Speculated E1

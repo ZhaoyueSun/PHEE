@@ -1,0 +1,8 @@
+T3	Treatment 0 14	L-asparaginase
+T5	Effect 23 67	posterior reversible encephalopathy syndrome
+T7	Drug 0 14	L-asparaginase
+T8	Treat-Disorder 75 103	acute lymphoblastic leukemia
+T9	Subject 117 125	children
+T10	Age 117 125	children
+T4	Adverse_event 15 22	induced
+E1	Adverse_event:T4

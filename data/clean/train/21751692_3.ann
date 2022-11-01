@@ -1,0 +1,12 @@
+T8	Subject 43 72	7 pediatric oncology patients
+T9	Treatment 86 205	low-dose ketamine in conjunction with propofol for total intravenous anesthesia (TIVA) repeatedly for radiation therapy
+T12	Population 43 44	7
+T14	Age 45 54	pediatric
+T15	Drug 124 132	propofol
+T16	Drug 95 103	ketamine
+T17	Dosage 86 94	low-dose
+T10	Treat-Disorder 55 63	oncology
+T11	Potential_therapeutic_event 77 85	received
+T18	Combination 107 118	conjunction
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T18 arg:T15 arg2:T16

@@ -1,0 +1,12 @@
+T4	Effect 61 89	recurrent grand mal seizures
+T5	Treatment 97 135	intravenous infusion of amphotericin B
+T6	Subject 14 48	A 46-year-old African-American man
+T7	Age 16 27	46-year-old
+T8	Race 28 44	African-American
+T9	Gender 45 48	man
+T10	Route 97 117	intravenous infusion
+T11	Drug 121 135	amphotericin B
+T13	Severity_cue 71 76	grand
+T3	Adverse_event 49 60	experienced
+E1	Adverse_event:T3 
+A1	Severity E1 High

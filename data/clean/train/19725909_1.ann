@@ -1,0 +1,8 @@
+T5	Treatment 51 115	after liver transplantation with lamivudine and adefovir therapy
+T8	Drug 84 94	lamivudine
+T9	Drug 99 107	adefovir
+T11	Treat-Disorder 29 50	hepatitis B infection
+T6	Potential_therapeutic_event 10 17	outcome
+T10	Combination 95 98	and
+E1	Potential_therapeutic_event:T6 
+E2	Combination:T10 arg:T8 arg2:T9

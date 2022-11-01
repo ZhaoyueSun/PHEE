@@ -1,0 +1,5 @@
+T5	Treatment 59 94	withdrawal of the diphenylhydantoin
+T3	Treat-Disorder 40 49	porphyria
+T7	Drug 77 94	diphenylhydantoin
+T8	Potential_therapeutic_event 21 32	improvement
+E2	Potential_therapeutic_event:T8

@@ -1,0 +1,7 @@
+T6	Treatment 0 8	Amikacin
+T7	Effect 17 70	type 5 Bartter-like syndrome with severe hypocalcemia
+T8	Severity_cue 51 57	severe
+T9	Drug 0 8	Amikacin
+T5	Adverse_event 9 16	induced
+E1	Adverse_event:T5 
+A1	Severity E1 High

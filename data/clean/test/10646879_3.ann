@@ -1,0 +1,11 @@
+T5	Effect 69 83	encephalopathy
+T3	Treatment 50 60	ifosfamide
+T7	Drug 50 60	ifosfamide
+T8	Drug 17 19	MB
+T9	Treatment 17 19	MB
+T11	Treat-Disorder 50 83	ifosfamide-induced encephalopathy
+T4	Adverse_event 61 68	induced
+T10	Potential_therapeutic_event 36 45	treatment
+E1	Adverse_event:T4 arg:T3 arg2:T5
+E2	Potential_therapeutic_event:T10 arg:T9
+R1	has Arg1:T9 Arg2:T11

@@ -1,0 +1,8 @@
+T9	Effect 22 69	feeling cold with worsening headache and chills
+T10	Subject 0 11	The patient
+T7	Treatment 84 139	one hour after infusion of the first dose of penicillin
+T11	Time_elapsed 84 92	one hour
+T12	Route 99 107	infusion
+T13	Drug 129 139	penicillin
+T8	Adverse_event 93 98	after
+E1	Adverse_event:T8

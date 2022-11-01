@@ -1,0 +1,7 @@
+T7	Treatment 48 58	gliclazide
+T8	Effect 70 108	acute icteric liver necro-inflammation
+T10	Speculation_cue 25 42	strongly suggests
+T6	Subject 15 24	this case
+T11	Drug 48 58	gliclazide
+T9	Adverse_event 63 69	induce
+E1	Adverse_event:T9

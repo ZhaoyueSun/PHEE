@@ -1,0 +1,6 @@
+T3	Treatment 13 27	Metoclopramide
+T4	Effect 38 99	reversible nonthrombocytopenic vascular-type palpable purpura
+T5	Speculation_cue 28 31	may
+T7	Drug 13 27	Metoclopramide
+T6	Adverse_event 32 37	cause
+E1	Adverse_event:T6

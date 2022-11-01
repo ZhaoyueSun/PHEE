@@ -1,0 +1,5 @@
+T3	Treatment 0 10	Amifostine
+T5	Effect 19 24	fever
+T6	Drug 0 10	Amifostine
+T4	Adverse_event 11 18	induced
+E1	Adverse_event:T4

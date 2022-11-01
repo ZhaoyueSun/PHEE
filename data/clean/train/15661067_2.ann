@@ -1,0 +1,7 @@
+T3	Subject 0 11	The patient
+T4	Effect 30 71	no motile sperm with a normal sperm count
+T5	Treatment 96 123	400 mg/day of carbamazepine
+T8	Dosage 96 106	400 mg/day
+T9	Drug 110 123	carbamazepine
+T6	Adverse_event 16 21	found
+E1	Adverse_event:T6

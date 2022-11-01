@@ -1,0 +1,5 @@
+T4	Treatment 18 29	vincristine
+T5	Effect 30 50	optic nerve toxicity
+T6	Drug 18 29	vincristine
+T3	Adverse_event 42 50	toxicity
+E1	Adverse_event:T3

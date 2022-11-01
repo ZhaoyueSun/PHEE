@@ -1,0 +1,6 @@
+T5	Effect 0 26;85 108	Destructive thyrotoxicosis Graves' hyperthyroidism
+T6	Treatment 62 71	IFN-alpha
+T8	Drug 62 71	IFN-alpha
+T9	Time_elapsed 36 46	4-6 months
+T7	Adverse_event 47 52	after
+E1	Adverse_event:T7

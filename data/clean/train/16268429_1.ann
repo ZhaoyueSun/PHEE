@@ -1,0 +1,7 @@
+T5	Treatment 13 18	senna
+T7	Effect 43 75;117 144	a subacute cholestatic hepatitis herbal related liver injury
+T8	Drug 13 18	senna
+T9	Speculation_cue 23 29	likely
+T6	Adverse_event 34 39	cause
+E1	Adverse_event:T6 
+A1	Speculated E1

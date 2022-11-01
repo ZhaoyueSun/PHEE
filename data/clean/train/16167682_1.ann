@@ -1,0 +1,8 @@
+T9	Treatment 122 152	regular use of desferrioxamine
+T10	Negation_cue 4 8	died
+T12	Drug 137 152	desferrioxamine
+T13	Treat-Disorder 99 113	haemosiderosis
+T8	Effect 4 91	died within six weeks of developing congestive heart failure coupled with liver failure
+T7	Potential_therapeutic_event 114 121	despite
+E1	Potential_therapeutic_event:T7 
+A1	Negated E1

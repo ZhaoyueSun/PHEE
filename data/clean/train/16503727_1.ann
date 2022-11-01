@@ -1,0 +1,5 @@
+T4	Effect 171 186	agranulocytosis
+T5	Treatment 0 34	Dipyrone, also known as metamizole
+T7	Drug 0 8	Dipyrone
+T6	Adverse_event 154 165	association
+E1	Adverse_event:T6

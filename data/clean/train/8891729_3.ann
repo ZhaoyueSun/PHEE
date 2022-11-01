@@ -1,0 +1,9 @@
+T4	Treatment 59 70	fludarabine
+T5	Effect 18 29	severe AIHA
+T6	Subject 33 45	CLL patients
+T7	Treat-Disorder 33 36	CLL
+T8	Severity_cue 18 24	severe
+T9	Drug 59 70	fludarabine
+T3	Adverse_event 46 53	treated
+E1	Adverse_event:T3 
+A1	Severity E1 High

@@ -1,0 +1,18 @@
+T9	Treatment 0 14	Hydrocortisone
+T10	Subject 71 102	cardiac arrhythmias in children
+T14	Age 94 102	children
+T15	Drug 0 14	Hydrocortisone
+T16	Speculation_cue 15 18	may
+T18	Treat-Disorder 71 90	cardiac arrhythmias
+T17	Treatment 113 137	amphotericin B overdoses
+T19	Dosage 128 137	overdoses
+T20	Drug 113 127	amphotericin B
+T21	Treat-Disorder 32 54	incidence of mortality
+T13	Effect 32 54	incidence of mortality
+T12	Potential_therapeutic_event 19 27	decrease
+T22	Adverse_event 103 112	receiving
+E2	Potential_therapeutic_event:T12 arg:T9 arg2:T10
+E1	Adverse_event:T22 arg:T10 arg2:T17 arg3:T13
+R3	has_cue Arg1:E2 Arg2:T16	
+R1	has Arg1:T9 Arg2:T21	
+R2	has Arg1:T17 Arg2:T18

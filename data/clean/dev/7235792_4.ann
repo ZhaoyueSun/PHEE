@@ -1,0 +1,6 @@
+T6	Treatment 59 80	intravenous bretylium
+T7	Effect 0 52	Paradoxical ventricular tachycardia and fibrillation
+T8	Route 59 70	intravenous
+T9	Drug 71 80	bretylium
+T5	Adverse_event 53 58	after
+E1	Adverse_event:T5

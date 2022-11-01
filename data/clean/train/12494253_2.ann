@@ -1,0 +1,6 @@
+T4	Effect 0 11	Anaphylaxis
+T5	Treatment 15 69	cisplatin following nine previous uncomplicated cycles
+T6	Drug 15 24	cisplatin
+T7	Duration 35 69	nine previous uncomplicated cycles
+T3	Adverse_event 12 14	to
+E1	Adverse_event:T3 

@@ -1,0 +1,6 @@
+T5	Treat-Disorder 30 43	severe sepsis
+T6	Treatment 0 26	High-dose antithrombin III
+T4	Dosage 0 9	High-dose
+T8	Drug 10 26	antithrombin III
+T7	Potential_therapeutic_event 27 29	in
+E2	Potential_therapeutic_event:T7

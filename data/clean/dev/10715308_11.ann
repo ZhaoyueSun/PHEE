@@ -1,0 +1,6 @@
+T12	Treatment 144 156	tirapazamine
+T14	Effect 11 132	no incremental increases in myelosuppression, peripheral neuropathy, or renal, hepatic, or cardiac toxicity and no deaths
+T15	Negation_cue 11 13	no
+T16	Drug 144 156	tirapazamine
+T13	Potential_therapeutic_event 133 140	related
+E1	Potential_therapeutic_event:T13 

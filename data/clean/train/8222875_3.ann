@@ -1,0 +1,5 @@
+T6	Effect 0 20	Pulmonary hemorrhage
+T8	Treatment 114 117	MMC
+T9	Drug 114 117	MMC
+T7	Adverse_event 69 75	appear
+E1	Adverse_event:T7

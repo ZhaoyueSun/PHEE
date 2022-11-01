@@ -1,0 +1,8 @@
+T3	Treatment 0 6;107 117	Niacin high doses
+T5	Effect 16 52	reversible toxic cystoid maculopathy
+T7	Drug 0 6	Niacin
+T4	Subject 68 99	approximately 0.67% of patients
+T8	Population 82 87	0.67%
+T9	Dosage 107 117	high doses
+T6	Adverse_event 7 13	causes
+E1	Adverse_event:T6

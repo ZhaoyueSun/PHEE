@@ -1,0 +1,7 @@
+T3	Treatment 76 87;120 162	mequitazine due to a relatively low dosage of the drug
+T5	Effect 96 112	photosensitivity
+T6	Speculation_cue 113 116	may
+T7	Drug 76 87	mequitazine
+T8	Dosage 140 150	low dosage
+T4	Adverse_event 88 95	induced
+E1	Adverse_event:T4

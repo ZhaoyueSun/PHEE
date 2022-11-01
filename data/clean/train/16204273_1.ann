@@ -1,0 +1,5 @@
+T3	Treatment 25 35	infliximab
+T4	Effect 39 48	infection
+T6	Drug 25 35	infliximab
+T5	Adverse_event 22 24	of
+E1	Adverse_event:T5

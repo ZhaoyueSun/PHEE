@@ -1,0 +1,6 @@
+T4	Effect 0 25	Abnormal retinal function
+T5	Treatment 42 54	isotretinoin
+T6	Treat-Disorder 67 71	acne
+T7	Drug 42 54	isotretinoin
+T3	Adverse_event 26 36	associated
+E1	Adverse_event:T3

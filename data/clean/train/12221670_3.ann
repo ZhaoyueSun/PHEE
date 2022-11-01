@@ -1,0 +1,7 @@
+T5	Treatment 0 11	Ticlopidine
+T7	Effect 20 42	aplastic anemia (TIAA)
+T8	Speculation_cue 62 70	uncommon
+T9	Drug 0 11	Ticlopidine
+T6	Adverse_event 12 19	induced
+E1	Adverse_event:T6 
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T7	Subject 3 16	four patients
+T8	Effect 18 37;54 98	thrombosis occurred severe hepatic veno-occlusive disease (HVOD)
+T10	Treatment 112 154	intensive chemotherapy containing busulfan
+T12	Population 3 7	four
+T13	Time_elapsed 38 53	2-45 days after
+T14	Drug 146 154	busulfan
+T11	Adverse_event 99 108	secondary
+E1	Adverse_event:T11

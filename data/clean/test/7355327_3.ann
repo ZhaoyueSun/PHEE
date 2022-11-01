@@ -1,0 +1,6 @@
+T4	Effect 115 127	bronchospasm
+T6	Treatment 157 168	propranolol
+T7	Drug 60 71	propranolol
+T8	Drug 157 168	propranolol
+T5	Adverse_event 147 153	caused
+E1	Adverse_event:T5

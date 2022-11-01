@@ -1,0 +1,7 @@
+T3	Effect 17 35	severe neutropenia
+T5	Subject 49 58	a patient
+T6	Treatment 69 79	olanzapine
+T8	Severity_cue 17 23	severe
+T9	Drug 69 79	olanzapine
+T4	Adverse_event 36 45	occurring
+E1	Adverse_event:T4

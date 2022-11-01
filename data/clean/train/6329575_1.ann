@@ -1,0 +1,7 @@
+T5	Treatment 55 62;86 121	lithium at therapeutic serum lithium levels
+T9	Treat-Disorder 0 26	k bipolar manic-depressive
+T8	Subject 0 34	k bipolar manic-depressive patient
+T10	Drug 55 62	lithium
+T6	Adverse_event 36 45	developed
+E1	Adverse_event:T6 
+T1	Effect 139 174;76 85	bucco-linguo-masticatory dyskinesia akathisia

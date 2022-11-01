@@ -1,0 +1,7 @@
+T5	Subject 45 56	three cases
+T6	Effect 67 121	Stevens-Johnson syndrome or toxic epidermal necrolysis
+T9	Treatment 138 147	ofloxacin
+T10	Population 45 50	three
+T11	Drug 138 147	ofloxacin
+T8	Adverse_event 122 132	associated
+E1	Adverse_event:T8

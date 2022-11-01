@@ -1,0 +1,6 @@
+T3	Effect 0 32	Secondary acute myeloid leukemia
+T5	Treatment 39 56	etoposide therapy
+T7	Drug 39 48	etoposide
+T8	Treat-Disorder 61 96	haemophagocytic lymphohistiocytosis
+T4	Adverse_event 33 38	after
+E1	Adverse_event:T4

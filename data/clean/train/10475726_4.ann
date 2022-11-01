@@ -1,0 +1,10 @@
+T5	Treatment 115 126	venlafaxine
+T7	Effect 142 203	acute myocardial ischaemia within the first week of treatment
+T8	Age 24 31	elderly
+T9	Gender 32 37	woman
+T10	Sub-Disorder 69 92	ischaemic heart disease
+T12	Drug 115 126	venlafaxine
+T13	Duration 169 190	within the first week
+T3	Subject 21 92	an elderly woman with a pre-existing history of ischaemic heart disease
+T6	Adverse_event 132 141	developed
+E1	Adverse_event:T6 

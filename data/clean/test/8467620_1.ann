@@ -1,0 +1,7 @@
+T4	Effect 0 8	Lymphoma
+T5	Subject 23 58	a patient with rheumatoid arthritis
+T7	Treatment 66 78	methotrexate
+T8	Drug 66 78	methotrexate
+T9	Treat-Disorder 38 58	rheumatoid arthritis
+T3	Adverse_event 9 19	developing
+E1	Adverse_event:T3

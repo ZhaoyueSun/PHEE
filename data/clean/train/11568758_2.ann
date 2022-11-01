@@ -1,0 +1,6 @@
+T3	Effect 5 13	eruption
+T5	Treatment 22 61	after 1 month of therapy with salsalate
+T7	Time_elapsed 28 35	1 month
+T8	Drug 52 61	salsalate
+T4	Adverse_event 14 21	emerged
+E1	Adverse_event:T4 

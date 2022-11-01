@@ -1,0 +1,6 @@
+T7	Speculation_cue 34 41	suggest
+T8	Effect 46 49;72 88;150 159	CPM lithium toxicity blindness
+T10	Treatment 72 79	lithium
+T11	Drug 72 79	lithium
+T9	Adverse_event 56 68	complication
+E1	Adverse_event:T9

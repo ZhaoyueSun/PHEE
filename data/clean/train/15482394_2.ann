@@ -1,0 +1,7 @@
+T3	Effect 105 130	abnormal hypersensitivity
+T4	Treatment 134 142	warfarin
+T6	Subject 32 43	the patient
+T7	Speculation_cue 52 61	suspected
+T9	Drug 134 142	warfarin
+T5	Adverse_event 131 133	to
+E1	Adverse_event:T5

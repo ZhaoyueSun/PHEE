@@ -1,0 +1,9 @@
+T5	Treatment 37 84	peginterferon alpha-2b plus ribavirin treatment
+T6	Effect 0 24	Type 1 diabetes mellitus
+T7	Drug 37 59	peginterferon alpha-2b
+T8	Drug 65 74	ribavirin
+T10	Treat-Disorder 89 108	chronic hepatitis C
+T4	Adverse_event 25 33	provoked
+T9	Combination 60 64	plus
+E1	Adverse_event:T4 
+E2	Combination:T9 arg:T8 arg2:T7

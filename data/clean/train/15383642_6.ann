@@ -1,0 +1,8 @@
+T9	Subject 23 55	decerebrate rigidity and high BP
+T10	Treatment 70 80	tizanidine
+T13	Effect 155 194	hypertension control and motor recovery
+T15	Speculation_cue 95 109	to see whether
+T16	Drug 70 80	tizanidine
+T17	Treat-Disorder 23 55	decerebrate rigidity and high BP
+T12	Potential_therapeutic_event 85 94	initiated
+E2	Potential_therapeutic_event:T12

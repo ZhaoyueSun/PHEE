@@ -1,0 +1,8 @@
+T4	Effect 190 216	significant cerebral edema
+T6	Treatment 6 92	the introduction of carmustine wafers (Gliadel wafers) into the tumor resection cavity
+T7	Treat-Disorder 139 155	malignant glioma
+T8	Speculation_cue 222 231	potential
+T9	Drug 26 43	carmustine wafers
+T5	Adverse_event 232 239	adverse
+E1	Adverse_event:T5 
+A1	Speculated E1

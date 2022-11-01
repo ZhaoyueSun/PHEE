@@ -1,0 +1,9 @@
+T5	Subject 0 19	A 62-year-old woman
+T7	Treatment 20 56	treated with pranlukast for 2 months
+T8	Effect 67 109	interstitial pneumonitis with a high fever
+T9	Age 2 13	62-year-old
+T10	Gender 14 19	woman
+T11	Drug 33 43	pranlukast
+T12	Duration 48 56	2 months
+T6	Adverse_event 57 66	developed
+E1	Adverse_event:T6

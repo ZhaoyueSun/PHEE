@@ -1,0 +1,7 @@
+T5	Treatment 13 21	IFN-beta
+T7	Effect 73 93	autoimmune disorders
+T8	Drug 13 21	IFN-beta
+T9	Speculation_cue 26 48	rarely been associated
+T6	Adverse_event 58 69	development
+E1	Adverse_event:T6 
+A1	Speculated E1

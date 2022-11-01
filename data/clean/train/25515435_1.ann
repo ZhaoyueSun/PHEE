@@ -1,0 +1,8 @@
+T6	Treatment 0 8;13 23	Warfarin boceprevir
+T8	Effect 44 89	subtherapeutic international normalized ratio
+T9	Drug 0 8	Warfarin
+T10	Drug 13 23	boceprevir
+T7	Adverse_event 36 43	causing
+T11	Combination 24 35	interaction
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

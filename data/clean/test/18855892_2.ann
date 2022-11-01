@@ -1,0 +1,5 @@
+T5	Effect 0 36	Anaphylactic/anaphylactoid reactions
+T7	Treatment 40 52	methotrexate
+T9	Drug 40 52	methotrexate
+T6	Adverse_event 37 39	to
+E1	Adverse_event:T6

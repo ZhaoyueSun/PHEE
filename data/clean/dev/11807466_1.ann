@@ -1,0 +1,5 @@
+T3	Effect 0 29	Linear IgA bullous dermatosis
+T4	Treatment 46 59	carbamazepine
+T6	Drug 46 59	carbamazepine
+T5	Adverse_event 30 39	occurring
+E1	Adverse_event:T5

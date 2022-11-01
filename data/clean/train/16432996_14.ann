@@ -1,0 +1,9 @@
+T8	Effect 16 27	sarcoidosis
+T10	Subject 43 71	chronic hepatitis C patients
+T11	Treatment 79 112	interferon alpha and/or ribavirin
+T12	Treat-Disorder 43 62	chronic hepatitis C
+T13	Speculation_cue 28 31	may
+T14	Drug 79 95	interferon alpha
+T15	Drug 103 112	ribavirin
+T9	Adverse_event 32 39	develop
+E1	Adverse_event:T9 

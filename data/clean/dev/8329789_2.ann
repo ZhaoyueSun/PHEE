@@ -1,0 +1,9 @@
+T6	Treatment 45 68	amphotericin B overdose
+T8	Effect 84 105	cardiac complications
+T9	Subject 25 44;109 131	first five cases of a pediatric population
+T5	Age 111 120	pediatric
+T10	Drug 45 59	amphotericin B
+T11	Dosage 60 68	overdose
+T12	Population 31 35	five
+T7	Adverse_event 74 83	secondary
+E1	Adverse_event:T7 

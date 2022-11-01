@@ -1,0 +1,9 @@
+T3	Subject 0 16	The male patient
+T4	Treatment 34 54	225-mg/day clozapine
+T5	Effect 88 103	agranulocytosis
+T7	Gender 4 8	male
+T8	Drug 45 54	clozapine
+T9	Dosage 34 44	225-mg/day
+T10	Duration 108 115	6 weeks
+T6	Adverse_event 75 84	diagnosis
+E1	Adverse_event:T6

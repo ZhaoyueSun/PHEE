@@ -1,0 +1,5 @@
+T3	Effect 0 9	Cataracts
+T5	Treatment 34 42	Decadron
+T6	Drug 34 42	Decadron
+T4	Adverse_event 10 17	induced
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T3	Effect 12 28	Lipoid pneumonia
+T4	Treatment 44 66	mineral oil aspiration
+T5	Subject 87 96	pediatric
+T7	Age 87 96	pediatric
+T8	Drug 44 55	mineral oil
+T6	Adverse_event 34 40	result
+E1	Adverse_event:T6

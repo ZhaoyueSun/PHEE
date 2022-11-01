@@ -1,0 +1,10 @@
+T7	Subject 32 55	identical twin brothers
+T9	Effect 156 193	leukoencephalopathy and hydrocephalus
+T10	Treatment 262 301;324 387	intrathecally administered methotrexate intrathecally administered methotrexate and cranial irradiation
+T11	Gender 47 55	brothers
+T12	Drug 289 301	methotrexate
+T13	Route 262 275	intrathecally
+T14	Route 324 337	intrathecally
+T15	Drug 351 363	methotrexate
+T8	Adverse_event 146 155	developed
+E1	Adverse_event:T8

@@ -1,0 +1,6 @@
+T7	Negation_cue 30 33	not
+T8	Treatment 0 21	Preadmission warfarin
+T10	Effect 50 248	any secondary intracerebral hemorrhage (OR, 1.2; 95% CI, 0.7 to 2.2), symptomatic intracerebral hemorrhage (OR, 1.1; 95% CI, 0.5 to 2.3), or gastrointestinal hemorrhage (OR, 1.1; 95% CI, 0.2 to 5.6)
+T11	Drug 13 21	warfarin
+T9	Adverse_event 34 44	associated
+E1	Adverse_event:T9

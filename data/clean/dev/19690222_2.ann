@@ -1,0 +1,7 @@
+T4	Treatment 20 41	3 doses of dalteparin
+T5	Subject 43 54	the patient
+T6	Effect 65 134	acute respiratory distress attributable to a massive right hemothorax
+T7	Drug 31 41	dalteparin
+T9	Dosage 20 27	3 doses
+T3	Adverse_event 10 19	following
+E1	Adverse_event:T3

@@ -1,0 +1,9 @@
+T3	Treatment 0 10	Sertraline
+T5	Effect 19 33	rhabdomyolysis
+T6	Subject 37 87	an elderly patient with dementia and comorbidities
+T7	Age 40 47	elderly
+T8	Sub-Disorder 61 69	dementia
+T9	Drug 0 10	Sertraline
+T4	Adverse_event 11 18	induced
+E1	Adverse_event:T4 
+T1	Sub-Disorder 74 87	comorbidities

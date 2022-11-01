@@ -1,0 +1,5 @@
+T11	Effect 47 221	pulmonary toxicity in which the initial HRCT showed a widespread reticular pattern and associated distortion of the lung parenchyma, thought to represent established fibrosis
+T12	Treatment 24 38	nitrofurantoin
+T17	Drug 24 38	nitrofurantoin
+T9	Adverse_event 39 46	induced
+E1	Adverse_event:T9 

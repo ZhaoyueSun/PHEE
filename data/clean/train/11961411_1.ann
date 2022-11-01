@@ -1,0 +1,9 @@
+T3	Effect 33 44	proteinuria
+T5	Treatment 52 95	postoperative interferon (IFN)-beta therapy
+T4	Subject 0 17	A 64-year-old man
+T7	Age 2 13	64-year-old
+T8	Gender 14 17	man
+T9	Drug 66 87	interferon (IFN)-beta
+T10	Treat-Disorder 104 122	malignant melanoma
+T6	Adverse_event 45 51	during
+E1	Adverse_event:T6

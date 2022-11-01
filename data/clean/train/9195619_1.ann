@@ -1,0 +1,5 @@
+T3	Treatment 23 46	hepatitis B vaccination
+T4	Effect 91 114	mental nerve neuropathy
+T6	Drug 23 46	hepatitis B vaccination
+T5	Adverse_event 126 134	observed
+E1	Adverse_event:T5

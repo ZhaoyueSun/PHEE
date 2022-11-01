@@ -1,0 +1,10 @@
+T6	Treatment 94 135	cessation of intramuscular L-asparaginase
+T7	Subject 0 18	An adolescent male
+T8	Effect 29 78	acute pancreatitis and pseudocyst of the pancreas
+T9	Age 3 13	adolescent
+T10	Gender 14 18	male
+T11	Drug 121 135	L-asparaginase
+T12	Route 107 120	intramuscular
+T13	Time_elapsed 79 87	16 weeks
+T5	Adverse_event 88 93	after
+E1	Adverse_event:T5

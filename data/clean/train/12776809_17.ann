@@ -1,0 +1,6 @@
+T6	Treatment 51 57	SB-LOT
+T7	Treat-Disorder 69 87	increase LFT value
+T9	Speculation_cue 39 43	risk
+T10	Drug 51 57	SB-LOT
+T8	Adverse_event 31 43	the low risk
+E1	Adverse_event:T8

@@ -1,0 +1,7 @@
+T4	Treatment 106 115	bupropion
+T5	Subject 9 22	Both patients
+T6	Effect 72 88	falling backward
+T7	Population 9 13	Both
+T8	Drug 106 115	bupropion
+T3	Adverse_event 90 100	associated
+E1	Adverse_event:T3

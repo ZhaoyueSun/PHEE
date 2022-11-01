@@ -1,0 +1,15 @@
+T3	Treatment 27 39	dipyridamole
+T5	Effect 48 86	high-grade atrioventricular (AV) block
+T6	Drug 27 39	dipyridamole
+T8	Treat-Disorder 27 86	dipyridamole induced high-grade atrioventricular (AV) block
+T10	Treatment 114 159	intravenous aminophylline but not to atropine
+T11	Drug 114 139	intravenous aminophylline
+T12	Drug 151 159	atropine
+T4	Adverse_event 40 47	induced
+T9	Potential_therapeutic_event 92 101	responded
+E1	Adverse_event:T4 arg:T3 arg2:T5
+E2	Potential_therapeutic_event:T9 arg:T10
+R1	has Arg1:T3 Arg2:T6	
+R2	has Arg1:T10 Arg2:T11	
+R3	has Arg1:T10 Arg2:T12	
+R4	has Arg1:T10 Arg2:T8

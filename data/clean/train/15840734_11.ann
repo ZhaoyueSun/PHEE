@@ -1,0 +1,6 @@
+T5	Treatment 61 73	fluphenazine
+T6	Effect 100 103	NMS
+T8	Subject 112 119	patient
+T9	Drug 61 73	fluphenazine
+T7	Adverse_event 91 96	cause
+E1	Adverse_event:T7

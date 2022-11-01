@@ -1,0 +1,5 @@
+T3	Effect 50 80	haematological adverse effects
+T4	Treatment 84 94	quetiapine
+T6	Drug 84 94	quetiapine
+T5	Adverse_event 65 80	adverse effects
+E1	Adverse_event:T5

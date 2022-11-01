@@ -1,0 +1,6 @@
+T5	Treatment 0 21	Aluminum intoxication
+T6	Effect 83 97	TC development
+T8	Speculation_cue 53 63	considered
+T9	Drug 0 8	Aluminum
+T7	Adverse_event 74 79	cause
+E1	Adverse_event:T7

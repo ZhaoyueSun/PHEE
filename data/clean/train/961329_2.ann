@@ -1,0 +1,5 @@
+T3	Effect 0 20	Suxamethonium apnoea
+T5	Treatment 37 67	commercial serumcholinesterase
+T6	Drug 37 67	commercial serumcholinesterase
+T4	Potential_therapeutic_event 21 31	terminated
+E1	Potential_therapeutic_event:T4

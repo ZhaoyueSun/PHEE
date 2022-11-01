@@ -1,0 +1,14 @@
+T9	Subject 3 67	two other patients (one after OLTX and one with Crohn's disease)
+T10	Treatment 71 82;137 173	raltegravir 1 or 2 mg of tacrolimus twice daily.
+T11	Treat-Disorder 89 92	HIV
+T13	Population 3 6	two
+T16	Drug 71 82	raltegravir
+T17	Dosage 137 146	1 or 2 mg
+T18	Freq 161 172	twice daily
+T19	Drug 150 160	tacrolimus
+T21	Treat-Disorder 51 66	Crohn's disease
+T22	Treat-Disorder 33 37	OLTX
+T12	Potential_therapeutic_event 128 136	received
+T20	Combination 113 118	while
+E1	Potential_therapeutic_event:T12 
+E2	Combination:T20 arg:T16 arg2:T19

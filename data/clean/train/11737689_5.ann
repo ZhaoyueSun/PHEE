@@ -1,0 +1,6 @@
+T5	Effect 22 36	skin eruptions
+T7	Treatment 122 127	G-CSF
+T8	Speculation_cue 3 10	believe
+T9	Drug 122 127	G-CSF
+T6	Adverse_event 97 104	induced
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T5	Treatment 30 52	during heparin therapy
+T7	Effect 12 20	priapism
+T8	Drug 37 44	heparin
+T9	Treat-Disorder 68 98	surgical operation to the knee
+T3	Subject 0 8	One case
+T4	Adverse_event 21 29	occurred
+E1	Adverse_event:T4

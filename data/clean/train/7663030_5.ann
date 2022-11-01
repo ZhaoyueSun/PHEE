@@ -1,0 +1,6 @@
+T5	Treatment 16 27	propafenone
+T7	Drug 16 27	propafenone
+T8	Treat-Disorder 83 102	atrial fibrillation
+T10	Treat-Disorder 119 126	fatigue
+T9	Potential_therapeutic_event 9 15	taking
+E1	Potential_therapeutic_event:T9

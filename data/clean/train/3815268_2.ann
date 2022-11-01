@@ -1,0 +1,7 @@
+T4	Subject 75 87	this patient
+T5	Treatment 21 36	interferon beta
+T6	Speculation_cue 4 12	possible
+T3	Effect 60 71	sarcoidosis
+T9	Drug 21 36	interferon beta
+T7	Adverse_event 13 17	role
+E1	Adverse_event:T7

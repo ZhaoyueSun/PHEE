@@ -1,0 +1,5 @@
+T3	Treatment 9 14	taxol
+T4	Effect 74 95	peripheral neuropathy
+T6	Drug 9 14	taxol
+T5	Adverse_event 140 148	toxicity
+E1	Adverse_event:T5 

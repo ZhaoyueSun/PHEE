@@ -1,0 +1,10 @@
+T3	Treatment 0 9	Tenofovir
+T5	Effect 21 35	nephrotoxicity
+T6	Subject 39 72	two HIV-infected adolescent males
+T8	Population 39 42	two
+T9	Age 56 66	adolescent
+T10	Gender 67 72	males
+T11	Drug 0 9	Tenofovir
+T12	Treat-Disorder 43 55	HIV-infected
+T4	Adverse_event 10 20	associated
+E1	Adverse_event:T4

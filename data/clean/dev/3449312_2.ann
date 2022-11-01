@@ -1,0 +1,9 @@
+T8	Effect 80 102	severe aplastic anemia
+T9	Treat-Disorder 49 69	rheumatoid arthritis
+T10	Subject 0 14	Three patients
+T11	Treatment 25 34	gold salt
+T12	Population 0 5	Three
+T13	Severity_cue 80 86	severe
+T14	Drug 25 34	gold salt
+T7	Adverse_event 70 79	developed
+E1	Adverse_event:T7

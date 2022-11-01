@@ -1,0 +1,10 @@
+T4	Treatment 0 11;41 60	Teicoplanin followed vancomycin
+T6	Effect 20 35	agranulocytosis
+T7	Speculation_cue 96 104	possible
+T8	Drug 0 11	Teicoplanin
+T9	Drug 50 60	vancomycin
+T5	Adverse_event 12 19	induced
+T10	Combination 41 49	followed
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T8 arg2:T9
+A1	Speculated E1

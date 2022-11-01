@@ -1,0 +1,7 @@
+T12	Effect 24 85	hallucinations, agitation, vomiting, tachycardia and seizures
+T13	Treatment 92 150	ingestion of 1050 (48 mg/kg) of extended-release bupropion
+T14	Route 92 101	ingestion
+T15	Dosage 105 120	1050 (48 mg/kg)
+T16	Drug 141 150	bupropion
+T11	Adverse_event 12 23	experienced
+E1	Adverse_event:T11

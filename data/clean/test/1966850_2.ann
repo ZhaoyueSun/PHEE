@@ -1,0 +1,16 @@
+T6	Subject 56 77	an eight-year old boy
+T7	Gender 74 77	boy
+T8	Age 59 73	eight-year old
+T9	Treat-Disorder 36 52	synovial sarcoma
+T10	Treatment 87 98	cisplatinum
+T11	Drug 87 98	cisplatinum
+T13	Effect 99 113	nephrotoxicity
+T14	Treatment 118 128	adriamycin
+T15	Drug 118 128	adriamycin
+T16	Effect 129 143	cardiotoxicity
+T12	Adverse_event 99 113	nephrotoxicity
+T17	Adverse_event 129 143	cardiotoxicity
+E1	Adverse_event:T12 arg:T6 arg2:T13 arg3:T10
+E2	Adverse_event:T17 arg:T14 arg2:T16 arg3:T6
+R1	has Arg1:T10 Arg2:T9	
+R2	has Arg1:T14 Arg2:T9

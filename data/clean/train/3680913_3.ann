@@ -1,0 +1,5 @@
+T6	Treatment 16 30	nicotinic acid
+T7	Effect 52 65	liver disease
+T9	Drug 16 30	nicotinic acid
+T8	Adverse_event 39 44	cause
+E1	Adverse_event:T8

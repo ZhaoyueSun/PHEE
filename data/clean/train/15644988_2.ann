@@ -1,0 +1,9 @@
+T3	Subject 0 19	Two of our patients
+T4	Effect 30 32	TD
+T5	Treatment 66 77	ziprasidone
+T7	Population 0 3	Two
+T8	Drug 66 77	ziprasidone
+T9	Time_elapsed 39 48	23 months
+T10	Time_elapsed 53 62	34 months
+T6	Adverse_event 20 29	developed
+E1	Adverse_event:T6

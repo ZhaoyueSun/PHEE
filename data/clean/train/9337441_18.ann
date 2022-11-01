@@ -1,0 +1,7 @@
+T5	Speculation_cue 59 67	possible
+T7	Treatment 26 41	phenolphthalein
+T8	Effect 91 94	TEN
+T9	Drug 26 41	phenolphthalein
+T6	Adverse_event 83 90	induced
+E1	Adverse_event:T6 
+A1	Speculated E1

@@ -1,0 +1,9 @@
+T5	Treatment 13 49	single-agent weekly AUC2-carboplatin
+T7	Subject 98 139	a homogenously defined population of PROC
+T8	Treat-Disorder 135 139	PROC
+T9	Freq 26 32	weekly
+T10	Drug 33 49	AUC2-carboplatin
+T6	Potential_therapeutic_event 65 73	inactive
+E1	Potential_therapeutic_event:T6 
+A1	Negated E1
+T1	Negation_cue 65 73	inactive

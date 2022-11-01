@@ -1,0 +1,8 @@
+T8	Subject 88 109	severely ill patients
+T9	Treatment 0 16;45 63	Antithrombin III multiorgan failure
+T10	Speculation_cue 17 20	may
+T12	Treat-Disorder 45 63	multiorgan failure
+T14	Drug 0 16	Antithrombin III
+T15	Treat-Disorder 88 100	severely ill
+T11	Potential_therapeutic_event 21 39	provide protection
+E1	Potential_therapeutic_event:T11

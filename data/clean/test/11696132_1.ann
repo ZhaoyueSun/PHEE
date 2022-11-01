@@ -1,0 +1,8 @@
+T3	Effect 61 71	anisocoria
+T5	Treatment 91 120	transdermal scopolamine patch
+T6	Drug 103 114	scopolamine
+T7	Route 91 102	transdermal
+T8	Treat-Disorder 148 170	weaning off the opioid
+T9	Route 115 120	patch
+T4	Adverse_event 76 83	related
+E1	Adverse_event:T4 

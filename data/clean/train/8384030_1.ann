@@ -1,0 +1,8 @@
+T3	Treatment 33 42	foscarnet
+T5	Effect 62 102	electrolyte disorders and symptomatology
+T6	Subject 106 118	this patient
+T7	Drug 33 42	foscarnet
+T8	Speculation_cue 19 27	probable
+T4	Adverse_event 43 54	contributed
+E1	Adverse_event:T4 
+A1	Speculated E1

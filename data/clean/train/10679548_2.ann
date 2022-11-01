@@ -1,0 +1,5 @@
+T3	Treatment 66 87	use of nitrofurantoin
+T5	Effect 0 45	Bronchiolitis obliterans organising pneumonia
+T6	Drug 73 87	nitrofurantoin
+T4	Adverse_event 46 61	associated with
+E1	Adverse_event:T4

@@ -1,0 +1,8 @@
+T3	Subject 62 73	the patient
+T6	Treatment 28 38;126 158	zonisamide cessation of drug administration
+T5	Effect 74 118	regained the ability to sweat within 2 weeks
+T7	Drug 28 38	zonisamide
+T8	Dosage 126 135	cessation
+T9	Time_elapsed 104 118	within 2 weeks
+T4	Potential_therapeutic_event 119 125	of the
+E1	Potential_therapeutic_event:T4

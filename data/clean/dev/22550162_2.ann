@@ -1,0 +1,14 @@
+T9	Subject 123 158	a 25-year-old man with osteosarcoma
+T10	Effect 20 41	methotrexate toxicity
+T12	Treatment 92 119	methotrexate and omeprazole
+T13	Age 125 136	25-year-old
+T14	Gender 137 140	man
+T15	Sub-Disorder 146 158	osteosarcoma
+T16	Drug 92 104	methotrexate
+T17	Drug 109 119	omeprazole
+T19	Speculation_cue 42 53	potentially
+T11	Adverse_event 54 61	induced
+T18	Combination 105 108	and
+E1	Adverse_event:T11 
+E2	Combination:T18 arg:T16 arg2:T17
+A1	Speculated E1

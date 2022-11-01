@@ -1,0 +1,8 @@
+T3	Treatment 30 53	ritodrine-hydrochloride
+T5	Effect 62 76	rhabdomyolysis
+T6	Subject 82 123	pregnant patient with myotonic dystrophy.
+T8	Gender 82 90	pregnant
+T9	Drug 30 53	ritodrine-hydrochloride
+T11	Treat-Disorder 104 122	myotonic dystrophy
+T4	Adverse_event 54 61	induced
+E1	Adverse_event:T4

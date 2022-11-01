@@ -1,0 +1,6 @@
+T3	Effect 0 40	Anticonvulsant hypersensitivity syndrome
+T5	Treatment 57 103	Bellamine S, a therapy for menopausal symptoms
+T6	Treat-Disorder 84 104	menopausal symptoms.
+T7	Drug 57 68	Bellamine S
+T4	Adverse_event 41 51	associated
+E1	Adverse_event:T4

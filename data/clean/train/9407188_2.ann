@@ -1,0 +1,8 @@
+T9	Treatment 157 166	ritonavir
+T10	Effect 21 53	maculopapular eruption and fever
+T11	Subject 57 65	patients
+T12	Treat-Disorder 80 108	human immunodeficiency virus
+T14	Drug 157 166	ritonavir
+T15	Time_elapsed 122 153	2nd day of first administration
+T13	Adverse_event 66 74	infected
+E1	Adverse_event:T13

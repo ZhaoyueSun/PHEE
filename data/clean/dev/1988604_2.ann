@@ -1,0 +1,12 @@
+T4	Treatment 0 8	Thrombin
+T5	Drug 0 8	Thrombin
+T7	Treat-Disorder 42 73	intractable arterial hemorrhage
+T8	Effect 12 28	highly effective
+T10	Effect 181 201	cerebral infarctions
+T11	Subject 205 216	one patient
+T12	Population 205 208	one
+T6	Potential_therapeutic_event 33 41	stopping
+T9	Adverse_event 161 172	responsible
+E1	Potential_therapeutic_event:T6 arg:T4 arg2:T8
+E2	Adverse_event:T9 arg2:T10 arg3:T11 arg:T4
+R1	has Arg1:T4 Arg2:T7

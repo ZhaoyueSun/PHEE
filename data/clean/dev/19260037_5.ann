@@ -1,0 +1,5 @@
+T4	Treatment 83 90	quinine
+T5	Effect 83 142	quinine-associated thrombotic microangiopathy (quinine-TMA)
+T7	Drug 83 90	quinine
+T3	Adverse_event 91 101	associated
+E1	Adverse_event:T3

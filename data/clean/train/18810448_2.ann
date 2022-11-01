@@ -1,0 +1,8 @@
+T3	Effect 0 18	Thymic enlargement
+T4	Subject 22 66	a patient with juvenile idiopathic arthritis
+T6	Treatment 74 84	etanercept
+T8	Drug 74 84	etanercept
+T5	Adverse_event 67 73	during
+E1	Adverse_event:T5 
+T1	Treat-Disorder 46 66	idiopathic arthritis
+T2	Age 37 45	juvenile

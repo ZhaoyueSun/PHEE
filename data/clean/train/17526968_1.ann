@@ -1,0 +1,5 @@
+T5	Treatment 0 9	Bleomycin
+T7	Effect 18 55	hyperpigmentation with yolk sac tumor
+T8	Drug 0 9	Bleomycin
+T6	Adverse_event 10 17	induced
+E1	Adverse_event:T6

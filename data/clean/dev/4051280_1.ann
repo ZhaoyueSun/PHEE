@@ -1,0 +1,9 @@
+T5	Treatment 0 14	IV propranolol
+T8	Effect 95 161	decrease in heart rate but a paroxsymal increase in blood pressure
+T9	Drug 3 14	propranolol
+T10	Treat-Disorder 57 78	hyperadrenergic state
+T11	Subject 53 78	his hyperadrenergic state
+T12	Gender 53 56	his
+T13	Route 0 2	IV
+T7	Adverse_event 80 89	resulting
+E1	Adverse_event:T7

@@ -1,0 +1,5 @@
+T5	Treatment 58 73	sodium warfarin
+T7	Effect 82 119	necrotizing fasciitis and myonecrosis
+T8	Drug 58 73	sodium warfarin
+T6	Adverse_event 74 81	induced
+E1	Adverse_event:T6

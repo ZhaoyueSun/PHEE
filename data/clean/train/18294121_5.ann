@@ -1,0 +1,6 @@
+T4	Effect 73 78	fever
+T5	Subject 43 54	the patient
+T6	Treatment 0 12	Temozolomide
+T7	Drug 0 12	Temozolomide
+T3	Adverse_event 61 70	developed
+E1	Adverse_event:T3

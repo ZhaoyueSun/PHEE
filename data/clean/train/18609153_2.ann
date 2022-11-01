@@ -1,0 +1,10 @@
+T9	Subject 93 144	a 50-year-old male with no history of heart disease
+T11	Effect 155 207	a newly prolonged QT interval and torsade de pointes
+T12	Treatment 0 91	During intravenous treatment with terlipressin for recurrent gastrointestinal (GI) bleeding
+T13	Age 95 106	50-year-old
+T14	Gender 107 111	male
+T15	Route 7 18	intravenous
+T16	Drug 34 46	terlipressin
+T17	Treat-Disorder 51 77	recurrent gastrointestinal
+T10	Adverse_event 145 154	developed
+E1	Adverse_event:T10

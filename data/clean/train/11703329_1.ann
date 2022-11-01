@@ -1,0 +1,5 @@
+T4	Treatment 0 67	Early recognition of hereditary motor and sensory neuropathy type 1
+T6	Severity_cue 78 94	life-threatening
+T5	Potential_therapeutic_event 68 71	can
+E1	Potential_therapeutic_event:T5 
+A1	Severity E1 High

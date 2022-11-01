@@ -1,0 +1,7 @@
+T3	Effect 22 66	significant elevation of serum transaminases
+T4	Subject 70 79	a patient
+T6	Treatment 93 97	6-TG
+T5	Treat-Disorder 113 128	Crohn's disease
+T8	Drug 93 97	6-TG
+T7	Adverse_event 34 43	elevation
+E1	Adverse_event:T7 

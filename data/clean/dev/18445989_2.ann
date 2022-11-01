@@ -1,0 +1,5 @@
+T5	Treatment 0 10	Clomiphene
+T8	Drug 0 10	Clomiphene
+T9	Treat-Disorder 41 52	anovulation
+T7	Potential_therapeutic_event 27 36	treatment
+E1	Potential_therapeutic_event:T7

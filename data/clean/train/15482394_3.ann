@@ -1,0 +1,9 @@
+T3	Treatment 12 34	low dosage of warfarin
+T4	Effect 36 94;135 152	international normalized ratio (INR) was markedly elevated bleeding symptoms
+T6	Drug 26 34	warfarin
+T7	Dosage 12 22	low dosage
+T8	Dosage 100 104	1.15
+T9	Dosage 108 113	11.28
+T10	Duration 123 129	4 days
+T5	Adverse_event 166 175	developed
+E1	Adverse_event:T5

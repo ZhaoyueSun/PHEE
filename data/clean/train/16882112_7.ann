@@ -1,0 +1,9 @@
+T8	Effect 105 123	serotonin syndrome
+T10	Speculation_cue 75 83	probable
+T7	Treatment 128 166	treatment with lithium and venlafaxine
+T11	Drug 143 150	lithium
+T13	Drug 155 166	venlafaxine
+T9	Adverse_event 73 104	a probable relationship between
+T12	Combination 151 154	and
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T11 arg2:T13

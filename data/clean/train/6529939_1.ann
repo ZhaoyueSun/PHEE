@@ -1,0 +1,5 @@
+T5	Effect 0 58	Alternating sinus rhythm and intermittent sinoatrial block
+T7	Treatment 70 81	propranolol
+T8	Drug 70 81	propranolol
+T6	Adverse_event 59 66	induced
+E1	Adverse_event:T6

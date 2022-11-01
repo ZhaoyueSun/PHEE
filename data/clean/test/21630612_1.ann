@@ -1,0 +1,10 @@
+T6	Effect 66 80	rhabdomyolysis
+T7	Treatment 0 45	Concomitant use of simvastatin and amiodarone
+T9	Severity_cue 59 65	severe
+T11	Drug 19 30	simvastatin
+T12	Drug 35 45	amiodarone
+T13	Subject 82 88	a case
+T8	Adverse_event 46 55	resulting
+T10	Combination 0 11	Concomitant
+E1	Adverse_event:T8 
+E2	Combination:T10 arg:T11 arg2:T12

@@ -1,0 +1,5 @@
+T4	Treatment 58 76	olanzapine therapy
+T6	Effect 0 41	Marked elevation of serum creatine kinase
+T7	Drug 58 68	olanzapine
+T5	Adverse_event 42 52	associated
+E1	Adverse_event:T5

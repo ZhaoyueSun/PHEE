@@ -1,0 +1,8 @@
+T6	Treatment 46 87	reduced concentration of VPA in the blood
+T7	Effect 4 12	seizures
+T8	Speculation_cue 18 27	suspected
+T9	Dosage 46 67	reduced concentration
+T10	Drug 71 74	VPA
+T5	Adverse_event 34 40	caused
+E1	Adverse_event:T5 
+A1	Speculated E1

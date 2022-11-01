@@ -1,0 +1,6 @@
+T6	Treatment 61 103	a prolonged treatment with corticosteroids
+T7	Treat-Disorder 33 60	in gold-induced pneumonitis
+T10	Drug 36 40	gold
+T11	Drug 88 103	corticosteroids
+T9	Potential_therapeutic_event 122 124	as
+E1	Potential_therapeutic_event:T9

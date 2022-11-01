@@ -1,0 +1,8 @@
+T5	Subject 0 9	Patient A
+T6	Effect 19 37	right leg weakness
+T7	Treatment 57 87	week 4 of CAP-XRT (1600 mg/m2)
+T9	Duration 57 63	week 4
+T10	Drug 67 74	CAP-XRT
+T11	Dosage 76 86	1600 mg/m2
+T8	Adverse_event 50 56	during
+E1	Adverse_event:T8

@@ -1,0 +1,8 @@
+T6	Effect 71 90	adverse interaction
+T7	Treatment 99 128	paroxetine and other agent(s)
+T10	Drug 99 109	paroxetine
+T9	Drug 155 166	anaesthesia
+T8	Adverse_event 91 98	between
+T11	Combination 141 147	course
+E1	Adverse_event:T8 
+E2	Combination:T11 arg:T9 arg2:T10

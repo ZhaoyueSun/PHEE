@@ -1,0 +1,7 @@
+T6	Treatment 39 52	ACE inhibitor
+T7	Effect 75 85	vasculitis
+T9	Drug 39 52	ACE inhibitor
+T8	Speculation_cue 53 70	does not rule out
+T5	Adverse_event 86 92	caused
+E1	Adverse_event:T5 
+A1	Speculated E1

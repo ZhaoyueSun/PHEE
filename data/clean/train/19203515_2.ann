@@ -1,0 +1,7 @@
+T3	Effect 0 19	Acute renal failure
+T5	Treatment 75 108	intravenous immunoglobulin (IVIG)
+T6	Route 75 86	intravenous
+T7	Drug 87 101	immunoglobulin
+T4	Adverse_event 30 42	complication
+E1	Adverse_event:T4 
+A1	Negated E1

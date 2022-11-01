@@ -1,0 +1,11 @@
+T14	Treatment 173 256	administration of an antiemetic combination of pentobarbital and pyrilamine maleate
+T16	Effect 0 105	A toxic encephalopathy characterized by depressed level of consciousness, marked irritability, and ataxia
+T17	Population 119 124	seven
+T13	Subject 119 161	seven children, 5 years of age and younger
+T18	Age 125 161	children, 5 years of age and younger
+T19	Drug 220 233	pentobarbital
+T20	Drug 238 256	pyrilamine maleate
+T15	Adverse_event 106 115	developed
+T21	Combination 205 216	combination
+E1	Adverse_event:T15 
+E2	Combination:T21 arg:T19 arg2:T20

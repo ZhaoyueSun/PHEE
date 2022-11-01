@@ -1,0 +1,9 @@
+T8	Effect 26 44	pulmonary toxicity
+T9	Subject 48 82;115 141	patients with respiratory distress mainly in elderly patients
+T11	Treatment 89 113	gemcitabine chemotherapy
+T13	Drug 89 99	gemcitabin
+T14	Treat-Disorder 62 82	respiratory distress
+T15	Speculation_cue 18 25	suspect
+T16	Route 101 113	chemotherapy
+T10	Adverse_event 83 88	after
+E1	Adverse_event:T10

@@ -1,0 +1,10 @@
+T4	Subject 69 89	psychiatric patients
+T5	Sub-Disorder 69 80	psychiatric
+T7	Effect 0 22	Carbamazepine toxicity
+T8	Treatment 34 48	clarithromycin
+T9	Drug 34 48	clarithromycin
+T11	Drug 0 13	Carbamazepine
+T6	Adverse_event 23 30	induced
+T10	Combination 49 65	coadministration
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T9 arg2:T11

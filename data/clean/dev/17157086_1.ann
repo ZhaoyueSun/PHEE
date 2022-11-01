@@ -1,0 +1,10 @@
+T7	Effect 0 19	Fatal liver failure
+T8	Drug 30 46	food supplements
+T9	Drug 77 88	montelukast
+T12	Severity_cue 0 5	Fatal
+T4	Treatment 30 88	food supplements during chronic treatment with montelukast
+T6	Adverse_event 20 29	following
+T11	Combination 72 76	with
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T8 arg2:T9
+A1	Severity E1 High

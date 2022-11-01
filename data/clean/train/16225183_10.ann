@@ -1,0 +1,8 @@
+T7	Effect 117 141	potential renal toxicity
+T8	Treatment 145 156	interferons
+T10	Speculation_cue 117 126	potential
+T9	Drug 145 156	interferons
+T12	Treat-Disorder 160 162	MS
+T11	Adverse_event 94 100	raises
+E2	Adverse_event:T11 
+A1	Speculated E2

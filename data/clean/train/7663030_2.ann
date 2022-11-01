@@ -1,0 +1,7 @@
+T5	Effect 42 66	transient global amnesia
+T7	Treatment 77 88	propafenone
+T8	Drug 77 88	propafenone
+T9	Speculation_cue 25 33	probable
+T6	Adverse_event 67 73	caused
+E1	Adverse_event:T6 
+A1	Speculated E1

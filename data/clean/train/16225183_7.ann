@@ -1,0 +1,6 @@
+T6	Treatment 69 129	interferon was stopped and after immunosuppressive treatment
+T9	Drug 69 79	interferon
+T10	Drug 102 119	immunosuppressive
+T12	Treat-Disorder 23 32	nephrosis
+T7	Potential_therapeutic_event 33 41	resolved
+E1	Potential_therapeutic_event:T7

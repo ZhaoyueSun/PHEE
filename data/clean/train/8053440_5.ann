@@ -1,0 +1,6 @@
+T7	Treatment 34 44	ampicillin
+T8	Effect 71 138	cholestatic hepatitis with cholestasis and duct paucity on rebiopsy
+T10	Drug 34 44	ampicillin
+T11	Time_elapsed 0 17	Three years later
+T9	Adverse_event 45 51	caused
+E1	Adverse_event:T9

@@ -1,0 +1,7 @@
+T3	Treatment 6 13	esmolol
+T4	Effect 14 22	toxicity
+T6	Drug 6 13	esmolol
+T7	Speculation_cue 23 26	may
+T5	Adverse_event 27 29	be
+E1	Adverse_event:T5 
+A1	Speculated E1

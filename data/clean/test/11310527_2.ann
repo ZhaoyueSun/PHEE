@@ -1,0 +1,6 @@
+T4	Subject 0 9	A patient
+T5	Treatment 27 35	warfarin
+T6	Treat-Disorder 40 59	atrial fibrillation
+T8	Drug 27 35	warfarin
+T7	Potential_therapeutic_event 14 21	treated
+E1	Potential_therapeutic_event:T7

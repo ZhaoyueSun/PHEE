@@ -1,0 +1,6 @@
+T6	Treatment 85 114	maternal indomethacin therapy
+T7	Effect 37 61	premature ductal closure
+T8	Drug 94 106	indomethacin
+T9	Route 85 93	maternal
+T5	Adverse_event 79 84	after
+E1	Adverse_event:T5

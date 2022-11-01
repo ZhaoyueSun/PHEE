@@ -1,0 +1,7 @@
+T4	Effect 59 88	an acute cardiovascular event
+T5	Treatment 93 104	venlafaxine
+T6	Drug 93 104	venlafaxine
+T7	Speculation_cue 30 38	possible
+T3	Adverse_event 39 50	association
+E1	Adverse_event:T3 
+A1	Speculated E1

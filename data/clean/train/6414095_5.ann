@@ -1,0 +1,9 @@
+T8	Treatment 81 98	phenytoin therapy
+T9	Effect 25 51	focal neurological deficit
+T12	Drug 81 90	phenytoin
+T13	Treat-Disorder 55 68	brain-damaged
+T14	Speculation_cue 2 10	possible
+T10	Adverse_event 11 20	mechanism
+E1	Adverse_event:T10 
+A1	Speculated E1
+T1	Subject 55 77	brain-damaged patients

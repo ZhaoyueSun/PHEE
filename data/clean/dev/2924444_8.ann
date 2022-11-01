@@ -1,0 +1,7 @@
+T5	Effect 39 60	myocardial infarction
+T6	Effect 68 82	coronary spasm
+T8	Treatment 128 139	L-thyroxine
+T9	Speculation_cue 3 10	believe
+T10	Drug 128 139	L-thyroxine
+T7	Adverse_event 112 122	associated
+E1	Adverse_event:T7

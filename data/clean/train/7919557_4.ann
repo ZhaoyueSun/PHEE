@@ -1,0 +1,5 @@
+T3	Effect 4 9	cough
+T5	Treatment 53 62	quinapril
+T6	Drug 53 62	quinapril
+T4	Adverse_event 10 19	continued
+E1	Adverse_event:T4

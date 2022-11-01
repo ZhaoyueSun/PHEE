@@ -1,0 +1,6 @@
+T4	Treatment 126 146;152 156	lower concentrations zinc
+T6	Effect 170 178	toxicity
+T7	Dosage 126 146	lower concentrations
+T8	Drug 152 156	zinc
+T5	Adverse_event 157 169	demonstrated
+E1	Adverse_event:T5

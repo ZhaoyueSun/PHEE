@@ -1,0 +1,6 @@
+T3	Effect 0 44	Inappropriate antidiuretic hormone secretion
+T5	Treatment 51 72	high dose vinblastine
+T6	Drug 61 72	vinblastine
+T7	Dosage 51 60	high dose
+T4	Adverse_event 45 50	after
+E1	Adverse_event:T4

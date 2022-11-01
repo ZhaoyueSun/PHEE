@@ -1,0 +1,7 @@
+T3	Treatment 44 53	bleomycin
+T4	Effect 77 88	scleroderma
+T6	Speculation_cue 98 107	suspected
+T7	Subject 109 118	few cases
+T9	Drug 44 53	bleomycin
+T5	Adverse_event 62 73	development
+E1	Adverse_event:T5

@@ -1,0 +1,11 @@
+T4	Subject 35 56	a 58 year old patient
+T5	Treatment 62 106;111 124	after 2 days of treatment with roxithromycin betamethasone
+T7	Effect 137 155	acute pancreatitis
+T8	Age 37 48	58 year old
+T9	Drug 93 106	roxithromycin
+T10	Drug 111 124	betamethasone
+T12	Time_elapsed 68 74	2 days
+T6	Adverse_event 126 136	manifested
+T11	Combination 107 110	and
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T9 arg2:T10

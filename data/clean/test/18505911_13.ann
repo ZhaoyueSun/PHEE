@@ -1,0 +1,6 @@
+T5	Treatment 49 61	azathioprine
+T7	Effect 101 120	warfarin resistance
+T8	Drug 101 109	warfarin
+T9	Drug 49 61	azathioprine
+T6	Adverse_event 90 97	inducer
+E1	Adverse_event:T6

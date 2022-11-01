@@ -1,0 +1,5 @@
+T5	Effect 50 68	serotonin syndrome
+T6	Treatment 0 10	Metaxalone
+T8	Drug 0 10	Metaxalone
+T4	Adverse_event 34 44	associated
+E1	Adverse_event:T4

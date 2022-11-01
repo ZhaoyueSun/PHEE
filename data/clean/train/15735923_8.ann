@@ -1,0 +1,5 @@
+T4	Effect 72 89	moderate toxicity
+T5	Treatment 34 37	TMZ
+T7	Drug 34 37	TMZ
+T6	Adverse_event 67 71	with
+E1	Adverse_event:T6

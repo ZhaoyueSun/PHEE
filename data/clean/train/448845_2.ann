@@ -1,0 +1,6 @@
+T7	Treatment 0 29	Carbonic anhydrase inhibitors
+T10	Effect 128 144	blood dyscrasias
+T11	Drug 0 29	Carbonic anhydrase inhibitors
+T12	Treat-Disorder 55 100	glaucoma, seizure disorders, and hypertension
+T9	Potential_therapeutic_event 105 122	rarely associated
+E1	Potential_therapeutic_event:T9

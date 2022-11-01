@@ -1,0 +1,5 @@
+T5	Effect 49 69;0 21	bone marrow toxicity Massive plasmocytosis
+T7	Treatment 29 40	methimazole
+T8	Drug 29 40	methimazole
+T6	Adverse_event 41 48	induced
+E1	Adverse_event:T6

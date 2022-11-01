@@ -1,0 +1,5 @@
+T5	Treatment 35 44	isoniazid
+T6	Effect 0 18	Psychotic disorder
+T7	Drug 35 44	isoniazid
+T4	Adverse_event 19 29	associated
+E1	Adverse_event:T4

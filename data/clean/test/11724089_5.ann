@@ -1,0 +1,7 @@
+T3	Treatment 0 9	Ofloxacin
+T5	Effect 31 57	toxic epidermal necrolysis
+T6	Drug 0 9	Ofloxacin
+T7	Speculation_cue 13 21	probable
+T4	Adverse_event 22 27	cause
+E1	Adverse_event:T4 
+A1	Speculated E1

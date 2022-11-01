@@ -1,0 +1,8 @@
+T3	Effect 0 18	Sexual dysfunction
+T5	Treatment 35 55	intrathecal baclofen
+T6	Subject 73 82	two cases
+T7	Population 73 76	two
+T8	Route 35 46	intrathecal
+T9	Drug 47 55	baclofen
+T4	Adverse_event 19 29	associated
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T5	Effect 12 33	peripheral neuropathy
+T7	Treatment 39 43	5-FU
+T8	Drug 39 43	5-FU
+T9	Speculation_cue 47 51	rare
+T6	Adverse_event 34 38	with
+E1	Adverse_event:T6 
+A1	Speculated E1

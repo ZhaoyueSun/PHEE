@@ -1,0 +1,5 @@
+T5	Effect 0 31	Hyperglycemia and diabetic coma
+T6	Treatment 67 78	propranolol
+T8	Drug 67 78	propranolol
+T7	Adverse_event 55 57	to
+E1	Adverse_event:T7

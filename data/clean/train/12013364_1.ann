@@ -1,0 +1,8 @@
+T3	Subject 0 17	A 53-year-old man
+T5	Effect 28 48	NMS without rigidity
+T6	Treatment 62 72	olanzapine
+T7	Age 2 13	53-year-old
+T8	Gender 14 17	man
+T9	Drug 62 72	olanzapine
+T4	Adverse_event 18 27	developed
+E1	Adverse_event:T4 

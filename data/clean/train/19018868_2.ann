@@ -1,0 +1,7 @@
+T5	Treatment 83 95	lenalidomide
+T4	Effect 97 112	aplastic anemia
+T6	Drug 83 95	lenalidomide
+T7	Negation_cue 117 120	not
+T3	Adverse_event 152 162	associated
+E1	Adverse_event:T3 
+A1	Negated E1

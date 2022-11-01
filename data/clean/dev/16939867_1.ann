@@ -1,0 +1,5 @@
+T3	Effect 0 17	Localized purpura
+T5	Treatment 34 45	lamotrigine
+T6	Drug 34 45	lamotrigine
+T4	Adverse_event 18 28	associated
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T4	Treatment 27 51	mizoribin administration
+T5	Effect 10 15	SIADH
+T6	Drug 27 36	mizoribin
+T7	Subject 0 6	A case
+T3	Adverse_event 16 23	induced
+E1	Adverse_event:T3

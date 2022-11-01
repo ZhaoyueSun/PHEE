@@ -1,0 +1,8 @@
+T5	Subject 0 17	A 70-year-old man
+T6	Treatment 40 48	warfarin
+T9	Age 2 13	70-year-old
+T10	Gender 14 17	man
+T11	Drug 40 48	warfarin
+T12	Treat-Disorder 53 72	atrial fibrillation
+T8	Potential_therapeutic_event 27 34	treated
+E1	Potential_therapeutic_event:T8

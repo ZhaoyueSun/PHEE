@@ -1,0 +1,5 @@
+T3	Effect 47 65;138 188	nephrotic syndrome the bone marrow still remained completely remitted
+T5	Treatment 99 128	chemotherapy, including M-CSF
+T6	Drug 123 128	M-CSF
+T4	Adverse_event 79 84	after
+E1	Adverse_event:T4

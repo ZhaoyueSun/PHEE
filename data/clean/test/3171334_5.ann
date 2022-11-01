@@ -1,0 +1,9 @@
+T3	Effect 0 11	Visual loss
+T4	Treatment 18 52	a single small dose of vincristine
+T5	Negation_cue 57 62	never
+T7	Duration 33 37;20 26	dose single
+T8	Dosage 27 37	small dose
+T9	Drug 41 52	vincristine
+T6	Adverse_event 12 17	after
+E1	Adverse_event:T6 
+A1	Negated E1

@@ -1,0 +1,5 @@
+T3	Effect 4 30	sub-conjunctival haematoma
+T4	Treatment 54 62	warfarin
+T6	Drug 54 62	warfarin
+T5	Adverse_event 44 53	receiving
+E1	Adverse_event:T5

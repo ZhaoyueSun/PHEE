@@ -1,0 +1,7 @@
+T5	Effect 0 31	Hypersensitivity to carboplatin
+T6	Subject 103 153	patients presenting with hyperacute changes on ECG
+T7	Treatment 171 190	carboplatin therapy
+T9	Sub-Disorder 128 153	hyperacute changes on ECG
+T8	Adverse_event 51 63	complication
+E1	Adverse_event:T8 
+T1	Drug 171 182	carboplatin

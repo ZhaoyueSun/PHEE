@@ -1,0 +1,11 @@
+T3	Subject 184 240	patients with associated hypothyroidism, latent or overt
+T5	Treatment 158 168	clofibrate
+T6	Effect 283 292	myopathy.
+T8	Sub-Disorder 209 223	hypothyroidism
+T7	Treat-Disorder 134 152	diabetes insipidus
+T9	Speculation_cue 248 256	possibly
+T10	Drug 158 168	clofibrate
+T4	Adverse_event 268 279	development
+E1	Adverse_event:T4 
+T1	Sub-Disorder 225 231	latent
+T2	Sub-Disorder 235 240	overt

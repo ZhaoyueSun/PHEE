@@ -1,0 +1,5 @@
+T3	Treatment 0 21	Gabapentin withdrawal
+T5	Effect 36 54	status epilepticus
+T6	Drug 0 10	Gabapentin
+T4	Adverse_event 22 32	presenting
+E1	Adverse_event:T4

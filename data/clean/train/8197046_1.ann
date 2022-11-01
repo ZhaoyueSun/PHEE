@@ -1,0 +1,6 @@
+T3	Effect 0 31	Central nervous system toxicity
+T5	Treatment 48 58	meperidine
+T6	Treat-Disorder 66 81	hepatic disease
+T7	Drug 48 58	meperidine
+T4	Adverse_event 32 42	associated
+E1	Adverse_event:T4

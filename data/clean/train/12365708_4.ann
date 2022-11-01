@@ -1,0 +1,6 @@
+T3	Effect 0 14	Visual changes
+T4	Treatment 42 52	amiodarone
+T7	Drug 42 52	amiodarone
+T6	Subject 54 60	a case
+T5	Adverse_event 15 24	secondary
+E1	Adverse_event:T5

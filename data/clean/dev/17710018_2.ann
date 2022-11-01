@@ -1,0 +1,5 @@
+T3	Treatment 8 17	etoposide
+T5	Effect 26 44	pulmonary toxicity
+T6	Drug 8 17	etoposide
+T4	Adverse_event 18 25	induced
+E1	Adverse_event:T4

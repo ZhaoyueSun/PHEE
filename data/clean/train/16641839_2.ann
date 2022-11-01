@@ -1,0 +1,5 @@
+T3	Effect 0 10;49 145	Angioedema involves vascular leakage in dermis and subcutis mediated by immunoglobulin E and/or bradykinins
+T4	Treatment 34 47	carbamazepine
+T6	Drug 34 47	carbamazepine
+T5	Adverse_event 31 33	of
+E1	Adverse_event:T5

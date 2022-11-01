@@ -1,0 +1,6 @@
+T5	Effect 55 87	toxic epidermal necrolysis (TEN)
+T6	Subject 21 30;91 100	a case of a patient
+T7	Treatment 31 46;101 186	phenolphthalein maintained on several other medications more commonly known to be associated with TEN
+T9	Drug 31 46	phenolphthalein
+T8	Adverse_event 47 54	induced
+E1	Adverse_event:T8

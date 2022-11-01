@@ -1,0 +1,7 @@
+T3	Subject 57 114	a patient with definite seronegative rheumatoid arthritis
+T5	Effect 129 150	hypogammaglobulinemia
+T6	Treatment 168 180	gold therapy
+T7	Treat-Disorder 94 114	rheumatoid arthritis
+T8	Drug 168 172	gold
+T4	Adverse_event 119 128	developed
+E1	Adverse_event:T4 

@@ -1,0 +1,8 @@
+T6	Subject 17 49	a 50-year-old transgender female
+T9	Treatment 129 133	TRIO
+T10	Age 19 30	50-year-old
+T11	Gender 31 49	transgender female
+T12	Drug 129 133	TRIO
+T13	Treat-Disorder 55 103	HIV infection and recurrent deep vein thrombosis
+T8	Potential_therapeutic_event 110 119	treatment
+E1	Potential_therapeutic_event:T8

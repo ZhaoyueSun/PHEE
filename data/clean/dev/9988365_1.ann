@@ -1,0 +1,5 @@
+T3	Effect 0 12;60 148	Eosinophilia preceded by a faster neutrophil production and consecutive decrease (z = 2.27, p = 0.01)
+T4	Treatment 23 32	clozapine
+T6	Drug 23 32	clozapine
+T5	Adverse_event 13 19	caused
+E1	Adverse_event:T5

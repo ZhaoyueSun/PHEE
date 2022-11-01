@@ -1,0 +1,8 @@
+T4	Treatment 7 66	24 hours of fluid restriction and cessation of desmopressin
+T5	Effect 72 97	symptoms and hyponatremia
+T6	Subject 68 71	her
+T7	Gender 68 71	her
+T8	Duration 7 15	24 hours
+T9	Drug 54 66	desmopressin
+T3	Potential_therapeutic_event 98 106	resolved
+E1	Potential_therapeutic_event:T3

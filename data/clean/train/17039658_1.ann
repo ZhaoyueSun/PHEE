@@ -1,0 +1,5 @@
+T3	Treatment 33 64	pegylated liposomal doxorubicin
+T4	Effect 3 27	intertrigo-like eruption
+T6	Drug 53 64	doxorubicin
+T5	Adverse_event 28 32	from
+E1	Adverse_event:T5

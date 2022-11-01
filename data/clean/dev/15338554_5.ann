@@ -1,0 +1,7 @@
+T3	Effect 26 78	significant progression of marrow reticulin fibrosis
+T5	Treatment 86 94	imatinib
+T6	Drug 86 94	imatinib
+T7	Speculation_cue 103 106	can
+T4	Adverse_event 79 85	during
+E1	Adverse_event:T4 
+A1	Speculated E1

@@ -1,0 +1,10 @@
+T8	Treatment 26 54;99 130;152 171	a potential drug interaction initiation of erlotinib therapy receiving phenytoin
+T10	Effect 67 92	elevated phenytoin levels
+T12	Subject 134 143	a patient
+T13	Speculation_cue 28 37	potential
+T16	Drug 162 171	phenytoin
+T17	Drug 113 122	erlotinib
+T9	Adverse_event 55 66	resulted in
+T14	Combination 43 54	interaction
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T17 arg2:T16

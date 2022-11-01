@@ -1,0 +1,5 @@
+T3	Treatment 37 45	Warfarin
+T5	Effect 54 67	skin necrosis
+T6	Drug 37 45	Warfarin
+T4	Adverse_event 46 53	induced
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T5	Treatment 20 28	rifampin
+T6	Treat-Disorder 52 69	acid-fast bacilli
+T8	Subject 0 3	She
+T9	Gender 0 3	She
+T7	Potential_therapeutic_event 13 19	taking
+E1	Potential_therapeutic_event:T7

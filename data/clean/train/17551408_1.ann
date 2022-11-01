@@ -1,0 +1,12 @@
+T5	Effect 18 27	gastritis
+T6	Treatment 38 51	dexamethasone
+T8	Speculation_cue 142 145	may
+T9	Drug 38 51	dexamethasone
+T11	Effect 53 62	mucositis
+T13	Treatment 73 84	doxorubicin
+T14	Drug 73 84	doxorubicin
+T7	Adverse_event 28 34	caused
+T12	Adverse_event 63 69	caused
+E1	Adverse_event:T7 arg:T5 arg2:T6
+E2	Adverse_event:T12 arg:T11 arg2:T13
+A1	Speculated E1

@@ -1,0 +1,6 @@
+T4	Effect 69 95	postprandial hyperglycemia
+T5	Treatment 124 157	betamethasone valerate cream 0.1%
+T6	Drug 124 146	betamethasone valerate
+T7	Route 147 152	cream
+T3	Adverse_event 62 68	showed
+E1	Adverse_event:T3

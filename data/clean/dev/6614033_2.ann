@@ -1,0 +1,6 @@
+T3	Treatment 53 67	salt repletion
+T5	Effect 0 49	Amphotericin B nephrotoxicity in humans decreased
+T6	Drug 53 57	salt
+T7	Subject 33 39	humans
+T4	Potential_therapeutic_event 40 49	decreased
+E1	Potential_therapeutic_event:T4

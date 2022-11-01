@@ -1,0 +1,14 @@
+T4	Subject 0 88	A 17-year-old boy with refractory psoriatic arthritis and alpha-1 antitrypsin deficiency
+T6	Effect 105 144	syringotropic hypersensitivity reaction
+T7	Treatment 151 202	9 months of therapy with infliximab and leflunomide
+T8	Age 2 13	17-year-old
+T9	Gender 14 17	boy
+T10	Treat-Disorder 23 53	refractory psoriatic arthritis
+T11	Sub-Disorder 58 88	alpha-1 antitrypsin deficiency
+T12	Drug 176 186	infliximab
+T13	Drug 191 202	leflunomide
+T5	Adverse_event 93 102	developed
+T14	Combination 187 190	and
+E1	Adverse_event:T5 
+E2	Combination:T14 arg:T12 arg2:T13
+T1	Duration 151 159	9 months

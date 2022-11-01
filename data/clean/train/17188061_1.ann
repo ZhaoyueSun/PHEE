@@ -1,0 +1,8 @@
+T5	Effect 25 74	typical symptoms of Charles-Bonnet syndrome (CBS)
+T6	Subject 78 102	patients with severe AMD
+T8	Treatment 109 140	intravitreal Avastin-injections
+T10	Drug 122 129	Avastin
+T11	Route 109 121;130 140	intravitreal injections
+T12	Treat-Disorder 99 102	AMD
+T7	Adverse_event 103 108	after
+E1	Adverse_event:T7

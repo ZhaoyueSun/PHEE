@@ -1,0 +1,5 @@
+T5	Effect 98 112	adverse effect
+T7	Treatment 142 184	antiretroviral medication Nevirapine (NVP)
+T8	Drug 168 178	Nevirapine
+T6	Adverse_event 122 126	from
+E1	Adverse_event:T6

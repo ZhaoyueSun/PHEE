@@ -1,0 +1,12 @@
+T5	Subject 42 59	2 female patients
+T7	Effect 74 86	incontinence
+T8	Treatment 100 169	the selective serotonin reuptake inhibitors paroxetine and sertraline
+T9	Population 42 43	2
+T10	Gender 44 50	female
+T11	Drug 144 154	paroxetine
+T12	Drug 159 169	sertraline
+T14	Drug 224 235	venlafaxine
+T6	Adverse_event 64 73	developed
+T13	Combination 155 158	and
+E1	Adverse_event:T6 
+E2	Combination:T13 arg:T11 arg2:T12

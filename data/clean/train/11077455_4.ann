@@ -1,0 +1,7 @@
+T3	Treatment 107 117	vigabatrin
+T5	Effect 129 146	visual field loss
+T6	Subject 81 95	eight patients
+T7	Population 81 86	eight
+T8	Drug 107 117	vigabatrin
+T4	Adverse_event 118 128	attributed
+E1	Adverse_event:T4

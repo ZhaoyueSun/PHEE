@@ -1,0 +1,9 @@
+T10	Treatment 0 74;131 144	Protease inhibitors (ritonavir and saquinavir) were added to the treatment carbamazepine
+T12	Effect 101 153	progressive ataxia related to carbamazepine toxicity
+T13	Drug 131 144	carbamazepine
+T9	Drug 0 19	Protease inhibitors
+T15	Subject 79 90	the patient
+T11	Adverse_event 91 100	developed
+T14	Combination 52 57	added
+E1	Adverse_event:T11 
+E2	Combination:T14 arg:T9 arg2:T13

@@ -1,0 +1,6 @@
+T4	Treatment 6 57	3- to 13-month period of therapy without indapamide
+T5	Effect 59 124	glucose levels of all patients decreased and diabetes disappeared
+T6	Drug 47 57	indapamide
+T7	Time_elapsed 6 20	3- to 13-month
+T3	Potential_therapeutic_event 0 5	After
+E1	Potential_therapeutic_event:T3

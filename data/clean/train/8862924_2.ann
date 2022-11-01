@@ -1,0 +1,5 @@
+T3	Treatment 0 17	Methamphetamine's
+T4	Treat-Disorder 144 164	injury to the cornea
+T6	Drug 0 17	Methamphetamine's
+T5	Potential_therapeutic_event 115 120	offer
+E1	Potential_therapeutic_event:T5

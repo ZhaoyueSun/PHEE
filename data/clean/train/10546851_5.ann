@@ -1,0 +1,6 @@
+T4	Subject 0 12	Six patients
+T7	Population 0 3	Six
+T8	Drug 47 56	indinavir
+T5	Treatment 47 56	indinavir
+T6	Potential_therapeutic_event 32 41	treatment
+E1	Potential_therapeutic_event:T6

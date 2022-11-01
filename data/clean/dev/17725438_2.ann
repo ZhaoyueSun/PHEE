@@ -1,0 +1,5 @@
+T4	Treatment 0 8	Rifampin
+T5	Effect 17 66	hypothyroidism without underlying thyroid disease
+T6	Drug 0 8	Rifampin
+T3	Adverse_event 9 16	induced
+E1	Adverse_event:T3

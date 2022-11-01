@@ -1,0 +1,8 @@
+T7	Treat-Disorder 31 56	antiphospholipid syndrome
+T8	Effect 65 78	skin necrosis
+T10	Treatment 92 166	low-molecular weight heparin therapy at sites distant from injection sites
+T6	Subject 12 56	a patient with the antiphospholipid syndrome
+T11	Drug 92 120	low-molecular weight heparin
+T12	Route 151 160	injection
+T9	Adverse_event 79 86	develop
+E1	Adverse_event:T9 

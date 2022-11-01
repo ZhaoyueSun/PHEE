@@ -1,0 +1,5 @@
+T3	Treatment 0 12	Troglitazone
+T5	Effect 21 46	fulminant hepatic failure
+T6	Drug 0 12	Troglitazone
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4

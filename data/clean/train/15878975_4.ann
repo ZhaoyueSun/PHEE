@@ -1,0 +1,5 @@
+T3	Effect 110 113	DIC
+T4	Treatment 167 178	anti-D IGIV
+T6	Drug 167 178	anti-D IGIV
+T5	Adverse_event 151 163	complication
+E1	Adverse_event:T5

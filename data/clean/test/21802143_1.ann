@@ -1,0 +1,12 @@
+T7	Subject 64 175	a bone marrow transplant patient receiving voriconazole and harboring CYP2C19 and CYP3A5 heterozygous mutations
+T8	Treatment 33 60;107 119	tacrolimus and lansoprazole voriconazole
+T9	Sub-Disorder 134 175	CYP2C19 and CYP3A5 heterozygous mutations
+T10	Effect 0 24	Hepatic drug interaction
+T12	Treat-Disorder 66 88	bone marrow transplant
+T13	Drug 33 43	tacrolimus
+T14	Drug 48 60	lansoprazole
+T16	Drug 107 119	voriconazole
+T11	Adverse_event 25 32	between
+T15	Combination 44 47	and
+E1	Adverse_event:T11 
+E2	Combination:T15 arg:T13 arg2:T14 arg3:T16

@@ -1,0 +1,7 @@
+T4	Effect 6 24	pulmonary fibrosis
+T6	Treatment 35 86	1,3-bis(2-chloroethyl)-1-nitrosourea (BCNU) therapy
+T7	Drug 35 78	1,3-bis(2-chloroethyl)-1-nitrosourea (BCNU)
+T8	Severity_cue 0 5	Fatal
+T5	Adverse_event 25 34	following
+E1	Adverse_event:T5 
+A1	Severity E1 High

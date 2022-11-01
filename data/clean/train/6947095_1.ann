@@ -1,0 +1,13 @@
+T5	Effect 0 22	Dural sinus thrombosis
+T6	Subject 36 82	two children with acute lymphoblastic leukemia
+T9	Population 36 39	two
+T10	Age 40 48	children
+T11	Drug 115 134	vincristine sulfate
+T12	Drug 136 146	prednisone
+T13	Drug 152 164	asparaginase
+T14	Treatment 90 164	induction treatment with vincristine sulfate, prednisone, and asparaginase
+T15	Treat-Disorder 54 82	acute lymphoblastic leukemia
+T8	Adverse_event 23 32	developed
+T16	Combination 148 151	and
+E1	Adverse_event:T8 
+E2	Combination:T16 arg:T11 arg2:T12 arg3:T13

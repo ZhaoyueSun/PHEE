@@ -1,0 +1,8 @@
+T6	Treatment 0 122	Nevirapine is a non-nucleoside reverse transcriptase inhibitor widely used in combination with other antiretroviral agents
+T9	Drug 0 10	Nevirapine
+T8	Treat-Disorder 144 157	HIV infection
+T11	Drug 95 122	other antiretroviral agents
+T7	Potential_therapeutic_event 131 140	treatment
+T10	Combination 78 89	combination
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T10 arg:T9 arg2:T11

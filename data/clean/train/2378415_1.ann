@@ -1,0 +1,9 @@
+T4	Treatment 9 31	high-dose methotrexate
+T6	Treat-Disorder 80 106	primary osteogenic sarcoma
+T7	Effect 165 202	a fatal rise in intracranial pressure
+T8	Dosage 9 18	high-dose
+T9	Drug 19 31	methotrexate
+T10	Severity_cue 167 172	fatal
+T5	Adverse_event 158 164	caused
+E1	Adverse_event:T5 
+A1	Severity E1 High

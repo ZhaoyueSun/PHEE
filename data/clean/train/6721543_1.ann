@@ -1,0 +1,8 @@
+T3	Treatment 41 117	administration of quinacrine hydrochloride at a dosage of 100 mg twice daily
+T6	Effect 13 31	psychosis resulted
+T7	Dosage 99 105	100 mg
+T8	Freq 106 117	twice daily
+T9	Treat-Disorder 139 152	discoid lupus
+T10	Drug 59 83	quinacrine hydrochloride
+T5	Adverse_event 5 12	induced
+E1	Adverse_event:T5

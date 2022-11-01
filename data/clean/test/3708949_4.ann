@@ -1,0 +1,7 @@
+T3	Subject 83 95	this patient
+T4	Treatment 11 32	parenteral amiodarone
+T6	Effect 64 79	acute hepatitis
+T7	Drug 22 32	amiodarone
+T8	Route 11 21	parenteral
+T5	Adverse_event 55 60	cause
+E1	Adverse_event:T5

@@ -1,0 +1,6 @@
+T6	Effect 94 108	cardiac arrest
+T7	Treatment 137 148	doxorubicin
+T5	Subject 116 127	the patient
+T9	Drug 137 148	doxorubicin
+T8	Adverse_event 128 136	received
+E1	Adverse_event:T8

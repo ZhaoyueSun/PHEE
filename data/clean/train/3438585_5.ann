@@ -1,0 +1,6 @@
+T5	Treatment 0 14;37 49	Corticosteroid for 8 months
+T6	Treat-Disorder 87 105	pulmonary function
+T7	Drug 0 14	Corticosteroid
+T9	Duration 37 49	for 8 months
+T4	Potential_therapeutic_event 72 83	improvement
+E1	Potential_therapeutic_event:T4

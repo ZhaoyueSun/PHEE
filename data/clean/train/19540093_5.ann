@@ -1,0 +1,7 @@
+T5	Treatment 134 145	tigecycline
+T6	Speculation_cue 3 12	recommend
+T7	Effect 72 110	pancreatitis, including abdominal pain
+T9	Drug 134 145	tigecycline
+T8	Potential_therapeutic_event 119 128	treatment
+E1	Potential_therapeutic_event:T8 
+A1	Speculated E1

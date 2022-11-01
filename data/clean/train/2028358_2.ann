@@ -1,0 +1,6 @@
+T3	Effect 0 16	Pulmonary oedema
+T4	Treatment 23 36	hexoprenaline
+T5	Treat-Disorder 55 69	preterm labour
+T7	Drug 23 36	hexoprenaline
+T6	Adverse_event 17 22	after
+E1	Adverse_event:T6

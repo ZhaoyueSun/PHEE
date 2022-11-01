@@ -1,0 +1,7 @@
+T5	Treatment 23 30	lithium
+T6	Effect 0 8	Lethargy
+T7	Subject 12 21	a newborn
+T9	Age 14 21	newborn
+T10	Drug 23 30	lithium
+T8	Adverse_event 31 39	toxicity
+E1	Adverse_event:T8

@@ -1,0 +1,6 @@
+T4	Treatment 107 139	intralesional injections of 5-FU
+T6	Route 107 131	intralesional injections
+T7	Drug 135 139	5-FU
+T5	Effect 29 84	squamous-cell carcinoma within a basal-cell epithelioma
+T3	Potential_therapeutic_event 94 101	treated
+E1	Potential_therapeutic_event:T3

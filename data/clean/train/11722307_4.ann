@@ -1,0 +1,11 @@
+T6	Treatment 9 19	Quetiapine
+T7	Effect 40 50	leucopenia
+T8	Subject 54 66	two patients
+T9	Population 54 57	two
+T10	Population 110 113	one
+T12	Drug 9 19	Quetiapine
+T13	Effect 71 106	clinically apparent agranulocytosis
+T14	Subject 110 121	one patient
+T5	Adverse_event 24 34	associated
+E1	Adverse_event:T5 arg:T6 arg2:T7 arg3:T8
+E2	Adverse_event:T5 arg:T6 arg2:T13 arg3:T14

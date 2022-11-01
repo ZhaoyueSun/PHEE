@@ -1,0 +1,10 @@
+T7	Treatment 28 68	injection of 3.6 mg of goserelin acetate
+T8	Effect 70 84	severe dyspnea
+T10	Effect 102 135	worsening pleuritis carcinomatosa
+T11	Severity_cue 70 76	severe
+T12	Speculation_cue 147 157	considered
+T13	Route 28 37	injection
+T14	Dosage 41 47	3.6 mg
+T15	Drug 51 68	goserelin acetate
+T9	Adverse_event 85 94	developed
+E1	Adverse_event:T9

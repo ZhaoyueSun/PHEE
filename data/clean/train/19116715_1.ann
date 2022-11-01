@@ -1,0 +1,20 @@
+T5	Treatment 0 11	Gemcitabine
+T7	Effect 39 64	hemolytic uremic syndrome
+T8	Drug 0 11	Gemcitabine
+T10	Severity_cue 103 108	fatal
+T11	Treatment 146 192	with steroids, plasmapheresis and hemodialysis
+T12	Drug 151 159	steroids
+T13	Drug 161 175	plasmapheresis
+T14	Drug 180 192	hemodialysis
+T15	Treat-Disorder 93 108	a rapidly fatal
+T6	Adverse_event 23 27	risk
+T16	Potential_therapeutic_event 133 145	intervention
+E1	Adverse_event:T6 arg:T5 arg2:T7
+E2	Potential_therapeutic_event:T16 arg:T11
+R1	has_cue Arg1:E1 Arg2:T10	
+R2	has Arg1:T11 Arg2:T12	
+R3	has Arg1:T11 Arg2:T13	
+R4	has Arg1:T11 Arg2:T14	
+R5	has Arg1:T11 Arg2:T15	
+R6	has Arg1:T5 Arg2:T8	
+A1	Severity E1 High

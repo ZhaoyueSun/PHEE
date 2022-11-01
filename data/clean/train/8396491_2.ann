@@ -1,0 +1,5 @@
+T6	Treatment 37 42	CPH82
+T7	Effect 63 193	suppression of the endogeneous production of ACTH and cortisol with a concomitant paradoxical picture of clinical hypercortisolism
+T10	Drug 37 42	CPH82
+T5	Adverse_event 47 57	associated
+E1	Adverse_event:T5

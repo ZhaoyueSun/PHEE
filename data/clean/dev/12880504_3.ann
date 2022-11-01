@@ -1,0 +1,8 @@
+T3	Treatment 0 11	Risperidone
+T5	Effect 20 49	obsessive-compulsive symptoms
+T6	Subject 53 65	two children
+T7	Population 53 56	two
+T8	Age 57 65	children
+T9	Drug 0 11	Risperidone
+T4	Adverse_event 12 19	induced
+E1	Adverse_event:T4 

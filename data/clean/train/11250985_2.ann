@@ -1,0 +1,8 @@
+T3	Treatment 40 54	spironolactone
+T4	Subject 3 38	patients with chronic heart failure
+T5	Sub-Disorder 17 38	chronic heart failure
+T6	Effect 99 145	serious and, occasionally, fatal hyperkalaemia
+T7	Speculation_cue 87 90	may
+T9	Drug 40 54	spironolactone
+T8	Adverse_event 91 95	lead
+E1	Adverse_event:T8 

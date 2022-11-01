@@ -1,0 +1,7 @@
+T7	Effect 21 46	hemolytic-uremic syndrome
+T9	Treatment 62 158	during the 4th cycle of combination chemotherapy with oxaliplatin, 5-fluorouracil and leucovorin
+T10	Drug 116 127	oxaliplatin
+T11	Drug 131 143	fluorouracil
+T12	Drug 148 158	leucovorin
+T8	Adverse_event 52 61	developed
+E1	Adverse_event:T8

@@ -1,0 +1,6 @@
+T3	Treat-Disorder 27 54	glucose tolerance impairing
+T7	Speculation_cue 55 58	may
+T9	Drug 15 25	indapamide
+T5	Treatment 15 54	indapamide, glucose tolerance impairing
+T4	Potential_therapeutic_event 6 14	stopping
+E1	Potential_therapeutic_event:T4

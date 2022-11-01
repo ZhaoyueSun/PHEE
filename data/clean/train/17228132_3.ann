@@ -1,0 +1,5 @@
+T6	Treatment 25 34	erlotinib
+T8	Effect 0 14;99 145	Hepatotoxicity transient with mild elevation of transaminases
+T9	Drug 25 34	erlotinib
+T7	Adverse_event 15 19	seen
+E1	Adverse_event:T7

@@ -1,0 +1,6 @@
+T3	Subject 43 52	a patient
+T4	Effect 0 39	Primary central nervous system lymphoma
+T5	Treatment 66 77	natalizumab
+T7	Drug 66 77	natalizumab
+T6	Adverse_event 53 60	treated
+E1	Adverse_event:T6

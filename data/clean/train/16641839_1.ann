@@ -1,0 +1,5 @@
+T5	Effect 0 38	Angioedema and maculopapular eruptions
+T7	Treatment 55 84	carbamazepine administration.
+T8	Drug 55 68	carbamazepine
+T6	Adverse_event 39 49	associated
+E1	Adverse_event:T6

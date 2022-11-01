@@ -1,0 +1,5 @@
+T3	Effect 0 26	Hypersensitivity reactions
+T5	Treatment 34 49	chloramphenicol
+T6	Drug 34 49	chloramphenicol
+T4	Adverse_event 27 30	due
+E1	Adverse_event:T4

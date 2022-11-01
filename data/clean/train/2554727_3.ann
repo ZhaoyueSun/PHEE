@@ -1,0 +1,5 @@
+T5	Effect 0 38	Peripheral nervous system disturbances
+T7	Treatment 49 69	cytosine arabinoside
+T8	Drug 49 69	cytosine arabinoside
+T6	Adverse_event 39 45	caused
+E1	Adverse_event:T6

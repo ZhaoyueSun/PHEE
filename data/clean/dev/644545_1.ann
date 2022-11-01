@@ -1,0 +1,5 @@
+T5	Treatment 0 16	Cyclophosphamide
+T7	Effect 34 71	interstitial pneumonitis and fibrosis
+T9	Drug 0 16	Cyclophosphamide
+T8	Adverse_event 28 33	cause
+E1	Adverse_event:T8

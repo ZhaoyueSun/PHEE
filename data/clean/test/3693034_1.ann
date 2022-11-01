@@ -1,0 +1,9 @@
+T5	Treatment 42 103	19 days of treatment with 5-fluorocytosine and amphotericin B
+T6	Effect 0 26	Toxic epidermal necrolysis
+T7	Time_elapsed 42 49	19 days
+T8	Drug 68 84	5-fluorocytosine
+T10	Drug 89 103	amphotericin B
+T4	Adverse_event 36 41	after
+T9	Combination 85 88	and
+E1	Adverse_event:T4 
+E2	Combination:T9 arg:T8 arg2:T10

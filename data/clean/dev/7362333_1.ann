@@ -1,0 +1,7 @@
+T3	Treatment 0 11	Propranolol
+T4	Effect 38 72	central nervous system dysfunction
+T5	Subject 76 118	patients undergoing cardiopulmonary bypass
+T7	Sub-Disorder 96 118	cardiopulmonary bypass
+T8	Drug 0 11	Propranolol
+T6	Adverse_event 29 34	cause
+E1	Adverse_event:T6 

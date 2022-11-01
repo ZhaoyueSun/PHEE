@@ -1,0 +1,6 @@
+T3	Effect 0 32	Fatal toxic epidermal necrolysis
+T5	Treatment 44 70	lamotrigine administration
+T6	Severity_cue 0 5	Fatal
+T7	Drug 44 55	lamotrigine
+T4	Adverse_event 33 43	related to
+E1	Adverse_event:T4

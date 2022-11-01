@@ -1,0 +1,5 @@
+T5	Treatment 0 10	Paroxetine
+T7	Treat-Disorder 66 90	anti-depressant activity
+T8	Drug 0 10	Paroxetine
+T6	Potential_therapeutic_event 55 65	possessing
+E1	Potential_therapeutic_event:T6 

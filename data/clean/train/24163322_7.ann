@@ -1,0 +1,7 @@
+T4	Treatment 0 41	Bismuth subsalicylate 30 mL every 4 hours
+T7	Drug 0 21	Bismuth subsalicylate
+T8	Dosage 22 27	30 mL
+T9	Freq 28 41	every 4 hours
+T10	Treat-Disorder 61 69	diarrhea
+T5	Potential_therapeutic_event 46 56	prescribed
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,7 @@
+T3	Effect 30 79	bilateral avascular necrosis of the femoral heads
+T4	Subject 83 92	a patient
+T5	Treatment 103 136	'standard' doses of dexamethasone
+T7	Dosage 103 119	'standard' doses
+T8	Drug 123 136	dexamethasone
+T6	Adverse_event 93 102	receiving
+E1	Adverse_event:T6

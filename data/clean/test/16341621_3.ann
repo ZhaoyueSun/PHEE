@@ -1,0 +1,6 @@
+T3	Effect 36 58	granulomatous reaction
+T5	Treatment 75 108	calcium hydroxylapatite injection
+T6	Drug 75 98	calcium hydroxylapatite
+T7	Route 99 108	injection
+T4	Adverse_event 69 74	after
+E1	Adverse_event:T4

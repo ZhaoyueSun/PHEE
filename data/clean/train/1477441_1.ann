@@ -1,0 +1,9 @@
+T7	Effect 115 149	fixed drug eruption of the scrotum
+T3	Subject 14 58	Two children with attention deficit disorder
+T4	Treatment 72 104	methylphenidate as a simple drug
+T5	Population 14 17	Two
+T8	Age 18 26	children
+T10	Drug 72 87	methylphenidate
+T11	Treat-Disorder 32 58	attention deficit disorder
+T6	Adverse_event 105 114	developed
+E1	Adverse_event:T6

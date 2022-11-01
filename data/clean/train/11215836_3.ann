@@ -1,0 +1,8 @@
+T4	Effect 9 56	serotonin syndrome associated with clomipramine
+T6	Treatment 63 86	withdrawal of clozapine
+T7	Speculation_cue 0 8	Possible
+T8	Drug 77 86	clozapine
+T9	Drug 44 56	clomipramine
+T5	Adverse_event 57 62	after
+E1	Adverse_event:T5 
+A1	Speculated E1

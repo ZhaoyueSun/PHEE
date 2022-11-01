@@ -1,0 +1,7 @@
+T3	Effect 52 68	optic neuropathy
+T5	Subject 87 117	patients with Wilson's disease
+T6	Treatment 137 150	penicillamine
+T8	Drug 137 150	penicillamine
+T9	Treat-Disorder 101 117	Wilson's disease
+T4	Adverse_event 75 83	occurred
+E1	Adverse_event:T4

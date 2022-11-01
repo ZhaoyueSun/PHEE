@@ -1,0 +1,8 @@
+T4	Subject 0 48	A patient with seropositive rheumatoid arthritis
+T6	Effect 59 66	ascites
+T7	Treatment 73 114	taking weekly doses of methotrexate (MTX)
+T8	Treat-Disorder 15 48	seropositive rheumatoid arthritis
+T9	Freq 80 86	weekly
+T10	Drug 96 108	methotrexate
+T5	Adverse_event 49 58	developed
+E1	Adverse_event:T5 

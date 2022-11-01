@@ -1,0 +1,7 @@
+T3	Effect 60 63	LPD
+T4	Subject 93 122	rheumatoid arthritis patients
+T5	Treatment 136 139	MTX
+T7	Treat-Disorder 93 113	rheumatoid arthritis
+T8	Drug 136 139	MTX
+T6	Adverse_event 46 56	occurrence
+E1	Adverse_event:T6 

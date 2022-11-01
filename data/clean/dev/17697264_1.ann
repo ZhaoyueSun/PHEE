@@ -1,0 +1,5 @@
+T3	Effect 33 36	VOD
+T5	Treatment 103 115	azathioprine
+T6	Drug 103 115	azathioprine
+T4	Adverse_event 37 46	occurring
+E1	Adverse_event:T4

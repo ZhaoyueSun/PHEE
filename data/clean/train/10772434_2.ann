@@ -1,0 +1,7 @@
+T4	Effect 63 89	hypersensitivity reactions
+T5	Treatment 93 104	carboplatin
+T6	Speculation_cue 13 18	could
+T7	Subject 42 50	patients
+T8	Drug 93 104	carboplatin
+T3	Adverse_event 55 62	develop
+E1	Adverse_event:T3

@@ -1,0 +1,5 @@
+T5	Treatment 61 72	gemcitabine
+T7	Effect 81 168	radiation recall reaction resulting in hemodynamically significant pericardial effusion
+T8	Drug 61 72	gemcitabine
+T6	Adverse_event 73 80	induced
+E1	Adverse_event:T6

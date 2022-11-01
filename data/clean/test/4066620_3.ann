@@ -1,0 +1,5 @@
+T4	Treatment 42 51	trazodone
+T5	Effect 21 38	movement disorder
+T6	Drug 42 51	trazodone
+T3	Adverse_event 39 41	by
+E1	Adverse_event:T3

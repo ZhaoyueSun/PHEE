@@ -1,0 +1,6 @@
+T4	Treatment 127 136	rituximab
+T6	Drug 127 136	rituximab
+T7	Treat-Disorder 64 113	nodular lymphocyte-predominant Hodgkin's lymphoma
+T3	Effect 0 41	CD20-negative T-cell-rich B-cell lymphoma
+T5	Adverse_event 114 121	treated
+E1	Adverse_event:T5

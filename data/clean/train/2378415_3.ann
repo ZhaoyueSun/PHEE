@@ -1,0 +1,6 @@
+T5	Effect 36 63;0 25	an intracranial mass lesion Transtentorial herniation
+T7	Treatment 74 96	high-dose methotrexate
+T8	Drug 84 96	methotrexate
+T9	Dosage 74 83	high-dose
+T6	Adverse_event 64 73	following
+E1	Adverse_event:T6

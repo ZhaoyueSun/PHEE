@@ -1,0 +1,9 @@
+T6	Subject 164 173	a patient
+T7	Effect 0 4;183 208	ARDS severe pulmonary symptoms
+T9	Treatment 220 228	infusion
+T10	Treatment 137 146	rituximab
+T11	Drug 137 146	rituximab
+T13	Route 220 228	infusion
+T8	Adverse_event 214 219	after
+E1	Adverse_event:T8 
+R1	is_a Arg1:T10 Arg2:T9

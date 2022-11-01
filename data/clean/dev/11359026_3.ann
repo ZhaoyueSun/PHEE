@@ -1,0 +1,9 @@
+T3	Effect 14 27	neurotoxicity
+T4	Treatment 36 69	adjustment dosage of valacyclovir
+T7	Dosage 36 53	adjustment dosage
+T8	Drug 57 69	valacyclovir
+T9	Treat-Disorder 76 102	cutaneous zoster infection
+T5	Subject 0 3	She
+T10	Gender 0 3	She
+T6	Adverse_event 4 13	developed
+E1	Adverse_event:T6

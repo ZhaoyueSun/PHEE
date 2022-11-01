@@ -1,0 +1,8 @@
+T5	Treatment 0 43	Four days after intravenous Zoledronic acid
+T6	Subject 49 56	patient
+T7	Effect 104 137	carpopedal spasm and bronchospasm
+T9	Time_elapsed 0 15	Four days after
+T10	Route 16 27	intravenous
+T11	Drug 28 43	Zoledronic acid
+T8	Adverse_event 90 100	complaints
+E1	Adverse_event:T8

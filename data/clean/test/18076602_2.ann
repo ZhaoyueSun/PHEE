@@ -1,0 +1,6 @@
+T3	Effect 0 67	Palpable purpuric skin lesions on the anterior surface of both legs
+T4	Treatment 84 120	55th day of amphotericin B treatment
+T6	Duration 84 92	55th day
+T7	Drug 96 110	amphotericin B
+T5	Adverse_event 68 76	appeared
+E1	Adverse_event:T5

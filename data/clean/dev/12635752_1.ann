@@ -1,0 +1,14 @@
+T4	Effect 62 86	elevated hepatic enzymes
+T6	Treatment 27 49	propylthiouracil (PTU)
+T8	Drug 27 43	propylthiouracil
+T9	Treat-Disorder 0 11	Antithyroid
+T10	Drug 149 160	carbimazole
+T7	Subject 101 123	12th week of pregnancy
+T11	Sub-Disorder 114 123	pregnancy
+T5	Adverse_event 50 58	resulted
+E1	Adverse_event:T5 arg:T6 arg2:T4 arg3:T7
+T1	Potential_therapeutic_event 138 145	changed
+E2	Potential_therapeutic_event:T1 arg:T2 arg2:T7
+R1	has Arg1:T6 Arg2:T9	
+T2	Treatment 149 166	carbimazole (CBZ)
+R2	has Arg1:T2 Arg2:T9	

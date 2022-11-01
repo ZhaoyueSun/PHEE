@@ -1,0 +1,6 @@
+T3	Treatment 18 30	levofloxacin
+T5	Effect 39 71	delirium with psychotic features
+T6	Drug 18 30	levofloxacin
+T7	Subject 77 119	relatively young, otherwise healthy female
+T4	Adverse_event 31 38	induced
+E1	Adverse_event:T4

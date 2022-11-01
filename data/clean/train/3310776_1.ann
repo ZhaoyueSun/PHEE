@@ -1,0 +1,13 @@
+T5	Subject 0 110	A 51-yr-old nonsmoking male patient without any history of previous allergies, asthma, hay fever, or urticaria
+T7	Effect 121 138	attacks of asthma
+T8	Treatment 144 190	captopril was added to the nadolol and dyazide
+T9	Treat-Disorder 209 228	high blood pressure
+T10	Age 2 11	51-yr-old
+T11	Gender 23 27	male
+T13	Drug 144 153	captopril
+T14	Drug 171 178	nadolol
+T15	Drug 183 190	dyazide
+T6	Adverse_event 111 120	developed
+T12	Combination 158 163	added
+E1	Adverse_event:T6 
+E2	Combination:T12 arg:T13 arg2:T14 arg3:T15

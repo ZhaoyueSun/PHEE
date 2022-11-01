@@ -1,0 +1,7 @@
+T3	Effect 29 32	WES
+T5	Treatment 70 81	haloperidol
+T7	Subject 36 62	an infant born to a mother
+T8	Drug 70 81	haloperidol
+T4	Age 39 45	infant
+T6	Adverse_event 21 25	case
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T3	Treatment 0 9	Gold-salt
+T5	Effect 32 58	damage to proximal tubules
+T6	Drug 0 9	Gold-salt
+T7	Speculation_cue 18 21	may
+T4	Adverse_event 22 28	result
+E1	Adverse_event:T4 
+A1	Speculated E1

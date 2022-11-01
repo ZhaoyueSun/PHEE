@@ -1,0 +1,19 @@
+T17	Effect 50 85	apnea, hypotension, and bradycardia
+T18	Subject 33 39	babies
+T19	Age 33 39	babies
+T20	Treatment 0 21	Intravenous verapamil
+T21	Route 0 11	Intravenous
+T22	Drug 12 21	verapamil
+T24	Treatment 159 168	quinidine
+T25	Drug 159 168	quinidine
+T27	Effect 191 196	death
+T28	Speculation_cue 169 172	may
+T29	Speculation_cue 40 43	may
+T23	Adverse_event 44 49	cause
+T26	Adverse_event 176 183	related
+E1	Adverse_event:T23 arg:T20 arg2:T18 arg3:T17
+E2	Adverse_event:T26 arg:T24 arg2:T27
+R1	has_cue Arg1:E2 Arg2:T28	
+R2	has_cue Arg1:E1 Arg2:T29	
+A1	Speculated E2
+A2	Speculated E1

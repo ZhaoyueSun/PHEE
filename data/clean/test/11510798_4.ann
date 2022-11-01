@@ -1,0 +1,6 @@
+T6	Treatment 56 71	corticosteroids
+T7	Effect 87 163	a complete remission of clinical and radiological abnormalities was achieved
+T9	Drug 56 71	corticosteroids
+T10	Treat-Disorder 111 150	clinical and radiological abnormalities
+T8	Potential_therapeutic_event 155 163	achieved
+E1	Potential_therapeutic_event:T8

@@ -1,0 +1,6 @@
+T4	Treatment 58 69	vasopressin
+T5	Effect 78 105	gastrointestinal hemorrhage
+T7	Drug 58 69	vasopressin
+T8	Treat-Disorder 78 105	gastrointestinal hemorrhage
+T6	Adverse_event 52 57	after
+E1	Adverse_event:T6

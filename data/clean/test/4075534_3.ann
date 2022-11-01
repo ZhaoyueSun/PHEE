@@ -1,0 +1,10 @@
+T3	Subject 0 11	Two reports
+T4	Treatment 43 65	alcohol and imipramine
+T5	Effect 15 27	spindle coma
+T7	Population 0 3	Two
+T8	Drug 43 50	alcohol
+T9	Drug 55 65	imipramine
+T6	Adverse_event 32 37	noted
+T10	Combination 51 54	and
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T8 arg2:T9

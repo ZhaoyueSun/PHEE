@@ -1,0 +1,13 @@
+T13	Subject 186 263	a 38-year-old woman diagnosed with anxiety, depression and right sacroileitis
+T16	Treatment 285 344	phenylbutazone, ranitidine, clomipramine and levomepromazin
+T17	Age 188 199	38-year-old
+T18	Gender 200 205	woman
+T19	Drug 285 299	phenylbutazone
+T20	Drug 313 325	clomipramine
+T21	Drug 330 345	levomepromazine
+T22	Drug 301 311	ranitidine
+T25	Treat-Disorder 221 263	anxiety, depression and right sacroileitis
+T23	Combination 326 329	and
+T24	Potential_therapeutic_event 272 279	treated
+E2	Combination:T23 arg:T21 arg2:T20 arg3:T22 arg4:T19
+E3	Potential_therapeutic_event:T24

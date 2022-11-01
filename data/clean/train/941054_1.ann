@@ -1,0 +1,6 @@
+T3	Effect 0 11	Nephropathy
+T5	Treatment 22 71	methicillin therapy for staphylococcal septicemia
+T6	Treat-Disorder 46 71	staphylococcal septicemia
+T7	Drug 22 33	methicillin
+T4	Adverse_event 12 18	caused
+E1	Adverse_event:T4

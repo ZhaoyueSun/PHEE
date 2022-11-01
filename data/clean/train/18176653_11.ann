@@ -1,0 +1,7 @@
+T5	Treatment 93 118	antiretroviral medication
+T7	Effect 57 85	reactions in the oral cavity
+T8	Drug 93 118	antiretroviral medication
+T9	Speculation_cue 48 56	possible
+T6	Adverse_event 86 89	due
+E1	Adverse_event:T6 
+A1	Speculated E1

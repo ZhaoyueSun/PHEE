@@ -1,0 +1,7 @@
+T3	Effect 0 38	Avascular necrosis of the femoral head
+T4	Subject 42 71	patients with prostate cancer
+T5	Treatment 85 121	cyproterone acetate and radiotherapy
+T8	Treat-Disorder 56 71	prostate cancer
+T9	Drug 85 104	cyproterone acetate
+T6	Adverse_event 39 41	in
+E1	Adverse_event:T6 

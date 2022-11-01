@@ -1,0 +1,8 @@
+T3	Treatment 75 84	minoxidil
+T4	Sub-Disorder 91 111	coagulation disorder
+T5	Subject 0 6	A case
+T6	Effect 49 66	fatal interaction
+T7	Speculation_cue 40 48	probably
+T10	Drug 75 84	minoxidil
+T8	Adverse_event 67 74	between
+E1	Adverse_event:T8 

@@ -1,0 +1,6 @@
+T9	Treatment 0 27	Epoprostenol (prostacyclin)
+T12	Drug 0 12	Epoprostenol
+T13	Drug 14 26	prostacyclin
+T14	Treat-Disorder 67 97	primary pulmonary hypertension
+T11	Potential_therapeutic_event 54 63	treatment
+E1	Potential_therapeutic_event:T11

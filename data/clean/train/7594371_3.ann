@@ -1,0 +1,8 @@
+T3	Treatment 33 42	ketorolac
+T4	Subject 46 80	patients with underlying illnesses
+T5	Effect 87 158	NSAID-induced ototoxicity could result in adverse otologic consequences
+T7	Sub-Disorder 60 80	underlying illnesses
+T8	Speculation_cue 113 118	could
+T9	Drug 33 42	ketorolac
+T6	Adverse_event 81 86	where
+E1	Adverse_event:T6 

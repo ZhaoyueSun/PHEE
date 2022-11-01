@@ -1,0 +1,8 @@
+T3	Speculation_cue 41 56	highly probable
+T4	Effect 78 81	AIN
+T6	Treatment 86 98	pantoprazole
+T7	Subject 115 122	patient
+T8	Drug 86 98	pantoprazole
+T5	Adverse_event 57 69	relationship
+E1	Adverse_event:T5 
+A1	Speculated E1

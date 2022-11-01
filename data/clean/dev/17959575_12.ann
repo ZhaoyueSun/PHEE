@@ -1,0 +1,7 @@
+T4	Subject 12 60	the patient was again admitted for worsening CHF
+T6	Treatment 80 110	continuous dobutamine infusion
+T8	Drug 91 101	dobutamine
+T9	Route 102 110	infusion
+T7	Freq 80 90	continuous
+T5	Potential_therapeutic_event 69 79	started on
+E1	Potential_therapeutic_event:T5

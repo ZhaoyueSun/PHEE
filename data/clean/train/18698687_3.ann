@@ -1,0 +1,7 @@
+T5	Treatment 35 48	ciprofloxacin
+T7	Effect 57 60	SJS
+T8	Effect 65 84	acute onset of VBDS
+T9	Subject 20 29	a patient
+T10	Drug 35 48	ciprofloxacin
+T6	Adverse_event 49 56	induced
+E1	Adverse_event:T6

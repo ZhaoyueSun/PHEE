@@ -1,0 +1,6 @@
+T6	Effect 0 21	Accelerated nodulosis
+T8	Treatment 29 41	methotrexate
+T10	Drug 29 41	methotrexate
+T11	Treat-Disorder 54 83	juvenile rheumatoid arthritis
+T7	Adverse_event 22 28	during
+E1	Adverse_event:T7

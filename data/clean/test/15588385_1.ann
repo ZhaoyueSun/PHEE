@@ -1,0 +1,6 @@
+T5	Treatment 71 93	propylthiouracil (PTU)
+T6	Treat-Disorder 102 117	hyperthyroidism
+T4	Effect 0 21	Acute hepatic failure
+T8	Drug 71 87	propylthiouracil
+T7	Adverse_event 55 67	complication
+E1	Adverse_event:T7

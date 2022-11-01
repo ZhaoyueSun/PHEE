@@ -1,0 +1,11 @@
+T3	Subject 26 41	70-year-old man
+T4	Effect 56 78	severe aplastic anemia
+T5	Treatment 79 135	7 weeks after treatment with 500 mg of ticlopidine daily
+T7	Age 26 37	70-year-old
+T8	Gender 38 41	man
+T10	Time_elapsed 79 86	7 weeks
+T11	Dosage 108 114	500 mg
+T12	Drug 118 129	ticlopidine
+T13	Freq 130 135	daily
+T6	Adverse_event 46 55	developed
+E1	Adverse_event:T6 

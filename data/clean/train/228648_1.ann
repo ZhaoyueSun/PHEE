@@ -1,0 +1,10 @@
+T7	Effect 0 76	Prenatal cytomegalovirus (CMV) infection associated with severe brain damage
+T9	Treatment 138 167	prednisolone and azathioprine
+T10	Subject 93 206	an infant whose mother had been treated with prednisolone and azathioprine for systemic lupus erythematosus (SLE)
+T11	Age 96 102	infant
+T12	Drug 138 150	prednisolone
+T13	Drug 155 167	azathioprine
+T8	Adverse_event 125 132	treated
+T14	Combination 151 154	and
+E1	Adverse_event:T8 
+E2	Combination:T14 arg:T12 arg2:T13

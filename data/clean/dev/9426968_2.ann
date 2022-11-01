@@ -1,0 +1,7 @@
+T3	Effect 20 28	vitiligo
+T6	Treat-Disorder 102 128	chronic active hepatitis C
+T5	Treatment 43 97	during the second month of interferon alpha 2a therapy
+T7	Duration 50 66	the second month
+T8	Drug 70 89	interferon alpha 2a
+T4	Adverse_event 34 42	occurred
+E1	Adverse_event:T4

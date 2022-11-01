@@ -1,0 +1,5 @@
+T3	Treatment 44 56	capecitabine
+T5	Effect 65 95	multifocal leukoencephalopathy
+T6	Drug 44 56	capecitabine
+T4	Adverse_event 57 64	induced
+E1	Adverse_event:T4

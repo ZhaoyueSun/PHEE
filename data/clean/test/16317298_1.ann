@@ -1,0 +1,7 @@
+T3	Treatment 0 11	Gemcitabine
+T5	Effect 20 36	radiation recall
+T6	Subject 40 72	a patient with pancreatic cancer
+T8	Drug 0 11	Gemcitabine
+T9	Treat-Disorder 55 72	pancreatic cancer
+T4	Adverse_event 12 19	related
+E1	Adverse_event:T4

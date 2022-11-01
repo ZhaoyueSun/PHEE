@@ -1,0 +1,5 @@
+T4	Treatment 51 63	sulfonylurea
+T6	Effect 72 86	hepatotoxicity
+T7	Drug 51 63	sulfonylurea
+T5	Adverse_event 64 71	induced
+E1	Adverse_event:T5 

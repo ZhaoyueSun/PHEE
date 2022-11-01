@@ -1,0 +1,7 @@
+T7	Treatment 20 27	aspirin
+T9	Effect 49 61;63 72;80 90;97 128	acute asthma urticaria angioedema systemic anaphylactoid reaction
+T10	Effect 0 16	Hypersensitivity
+T11	Speculation_cue 28 31	can
+T12	Drug 20 27	aspirin
+T8	Adverse_event 35 45	manifested
+E1	Adverse_event:T8

@@ -1,0 +1,5 @@
+T8	Treatment 13 40	Sustained-release verapamil
+T10	Effect 75 88	asthma attack
+T11	Drug 31 40	verapamil
+T9	Adverse_event 62 67	cause
+E1	Adverse_event:T9

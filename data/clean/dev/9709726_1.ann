@@ -1,0 +1,9 @@
+T5	Subject 12 84	children and adolescents with chronic hematologic and oncologic diseases
+T7	Effect 99 148	drug-seeking behavior or anticholinergic symptoms
+T8	Treatment 165 180	diphenhydramine
+T10	Age 12 20	children
+T11	Age 25 36	adolescents
+T12	Drug 165 180	diphenhydramine
+T13	Treat-Disorder 42 84	chronic hematologic and oncologic diseases
+T9	Adverse_event 89 98	exhibited
+E1	Adverse_event:T9

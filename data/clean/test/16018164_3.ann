@@ -1,0 +1,5 @@
+T6	Treatment 0 15	Pseudoephedrine
+T7	Effect 24 83	hemorrhage associated with a cerebral vascular malformation
+T9	Drug 0 15	Pseudoephedrine
+T5	Adverse_event 16 23	induced
+E1	Adverse_event:T5

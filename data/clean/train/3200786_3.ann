@@ -1,0 +1,7 @@
+T7	Subject 22 75	a patient with the acquired immunodeficiency syndrome
+T8	Treatment 89 99	rifampicin
+T9	Effect 190 205	adrenal failure
+T12	Drug 89 99	rifampicin
+T13	Treat-Disorder 41 75	acquired immunodeficiency syndrome
+T10	Adverse_event 165 168	had
+E1	Adverse_event:T10

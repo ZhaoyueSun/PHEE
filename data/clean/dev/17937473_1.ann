@@ -1,0 +1,7 @@
+T17	Subject 0 15	Eleven patients
+T19	Treatment 75 86	leflunomide
+T20	Effect 26 35;98 275	infection lower respiratory tract infections (3), cellulitis (2), disseminated herpes zoster (2), probable TB liver (1), abdominal sepsis (1), mycotic aneurysm (1) and gastroenteritis (1)
+T21	Population 0 6	Eleven
+T22	Drug 75 86	leflunomide
+T18	Adverse_event 16 25	developed
+E1	Adverse_event:T18

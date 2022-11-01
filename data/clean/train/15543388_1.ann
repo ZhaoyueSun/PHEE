@@ -1,0 +1,11 @@
+T4	Subject 25 40	a woman patient
+T6	Effect 55 69	celiac disease
+T8	Gender 27 32	woman
+T7	Treatment 76 147	pegylated interferon alpha-2a and ribavirin use for chronic hepatitis C
+T9	Drug 76 105	pegylated interferon alpha-2a
+T11	Drug 110 119	ribavirin
+T12	Treat-Disorder 128 147	chronic hepatitis C
+T5	Adverse_event 45 54	developed
+T10	Combination 106 109	and
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T11 arg2:T9

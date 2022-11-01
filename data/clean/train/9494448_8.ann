@@ -1,0 +1,7 @@
+T3	Subject 31 39	22 cases
+T4	Effect 43 68	hypersensitivity reaction
+T5	Treatment 72 84	cyclosporine
+T7	Population 31 33	22
+T8	Drug 72 84	cyclosporine
+T6	Adverse_event 69 71	to
+E1	Adverse_event:T6

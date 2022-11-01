@@ -1,0 +1,8 @@
+T3	Effect 100 112	intense burn
+T5	Treatment 123 186	topical use of 8-methoxypsoralen solution as a suntanning agent
+T6	Subject 40 58	a vitiligo patient
+T7	Sub-Disorder 42 50	vitiligo
+T8	Drug 138 155	8-methoxypsoralen
+T9	Route 123 130	topical
+T4	Adverse_event 113 118	after
+E1	Adverse_event:T4 

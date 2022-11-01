@@ -1,0 +1,7 @@
+T6	Treatment 36 49	penicillamine
+T8	Effect 58 61	TTP
+T9	Drug 36 49	penicillamine
+T10	Negation_cue 18 20	no
+T7	Adverse_event 50 57	induced
+E1	Adverse_event:T7 
+A1	Negated E1

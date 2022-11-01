@@ -1,0 +1,10 @@
+T8	Treatment 103 137	oral administration of garenoxacin
+T9	Subject 10 28	an 82-year-old man
+T10	Effect 43 96	ventricular tachycardia and Torsades de Pointes (TdP)
+T11	Treat-Disorder 229 238	pneumonia
+T12	Age 13 24	82-year-old
+T13	Gender 25 28	man
+T14	Route 103 107	oral
+T15	Drug 126 137	garenoxacin
+T7	Adverse_event 97 102	after
+E1	Adverse_event:T7

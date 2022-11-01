@@ -1,0 +1,13 @@
+T7	Treatment 9 25	interferon gamma
+T9	Effect 69 80	sarcoidosis
+T10	Drug 9 25	interferon gamma
+T11	Speculation_cue 82 98	only a few cases
+T13	Effect 102 113	sarcoidosis
+T15	Treatment 130 146	interferon alpha
+T16	Drug 130 146	interferon alpha
+T8	Adverse_event 53 65	pathogenesis
+T14	Adverse_event 114 124	associated
+E1	Adverse_event:T8 arg:T7 arg2:T9
+E2	Adverse_event:T14 arg:T13 arg2:T15
+R1	has_cue Arg1:E2 Arg2:T11	
+A1	Speculated E1

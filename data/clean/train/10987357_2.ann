@@ -1,0 +1,11 @@
+T10	Subject 0 17	A 74-year-old man
+T12	Age 2 13	74-year-old
+T13	Gender 14 17	man
+T9	Treatment 27 62;217 231	oral administration of pilsicainide two days later
+T14	Route 27 31	oral
+T15	Drug 50 62	pilsicainide
+T11	Treat-Disorder 134 164	paroxysmal atrial fibrillation
+T8	Effect 195 216	loss of consciousness
+T16	Time_elapsed 217 231	two days later
+T7	Adverse_event 185 194	developed
+E1	Adverse_event:T7

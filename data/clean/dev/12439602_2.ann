@@ -1,0 +1,5 @@
+T3	Treatment 0 11	Carboplatin
+T4	Effect 43 61	coronary vasospasm
+T6	Drug 0 11	Carboplatin
+T5	Adverse_event 29 39	presenting
+E1	Adverse_event:T5

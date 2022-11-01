@@ -1,0 +1,6 @@
+T3	Effect 37 48	visual loss
+T8	Drug 67 77	ethambutol
+T5	Treat-Disorder 94 116	tuberculosis infection
+T6	Treatment 67 77	ethambutol
+T4	Adverse_event 56 63	related
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T3	Treatment 64 73	ezetimibe
+T5	Effect 82 94	pancreatitis
+T6	Drug 64 73	ezetimibe
+T7	Negation_cue 42 44	no
+T4	Adverse_event 74 81	induced
+E1	Adverse_event:T4 
+A1	Negated E1

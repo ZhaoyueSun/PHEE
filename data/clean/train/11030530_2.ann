@@ -1,0 +1,8 @@
+T5	Subject 0 8	Patients
+T6	Treatment 22 36	L-asparaginase
+T8	Effect 54 103	hemorrhagic and thrombotic cerebrovascular events
+T9	Drug 22 36	L-asparaginase
+T10	Speculation_cue 37 40	may
+T7	Adverse_event 41 48	present
+E1	Adverse_event:T7 
+A1	Speculated E1

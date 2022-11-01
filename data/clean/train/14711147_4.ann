@@ -1,0 +1,7 @@
+T9	Treatment 65 76	doxycycline
+T7	Subject 42 51	a patient
+T10	Effect 21 38	photo-onycholysis
+T11	Drug 65 76	doxycycline
+T12	Treat-Disorder 81 94	acne vulgaris
+T8	Adverse_event 52 59	treated
+E1	Adverse_event:T8 

@@ -1,0 +1,5 @@
+T3	Treatment 26 35	diltiazem
+T4	Effect 13 18	fever
+T6	Drug 26 35	diltiazem
+T5	Adverse_event 19 25	due to
+E1	Adverse_event:T5

@@ -1,0 +1,6 @@
+T8	Treatment 4 18	ACE inhibitors
+T10	Effect 37 54	skin side effects
+T11	Speculation_cue 19 22	can
+T12	Drug 4 18	ACE inhibitors
+T9	Adverse_event 23 28	cause
+E1	Adverse_event:T9

@@ -1,0 +1,6 @@
+T4	Effect 0 11	Heat stroke
+T5	Treat-Disorder 15 28	schizophrenia
+T6	Treatment 36 45	clozapine
+T7	Drug 36 45	clozapine
+T3	Adverse_event 29 35	during
+E1	Adverse_event:T3

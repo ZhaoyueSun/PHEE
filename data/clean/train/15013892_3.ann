@@ -1,0 +1,9 @@
+T3	Effect 9 18	A patient
+T4	Effect 31 75	bilaterally symmetric bull's-eye maculopathy
+T5	Treatment 76 122	45 years after taking quinacrine for 18 months
+T8	Time_elapsed 76 90	45 years after
+T9	Drug 98 108	quinacrine
+T10	Time_elapsed 113 122	18 months
+T12	Treat-Disorder 146 153	malaria
+T7	Adverse_event 19 28	developed
+E1	Adverse_event:T7

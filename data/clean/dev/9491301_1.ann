@@ -1,0 +1,7 @@
+T5	Effect 0 44	Ballistic movements due to ischemic infarcts
+T6	Treatment 51 78	intravenous heroin overdose
+T8	Subject 90 99	two cases
+T9	Population 90 93	two
+T10	Drug 63 69	heroin
+T7	Adverse_event 45 50	after
+E1	Adverse_event:T7

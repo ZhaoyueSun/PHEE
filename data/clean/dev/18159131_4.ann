@@ -1,0 +1,13 @@
+T6	Subject 11 86;159 176	a Japanese male patient who underwent a living-donor kidney transplantation immunosuppression
+T8	Treat-Disorder 159 176	immunosuppression
+T9	Treatment 103 154	tacrolimus, mycophenolate mofetil, and prednisolone
+T10	Race 13 21	Japanese
+T11	Gender 22 26	male
+T12	Sub-Disorder 64 86	kidney transplantation
+T13	Drug 103 113	tacrolimus
+T14	Drug 115 135	mycophenolate mofeti
+T16	Drug 142 154	prednisolone
+T7	Potential_therapeutic_event 94 102	received
+T15	Combination 138 141	and
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T15 arg:T13 arg2:T14 arg3:T16

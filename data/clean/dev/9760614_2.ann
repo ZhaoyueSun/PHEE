@@ -1,0 +1,7 @@
+T3	Treatment 9 45	repeated intracameral tPA injections
+T4	Speculation_cue 46 49	may
+T6	Effect 56 106	unwanted complications such as vitreous hemorrhage
+T7	Drug 31 34	tPA
+T8	Route 18 30;35 45	intracameral injections
+T5	Adverse_event 50 55	cause
+E1	Adverse_event:T5

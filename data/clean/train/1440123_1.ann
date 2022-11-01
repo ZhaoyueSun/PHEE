@@ -1,0 +1,9 @@
+T3	Subject 29 45;124 142	38-year-old male a seizure disorder
+T5	Treatment 96 104	Tegretol
+T7	Effect 54 59	SIADH
+T9	Age 29 40	38-year-old
+T10	Gender 41 45	male
+T11	Drug 96 104	Tegretol
+T12	Treat-Disorder 126 133	seizure
+T6	Adverse_event 73 82	suspected
+E1	Adverse_event:T6

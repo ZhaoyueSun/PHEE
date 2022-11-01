@@ -1,0 +1,13 @@
+T13	Subject 0 17;81 101	A 36-year-old man testicular carcinoma
+T14	Treatment 37 76	cisplatinum, vinblastine, and bleomycin
+T15	Treat-Disorder 81 101	testicular carcinoma
+T17	Effect 114 213	dense left homonymous hemianopsia, encephalopathy, and a partial nondominant parietal lobe syndrome
+T18	Age 2 13	36-year-old
+T19	Gender 14 17	man
+T21	Drug 37 48	cisplatinum
+T22	Drug 50 61	vinblastine
+T23	Drug 67 76	bleomycin
+T16	Adverse_event 102 111	developed
+T24	Combination 63 66	and
+E1	Adverse_event:T16 
+E2	Combination:T24 arg:T21 arg2:T22 arg3:T23

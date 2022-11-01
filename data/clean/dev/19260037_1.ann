@@ -1,0 +1,8 @@
+T3	Subject 115 129	12/12 patients
+T4	Treatment 35 42	quinine
+T8	Population 115 120	12/12
+T9	Drug 35 42	quinine
+T5	Adverse_event 43 53	associated
+E1	Adverse_event:T5 
+T1	Effect 74 111	ADAMTS13 activities were not abnormal
+T6	Effect 54 61	TTP/HUS

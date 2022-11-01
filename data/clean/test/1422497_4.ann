@@ -1,0 +1,7 @@
+T12	Effect 117 125	seizures
+T13	Treatment 132 182	receiving continuous bladder irrigations with alum
+T14	Subject 91 102	one patient
+T9	Population 91 94	one
+T10	Drug 178 182	alum
+T11	Adverse_event 107 116	developed
+E1	Adverse_event:T11

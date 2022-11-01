@@ -1,0 +1,8 @@
+T3	Treatment 0 12	Methotrexate
+T5	Effect 21 32	pneumonitis
+T6	Subject 36 94	patients with rheumatoid arthritis and psoriatic arthritis
+T7	Treat-Disorder 50 70	rheumatoid arthritis
+T8	Treat-Disorder 75 94	psoriatic arthritis
+T9	Drug 0 12	Methotrexate
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4 

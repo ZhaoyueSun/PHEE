@@ -1,0 +1,6 @@
+T4	Effect 9 32	cardiovascular collapse
+T6	Treatment 36 62	severe flecainide overdose
+T7	Drug 43 53	flecainide
+T8	Dosage 54 62	overdose
+T5	Adverse_event 33 35	in
+E1	Adverse_event:T5

@@ -1,0 +1,11 @@
+T4	Treat-Disorder 30 77	castration-resistant metastatic prostate cancer
+T6	Effect 143 181	significant eye irritation and dryness
+T8	Age 12 19	71-year
+T9	Gender 20 24	male
+T10	Drug 106 115	docetaxel
+T11	Freq 99 105	weekly
+T3	Subject 10 77	a 71-year male with castration-resistant metastatic prostate cancer
+T5	Treatment 99 128	weekly docetaxel for 12 weeks
+T13	Duration 120 128	12 weeks
+T7	Adverse_event 133 142	developed
+E1	Adverse_event:T7

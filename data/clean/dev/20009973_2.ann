@@ -1,0 +1,7 @@
+T7	Subject 15 74	a patient with newly diagnosed acute promyelocytic leukemia
+T9	Effect 89 145	acute focal myositis, synovitis, and possible vasculitis
+T10	Treatment 163 186	all-trans retinoic acid
+T11	Treat-Disorder 46 74	acute promyelocytic leukemia
+T12	Drug 163 186	all-trans retinoic acid
+T8	Adverse_event 79 88	developed
+E1	Adverse_event:T8 

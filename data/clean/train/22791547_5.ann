@@ -1,0 +1,9 @@
+T7	Subject 122 146	the second reported case
+T9	Effect 163 192	orofacial and limb dyskinesia
+T10	Treatment 237 252	methylphenidate
+T11	Drug 31 46	methylphenidate
+T12	Drug 237 252	methylphenidate
+T13	Speculation_cue 117 146	only the second reported case
+T8	Adverse_event 150 157	develop
+E1	Adverse_event:T8 
+A1	Speculated E1

@@ -1,0 +1,5 @@
+T7	Treatment 74 81	quinine
+T9	Effect 23 58;93 100	thrombocytopenia and schistocytosis TTP/HUS
+T11	Drug 74 81	quinine
+T8	Adverse_event 82 92	associated
+E1	Adverse_event:T8

@@ -1,0 +1,5 @@
+T8	Treatment 10 19	phenytoin
+T10	Effect 28 56	hepatitis with mononucleosis
+T11	Drug 10 19	phenytoin
+T9	Adverse_event 20 27	induced
+E1	Adverse_event:T9 

@@ -1,0 +1,6 @@
+T11	Treatment 32 44	isotretinoin
+T12	Subject 73 80	patient
+T13	Effect 85 229	agenesis of the cerebellar vermis, multiple leptomeningeal neuroglial heterotopias, hydrocephalus, and abnormalities of the corticospinal tracts
+T15	Drug 32 44	isotretinoin
+T14	Adverse_event 45 59	teratogenicity
+E1	Adverse_event:T14

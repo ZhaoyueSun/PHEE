@@ -1,0 +1,5 @@
+T4	Effect 51 84	primarily constitutional symptoms
+T5	Treatment 31 42	IFN alfa-2b
+T7	Drug 31 42	IFN alfa-2b
+T6	Adverse_event 15 25	associated
+E1	Adverse_event:T6

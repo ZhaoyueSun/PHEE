@@ -1,0 +1,7 @@
+T3	Effect 20 37	hyperpigmentation
+T4	Treatment 45 54	bleomycin
+T5	Subject 68 125	a patient with acquired immune deficiency syndrome (AIDS)
+T8	Drug 45 54	bleomycin
+T9	Treat-Disorder 83 118	acquired immune deficiency syndrome
+T6	Adverse_event 38 41	due
+E1	Adverse_event:T6

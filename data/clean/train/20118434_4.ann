@@ -1,0 +1,8 @@
+T5	Treatment 43 53	interferon
+T6	Effect 62 71	psychosis
+T3	Subject 170 215	psychiatrically ill patients with hepatitis C
+T7	Sub-Disorder 170 189	psychiatrically ill
+T9	Drug 43 53	interferon
+T10	Treat-Disorder 204 215	hepatitis C
+T4	Adverse_event 54 61	induced
+E1	Adverse_event:T4 

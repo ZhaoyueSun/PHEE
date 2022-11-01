@@ -1,0 +1,10 @@
+T3	Subject 0 57	A 74-year-old patient with idiopathic Parkinson's disease
+T4	Treatment 122 167	long-term treatment with 400 mg/day of L-dopa
+T5	Effect 76 101	unintended sleep episodes
+T7	Age 2 13	74-year-old
+T8	Treat-Disorder 27 57	idiopathic Parkinson's disease
+T9	Dosage 147 157	400 mg/day
+T10	Drug 161 167	L-dopa
+T11	Duration 122 141	long-term treatment
+T6	Adverse_event 116 121	after
+E1	Adverse_event:T6 

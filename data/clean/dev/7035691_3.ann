@@ -1,0 +1,7 @@
+T9	Treatment 179 188	captopril
+T11	Treat-Disorder 101 151	hypertension associated with chronic renal failure
+T12	Subject 218 257	a patient with decreased renal function
+T13	Sub-Disorder 233 257	decreased renal function
+T14	Drug 179 188	captopril
+T10	Potential_therapeutic_event 87 96	treatment
+E1	Potential_therapeutic_event:T10 

@@ -1,0 +1,8 @@
+T3	Subject 48 69	a non-alcoholic woman
+T4	Treatment 83 93	disulfiram
+T5	Effect 2 31	reversible toxic liver damage
+T7	Sub-Disorder 50 63	non-alcoholic
+T8	Gender 64 69	woman
+T9	Drug 83 93	disulfiram
+T10	Adverse_event 25 31	damage
+E2	Adverse_event:T10 

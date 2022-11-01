@@ -1,0 +1,9 @@
+T3	Effect 0 18	Severe visual loss
+T4	Treatment 25 53	a single dose of vincristine
+T6	Subject 57 95	a patient with spinal cord astrocytoma
+T7	Treat-Disorder 72 95	spinal cord astrocytoma
+T8	Severity_cue 0 6	Severe
+T9	Drug 42 53	vincristine
+T5	Adverse_event 19 24	after
+E1	Adverse_event:T5 
+T1	Freq 25 38	a single dose

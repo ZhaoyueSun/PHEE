@@ -1,0 +1,13 @@
+T3	Treatment 5 27	discontinuation of MTX
+T5	Effect 59 87	arthritis became more active
+T6	Treat-Disorder 33 40	ascites
+T7	Drug 24 27	MTX
+T9	Gender 29 32	her
+T10	Sub-Disorder 59 68	arthritis
+T1	Potential_therapeutic_event 41 49	resolved
+E2	Potential_therapeutic_event:T1 arg:T3 arg2:T2
+T2	Subject 29 32	her
+R1	has Arg1:T3 Arg2:T6	
+T8	Adverse_event 81 87	active
+E3	Adverse_event:T8 arg:T2 arg2:T3 arg3:T5
+R2	has Arg1:T2 Arg2:T10	

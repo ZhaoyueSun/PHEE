@@ -1,0 +1,5 @@
+T4	Treatment 41 60	AMPH administration
+T7	Drug 41 45	AMPH
+T5	Effect 4 20	infection tended
+T6	Potential_therapeutic_event 24 31	subside
+E1	Potential_therapeutic_event:T6

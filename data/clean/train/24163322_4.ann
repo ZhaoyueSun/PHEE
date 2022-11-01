@@ -1,0 +1,7 @@
+T5	Treat-Disorder 27 47	deep vein thrombosis
+T7	Subject 71 102	patient's inability to ambulate
+T8	Sub-Disorder 81 102	inability to ambulate
+T9	Drug 4 5	a
+T4	Treatment 0 47	Warfarin was initiated for deep vein thrombosis
+T6	Potential_therapeutic_event 48 59	prophylaxis
+E1	Potential_therapeutic_event:T6 

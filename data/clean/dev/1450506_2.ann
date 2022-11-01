@@ -1,0 +1,5 @@
+T3	Effect 0 56	Multiple myeloma complicated by congestive heart failure
+T5	Treatment 67 119	first administration of recombinant alpha-interferon
+T6	Drug 91 119	recombinant alpha-interferon
+T4	Adverse_event 57 66	following
+E1	Adverse_event:T4

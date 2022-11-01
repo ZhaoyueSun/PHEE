@@ -1,0 +1,7 @@
+T3	Effect 0 22	Serious adverse events
+T5	Treatment 81 95	spironolactone
+T4	Subject 38 73	patients with chronic heart failure
+T7	Sub-Disorder 52 73	chronic heart failure
+T9	Drug 81 95	spironolactone
+T6	Adverse_event 23 34	experienced
+E1	Adverse_event:T6 

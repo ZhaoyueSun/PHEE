@@ -1,0 +1,8 @@
+T8	Speculation_cue 125 136	susceptible
+T9	Effect 140 154	ductal closure
+T11	Treatment 170 191	indomethacin exposure
+T12	Drug 170 182	indomethacin
+T13	Route 183 191	exposure
+T10	Adverse_event 158 166	response
+E1	Adverse_event:T10 
+A1	Speculated E1

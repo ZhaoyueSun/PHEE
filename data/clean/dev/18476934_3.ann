@@ -1,0 +1,10 @@
+T10	Treatment 132 142	oxybutynin
+T11	Subject 10 27	a 4-year-old girl
+T12	Effect 47 106	acute bilateral blindness, a focal seizure and hypertension
+T13	Age 12 22	4-year-old
+T14	Gender 23 27	girl
+T15	Time_elapsed 107 114	10 days
+T16	Drug 132 142	oxybutynin
+T17	Treat-Disorder 152 160	enuresis
+T9	Adverse_event 115 120	after
+E1	Adverse_event:T9

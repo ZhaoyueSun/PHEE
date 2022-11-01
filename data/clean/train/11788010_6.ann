@@ -1,0 +1,9 @@
+T3	Effect 20 92	hepatolithiasis (intrahepatic stone) complicated by gram-negative sepsis
+T4	Subject 96 130	a 37 year old male with acromegaly
+T5	Treatment 150 160	octreotide
+T7	Age 98 109	37 year old
+T8	Gender 110 114	male
+T10	Drug 150 160	octreotide
+T11	Treat-Disorder 120 130	acromegaly
+T6	Adverse_event 93 95	in
+E1	Adverse_event:T6 

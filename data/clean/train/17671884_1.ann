@@ -1,0 +1,10 @@
+T8	Effect 0 21	Red blood cell anemia
+T9	Subject 25 58	a patient with pemphigus vulgaris
+T11	Treatment 81 117	mycophenolate mofetil and prednisone
+T12	Treat-Disorder 40 58	pemphigus vulgaris
+T13	Drug 81 102	mycophenolate mofetil
+T14	Drug 107 117	prednisone
+T10	Adverse_event 59 66	induced
+T15	Combination 103 106	and
+E1	Adverse_event:T10 
+E2	Combination:T15 arg:T13 arg2:T14

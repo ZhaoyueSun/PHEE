@@ -1,0 +1,6 @@
+T5	Effect 0 21	Dermal side reactions
+T7	Subject 39 53	these patients
+T6	Treatment 25 35	SSRI-drugs
+T9	Drug 25 29	SSRI
+T8	Adverse_event 22 24	to
+E1	Adverse_event:T8

@@ -1,0 +1,8 @@
+T7	Effect 22 30	diabetes
+T9	Treat-Disorder 47 59	hypertension
+T10	Treatment 65 75	indapamide
+T11	Speculation_cue 0 8	Possible
+T12	Drug 65 75	indapamide
+T8	Adverse_event 9 18	induction
+E1	Adverse_event:T8 
+A1	Speculated E1

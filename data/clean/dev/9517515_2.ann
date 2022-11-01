@@ -1,0 +1,8 @@
+T5	Effect 0 66	Second cancers including various types of hematological malignancy
+T7	Subject 89 122	patients with hairy cell leukemia
+T8	Treatment 136 167	chemotherapy or interferon alfa
+T9	Treat-Disorder 103 122	hairy cell leukemia
+T10	Drug 152 167	interferon alfa
+T6	Adverse_event 77 85	reported
+E1	Adverse_event:T6 
+T1	Route 136 148	chemotherapy

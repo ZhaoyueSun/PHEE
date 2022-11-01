@@ -1,0 +1,10 @@
+T4	Treatment 120 156	desferrioxamine and prochlorperazine
+T5	Effect 63 83	neurological effects
+T7	Drug 120 135	desferrioxamine
+T8	Drug 140 156	prochlorperazine
+T10	Speculation_cue 158 166	probably
+T6	Adverse_event 89 92	due
+T9	Combination 98 109	synergistic
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T7 arg2:T8
+A1	Speculated E1

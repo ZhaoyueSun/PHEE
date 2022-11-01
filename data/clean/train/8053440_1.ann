@@ -1,0 +1,9 @@
+T11	Treatment 97 142	clindamycin and trimethoprim-sulfamethoxazole
+T12	Effect 0 72	Cholestatic liver disease with ductopenia (vanishing bile duct syndrome)
+T13	Drug 97 108	clindamycin
+T14	Drug 113 125	trimethoprim
+T15	Drug 126 142	sulfamethoxazole
+T10	Adverse_event 73 78	after
+T17	Combination 109 112	and
+E1	Adverse_event:T10 
+E3	Combination:T17 arg:T13 arg2:T15 arg3:T14

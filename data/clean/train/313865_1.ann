@@ -1,0 +1,13 @@
+T25	Subject 0 14	Three patients
+T26	Effect 139 304	'phosphate shower syndrome' (hyper-uricaemia, hyperkalaemia and hyperphosphataemia with hypocalcaemia and tetany, with metabolic acidosis and acute renal impairment)
+T27	Treatment 43 121	cytotoxic treatment, including high dose methotrexate with folinic acid rescue
+T29	Population 0 5	Three
+T30	Treat-Disorder 24 30	tumour
+T31	Drug 43 52	cytotoxic
+T32	Drug 84 96	methotrexate
+T33	Drug 102 121	folinic acid rescue
+T35	Dosage 74 83	high dose
+T28	Adverse_event 123 131	resulted
+T34	Combination 97 101	with
+E1	Adverse_event:T28 
+E2	Combination:T34 arg:T33 arg2:T32 arg3:T31

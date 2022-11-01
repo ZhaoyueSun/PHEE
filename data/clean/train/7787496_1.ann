@@ -1,0 +1,11 @@
+T6	Treatment 40 48	glucagon
+T3	Treat-Disorder 0 27	Sotalol-induced bradycardia
+T5	Drug 0 7	Sotalol
+T8	Drug 40 48	glucagon
+T10	Treatment 0 7	Sotalol
+T11	Effect 16 27	bradycardia
+T4	Potential_therapeutic_event 28 36	reversed
+T9	Adverse_event 8 15	induced
+E1	Potential_therapeutic_event:T4 arg:T6
+E2	Adverse_event:T9 arg:T10 arg2:T11
+R1	has Arg1:T6 Arg2:T3

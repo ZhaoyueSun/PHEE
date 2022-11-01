@@ -1,0 +1,9 @@
+T3	Effect 0 30	Growth and adrenal suppression
+T4	Subject 34 52	asthmatic children
+T5	Treatment 66 98	high-dose fluticasone propionate
+T8	Age 44 52	children
+T9	Drug 76 98	fluticasone propionate
+T10	Dosage 66 75	high-dose
+T11	Treat-Disorder 34 43	asthmatic
+T6	Potential_therapeutic_event 31 33	in
+E1	Potential_therapeutic_event:T6 

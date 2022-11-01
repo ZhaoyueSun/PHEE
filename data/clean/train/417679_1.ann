@@ -1,0 +1,9 @@
+T3	Effect 14 26	fat embolism
+T4	Subject 0 10;44 51	Four cases infants
+T5	Treatment 62 116	prolonged intravenous infusion of fat (Intralipid 20%)
+T7	Age 44 51	infants
+T8	Age 0 4	Four
+T9	Route 72 92	intravenous infusion
+T10	Drug 101 111	Intralipid
+T6	Adverse_event 52 61	receiving
+E1	Adverse_event:T6

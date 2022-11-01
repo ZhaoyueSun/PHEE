@@ -1,0 +1,9 @@
+T12	Effect 76 126	blurred vision, QRS broadening and cardiac failure
+T13	Treatment 134 166	chronic cibenzoline intoxication
+T9	Subject 13 56	a patient with progressive renal impairment
+T10	Sub-Disorder 28 56	progressive renal impairment
+T14	Drug 142 153	cibenzoline
+T15	Dosage 154 166	intoxication
+T16	Duration 134 141	chronic
+T11	Adverse_event 127 130	due
+E1	Adverse_event:T11 

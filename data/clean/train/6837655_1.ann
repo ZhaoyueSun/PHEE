@@ -1,0 +1,6 @@
+T3	Effect 34 66	tubular and interstitial lesions
+T5	Treatment 83 129	intermittent or discontinuous rifampin therapy
+T7	Drug 113 121	rifampin
+T8	Treat-Disorder 134 146	tuberculosis
+T4	Adverse_event 67 77	associated
+E1	Adverse_event:T4

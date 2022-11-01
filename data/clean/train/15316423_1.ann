@@ -1,0 +1,7 @@
+T3	Effect 0 40	Extensive forearm deep venous thrombosis
+T5	Treatment 60 70	infliximab
+T6	Effect 72 88	nfusion reaction
+T7	Severity_cue 53 59	severe
+T8	Drug 60 70	infliximab
+T4	Adverse_event 41 50	following
+E1	Adverse_event:T4

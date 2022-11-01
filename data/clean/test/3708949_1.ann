@@ -1,0 +1,10 @@
+T9	Treatment 19 79	parenteral amiodarone (2300 mg in 3 days) and other measures
+T11	Effect 163 335	jaundice, marked increase in serum transaminase levels and fall in prothrombin time, and histologic changes of severe centrilobular necrosis were observed in hepatic biopsy
+T12	Severity_cue 274 280	severe
+T13	Drug 30 40	amiodarone
+T14	Route 19 29	parenteral
+T15	Dosage 42 59	2300 mg in 3 days
+T16	Treat-Disorder 90 114	congestive heart failure
+T10	Adverse_event 0 5	After
+E1	Adverse_event:T10 
+A1	Severity E1 High

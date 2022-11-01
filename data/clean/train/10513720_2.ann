@@ -1,0 +1,7 @@
+T3	Subject 10 16	a case
+T4	Effect 20 28	glaucoma
+T9	Drug 40 49	doxetaxel
+T6	Treatment 40 86	doxetaxel therapy for metastatic breast cancer
+T7	Treat-Disorder 62 86	metastatic breast cancer
+T5	Adverse_event 29 36	induced
+E1	Adverse_event:T5

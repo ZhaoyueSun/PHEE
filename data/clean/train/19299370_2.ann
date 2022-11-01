@@ -1,0 +1,9 @@
+T3	Subject 12 19	A woman
+T4	Treatment 30 55;103 124	enoxaparin every 12 hours after the second dose
+T6	Effect 66 102	signs and symptoms of hepatotoxicity
+T7	Gender 14 19	woman
+T8	Drug 30 40	enoxaparin
+T9	Freq 41 55	every 12 hours
+T10	Dosage 109 125	the second dose.
+T5	Adverse_event 56 65	developed
+E1	Adverse_event:T5

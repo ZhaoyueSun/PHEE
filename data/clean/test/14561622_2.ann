@@ -1,0 +1,6 @@
+T3	Treatment 84 108	intrathecal methotrexate
+T4	Effect 55 70	cytotoxic edema
+T6	Speculation_cue 3 12	attribute
+T7	Drug 96 108	methotrexate
+T5	Adverse_event 3 12	attribute
+E1	Adverse_event:T5

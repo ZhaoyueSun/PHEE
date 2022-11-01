@@ -1,0 +1,10 @@
+T8	Treatment 0 28	Risperidone versus clozapine
+T10	Subject 62 134	six patients with Parkinson's disease and other akinetic-rigid syndromes
+T11	Population 62 65	six
+T12	Sub-Disorder 80 99	Parkinson's disease
+T13	Sub-Disorder 110 134	akinetic-rigid syndromes
+T14	Drug 0 11	Risperidone
+T15	Drug 19 28	clozapine
+T9	Potential_therapeutic_event 36 45	treatment
+E1	Potential_therapeutic_event:T9 
+T1	Treat-Disorder 49 58	psychosis

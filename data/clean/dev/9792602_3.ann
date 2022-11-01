@@ -1,0 +1,9 @@
+T4	Treatment 19 29	pranlukast
+T5	Effect 42 108	anemia resolved and urinary sediment and renal function normalized
+T6	Drug 19 29	pranlukast
+T7	Time_elapsed 7 15	6 months
+T8	Treat-Disorder 42 48	anemia
+T9	Treat-Disorder 62 78	urinary sediment
+T10	Treat-Disorder 83 97	renal function
+T3	Potential_therapeutic_event 30 40	withdrawal
+E1	Potential_therapeutic_event:T3

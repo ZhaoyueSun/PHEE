@@ -1,0 +1,5 @@
+T4	Treatment 11 20	practolol
+T5	Effect 29 51	sclerosing peritonitis
+T6	Drug 11 20	practolol
+T3	Adverse_event 21 28	induced
+E1	Adverse_event:T3

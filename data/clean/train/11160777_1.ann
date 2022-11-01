@@ -1,0 +1,5 @@
+T3	Treatment 4 18	oral therapies
+T4	Treat-Disorder 23 47	type 2 diabetes mellitus
+T7	Route 4 8	oral
+T5	Potential_therapeutic_event 19 22	for
+E1	Potential_therapeutic_event:T5

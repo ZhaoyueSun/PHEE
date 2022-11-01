@@ -1,0 +1,7 @@
+T4	Treatment 9 32	first cyclosporine dose
+T5	Effect 60 68	leg pain
+T7	Drug 15 27	cyclosporine
+T8	Subject 0 4	With
+T9	Route 114 122	infusion
+T6	Adverse_event 46 56	complained
+E1	Adverse_event:T6

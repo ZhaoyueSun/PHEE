@@ -1,0 +1,6 @@
+T7	Treatment 95 108	rosiglitazone
+T10	Drug 95 108	rosiglitazone
+T11	Treat-Disorder 167 192	type 2 diabetes-mellitus.
+T12	Route 122 126	oral
+T6	Potential_therapeutic_event 112 126	potential oral
+E1	Potential_therapeutic_event:T6

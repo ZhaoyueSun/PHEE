@@ -1,0 +1,5 @@
+T7	Effect 0 5	Fever
+T9	Treatment 27 37	furosemide
+T10	Drug 27 37	furosemide
+T8	Adverse_event 6 12	caused
+E1	Adverse_event:T8

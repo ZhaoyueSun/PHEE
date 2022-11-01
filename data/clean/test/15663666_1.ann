@@ -1,0 +1,7 @@
+T3	Subject 57 101	a patient with acute promyelocytic leukemia.
+T5	Treatment 30 53	all-trans retinoic acid
+T6	Effect 0 18	Scrotal ulceration
+T8	Drug 30 53	all-trans retinoic acid
+T10	Treat-Disorder 72 100	acute promyelocytic leukemia
+T4	Adverse_event 19 26	induced
+E1	Adverse_event:T4

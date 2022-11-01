@@ -1,0 +1,7 @@
+T3	Subject 0 13	Some patients
+T5	Effect 22 43	hypersensitivity rash
+T6	Treatment 59 62	HCQ
+T7	Population 0 4	Some
+T8	Drug 59 62	HCQ
+T4	Adverse_event 14 21	develop
+E1	Adverse_event:T4

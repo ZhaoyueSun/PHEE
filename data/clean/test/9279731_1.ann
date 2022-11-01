@@ -1,0 +1,7 @@
+T3	Treatment 39 53	amphotericin B
+T4	Effect 110 122	side effects
+T6	Drug 39 53	amphotericin B
+T5	Severity_cue 103 109	severe
+T7	Adverse_event 100 102	of
+E2	Adverse_event:T7 
+A1	Severity E2 High

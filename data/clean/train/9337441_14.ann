@@ -1,0 +1,5 @@
+T5	Treatment 76 84	laxative
+T6	Effect 93 96	TEN
+T7	Drug 76 84	laxative
+T4	Adverse_event 85 92	induced
+E1	Adverse_event:T4

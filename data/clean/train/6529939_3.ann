@@ -1,0 +1,5 @@
+T3	Treatment 55 66	propranolol
+T4	Effect 101 114	2/1 S-A block
+T6	Drug 55 66	propranolol
+T5	Adverse_event 119 123	seen
+E1	Adverse_event:T5

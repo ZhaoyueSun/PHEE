@@ -1,0 +1,7 @@
+T6	Subject 40 53	the patient's
+T7	Treatment 147 174	chloroquine (902 micro g/L)
+T9	Effect 204 209	fatal
+T10	Drug 147 158	chloroquine
+T11	Dosage 160 173	902 micro g/L
+T8	Adverse_event 62 76	over-treatment
+E1	Adverse_event:T8 

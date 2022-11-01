@@ -1,0 +1,7 @@
+T3	Subject 9 20	each infant
+T4	Effect 34 60	hemodynamic decompensation
+T5	Treatment 75 84	verapamil
+T7	Age 14 20	infant
+T8	Drug 75 84	verapamil
+T6	Adverse_event 21 33	demonstrated
+E1	Adverse_event:T6

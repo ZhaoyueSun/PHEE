@@ -1,0 +1,21 @@
+T4	Treatment 63 72	metformin
+T5	Effect 84 104	miliary tuberculosis
+T6	Subject 0 46	A 62-year-old Indian with diabetic nephropathy
+T7	Age 2 13	62-year-old
+T8	Race 14 20	Indian
+T10	Drug 63 72	metformin
+T11	Treat-Disorder 26 46	diabetic nephropathy
+T14	Drug 161 171	ethambutol
+T3	Treatment 135 171	rifampicin, isoniazid and ethambutol
+T16	Treat-Disorder 84 104	miliary tuberculosis
+T18	Drug 135 145	rifampicin
+T19	Drug 147 156	isoniazid
+T13	Adverse_event 74 83	developed
+T17	Combination 157 160	and
+T15	Potential_therapeutic_event 122 129	treated
+E2	Adverse_event:T13 arg:T5 arg2:T6 arg3:T4
+E3	Combination:T17 arg:T14 arg2:T19 arg3:T18
+E1	Potential_therapeutic_event:T15 arg:T3
+R1	has Arg1:T3 Arg2:T16	
+R2	has_child Arg1:E1 Arg2:E3	
+R3	has Arg1:T4 Arg2:T11

@@ -1,0 +1,8 @@
+T3	Effect 12 31	Squamous metaplasia
+T4	Treatment 78 95	progestin therapy
+T6	Subject 35 46	these cases
+T7	Drug 78 87	progestin
+T8	Speculation_cue 47 60	appears to be
+T5	Adverse_event 63 74	consequence
+E1	Adverse_event:T5 
+A1	Speculated E1

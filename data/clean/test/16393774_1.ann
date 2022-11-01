@@ -1,0 +1,6 @@
+T8	Drug 67 82	interferon-beta
+T11	Subject 26 53	multiple sclerosis patients
+T9	Treatment 67 82	interferon-beta
+T13	Treat-Disorder 26 44	multiple sclerosis
+T10	Potential_therapeutic_event 54 61	treated
+E1	Potential_therapeutic_event:T10

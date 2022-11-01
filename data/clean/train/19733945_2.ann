@@ -1,0 +1,8 @@
+T13	Treatment 12 21	linezolid
+T14	Subject 33 44	the patient
+T15	Effect 62 155;166 175	pruritus, macular rash, facial edema, eosinophilia, marked increase in serum creatinine level hepatitis
+T17	Drug 12 21	linezolid
+T18	Severity_cue 55 61	severe
+T19	Severity_cue 161 165	mild
+T16	Adverse_event 45 54	developed
+E1	Adverse_event:T16

@@ -1,0 +1,5 @@
+T5	Treatment 166 179	sulfasalazine
+T3	Effect 27 90	the hemophagocytic syndrome associated with reactivation of EBV
+T6	Drug 166 179	sulfasalazine
+T4	Adverse_event 95 100	occur
+E1	Adverse_event:T4

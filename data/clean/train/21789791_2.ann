@@ -1,0 +1,5 @@
+T9	Effect 94 128	apoptosis in several human cancers
+T7	Treatment 4 85	proteasome inhibitor Bortezomib has been identified as a potent enhancer of TRAIL
+T10	Drug 25 35	Bortezomib
+T8	Potential_therapeutic_event 86 93	induced
+E1	Potential_therapeutic_event:T8

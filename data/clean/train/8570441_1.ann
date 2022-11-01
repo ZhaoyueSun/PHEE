@@ -1,0 +1,5 @@
+T3	Treatment 0 10	Nabumetone
+T5	Effect 22 44	interstitial nephritis
+T6	Drug 0 10	Nabumetone
+T4	Adverse_event 11 21	associated
+E1	Adverse_event:T4

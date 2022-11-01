@@ -1,0 +1,12 @@
+T7	Effect 20 54	reversible encephalopathy syndrome
+T9	Age 60 71	16-year-old
+T10	Gender 72 76	girl
+T5	Subject 58 114	a 16-year-old girl with acute myelogenous leukemia (AML)
+T11	Treat-Disorder 82 108	acute myelogenous leukemia
+T13	Drug 239 249	idarubicin
+T14	Drug 180 185	BH-AC
+T15	Treatment 141 249	consolidation chemotherapy composed of BH-AC (N4-behenoyl-1-beta-D-arabinofuranosyl cytosine) and idarubicin
+T8	Adverse_event 123 133	undergoing
+T12	Combination 235 238	and
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T13 arg2:T14

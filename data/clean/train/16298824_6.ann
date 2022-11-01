@@ -1,0 +1,11 @@
+T5	Treatment 168 196	single infusion of rituximab
+T7	Effect 117 159	acute respiratory distress syndrome (ARDS)
+T8	Subject 10 102	the case of a 43-year-old man with ITP refractory to steroids and intravenous immunoglobulin
+T9	Age 24 35	43-year-old
+T10	Gender 36 39	man
+T11	Sub-Disorder 49 102	refractory to steroids and intravenous immunoglobulin
+T12	Route 175 183	infusion
+T13	Drug 187 196	rituximab
+T6	Adverse_event 107 116	developed
+E1	Adverse_event:T6 
+T1	Treat-Disorder 45 48	ITP

@@ -1,0 +1,8 @@
+T3	Effect 36 61	moderate to severe ataxia
+T4	Treatment 92 110	taking propafenone
+T5	Subject 12 30	3 elderly patients
+T7	Age 14 21	elderly
+T8	Population 12 13	3
+T9	Drug 99 110	propafenone
+T6	Adverse_event 67 75	occurred
+E1	Adverse_event:T6

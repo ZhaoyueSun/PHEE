@@ -1,0 +1,8 @@
+T3	Treatment 12 22	Colchicine
+T5	Effect 79 87	myopathy
+T6	Subject 91 140	patients with impaired renal and hepatic function
+T8	Sub-Disorder 105 140	impaired renal and hepatic function
+T9	Drug 12 22	Colchicine
+T4	Treat-Disorder 64 67	FMF
+T7	Adverse_event 73 78	cause
+E1	Adverse_event:T7 

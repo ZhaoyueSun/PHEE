@@ -1,0 +1,5 @@
+T3	Treatment 65 97	chromic phosphate administration
+T4	Effect 0 20	Delayed bowel injury
+T6	Drug 65 82	chromic phosphate
+T5	Adverse_event 49 61	complication
+E1	Adverse_event:T5

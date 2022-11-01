@@ -1,0 +1,8 @@
+T3	Treatment 13 23;50 102	ethambutol during the early period or when given at lower doses
+T5	Effect 38 49	visual loss
+T7	Drug 13 23	ethambutol
+T8	Time_elapsed 61 73	early period
+T9	Dosage 91 102	lower doses
+T4	Adverse_event 31 37	causes
+E1	Adverse_event:T4 
+A1	Negated E1

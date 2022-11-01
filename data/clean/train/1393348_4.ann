@@ -1,0 +1,6 @@
+T3	Treatment 18 88	withdrawal of carbamazepine and treatment with anti-inflammatory drugs
+T6	Drug 32 45	carbamazepine
+T7	Drug 65 82	anti-inflammatory
+T8	Treat-Disorder 0 3	SLE
+T4	Potential_therapeutic_event 12 17	after
+E1	Potential_therapeutic_event:T4

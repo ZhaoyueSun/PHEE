@@ -1,0 +1,8 @@
+T3	Effect 49 62	hyperglycemia
+T4	Subject 80 99	a geriatric patient
+T5	Treatment 128 138	olanzapine
+T7	Age 82 91	geriatric
+T8	Drug 128 138	olanzapine
+T9	Time_elapsed 100 106	3 days
+T6	Adverse_event 39 48	occurring
+E1	Adverse_event:T6 

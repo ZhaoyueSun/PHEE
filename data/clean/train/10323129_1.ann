@@ -1,0 +1,6 @@
+T7	Treatment 38 48	anesthesia
+T6	Effect 9 30	theophylline toxicity
+T8	Speculation_cue 0 8	Possible
+T10	Drug 38 48	anesthesia
+T5	Adverse_event 31 37	during
+E1	Adverse_event:T5

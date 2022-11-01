@@ -1,0 +1,6 @@
+T3	Effect 0 29	Typical symptoms of active CD
+T5	Treatment 76 94	etanercept therapy
+T6	Drug 76 86	etanercept
+T7	Time_elapsed 39 72	11, 12, and 26 months after start
+T4	Adverse_event 30 38	occurred
+E1	Adverse_event:T4

@@ -1,0 +1,16 @@
+T12	Treat-Disorder 146 160	nephrotoxicity
+T10	Treatment 0 65;162 287	Intravenous fluconazole 400 mg, followed by 100 mg every 24 hours immunosuppressant therapy was switched from cyclosporine plus mycophenolate mofetil to oral everolimus 0.75 mg every 12 hours
+T13	Route 249 253	oral
+T14	Drug 254 264	everolimus
+T15	Dosage 265 287	0.75 mg every 12 hours
+T17	Drug 224 245	mycophenolate mofetil
+T18	Drug 206 218	cyclosporine
+T23	Route 0 11	Intravenous
+T24	Drug 12 23	fluconazole
+T20	Dosage 24 65	400 mg, followed by 100 mg every 24 hours
+T11	Potential_therapeutic_event 132 137	avoid
+T19	Combination 219 223	plus
+T21	Combination 180 187	therapy
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T19 arg:T18 arg2:T17
+E3	Combination:T21 arg:T24 arg2:T14

@@ -1,0 +1,8 @@
+T3	Treatment 0 9	Verapamil
+T4	Negation_cue 100 106	little
+T5	Effect 107 127	proarrhythmic effect
+T8	Drug 0 9	Verapamil
+T9	Treat-Disorder 48 87	paroxysmal supraventricular tachycardia
+T7	Adverse_event 95 99	with
+E1	Adverse_event:T7 
+A1	Negated E1

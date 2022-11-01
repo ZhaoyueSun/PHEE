@@ -1,0 +1,10 @@
+T4	Subject 29 72	a woman with classical rheumatoid arthritis
+T5	Treatment 78 130	during introduction of sulphasalazine (SASP) therapy
+T7	Effect 162 190	psoriasis-like skin reaction
+T8	Gender 31 36	woman
+T10	Drug 101 115	sulphasalazine
+T11	Treat-Disorder 42 72	classical rheumatoid arthritis
+T12	Severity_cue 143 149	severe
+T6	Adverse_event 131 140	developed
+E1	Adverse_event:T6 
+A1	Severity E1 High

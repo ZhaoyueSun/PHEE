@@ -1,0 +1,7 @@
+T3	Subject 53 124	a patient with breast cancer who had allergic reactions to capecitabine
+T4	Drug 37 49	fluorouracil
+T6	Sub-Disorder 90 124	allergic reactions to capecitabine
+T9	Treat-Disorder 68 81	breast cancer
+T8	Treatment 37 49	fluorouracil
+T5	Potential_therapeutic_event 25 29	safe
+E2	Potential_therapeutic_event:T5 

@@ -1,0 +1,6 @@
+T5	Treatment 71 80	sunitinib
+T7	Subject 0 17	The first patient
+T6	Effect 92 128	significant fatigue and hypertension
+T9	Drug 71 80	sunitinib
+T8	Adverse_event 85 91	having
+E1	Adverse_event:T8

@@ -1,0 +1,7 @@
+T16	Effect 61 130	toxicity: renal impairment, anaemia, fever, malaise, and hypokalaemia
+T17	Treatment 0 20	Amphotericin B (AmB)
+T19	Drug 0 14	Amphotericin B
+T20	Speculation_cue 135 141	common
+T18	Adverse_event 58 60	by
+E1	Adverse_event:T18 
+A1	Speculated E1

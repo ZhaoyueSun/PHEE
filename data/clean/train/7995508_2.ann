@@ -1,0 +1,6 @@
+T5	Subject 10 15	a cae
+T7	Treatment 57 84	decongestant containing PPA
+T8	Effect 19 37	paranoid psychosis
+T9	Drug 81 84	PPA
+T6	Adverse_event 38 47	following
+E1	Adverse_event:T6

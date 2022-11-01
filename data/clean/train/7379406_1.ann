@@ -1,0 +1,6 @@
+T6	Treatment 0 13	Niflumic acid
+T8	Effect 22 40	skeletal fluorosis
+T9	Speculation_cue 104 105	?
+T10	Drug 0 13	Niflumic acid
+T7	Adverse_event 14 21	induced
+E1	Adverse_event:T7

@@ -1,0 +1,8 @@
+T6	Subject 22 50;109 127	a 74-year-old female patient a major depression
+T7	Treatment 68 97	antide-pressant amitriptyline
+T10	Age 24 35	74-year-old
+T11	Gender 36 42	female
+T13	Treat-Disorder 111 127	major depression
+T14	Drug 84 97	amitriptyline
+T9	Potential_therapeutic_event 55 63	received
+E1	Potential_therapeutic_event:T9

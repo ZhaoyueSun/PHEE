@@ -1,0 +1,8 @@
+T11	Subject 23 58	elderly patient with mixed dementia
+T15	Effect 73 177	TD at multiple sites, (including respiratory dyskinesia [RD], limb dyskinesia, and orofacial dyskinesia)
+T16	Treatment 188 228	abrupt withdrawal of risperidone therapy
+T17	Age 23 30	elderly
+T14	Drug 209 220	risperidone
+T18	Treat-Disorder 44 58	mixed dementia
+T13	Adverse_event 63 72	developed
+E1	Adverse_event:T13

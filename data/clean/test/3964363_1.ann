@@ -1,0 +1,13 @@
+T6	Effect 46 114	esophageal spasm preventing extrication of an orogastric lavage tube
+T9	Route 131 142	intravenous
+T10	Drug 143 151	glucagon
+T4	Treatment 10 30	propranolol overdose
+T7	Treatment 131 151	intravenous glucagon
+T3	Drug 10 21	propranolol
+T12	Dosage 22 30	overdose
+T13	Treat-Disorder 46 114	esophageal spasm preventing extrication of an orogastric lavage tube
+T5	Adverse_event 31 42	complicated
+T11	Potential_therapeutic_event 119 127	relieved
+E1	Adverse_event:T5 arg:T4 arg2:T6
+E2	Potential_therapeutic_event:T11 arg:T7
+R1	has Arg1:T7 Arg2:T13

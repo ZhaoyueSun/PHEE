@@ -1,0 +1,10 @@
+T5	Subject 65 74	a patient
+T7	Treatment 106 156	massive ingestion of caffeine-containing beverages
+T9	Effect 19 40;80 98	severe rhabdomyolysis water intoxication
+T10	Severity_cue 19 25	severe
+T11	Drug 127 135	caffeine
+T12	Route 114 123	ingestion
+T8	Adverse_event 99 105	due to
+E1	Adverse_event:T8 
+A1	Severity E1 High
+T1	Dosage 106 113	massive

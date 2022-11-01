@@ -1,0 +1,13 @@
+T6	Subject 9 28	A 55-year-old woman
+T8	Effect 36 45	stuporous
+T9	Treatment 52 115	overdose with lamotrigine (LTG) and valproic acid (VPA) tablets
+T10	Age 11 22	55-year-old
+T11	Gender 23 28	woman
+T12	Dosage 52 60	overdose
+T13	Drug 66 77	lamotrigine
+T14	Drug 88 101	valproic acid
+T16	Route 108 115	tablets
+T7	Adverse_event 29 35	became
+T15	Combination 84 87	and
+E1	Adverse_event:T7 
+E2	Combination:T15 arg:T13 arg2:T14

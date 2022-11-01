@@ -1,0 +1,12 @@
+T7	Sub-Disorder 46 67	chronic renal failure
+T9	Treatment 89 164	a high dosage of the new diuretic muzolimine (range 240 to 1440 mg per day)
+T10	Effect 165 195	fatal neuromyeloencephalopathy
+T11	Population 13 14	7
+T12	Drug 114 133	diuretic muzolimine
+T14	Freq 156 163	per day
+T13	Dosage 135 155	range 240 to 1440 mg
+T15	Severity_cue 165 170	fatal
+T16	Subject 13 67	7 patients (2 women, 5 men) with chronic renal failure
+T8	Adverse_event 73 82	developed
+E1	Adverse_event:T8 
+A1	Severity E1 High

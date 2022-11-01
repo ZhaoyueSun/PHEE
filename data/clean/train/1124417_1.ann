@@ -1,0 +1,6 @@
+T3	Effect 23 42	acute renal failure
+T5	Treatment 54 88	acetazolamide therapy for glaucoma
+T6	Drug 54 67	acetazolamide
+T7	Treat-Disorder 80 88	glaucoma
+T4	Adverse_event 43 50	induced
+E1	Adverse_event:T4 

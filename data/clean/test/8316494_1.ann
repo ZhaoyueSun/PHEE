@@ -1,0 +1,8 @@
+T4	Treatment 25 47	low dosage clofazimine
+T5	Effect 7 21	abdominal pain
+T7	Drug 36 47	clofazimine
+T8	Dosage 25 35	low dosage
+T9	Severity_cue 0 6	Severe
+T6	Adverse_event 22 24	in
+E1	Adverse_event:T6 
+A1	Severity E1 High

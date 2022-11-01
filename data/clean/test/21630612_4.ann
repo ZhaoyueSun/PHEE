@@ -1,0 +1,12 @@
+T8	Treatment 27 38;75 153	simvastatin the addition of amiodarone to previously well-tolerated chronic statin therapy
+T10	Effect 47 61	rhabdomyolysis
+T11	Drug 27 38	simvastatin
+T12	Drug 91 101	amiodarone
+T14	Time_elapsed 131 138	chronic
+T15	Drug 139 145	statin
+T17	Severity_cue 20 26	severe
+T9	Adverse_event 39 46	induced
+T13	Combination 79 87	addition
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T12 arg2:T11
+A1	Severity E1 High

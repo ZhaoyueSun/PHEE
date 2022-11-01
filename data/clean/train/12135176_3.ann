@@ -1,0 +1,8 @@
+T5	Effect 46 95	non-sustained polymorphic ventricular tachycardia
+T6	Treatment 102 130	administration of verapamil.
+T3	Subject 12 29	two cases of PSVT
+T7	Population 12 15	two
+T9	Drug 120 129	verapamil
+T10	Treat-Disorder 25 29	PSVT
+T4	Adverse_event 35 42	changed
+E1	Adverse_event:T4

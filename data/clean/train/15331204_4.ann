@@ -1,0 +1,22 @@
+T13	Effect 220 303	glucose levels of all patients increased and achieve criteria of diabetes diagnoses
+T12	Treatment 9 122	After 4- to 14-month period of therapy with the combination of indapamide (2.5 mg/day) and fosinopril (10 mg/day)
+T17	Time_elapsed 15 29	4- to 14-month
+T19	Drug 72 82	indapamide
+T20	Drug 100 110	fosinopril
+T21	Dosage 84 94	2.5 mg/day
+T22	Dosage 112 121	10 mg/day
+T23	Subject 126 140	three patients
+T24	Population 126 131	three
+T25	Subject 207 218	one patient
+T26	Population 207 210	one
+T27	Treatment 145 203	6-month period of monotherapy with indapamide (2.5 mg/day)
+T28	Duration 145 152	6-month
+T29	Drug 180 190	indapamide
+T30	Dosage 192 202	2.5 mg/day
+T14	Adverse_event 265 272	achieve
+T18	Combination 57 68	combination
+E1	Adverse_event:T14 arg:T27 arg2:T25 arg3:T13
+E2	Combination:T18 arg:T19 arg2:T20
+E3	Adverse_event:T14 arg:T12 arg2:T23 arg3:T13
+R1	has_child Arg1:E3 Arg2:E2	
+A1	Speculated E1

@@ -1,0 +1,6 @@
+T7	Treatment 96 105	docetaxel
+T8	Effect 114 132;218 238	pulmonary toxicity respiratory symptoms
+T11	Severity_cue 89 95	severe
+T12	Drug 96 105	docetaxel
+T6	Adverse_event 106 113	induced
+E1	Adverse_event:T6 

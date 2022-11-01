@@ -1,0 +1,5 @@
+T4	Effect 0 14	Hepatic damage
+T5	Treatment 21 28	danazol
+T7	Drug 21 28	danazol
+T6	Adverse_event 15 20	after
+E1	Adverse_event:T6

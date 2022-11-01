@@ -1,0 +1,7 @@
+T9	Treatment 155 164	tiagabine
+T10	Subject 104 111	patient
+T11	Treat-Disorder 117 133	bipolar disorder
+T13	Effect 46 79	asymptomatic visual field defects
+T14	Drug 155 164	tiagabine
+T12	Adverse_event 31 42	development
+E1	Adverse_event:T12

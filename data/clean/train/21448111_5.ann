@@ -1,0 +1,9 @@
+T8	Treatment 54 109	antipsychotic treatment combined with an antidepressant
+T9	Effect 117 126	akathisia
+T10	Speculation_cue 40 48	possible
+T12	Drug 54 67	antipsychotic
+T13	Drug 95 109	antidepressant
+T11	Adverse_event 110 116	caused
+T14	Combination 78 86	combined
+E1	Adverse_event:T11 
+E2	Combination:T14 arg:T13 arg2:T12

@@ -1,0 +1,5 @@
+T5	Treatment 0 9	Tifacogin
+T7	Effect 45 76	an increase in risk of bleeding
+T8	Drug 0 9	Tifacogin
+T6	Adverse_event 29 39	associated
+E1	Adverse_event:T6

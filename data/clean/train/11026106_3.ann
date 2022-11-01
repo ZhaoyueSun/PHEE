@@ -1,0 +1,7 @@
+T3	Subject 67 77	4 patients
+T4	Treatment 83 94	minocycline
+T6	Effect 103 123	autoimmune hepatitis
+T7	Population 67 68	4
+T8	Drug 83 94	minocycline
+T5	Adverse_event 95 102	induced
+E1	Adverse_event:T5

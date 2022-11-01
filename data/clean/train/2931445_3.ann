@@ -1,0 +1,6 @@
+T5	Treatment 0 4	L-T4
+T6	Effect 16 41	lymphocyte transformation
+T7	Subject 45 57	this patient
+T8	Drug 0 4	L-T4
+T4	Adverse_event 5 15	stimulated
+E1	Adverse_event:T4

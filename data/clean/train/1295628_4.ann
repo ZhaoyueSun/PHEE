@@ -1,0 +1,5 @@
+T4	Treatment 13 16	CBZ
+T6	Effect 25 28	SLE
+T7	Drug 13 16	CBZ
+T5	Adverse_event 17 24	induced
+E1	Adverse_event:T5

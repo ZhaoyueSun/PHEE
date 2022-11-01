@@ -1,0 +1,8 @@
+T5	Subject 0 9	Patient B
+T6	Effect 20 61	perioral and upper extremity paresthesias
+T8	Treatment 69 111	the fourth cycle of CAP alone (2500 mg/m2)
+T9	Drug 89 92	CAP
+T10	Freq 69 85	the fourth cycle
+T11	Dosage 100 110	2500 mg/m2
+T7	Adverse_event 10 19	developed
+E1	Adverse_event:T7

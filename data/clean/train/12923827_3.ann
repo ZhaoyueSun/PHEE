@@ -1,0 +1,6 @@
+T3	Effect 53 85	Schneiderian first-rank symptoms
+T5	Treatment 118 129	fluvoxamine
+T6	Subject 29 38	a patient
+T7	Drug 118 129	fluvoxamine
+T4	Adverse_event 43 52	developed
+E1	Adverse_event:T4

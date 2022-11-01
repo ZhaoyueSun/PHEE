@@ -1,0 +1,7 @@
+T6	Treatment 95 105	dofetilide
+T7	Effect 54 93	QT interval causing torsades de pointes
+T8	Drug 95 105	dofetilide
+T9	Severity_cue 11 18	serious
+T5	Adverse_event 38 46	increase
+E1	Adverse_event:T5 
+A1	Severity E1 High

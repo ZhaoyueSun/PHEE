@@ -1,0 +1,9 @@
+T7	Subject 0 71	An 18-year-old man with attention-deficit-hyperactivity disorder (ADHD)
+T8	Treatment 87 98	varenicline
+T11	Age 3 14	18-year-old
+T12	Gender 15 18	man
+T13	Sub-Disorder 24 71	attention-deficit-hyperactivity disorder (ADHD)
+T14	Drug 87 98	varenicline
+T15	Treat-Disorder 103 120	smoking cessation
+T10	Potential_therapeutic_event 76 86	prescribed
+E1	Potential_therapeutic_event:T10 

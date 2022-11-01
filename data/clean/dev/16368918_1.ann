@@ -1,0 +1,10 @@
+T6	Effect 33 50	exacerbated mania
+T7	Treatment 77 134	interaction between lopinavir/ritonavir and valproic acid
+T9	Drug 97 106;107 116	lopinavir ritonavir
+T11	Drug 121 134	valproic acid
+T10	Speculation_cue 51 62	potentially
+T8	Adverse_event 63 70	related
+T12	Combination 77 88	interaction
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T11 arg2:T9
+A1	Speculated E1

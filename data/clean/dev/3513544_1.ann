@@ -1,0 +1,7 @@
+T4	Treatment 70 82	cyclosporine
+T5	Effect 0 26	Herpes simplex esophagitis
+T6	Subject 32 56	renal transplant patient
+T8	Drug 70 82	cyclosporine
+T9	Treat-Disorder 32 48	renal transplant
+T3	Adverse_event 57 64	treated
+E1	Adverse_event:T3 

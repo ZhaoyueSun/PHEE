@@ -1,0 +1,7 @@
+T4	Effect 28 77	transient intraoperative hypertension immediately
+T6	Treatment 84 144	inadvertent submucosal injection of concentrated epinephrine
+T5	Drug 133 144	epinephrine
+T7	Route 107 116	injection
+T8	Subject 0 17	The other patient
+T3	Adverse_event 18 27	developed
+E1	Adverse_event:T3

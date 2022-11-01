@@ -1,0 +1,9 @@
+T7	Effect 92 114	increased lipid levels
+T8	Treatment 0 75	Sirolimus works differently from the immunosuppressants currently available
+T10	Drug 0 9	Sirolimus
+T11	Drug 37 55	immunosuppressants
+T12	Drug 148 157	sirolimus
+T13	Drug 231 243	cyclosporine
+T14	Drug 247 257	tacrolimus
+T9	Adverse_event 88 91	for
+E1	Adverse_event:T9

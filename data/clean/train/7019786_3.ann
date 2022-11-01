@@ -1,0 +1,9 @@
+T3	Subject 0 17	Two elderly women
+T5	Effect 30 67	acute deterioration of renal function
+T6	Treatment 74 105	treatment with cefoxitin sodium
+T7	Population 0 3	Two
+T8	Age 4 11	elderly
+T9	Gender 12 17	women
+T10	Drug 89 105	cefoxitin sodium
+T4	Adverse_event 68 73	after
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T3	Effect 0 21	Anaphylactic reaction
+T4	Treatment 25 65	recombinant insulin-like growth factor-I
+T6	Drug 25 65	recombinant insulin-like growth factor-I
+T5	Adverse_event 22 24	to
+E1	Adverse_event:T5

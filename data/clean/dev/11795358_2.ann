@@ -1,0 +1,6 @@
+T5	Effect 60 81	endometrial carcinoma
+T6	Subject 8 26	healthy population
+T3	Treatment 89 98	tamoxifen
+T9	Drug 89 98	tamoxifen
+T4	Adverse_event 49 59	developing
+E1	Adverse_event:T4 

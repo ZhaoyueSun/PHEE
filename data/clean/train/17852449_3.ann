@@ -1,0 +1,7 @@
+T8	Treatment 119 128	retinoids
+T9	Effect 97 115	teratogenic effect
+T10	Speculation_cue 75 85	questioned
+T11	Drug 119 128	retinoids
+T7	Adverse_event 86 89	due
+E1	Adverse_event:T7 
+A1	Speculated E1

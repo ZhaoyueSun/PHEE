@@ -1,0 +1,5 @@
+T3	Effect 0 15	Vision declined
+T4	Treatment 37 55	methylprednisolone
+T6	Drug 37 55	methylprednisolone
+T5	Adverse_event 16 21	after
+E1	Adverse_event:T5

@@ -1,0 +1,10 @@
+T3	Treatment 127 184	at least 2 years of twice-a-day application of dipivefrin
+T4	Effect 99 120	cicatricial entropion
+T6	Subject 0 54	Nine eyes from 6 patients, 74 years to 90 years of age
+T7	Population 15 16	6
+T8	Age 27 47	74 years to 90 years
+T9	Duration 136 143	2 years
+T10	Freq 147 158	twice-a-day
+T11	Drug 174 184	dipivefrin
+T5	Adverse_event 121 126	after
+E1	Adverse_event:T5

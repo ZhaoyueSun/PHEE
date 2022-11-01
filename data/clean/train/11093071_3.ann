@@ -1,0 +1,14 @@
+T3	Treatment 74 89	antidepressants
+T5	Treat-Disorder 102 180	changes in serotonergic or noradrenergic neurotransmission caused by IFN-alpha
+T7	Speculation_cue 90 93	may
+T6	Drug 74 89	antidepressants
+T10	Treatment 171 180	IFN-alpha
+T11	Drug 171 180	IFN-alpha
+T12	Effect 102 160	changes in serotonergic or noradrenergic neurotransmission
+T4	Potential_therapeutic_event 94 101	prevent
+T9	Adverse_event 161 167	caused
+E1	Potential_therapeutic_event:T4 arg:T3
+E2	Adverse_event:T9 arg:T10 arg2:T12
+R1	has_cue Arg1:E1 Arg2:T7	
+R2	has Arg1:T3 Arg2:T5	
+A1	Speculated E1

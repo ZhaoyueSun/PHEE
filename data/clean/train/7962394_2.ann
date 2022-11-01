@@ -1,0 +1,8 @@
+T3	Treatment 14 21	danazol
+T5	Effect 31 52	hepatocellular damage
+T6	Subject 70 82	10% of women
+T7	Population 70 73	10%
+T8	Gender 77 82	women
+T9	Drug 14 21	danazol
+T4	Adverse_event 22 30	produces
+E1	Adverse_event:T4

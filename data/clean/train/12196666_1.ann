@@ -1,0 +1,7 @@
+T4	Treatment 133 154	valproic acid-induced
+T5	Subject 21 35;69 85	three families all the siblings
+T6	Effect 62 65	FVS
+T7	Population 21 26	three
+T8	Drug 133 146	valproic acid
+T3	Adverse_event 115 129	susceptibility
+E1	Adverse_event:T3 

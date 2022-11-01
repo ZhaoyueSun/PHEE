@@ -1,0 +1,6 @@
+T4	Treatment 84 111	a carboplatin-based regimen
+T5	Effect 123 150	a platinum hypersensitivity
+T6	Drug 86 97	carboplatin
+T7	Treat-Disorder 21 59	recurrent primary peritoneal carcinoma
+T3	Adverse_event 113 122	developed
+E1	Adverse_event:T3

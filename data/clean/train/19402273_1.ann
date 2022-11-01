@@ -1,0 +1,5 @@
+T3	Effect 18 43	breast tissue enlargement
+T4	Treatment 0 9	Isoniazid
+T7	Drug 0 9	Isoniazid
+T5	Adverse_event 10 17	causing
+E1	Adverse_event:T5

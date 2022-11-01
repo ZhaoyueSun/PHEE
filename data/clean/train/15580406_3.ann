@@ -1,0 +1,6 @@
+T3	Effect 0 28	Vogt-Koyanagi-Harada disease
+T5	Treatment 46 62	interferon alpha
+T7	Drug 46 62	interferon alpha
+T8	Treat-Disorder 75 94	chronic hepatitis C
+T4	Adverse_event 29 38	occurring
+E1	Adverse_event:T4

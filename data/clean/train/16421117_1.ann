@@ -1,0 +1,6 @@
+T3	Treatment 51 61	amantadine
+T5	Effect 82 104	anti-dyskinetic effect
+T6	Speculation_cue 62 70	probably
+T7	Drug 51 61	amantadine
+T4	Potential_therapeutic_event 71 77	exerts
+E1	Potential_therapeutic_event:T4

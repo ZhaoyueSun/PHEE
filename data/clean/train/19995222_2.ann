@@ -1,0 +1,9 @@
+T6	Speculation_cue 50 53	may
+T7	Effect 60 62	TD
+T8	Treatment 40 49	clozapine
+T9	Severity_cue 126 130	mild
+T10	Drug 40 49	clozapine
+T5	Adverse_event 54 59	cause
+E1	Adverse_event:T5 
+A1	Speculated E1
+A2	Severity E1 Low

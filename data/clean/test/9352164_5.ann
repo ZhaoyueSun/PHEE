@@ -1,0 +1,7 @@
+T7	Speculation_cue 51 59	probably
+T8	Treatment 26 46	excessive dose of AZ
+T9	Effect 60 117;192 213	destroyed the gastric mucosal barrier or thrombocytopenia hemorrhagic gastritis
+T12	Dosage 26 40	excessive dose
+T13	Drug 44 46	AZ
+T10	Adverse_event 47 50	had
+E1	Adverse_event:T10

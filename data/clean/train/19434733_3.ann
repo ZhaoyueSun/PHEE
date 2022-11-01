@@ -1,0 +1,8 @@
+T6	Subject 0 21	Two patients with HLH
+T7	Treatment 32 41	etoposide
+T9	Effect 50 89	secondary acute myeloid leukemia (sAML)
+T10	Population 0 3	Two
+T11	Treat-Disorder 18 21	HLH
+T12	Drug 32 41	etoposide
+T5	Adverse_event 42 49	related
+E1	Adverse_event:T5 

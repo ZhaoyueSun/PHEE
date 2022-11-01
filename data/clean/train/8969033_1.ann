@@ -1,0 +1,7 @@
+T5	Treatment 162 183;197 267	infusion of protamine undergoing coronary artery bypass surgery and mitral valve replacement
+T6	Subject 187 196	a patient
+T7	Effect 91 147	pulmonary vasoconstriction and right ventricular failure
+T9	Drug 174 183	protamine
+T10	Route 162 170	infusion
+T8	Adverse_event 148 157	following
+E1	Adverse_event:T8

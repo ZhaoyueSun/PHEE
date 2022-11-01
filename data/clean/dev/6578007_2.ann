@@ -1,0 +1,14 @@
+T5	Treat-Disorder 37 61	chronic myeloid leukemia
+T7	Effect 84 110	interstitial lung fibrosis
+T8	Treatment 117 180	short term and sequential treatment with melphalan and busulfan
+T9	Age 12 23	59-year-old
+T4	Subject 10 61	a 59-year-old patient with chronic myeloid leukemia
+T10	Time_elapsed 117 127	short term
+T12	Drug 158 167	melphalan
+T13	Drug 172 180	busulfan
+T14	Severity_cue 77 83	severe
+T6	Adverse_event 67 76	developed
+T11	Combination 168 171	and
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T12 arg2:T13
+A1	Severity E1 High

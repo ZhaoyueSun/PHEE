@@ -1,0 +1,5 @@
+T4	Effect 18 42	ventricular fibrillation
+T5	Treatment 0 9	Adenosine
+T6	Drug 0 9	Adenosine
+T3	Adverse_event 10 17	induced
+E1	Adverse_event:T3 

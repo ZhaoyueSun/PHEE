@@ -1,0 +1,1 @@
+Drug interactions between macrolide antibiotics such as erythomycin and pharmacologic agents that prolong the QT interval have been known to cause TdP. However, clarithromycin is thought to be less frequently associated with drug induced TdP, because it inactivates hepatic cytochrome P-450 to a lesser extent than erythromycin.

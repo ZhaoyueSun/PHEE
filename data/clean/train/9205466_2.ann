@@ -1,0 +1,9 @@
+T5	Subject 7 31	Two postmenopausal women
+T6	Treatment 45 73	tamoxifen and progestational
+T9	Effect 112 157	uterine enlargement and intermittent spotting
+T10	Population 7 10	Two
+T11	Gender 26 31	women
+T12	Drug 45 54	tamoxifen
+T13	Treat-Disorder 85 101	breast carcinoma
+T8	Adverse_event 102 111	developed
+E1	Adverse_event:T8

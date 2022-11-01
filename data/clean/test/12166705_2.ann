@@ -1,0 +1,6 @@
+T7	Treat-Disorder 47 59	malignancies
+T9	Effect 148 173	hemolytic uremic syndrome
+T10	Drug 0 11	Mitomycin-C
+T6	Treatment 0 11	Mitomycin-C
+T8	Adverse_event 67 77	associated
+E1	Adverse_event:T8

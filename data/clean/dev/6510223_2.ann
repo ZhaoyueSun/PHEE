@@ -1,0 +1,7 @@
+T11	Treatment 147 161	chlorpropamide
+T12	Effect 0 29	Acute intravascular hemolysis
+T13	Subject 45 63	a diabetic patient
+T15	Drug 147 161	chlorpropamide
+T16	Treat-Disorder 47 55	diabetic
+T10	Adverse_event 76 83	treated
+E1	Adverse_event:T10

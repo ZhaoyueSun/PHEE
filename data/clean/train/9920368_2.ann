@@ -1,0 +1,8 @@
+T7	Subject 30 87	a patient with arrhythmogenic right ventricular dysplasia
+T8	Treatment 109 131	amiodarone for 4 years
+T10	Effect 143 314	thyrotoxicosis with subacute onset, accompanied by transiently positive thyrotropin (TSH) receptor antibody (TRAb), or thyrotropin-binding inhibiting immunoglobulin (TBII)
+T12	Duration 124 131	4 years
+T13	Drug 109 119	amiodarone
+T14	Treat-Disorder 45 87	arrhythmogenic right ventricular dysplasia
+T9	Adverse_event 133 142	developed
+E1	Adverse_event:T9

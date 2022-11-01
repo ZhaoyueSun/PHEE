@@ -1,0 +1,8 @@
+T3	Effect 21 43	pericardial hemorrhage
+T4	Treatment 76 105	low-dose acetylsalicylic acid
+T5	Subject 109 149	a patient with essential thrombocythemia
+T8	Drug 85 105	acetylsalicylic acid
+T9	Dosage 76 84	low-dose
+T10	Treat-Disorder 124 149	essential thrombocythemia
+T6	Adverse_event 54 61	related
+E1	Adverse_event:T6

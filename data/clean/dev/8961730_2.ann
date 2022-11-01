@@ -1,0 +1,8 @@
+T7	Subject 15 22	patient
+T9	Effect 39 57	psychotic disorder
+T10	Treatment 64 97	4 months of isoniazid prophylaxis
+T12	Drug 76 85	isoniazid
+T13	Time_elapsed 64 72	4 months
+T14	Treat-Disorder 113 125	tuberculosis
+T8	Adverse_event 27 36	developed
+E1	Adverse_event:T8

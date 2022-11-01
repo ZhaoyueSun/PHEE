@@ -1,0 +1,7 @@
+T5	Speculation_cue 18 27	speculate
+T6	Treatment 33 49	interferon alpha
+T8	Effect 89 103	lichen nitidus
+T9	Drug 33 49	interferon alpha
+T7	Adverse_event 57 65	involved
+E1	Adverse_event:T7 
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T3	Treatment 109 134	treatment with infliximab
+T4	Subject 35 71	2 patients with Crohn's disease (CD)
+T6	Effect 80 88	lymphoma
+T7	Population 35 36	2
+T8	Treat-Disorder 51 66	Crohn's disease
+T9	Drug 124 134	infliximab
+T5	Adverse_event 93 102	diagnosed
+E1	Adverse_event:T5 

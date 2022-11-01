@@ -1,0 +1,5 @@
+T3	Effect 0 34	Inappropriate antidiuretic hormone
+T5	Treatment 45 64	adenine arabinoside
+T6	Drug 45 64	adenine arabinoside
+T4	Adverse_event 35 44	following
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T7	Treatment 0 10	Lovastatin
+T8	Effect 38 54	increases in INR
+T9	Drug 0 10	Lovastatin
+T6	Adverse_event 31 37	caused
+E1	Adverse_event:T6

@@ -1,0 +1,5 @@
+T5	Treatment 0 9	Albuterol
+T7	Effect 18 64	hypokalemia and its potential cardiac toxicity
+T8	Drug 0 9	Albuterol
+T6	Adverse_event 10 17	induced
+E1	Adverse_event:T6

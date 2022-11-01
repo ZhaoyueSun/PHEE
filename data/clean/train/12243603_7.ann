@@ -1,0 +1,6 @@
+T5	Treatment 0 12	Atorvastatin
+T6	Treat-Disorder 117 131	hyperlipidemia
+T7	Effect 20 31	most potent
+T9	Drug 0 12	Atorvastatin
+T8	Potential_therapeutic_event 104 113	treatment
+E1	Potential_therapeutic_event:T8

@@ -1,0 +1,4 @@
+T3	Treatment 22 32	oolong tea
+T6	Treat-Disorder 37 45	delirium
+T5	Adverse_event 0 5	After
+E1	Adverse_event:T5

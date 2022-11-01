@@ -1,0 +1,5 @@
+T3	Treatment 66 78	azathioprine
+T4	Effect 87 98	cholestasis
+T6	Drug 66 78	azathioprine
+T5	Adverse_event 79 86	induced
+E1	Adverse_event:T5

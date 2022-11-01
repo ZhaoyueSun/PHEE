@@ -1,0 +1,6 @@
+T12	Treatment 20 37	caffeine toxicity
+T15	Drug 20 28	caffeine
+T11	Effect 50 198	muscle cells, which were fragile due to the potassium depletion induced by the coexisting hyponatremia, to result in unusually severe rhabdomyolysis
+T16	Speculation_cue 3 14	hypothesize
+T13	Adverse_event 38 45	injured
+E1	Adverse_event:T13

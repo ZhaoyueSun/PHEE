@@ -1,0 +1,7 @@
+T3	Treatment 41 55	amphotericin B
+T4	Effect 77 85	seizures
+T5	Subject 94 106	AIDS patient
+T7	Sub-Disorder 94 98	AIDS
+T8	Drug 41 55	amphotericin B
+T6	Adverse_event 64 69	cause
+E1	Adverse_event:T6 

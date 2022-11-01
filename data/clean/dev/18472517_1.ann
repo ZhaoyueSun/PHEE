@@ -1,0 +1,5 @@
+T4	Treatment 0 11	Enalaprilat
+T5	Effect 20 35	acute parotitis
+T6	Drug 0 11	Enalaprilat
+T3	Adverse_event 12 19	induced
+E1	Adverse_event:T3

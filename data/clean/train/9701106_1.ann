@@ -1,0 +1,8 @@
+T4	Effect 2 18	drug interaction
+T6	Treatment 27 55	zafirlukast and theophylline
+T7	Drug 27 38	zafirlukast
+T8	Drug 43 55	theophylline
+T5	Adverse_event 19 26	between
+T9	Combination 39 42	and
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T7 arg2:T8

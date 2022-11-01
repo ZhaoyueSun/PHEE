@@ -1,0 +1,11 @@
+T3	Subject 13 56	a 14-year-old boy with severe haemophilia A
+T5	Effect 71 95	a portal vein thrombosis
+T6	Treatment 103 132	continuous infusion of F VIII
+T7	Age 15 26	14-year-old
+T8	Gender 27 30	boy
+T10	Freq 103 113	continuous
+T11	Route 114 122	infusion
+T12	Drug 126 132	F VIII
+T13	Treat-Disorder 43 56	haemophilia A
+T4	Adverse_event 61 70	developed
+E1	Adverse_event:T4

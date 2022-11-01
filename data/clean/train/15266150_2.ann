@@ -1,0 +1,7 @@
+T5	Effect 0 50	Increased lash length, thickness, and pigmentation
+T6	Treatment 87 122	prostaglandin analog glaucoma drops
+T8	Route 117 122	drops
+T9	Drug 87 107	prostaglandin analog
+T10	Treat-Disorder 108 116	glaucoma
+T7	Adverse_event 51 54	are
+E1	Adverse_event:T7

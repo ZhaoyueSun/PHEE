@@ -1,0 +1,7 @@
+T6	Treatment 83 92	IFN-alpha
+T7	Treat-Disorder 105 130	chronic viral C hepatitis
+T10	Sub-Disorder 48 63	Graves' disease
+T11	Subject 48 63	Graves' disease
+T12	Drug 83 92	IFN-alpha
+T5	Potential_therapeutic_event 101 104	for
+E1	Potential_therapeutic_event:T5 

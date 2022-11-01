@@ -1,0 +1,10 @@
+T3	Effect 41 71	extensive choroidal detachment
+T4	Treatment 92 111	dorzolamide therapy
+T6	Subject 117 174	surgically untreated eye with primary open-angle glaucoma
+T8	Severity_cue 16 22	abrupt
+T9	Drug 92 103	dorzolamide
+T10	Treat-Disorder 117 174	surgically untreated eye with primary open-angle glaucoma
+T11	Severity_cue 41 50	extensive
+T7	Adverse_event 23 34	development
+E1	Adverse_event:T7 
+A1	Severity E1 High

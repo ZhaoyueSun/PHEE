@@ -1,0 +1,7 @@
+T7	Effect 89 114	sudden cutaneous reaction
+T3	Subject 0 51	A patient with an allergy to a macrolide antibiotic
+T4	Treatment 56 72	given tacrolimus
+T8	Sub-Disorder 18 51	allergy to a macrolide antibiotic
+T9	Drug 62 72	tacrolimus
+T6	Adverse_event 77 86	developed
+E1	Adverse_event:T6 

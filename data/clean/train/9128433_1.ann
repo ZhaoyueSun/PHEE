@@ -1,0 +1,10 @@
+T7	Subject 237 255	a patient with APL
+T9	Effect 158 214	symptom complex referred to as "retinoic acid syndrome."
+T10	Treatment 283 383	a few weeks after initiating induction therapy with ATRA despite being treated for hyperleukocytosis
+T13	Drug 335 339	ATRA
+T14	Time_elapsed 283 294	a few weeks
+T15	Treat-Disorder 252 255	APL
+T16	Severity_cue 152 157	fatal
+T8	Adverse_event 260 269	developed
+E1	Adverse_event:T8 
+A1	Severity E1 High

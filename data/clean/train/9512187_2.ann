@@ -1,0 +1,13 @@
+T9	Subject 16 27	one patient
+T11	Effect 42 50	gangrene
+T12	Treatment 57 94	bleomycin and vincristine/vinblastine
+T13	Population 16 19	one
+T14	Drug 57 66	bleomycin
+T15	Drug 71 82	vincristine
+T16	Drug 83 94	vinblastine
+T17	Severity_cue 201 207	severe
+T10	Adverse_event 32 41	developed
+T18	Combination 67 70	and
+E1	Adverse_event:T10 
+E2	Combination:T18 arg:T14 arg2:T15 arg3:T16
+A1	Severity E1 High

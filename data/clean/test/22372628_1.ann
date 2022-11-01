@@ -1,0 +1,6 @@
+T5	Subject 33 82	patients with uncontrolled partial-onset seizures
+T6	Treatment 96 117	adjunctive lacosamide
+T9	Drug 107 117	lacosamide
+T10	Treat-Disorder 47 82	uncontrolled partial-onset seizures
+T7	Potential_therapeutic_event 83 90	treated
+E1	Potential_therapeutic_event:T7

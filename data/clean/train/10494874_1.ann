@@ -1,0 +1,9 @@
+T3	Subject 22 50	a female acromegalic patient
+T4	Sub-Disorder 31 42	acromegalic
+T5	Effect 68 84	hepatic adenomas
+T7	Treatment 105 122	danazol treatment
+T8	Gender 24 30	female
+T10	Treat-Disorder 127 148	uterine fibromatosis.
+T9	Drug 105 112	danazol
+T6	Adverse_event 85 93	appeared
+E1	Adverse_event:T6 

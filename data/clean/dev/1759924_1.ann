@@ -1,0 +1,5 @@
+T3	Treatment 0 24	Fulminant metoclopramide
+T5	Effect 33 63	neuroleptic malignant syndrome
+T6	Drug 10 24	metoclopramide
+T4	Adverse_event 25 32	induced
+E1	Adverse_event:T4

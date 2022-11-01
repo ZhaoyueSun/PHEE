@@ -1,0 +1,8 @@
+T8	Treatment 23 64	levofloxacin, acyclovir, and voriconazole
+T10	Effect 88 99	high fevers
+T11	Subject 70 77	patient
+T12	Drug 23 35	levofloxacin
+T13	Drug 37 46	acyclovir
+T14	Drug 52 64	voriconazole
+T9	Adverse_event 78 87	developed
+E1	Adverse_event:T9

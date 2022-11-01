@@ -1,0 +1,8 @@
+T8	Speculation_cue 65 68	may
+T9	Effect 36 64	hemorrhage from a meningioma
+T10	Treatment 90 109	aspirin prophylaxis
+T11	Subject 0 26	Our case is the second one
+T12	Population 16 22	second
+T13	Drug 90 97	aspirin
+T7	Adverse_event 79 86	induced
+E1	Adverse_event:T7

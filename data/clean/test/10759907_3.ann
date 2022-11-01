@@ -1,0 +1,7 @@
+T3	Treatment 96 108	zolmitriptan
+T5	Effect 44 66	spinal cord infarction
+T6	Drug 96 108	zolmitriptan
+T7	Speculation_cue 67 70	may
+T4	Adverse_event 74 81	related
+E1	Adverse_event:T4 
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T4	Treatment 26 45	imipenem/cilastatin
+T5	Effect 0 22	Proconvulsive tendency
+T7	Drug 35 45	cilastatin
+T8	Drug 26 34	imipenem
+T6	Adverse_event 71 83	side effects
+T9	Combination 34 35	/
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T8 arg2:T7

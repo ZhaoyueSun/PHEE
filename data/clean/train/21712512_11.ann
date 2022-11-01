@@ -1,0 +1,7 @@
+T9	Subject 61 100	a patient with CF-related liver disease
+T10	Treatment 109 149	briefly with a moderate CYP3A4 inhibitor
+T11	Effect 21 57	rapid onset of adrenal insufficiency
+T14	Drug 133 149	CYP3A4 inhibitor
+T15	Treat-Disorder 76 100	CF-related liver disease
+T12	Adverse_event 27 32	onset
+E1	Adverse_event:T12 

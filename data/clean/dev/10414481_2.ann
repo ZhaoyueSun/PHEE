@@ -1,0 +1,10 @@
+T3	Subject 0 49	This patient, who had a history of osteoarthritis
+T4	Treatment 72 113	5 weeks after being started on diclofenac
+T5	Effect 62 71	hepatitis
+T7	Drug 103 113	diclofenac
+T8	Treat-Disorder 118 147	increasing pain in the joints
+T9	Time_elapsed 72 79	5 weeks
+T11	Severity_cue 55 61	severe
+T6	Adverse_event 51 54	had
+E1	Adverse_event:T6 
+A1	Severity E1 High

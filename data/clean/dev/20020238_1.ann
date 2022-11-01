@@ -1,0 +1,10 @@
+T4	Effect 65 76	retinopathy
+T6	Treatment 93 147	pegylated interferon and ribavirin combination therapy
+T7	Subject 151 179	chronic hepatitis C patients
+T9	Drug 118 127	ribavirin
+T10	Drug 93 113	pegylated interferon
+T12	Treat-Disorder 151 170	chronic hepatitis C
+T5	Adverse_event 77 87	associated
+T11	Combination 128 139	combination
+E1	Adverse_event:T5 
+E2	Combination:T11 arg:T9 arg2:T10

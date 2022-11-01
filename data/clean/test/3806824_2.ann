@@ -1,0 +1,9 @@
+T5	Effect 20 35	penile fibrosis
+T6	Treatment 42 119	intracavernous self-injection of a combination of phentolamine and papaverine
+T7	Route 42 71	intracavernous self-injection
+T9	Drug 92 104	phentolamine
+T10	Drug 109 119	papaverine
+T4	Adverse_event 36 41	after
+T8	Combination 77 88	combination
+E1	Adverse_event:T4 
+E2	Combination:T8 arg:T9 arg2:T10

@@ -1,0 +1,5 @@
+T4	Treatment 30 45	lithium therapy
+T5	Effect 0 22	Pulmonary hypertension
+T6	Drug 30 37	lithium
+T3	Adverse_event 23 29	during
+E1	Adverse_event:T3

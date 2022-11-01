@@ -1,0 +1,8 @@
+T7	Effect 0 75	Retinal abnormalities, including retinal hemorrhage and "cotton-wool" spots
+T9	Treatment 131 141	interferon
+T10	Subject 153 186	patients with chronic hepatitis C
+T12	Time_elapsed 106 113	8 weeks
+T13	Drug 131 141	interferon
+T14	Treat-Disorder 167 186	chronic hepatitis C
+T8	Adverse_event 83 88	occur
+E1	Adverse_event:T8 

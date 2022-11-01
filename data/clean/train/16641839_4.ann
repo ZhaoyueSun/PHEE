@@ -1,0 +1,5 @@
+T5	Effect 0 30	Cutaneous rashes and eruptions
+T7	Treatment 76 89	carbamazepine
+T8	Drug 76 89	carbamazepine
+T6	Adverse_event 38 44	caused
+E1	Adverse_event:T6

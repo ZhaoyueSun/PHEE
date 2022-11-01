@@ -1,0 +1,19 @@
+T9	Effect 37 49	hyperkalemia
+T11	Treatment 59 89	succinylcholine administration
+T12	Subject 93 143	a patient with mucositis secondary to chemotherapy
+T14	Severity_cue 31 36	fatal
+T15	Drug 59 74	succinylcholine
+T16	Treat-Disorder 108 117	mucositis
+T19	Drug 131 143	chemotherapy
+T20	Subject 93 102	a patient
+T21	Effect 108 117	mucositis
+T22	Treatment 131 143	chemotherapy
+T10	Adverse_event 50 55	owing
+T18	Adverse_event 118 127	secondary
+E1	Adverse_event:T10 arg:T12 arg2:T11 arg3:T9
+E2	Adverse_event:T18 arg:T22 arg2:T21 arg3:T20
+R1	has Arg1:T22 Arg2:T19	
+R2	has Arg1:T11 Arg2:T16	
+R3	has Arg1:T11 Arg2:T15	
+R5	has_cue Arg1:E1 Arg2:T14	
+A1	Severity E1 High

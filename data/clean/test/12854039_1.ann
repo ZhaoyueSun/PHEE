@@ -1,0 +1,5 @@
+T3	Treatment 69 85	interferon alpha
+T4	Effect 140 167	neurological manifestations
+T7	Drug 69 85	interferon alpha
+T5	Adverse_event 100 111	followed by
+E1	Adverse_event:T5

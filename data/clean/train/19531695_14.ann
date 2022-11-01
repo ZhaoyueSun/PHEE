@@ -1,0 +1,9 @@
+T8	Effect 8 16	toxicity
+T10	Treatment 32 107	flecainide is prescribed with paroxetine and other potent CYP2D6 inhibitors
+T11	Speculation_cue 17 20	may
+T12	Drug 32 42	flecainide
+T13	Drug 62 72	paroxetine
+T9	Adverse_event 21 26	occur
+T14	Combination 57 61	with
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T12 arg2:T13

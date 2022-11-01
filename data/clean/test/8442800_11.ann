@@ -1,0 +1,8 @@
+T3	Treatment 13 23	disulfiram
+T4	Effect 47 56	teratogen
+T5	Age 72 77	fetus
+T7	Speculation_cue 37 46	potential
+T8	Drug 13 23	disulfiram
+T9	Subject 72 77	fetus
+T6	Adverse_event 57 64	exposed
+E1	Adverse_event:T6

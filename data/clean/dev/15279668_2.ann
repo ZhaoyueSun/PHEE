@@ -1,0 +1,10 @@
+T9	Subject 11 17	a case
+T10	Effect 23 84	significant progressive peripheral neurological deterioration
+T12	Treatment 118 144;160 199	fludarabine and cytarabine FLA (fludarabine and cytarabine) regime
+T13	Drug 118 129	fludarabine
+T14	Drug 134 144	cytarabine
+T16	Drug 160 192	FLA (fludarabine and cytarabine)
+T11	Adverse_event 85 94	following
+T15	Combination 130 133	and
+E1	Adverse_event:T11 
+E2	Combination:T15 arg:T13 arg2:T14

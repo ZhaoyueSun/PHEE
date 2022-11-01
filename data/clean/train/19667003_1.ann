@@ -1,0 +1,5 @@
+T4	Treatment 0 13	Carbamazepine
+T6	Effect 22 36	hyperammonemia
+T7	Drug 0 13	Carbamazepine
+T5	Adverse_event 14 21	induced
+E1	Adverse_event:T5

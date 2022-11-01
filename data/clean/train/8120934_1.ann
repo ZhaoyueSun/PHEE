@@ -1,0 +1,11 @@
+T3	Subject 0 58;143 160	A 53-year-old male, without any prior history of psychosis macroprolactinoma
+T5	Effect 70 83	schizophrenia
+T6	Treatment 84 136	4 days after starting low-dose bromocriptine therapy
+T8	Age 2 13	53-year-old
+T9	Gender 14 18	male
+T10	Drug 115 128	bromocriptine
+T11	Treat-Disorder 143 160	macroprolactinoma
+T12	Time_elapsed 84 96	4 days after
+T13	Dosage 106 114	low-dose
+T4	Adverse_event 60 69	developed
+E1	Adverse_event:T4

@@ -1,0 +1,14 @@
+T12	Subject 49 76	depressed 55-year-old woman
+T14	Effect 95 145	erythematous pigmented skin rash on the whole body
+T15	Treatment 152 293	combination treatment with antidepressants, atypical antipsychotic drugs, the mood stabilizer lithium and the lipid-lowering drug pravastatin
+T16	Treat-Disorder 49 58	depressed
+T17	Age 59 70	55-year-old
+T18	Gender 71 76	woman
+T19	Drug 179 194	antidepressants
+T20	Drug 196 218	atypical antipsychotic
+T21	Drug 246 253	lithium
+T22	Drug 282 293	pravastatin
+T13	Adverse_event 82 91	presented
+T23	Combination 152 163	combination
+E1	Adverse_event:T13 
+E2	Combination:T23 arg:T19 arg2:T20 arg3:T21 arg4:T22

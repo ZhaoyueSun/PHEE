@@ -1,0 +1,5 @@
+T3	Effect 2 27	paradoxical ocular effect
+T4	Treatment 31 42	brimonidine
+T6	Drug 31 42	brimonidine
+T5	Adverse_event 28 30	of
+E1	Adverse_event:T5 

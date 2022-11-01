@@ -1,0 +1,9 @@
+T3	Effect 144 163	marked inflammation
+T4	Treatment 9 21	praziquantel
+T9	Population 88 92	both
+T10	Speculation_cue 37 40	may
+T11	Drug 9 21	praziquantel
+T7	Subject 76 101	parasite in both patients
+T12	Treat-Disorder 76 84	parasite
+T5	Adverse_event 130 140	production
+E1	Adverse_event:T5

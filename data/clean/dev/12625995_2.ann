@@ -1,0 +1,8 @@
+T3	Treatment 0 9	Clozapine
+T5	Effect 18 27	akathisia
+T6	Subject 31 58	children with schizophrenia
+T7	Age 31 39	children
+T9	Drug 0 9	Clozapine
+T10	Treat-Disorder 45 58	schizophrenia
+T4	Adverse_event 10 17	induced
+E1	Adverse_event:T4

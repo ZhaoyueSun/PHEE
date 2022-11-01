@@ -1,0 +1,12 @@
+T4	Treatment 74 121	intravitreal injection of triamcinolone acetate
+T6	Effect 59 67	glaucoma
+T7	Subject 125 172	a 34-year-old man without a history of glaucoma
+T8	Age 127 138	34-year-old
+T9	Gender 139 142	man
+T10	Drug 36 50	corticosteroid
+T11	Drug 100 121	triamcinolone acetate
+T12	Route 74 96	intravitreal injection
+T13	Severity_cue 29 35	severe
+T5	Adverse_event 51 58	induced
+E1	Adverse_event:T5 
+A1	Severity E1 High

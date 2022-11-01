@@ -1,0 +1,6 @@
+T3	Treatment 0 10	Flecainide
+T5	Effect 30 58	hypersensitivity pneumonitis
+T6	Drug 0 10	Flecainide
+T4	Adverse_event 21 26	cause
+E1	Adverse_event:T4 
+A1	Negated E1

@@ -1,0 +1,17 @@
+T12	Treatment 321 352	2-CdA (2-chloro-deoxyadenosine)
+T16	Population 372 375	two
+T17	Treat-Disorder 389 392	MCD
+T20	Drug 321 326	2-CdA
+T13	Population 397 400	one
+T19	Subject 397 400	one
+T21	Subject 372 375	two
+T22	Treat-Disorder 406 448	unresectable hyaline-vascular type disease
+T23	Treatment 321 352	2-CdA (2-chloro-deoxyadenosine)
+T24	Drug 321 326	2-CdA
+T14	Potential_therapeutic_event 314 317	use
+E1	Potential_therapeutic_event:T14 arg:T19
+E2	Potential_therapeutic_event:T14 arg:T12 arg2:T21 arg3:T23
+R1	has Arg1:T12 Arg2:T24	
+R2	has Arg1:T23 Arg2:T20	
+R3	has Arg1:T12 Arg2:T17	
+R4	has Arg1:T23 Arg2:T22

@@ -1,0 +1,11 @@
+T9	Treatment 134 145;167 281	terfenadine taking the recommended prescribed dose of this drug in addition to cefaclor, ketoconazole, and medroxyprogesterone
+T11	Effect 76 107	symptomatic torsades de pointes
+T10	Subject 149 158	a patient
+T13	Drug 234 242	cefaclor
+T14	Drug 244 256	ketoconazole
+T15	Drug 262 281	medroxyprogesterone
+T16	Drug 134 145	terfenadine
+T8	Adverse_event 108 117	occurring
+T12	Combination 222 230	addition
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T16 arg2:T13 arg3:T14 arg4:T15

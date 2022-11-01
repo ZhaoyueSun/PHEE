@@ -1,0 +1,9 @@
+T3	Effect 89 107	pulmonary toxicity
+T6	Subject 48 62	three patients
+T7	Population 48 53	three
+T8	Drug 111 115	CCNU
+T5	Treatment 111 115	CCNU
+T9	Speculation_cue 116 119	may
+T4	Adverse_event 128 135	related
+E1	Adverse_event:T4 
+A1	Speculated E1

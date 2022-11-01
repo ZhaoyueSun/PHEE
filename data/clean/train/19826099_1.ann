@@ -1,0 +1,9 @@
+T3	Effect 31 43	severe apnea
+T4	Subject 47 56	an infant
+T7	Age 50 56	infant
+T8	Drug 68 79	lamotrigine
+T5	Treatment 57 102	exposed to lamotrigine through breast-feeding
+T9	Route 88 102	breast-feeding
+T10	Severity_cue 31 37	severe
+T6	Adverse_event 44 46	in
+E1	Adverse_event:T6

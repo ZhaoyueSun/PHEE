@@ -1,0 +1,9 @@
+T4	Subject 19 56;178 194	an autopsy case of a 78-year-old male prostatic cancer
+T5	Effect 62 91	multiple nodules in the liver
+T7	Treatment 138 173	phosphate diethylstilbestrol (PDES)
+T8	Treat-Disorder 178 194	prostatic cancer
+T9	Age 40 51	78-year-old
+T10	Gender 52 56	male
+T12	Drug 138 166	phosphate diethylstilbestrol
+T6	Adverse_event 92 101	developed
+E1	Adverse_event:T6

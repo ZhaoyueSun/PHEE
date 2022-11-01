@@ -1,0 +1,5 @@
+T4	Effect 0 9	Psoriasis
+T5	Treatment 21 37	interferon-alpha
+T6	Drug 21 37	interferon-alpha
+T3	Adverse_event 10 17	induced
+E1	Adverse_event:T3

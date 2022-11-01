@@ -1,0 +1,12 @@
+T5	Subject 0 19;135 149	A 55-year-old woman a skin abscess
+T6	Effect 44 81	acute urticaria and labial angioedema
+T8	Treatment 99 130	ingesting 500 mg of cloxacillin
+T10	Age 2 13	55-year-old
+T11	Gender 14 19	woman
+T12	Time_elapsed 82 92	60 minutes
+T13	Route 99 108	ingesting
+T14	Dosage 109 115	500 mg
+T15	Drug 119 130	cloxacillin
+T16	Treat-Disorder 137 149	skin abscess
+T7	Adverse_event 20 29	presented
+E1	Adverse_event:T7

@@ -1,0 +1,10 @@
+T4	Effect 0 30	Acute non-lymphocytic leukemia
+T6	Subject 43 54	eight women
+T7	Treatment 90 122	Treosulfan (= dihydroxybusulfan)
+T9	Population 43 48	eight
+T10	Gender 49 54	women
+T11	Drug 90 100	Treosulfan
+T12	Drug 104 121	dihydroxybusulfan
+T13	Treat-Disorder 127 144	ovarian carcinoma
+T5	Adverse_event 31 39	occurred
+E1	Adverse_event:T5

@@ -1,0 +1,6 @@
+T3	Treatment 0 8	Dipyrone
+T5	Effect 17 33	granulocytopenia
+T6	Subject 35 41	a case
+T7	Drug 0 8	Dipyrone
+T4	Adverse_event 9 16	induced
+E1	Adverse_event:T4

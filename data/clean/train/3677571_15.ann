@@ -1,0 +1,7 @@
+T10	Effect 19 45;147 179	phenytoin hypersensitivity fever, rash, and lymphadenopathy
+T12	Treatment 101 110	phenytoin
+T13	Speculation_cue 4 15	possibility
+T14	Drug 101 110	phenytoin
+T11	Adverse_event 91 100	receiving
+E1	Adverse_event:T11 
+A1	Speculated E1

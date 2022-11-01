@@ -1,0 +1,6 @@
+T7	Treatment 0 11	Methimazole
+T9	Effect 20 35	aplastic anemia
+T10	Drug 0 11	Methimazole
+T11	Drug 99 136	granulocyte colony-stimulating factor
+T8	Adverse_event 12 19	induced
+E1	Adverse_event:T8

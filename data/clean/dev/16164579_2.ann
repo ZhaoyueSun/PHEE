@@ -1,0 +1,5 @@
+T5	Treatment 80 90	irbesartan
+T7	Effect 52 74	shock and angio-oedema
+T9	Drug 80 90	irbesartan
+T6	Adverse_event 75 79	from
+E1	Adverse_event:T6

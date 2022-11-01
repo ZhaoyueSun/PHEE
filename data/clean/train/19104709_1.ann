@@ -1,0 +1,6 @@
+T5	Effect 17 46	recurrence of Graves' disease
+T7	Treatment 0 8;47 76	IFNalpha ten years after thyroidectomy
+T3	Treat-Disorder 80 105	chronic viral hepatitis C
+T4	Drug 0 8	IFNalpha
+T6	Adverse_event 9 16	induced
+E2	Adverse_event:T6

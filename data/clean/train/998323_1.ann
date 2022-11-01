@@ -1,0 +1,5 @@
+T7	Treatment 0 17	Lithium treatment
+T8	Effect 52 112	lithium intoxication with a diabetes insipidus-like syndrome
+T10	Drug 0 7	Lithium
+T9	Adverse_event 41 48	because
+E1	Adverse_event:T9

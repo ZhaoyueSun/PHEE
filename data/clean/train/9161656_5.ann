@@ -1,0 +1,7 @@
+T5	Treatment 0 41	Antiasthmatic medications were prescribed
+T8	Treat-Disorder 51 57	asthma
+T9	Drug 0 25	Antiasthmatic medications
+T7	Negation_cue 71 74	not
+T6	Potential_therapeutic_event 75 82	improve
+E1	Potential_therapeutic_event:T6 
+A1	Negated E1

@@ -1,0 +1,7 @@
+T9	Effect 12 22;48 65	neuropathy proximal weakness
+T7	Treatment 0 11	Thalidomide
+T10	Drug 0 11	Thalidomide
+T11	Speculation_cue 26 31	often
+T8	Adverse_event 32 42	associated
+E1	Adverse_event:T8 
+A1	Speculated E1

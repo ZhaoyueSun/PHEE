@@ -1,0 +1,7 @@
+T5	Treatment 0 9	Sirolimus
+T7	Effect 21 35	hepatotoxicity
+T8	Subject 43 66	kidney graft recipient.
+T10	Drug 0 9	Sirolimus
+T11	Treat-Disorder 43 65	kidney graft recipient
+T6	Adverse_event 10 20	associated
+E1	Adverse_event:T6

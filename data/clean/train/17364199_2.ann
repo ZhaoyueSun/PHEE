@@ -1,0 +1,9 @@
+T8	Treatment 12 22;26 65	Etanercept a tumor necrosis factor (TNF) inhibitor
+T9	Subject 131 201	adult and juvenile rheumatoid arthritis as well as psoriatic arthritis
+T11	Age 131 136	adult
+T12	Age 141 149	juvenile
+T15	Drug 12 22	Etanercept
+T16	Treat-Disorder 131 170	adult and juvenile rheumatoid arthritis
+T17	Treat-Disorder 182 201	psoriatic arthritis
+T10	Potential_therapeutic_event 80 88	licensed
+E1	Potential_therapeutic_event:T10

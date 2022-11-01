@@ -1,0 +1,8 @@
+T7	Subject 95 114	an epilepsy patient
+T8	Treatment 118 167	diphenylhydantoin (DILANTIN) therapy for 20 years
+T9	Effect 19 91	an IgG lambda-type monoclonal gammopathy and subsequent multiple myeloma
+T11	Treat-Disorder 98 106	epilepsy
+T12	Drug 118 135	diphenylhydantoin
+T13	Duration 155 167	for 20 years
+T10	Adverse_event 4 15	development
+E1	Adverse_event:T10 

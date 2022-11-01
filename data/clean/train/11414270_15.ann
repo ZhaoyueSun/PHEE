@@ -1,0 +1,7 @@
+T6	Treatment 5 37	nondepolarizing muscle relaxants
+T7	Speculation_cue 38 44	should
+T8	Subject 56 94	patients who are at risk for mucositis
+T11	Drug 5 37	nondepolarizing muscle relaxants
+T12	Sub-Disorder 85 94	mucositis
+T9	Potential_therapeutic_event 48 52	used
+E1	Potential_therapeutic_event:T9 

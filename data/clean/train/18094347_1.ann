@@ -1,0 +1,7 @@
+T3	Effect 48 64	papular eruption
+T4	Treatment 88 100	methotrexate
+T6	Drug 88 100	methotrexate
+T7	Speculation_cue 69 77	probably
+T5	Adverse_event 78 84	caused
+E1	Adverse_event:T5 
+A1	Speculated E1

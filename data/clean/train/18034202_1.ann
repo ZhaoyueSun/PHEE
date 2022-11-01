@@ -1,0 +1,8 @@
+T3	Subject 22 55	patient with rheumatoid arthritis
+T5	Treatment 69 103	low-dose methotrexate (15 mg/week)
+T7	Effect 119 169	nfection with both M. tuberculosis and M. chelonae
+T8	Dosage 92 102	15 mg/week
+T10	Drug 78 90	methotrexate
+T11	Treat-Disorder 35 55	rheumatoid arthritis
+T6	Adverse_event 108 117	developed
+E1	Adverse_event:T6

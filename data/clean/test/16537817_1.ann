@@ -1,0 +1,8 @@
+T8	Treatment 0 34	Simvastatin-amiodarone interaction
+T10	Effect 48 101	rhabdomyolysis, azotemia, and possible hepatotoxicity
+T11	Drug 12 22	amiodarone
+T12	Drug 0 11	Simvastatin
+T9	Adverse_event 35 44	resulting
+T13	Combination 23 34	interaction
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T11 arg2:T12

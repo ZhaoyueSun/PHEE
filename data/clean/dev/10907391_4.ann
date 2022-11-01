@@ -1,0 +1,8 @@
+T5	Treatment 101 119	paclitaxel therapy
+T7	Effect 61 84	phantom limb pain (PLP)
+T8	Subject 12 44	2 patients with prior amputation
+T9	Population 12 13	2
+T10	Sub-Disorder 28 44	prior amputation
+T11	Drug 101 111	paclitaxel
+T6	Adverse_event 85 90	after
+E1	Adverse_event:T6 

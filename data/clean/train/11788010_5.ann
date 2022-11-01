@@ -1,0 +1,5 @@
+T3	Effect 35 50	hepatolithiasis
+T4	Treatment 58 68	octreotide
+T6	Drug 58 68	octreotide
+T5	Adverse_event 51 57	during
+E1	Adverse_event:T5 

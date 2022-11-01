@@ -1,0 +1,5 @@
+T3	Treatment 0 13	Human insulin
+T5	Effect 22 33	lipoatrophy
+T6	Drug 0 13	Human insulin
+T4	Adverse_event 14 21	induced
+E1	Adverse_event:T4

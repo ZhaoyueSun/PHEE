@@ -1,0 +1,7 @@
+T3	Subject 33 61	an otherwise healthy patient
+T5	Effect 78 114	permanent sensorineural hearing loss
+T6	Treatment 121 147	a brief course of naproxen
+T7	Drug 139 147	naproxen
+T8	Duration 123 135	brief course
+T4	Adverse_event 115 120	after
+E1	Adverse_event:T4

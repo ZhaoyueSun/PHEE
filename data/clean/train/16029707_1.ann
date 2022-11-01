@@ -1,0 +1,5 @@
+T4	Treatment 56 65	imiquimod
+T5	Effect 0 25	Eruptive epidermoid cysts
+T6	Drug 56 65	imiquimod
+T3	Adverse_event 26 35	resulting
+E1	Adverse_event:T3

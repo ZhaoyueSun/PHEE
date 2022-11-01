@@ -1,0 +1,7 @@
+T8	Treatment 27 38	ciclesonide
+T11	Subject 81 120	patients with severe, persistent asthma
+T13	Drug 74 77	OCS
+T14	Drug 27 38	ciclesonide
+T15	Treat-Disorder 95 120	severe, persistent asthma
+T10	Potential_therapeutic_event 53 60	reduces
+E1	Potential_therapeutic_event:T10

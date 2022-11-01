@@ -1,0 +1,8 @@
+T3	Treatment 69 98;213 222	high dose-infusion time ratio cisplatin
+T5	Effect 184 207	anaphylactoid reactions
+T6	Subject 27 37	3 patients
+T7	Population 27 28	3
+T8	Dosage 69 78	high dose
+T9	Drug 213 222	cisplatin
+T4	Adverse_event 170 183	precipitating
+E1	Adverse_event:T4

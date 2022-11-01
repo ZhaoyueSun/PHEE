@@ -1,0 +1,6 @@
+T5	Effect 32 86	syndrome of inappropriate antidiuretic hormone (SIADH)
+T7	Treatment 103 114	vinorelbine
+T9	Drug 103 114	vinorelbine
+T10	Treat-Disorder 127 149	advanced breast cancer
+T6	Adverse_event 87 102	associated with
+E1	Adverse_event:T6

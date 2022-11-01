@@ -1,0 +1,5 @@
+T11	Effect 58 151	neuropsychiatric symptoms, such as Parkinsonism, akathisia, seizure, and depressive disorders
+T13	Treatment 0 22	Therapy with IFN-alpha
+T14	Drug 13 22	IFN-alpha
+T12	Adverse_event 30 45	associated with
+E1	Adverse_event:T12

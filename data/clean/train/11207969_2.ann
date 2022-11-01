@@ -1,0 +1,10 @@
+T7	Treatment 43 61	high dose of ARA-C
+T9	Effect 115 212	bullous lesions on the hands and soles that disseminated, evolving to necrosis, sepsis, and death
+T10	Drug 56 61	ARA-C
+T11	Dosage 43 52	high dose
+T12	Time_elapsed 3 16	the fifth day
+T13	Dosage 63 69	2 g/m2
+T14	Freq 90 98	12 hours
+T15	Time_elapsed 216 228	the 22nd day
+T8	Adverse_event 105 114	developed
+E1	Adverse_event:T8

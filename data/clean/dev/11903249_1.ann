@@ -1,0 +1,11 @@
+T4	Effect 0 21	Cutaneous sarcoidosis
+T8	Subject 101 110	two cases
+T9	Population 101 104	two
+T10	Drug 40 44	alfa
+T12	Drug 49 58	ribavirin
+T6	Treat-Disorder 72 99	hepatitis C virus infection
+T5	Treatment 29 99	interferon alfa and ribavirin treatment of hepatitis C virus infection
+T7	Adverse_event 22 28	during
+T11	Combination 45 48	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T10 arg2:T12

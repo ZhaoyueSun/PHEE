@@ -1,0 +1,6 @@
+T5	Treatment 39 49	Nevirapine
+T3	Effect 5 20	adverse effects
+T6	Route 0 4	Oral
+T7	Drug 39 49	Nevirapine
+T4	Adverse_event 21 24	due
+E1	Adverse_event:T4

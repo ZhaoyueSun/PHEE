@@ -1,0 +1,6 @@
+T7	Treat-Disorder 76 94	multiple sclerosis
+T6	Treatment 0 49	Interferon-beta (IFN-beta) is a type I interferon
+T9	Drug 0 26	Interferon-beta (IFN-beta)
+T10	Drug 32 49	type I interferon
+T8	Potential_therapeutic_event 50 57	used in
+E1	Potential_therapeutic_event:T8

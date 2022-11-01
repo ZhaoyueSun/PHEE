@@ -1,0 +1,8 @@
+T3	Subject 3 38	two patients with mycosis fungoides
+T4	Treatment 96 149	psoralens plus long-wave ultraviolet radiation (PUVA)
+T5	Effect 42 65	squamous cell carcinoma
+T7	Population 3 6	two
+T8	Treat-Disorder 21 38	mycosis fungoides
+T9	Drug 96 105	psoralens
+T6	Adverse_event 66 75	developed
+E1	Adverse_event:T6 

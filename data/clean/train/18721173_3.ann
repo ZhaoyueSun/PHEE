@@ -1,0 +1,6 @@
+T4	Treatment 93 103	gabapentin
+T5	Effect 37 68	a significant type of morbidity
+T6	Subject 11 20	This case
+T7	Drug 93 103	gabapentin
+T3	Adverse_event 86 89	use
+E1	Adverse_event:T3

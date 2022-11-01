@@ -1,0 +1,10 @@
+T6	Treatment 68 92	intravenous chemotherapy
+T8	Subject 0 32	A 23-year-old white male patient
+T9	Age 2 13	23-year-old
+T10	Race 14 19	white
+T11	Gender 20 24	male
+T12	Drug 80 92	chemotherapy
+T13	Treat-Disorder 97 123	acute myelogenous leukemia
+T7	Route 68 79	intravenous
+T5	Potential_therapeutic_event 60 67	receive
+E1	Potential_therapeutic_event:T5

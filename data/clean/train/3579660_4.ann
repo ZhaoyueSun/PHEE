@@ -1,0 +1,7 @@
+T3	Effect 0 32	Worsening of neurologic syndrome
+T4	Subject 36 66	patients with Wilson's disease
+T5	Treatment 80 101	penicillamine therapy
+T8	Drug 80 93	penicillamine
+T9	Treat-Disorder 50 66	Wilson's disease
+T6	Adverse_event 33 35	in
+E1	Adverse_event:T6 

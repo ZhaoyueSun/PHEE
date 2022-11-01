@@ -1,0 +1,7 @@
+T3	Effect 0 16	Renal toxicities
+T4	Treatment 87 109	ciprofloxacin therapy.
+T6	Subject 39 76	less than one percent of the patients
+T7	Population 39 60	less than one percent
+T8	Drug 87 100	ciprofloxacin
+T5	Adverse_event 27 35	reported
+E1	Adverse_event:T5

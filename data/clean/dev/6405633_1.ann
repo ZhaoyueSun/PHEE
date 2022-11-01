@@ -1,0 +1,6 @@
+T4	Treat-Disorder 13 27	lithium tremor
+T5	Treatment 33 43	metoprolol
+T6	Drug 13 20	lithium
+T7	Drug 33 43	metoprolol
+T3	Potential_therapeutic_event 0 12	Treatment of
+E1	Potential_therapeutic_event:T3

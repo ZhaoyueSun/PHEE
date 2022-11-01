@@ -1,0 +1,7 @@
+T8	Treatment 128 138	nevirapine
+T10	Effect 150 153	SJS
+T11	Subject 48 65	patients with HIV
+T13	Drug 128 138	nevirapine
+T14	Treat-Disorder 62 65	HIV
+T9	Adverse_event 139 149	associated
+E1	Adverse_event:T9

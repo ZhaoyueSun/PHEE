@@ -1,0 +1,5 @@
+T3	Treatment 0 9	Tamoxifen
+T5	Effect 29 97	carcinogenic both through direct genotoxic and epigenetic mechanisms
+T6	Drug 0 9	Tamoxifen
+T4	Adverse_event 13 22	suggested
+E1	Adverse_event:T4

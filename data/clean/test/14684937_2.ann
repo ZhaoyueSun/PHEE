@@ -1,0 +1,10 @@
+T6	Effect 0 24	Iatrogenic hypercalcemia
+T7	Treatment 32 98	vitamin D3 ointment (1,24(OH)2D3) combined with thiazide diuretics
+T9	Treat-Disorder 112 121	psoriasis
+T11	Drug 32 42	vitamin D3
+T12	Drug 80 98	thiazide diuretics
+T13	Route 43 51	ointment
+T5	Adverse_event 25 28	due
+T10	Combination 66 74	combined
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T11 arg2:T12

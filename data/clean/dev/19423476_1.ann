@@ -1,0 +1,7 @@
+T7	Effect 0 36	Cryptococcus neoformans fatal sepsis
+T8	Subject 40 78	a chronic lymphocytic leukemia patient
+T9	Treatment 92 103	alemtuzumab
+T12	Treat-Disorder 42 70	chronic lymphocytic leukemia
+T13	Drug 92 103	alemtuzumab
+T10	Adverse_event 37 39	in
+E1	Adverse_event:T10

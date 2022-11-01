@@ -1,0 +1,6 @@
+T5	Effect 0 62	Prolongation of the QT interval and ventricular tachyarrhymias
+T6	Subject 86 94	patients
+T7	Treatment 98 116	amiodarone therapy
+T9	Drug 98 108	amiodarone
+T8	Adverse_event 73 82	described
+E1	Adverse_event:T8

@@ -1,0 +1,6 @@
+T4	Effect 11 44	Sustained ventricular tachycardia
+T5	Treatment 63 74	thalidomide
+T6	Speculation_cue 45 53	possibly
+T7	Drug 63 74	thalidomide
+T3	Adverse_event 54 62	owing to
+E1	Adverse_event:T3

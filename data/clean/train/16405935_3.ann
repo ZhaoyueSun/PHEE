@@ -1,0 +1,6 @@
+T3	Subject 22 28	a case
+T4	Effect 32 48	bilateral ptosis
+T6	Treatment 60 71	chloroquine
+T7	Drug 60 71	chloroquine
+T5	Adverse_event 49 56	induced
+E1	Adverse_event:T5

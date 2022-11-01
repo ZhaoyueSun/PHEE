@@ -1,0 +1,6 @@
+T7	Effect 15 50	obsessive-compulsive symptoms (OCS)
+T8	Treatment 87 100	antipsychotic
+T6	Effect 109 112	OCS
+T11	Drug 87 100	antipsychotic
+T9	Adverse_event 101 108	induced
+E1	Adverse_event:T9 

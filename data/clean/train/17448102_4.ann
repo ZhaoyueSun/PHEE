@@ -1,0 +1,5 @@
+T5	Treatment 0 29	Hypertonic sodium bicarbonate
+T6	Treat-Disorder 69 96	hypotension and arrhythmias
+T8	Drug 11 29	sodium bicarbonate
+T7	Potential_therapeutic_event 47 56	effective
+E1	Potential_therapeutic_event:T7

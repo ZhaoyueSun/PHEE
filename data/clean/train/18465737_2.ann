@@ -1,0 +1,8 @@
+T5	Effect 31 76	incomplete posterior hyaloid detachment (PHD)
+T6	Treatment 87 110	intravitreal pegaptanib
+T7	Route 87 99	intravitreal
+T8	Drug 100 110	pegaptanib
+T9	Treat-Disorder 120 123	DME
+T10	Subject 19 27	one case
+T4	Adverse_event 77 86	following
+E1	Adverse_event:T4

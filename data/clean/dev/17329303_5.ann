@@ -1,0 +1,10 @@
+T8	Subject 0 2	He
+T10	Treatment 58 114	methylphenidate after the discontinuation of risperidone
+T11	Drug 58 73	methylphenidate
+T13	Severity_cue 13 19	severe
+T15	Effect 20 47	hyperactivity and agitation
+T16	Drug 103 114	risperidone
+T9	Gender 0 2	He
+T14	Adverse_event 3 12	developed
+E2	Adverse_event:T14 arg:T8 arg2:T15 arg3:T10
+R1	has_cue Arg1:E2 Arg2:T13

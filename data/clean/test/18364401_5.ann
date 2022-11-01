@@ -1,0 +1,6 @@
+T3	Effect 41 54	hyperglycemia
+T4	Treatment 60 70	olanzapine
+T6	Drug 60 70	olanzapine
+T7	Time_elapsed 122 147	within days of initiation
+T5	Adverse_event 55 59	with
+E1	Adverse_event:T5

@@ -1,0 +1,28 @@
+T13	Treatment 46 54	warfarin
+T14	Effect 63 82	hypoprothrombinemia
+T15	Subject 152 189	a patient with a renal tubular defect
+T16	Sub-Disorder 169 189	renal tubular defect
+T18	Negation_cue 15 21	failed
+T20	Drug 6 14	sulindac
+T21	Drug 46 54	warfarin
+T22	Drug 223 231	warfarin
+T19	Subject 86 108	normal male volunteers
+T24	Gender 93 97	male
+T25	Effect 25 82	affect significantly warfarin-induced hypoprothrombinemia
+T26	Treatment 6 14	sulindac
+T28	Effect 113 148	markedly prolonged prothrombin time
+T29	Drug 6 14	sulindac
+T30	Treatment 6 14;194 231	sulindac had been anticoagulated with warfarin
+T12	Adverse_event 149 151	in
+T23	Adverse_event 55 62	induced
+T27	Adverse_event 25 31	affect
+T31	Combination 203 217	anticoagulated
+E1	Adverse_event:T12 arg2:T28 arg3:T15 arg:T30
+E2	Adverse_event:T23 arg:T13 arg2:T14
+E3	Adverse_event:T27 arg:T26 arg2:T25 arg3:T19
+E4	Combination:T31 arg:T22 arg2:T20
+R1	has_cue Arg1:E3 Arg2:T18	
+R2	has Arg1:T26 Arg2:T29	
+R3	has Arg1:T30 Arg2:T20	
+R4	has_child Arg1:E1 Arg2:E4	
+A1	Negated E3

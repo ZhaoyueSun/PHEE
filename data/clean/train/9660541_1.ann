@@ -1,0 +1,7 @@
+T13	Treatment 14 31	mitomycin C (MMC)
+T15	Effect 43 86;114 178	cancer-associated hemolytic uremic syndrome hemolytic anemia, thrombocytopenia and progressive renal failure
+T16	Speculation_cue 32 35	may
+T17	Drug 14 25	mitomycin C
+T18	Subject 0 13	In rare cases
+T14	Adverse_event 36 42	induce
+E1	Adverse_event:T14

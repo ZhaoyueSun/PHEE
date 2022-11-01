@@ -1,0 +1,16 @@
+T10	Subject 12 22	3 patients
+T11	Treatment 26 61	concomitant amiodarone and warfarin
+T13	Treatment 76 86	amiodarone
+T15	Effect 95 109	thyrotoxicosis
+T14	Population 12 13	3
+T18	Drug 38 48	amiodarone
+T19	Drug 53 61	warfarin
+T22	Drug 76 86	amiodarone
+T23	Effect 76 109	amiodarone-induced thyrotoxicosis
+T12	Adverse_event 66 75	developed
+T17	Combination 26 37	concomitant
+T21	Adverse_event 87 94	induced
+E1	Adverse_event:T12 arg:T23 arg2:T10 arg3:T11
+E2	Combination:T17 arg:T18 arg2:T19
+E3	Adverse_event:T21 arg:T13 arg2:T15
+R1	has_child Arg1:E1 Arg2:E2

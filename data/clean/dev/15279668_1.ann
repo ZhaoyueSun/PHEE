@@ -1,0 +1,6 @@
+T5	Effect 0 27	Fatal peripheral neuropathy
+T6	Treatment 38 54	FLA chemotherapy
+T8	Drug 38 41	FLA
+T9	Route 42 54	chemotherapy
+T4	Adverse_event 28 37	following
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T3	Effect 0 46	Syndrome of inappropriate antidiuretic hormone
+T5	Treatment 63 74	vinorelbine
+T6	Drug 63 74	vinorelbine
+T4	Adverse_event 47 57	associated
+E1	Adverse_event:T4

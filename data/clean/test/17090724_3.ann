@@ -1,0 +1,7 @@
+T3	Treatment 120 147	amphotericin B deoxycholate
+T4	Subject 164 171	patient
+T5	Speculation_cue 49 64	highly probable
+T6	Effect 99 115	cardiac toxicity
+T9	Drug 120 147	amphotericin B deoxycholate
+T7	Adverse_event 65 77	relationship
+E1	Adverse_event:T7

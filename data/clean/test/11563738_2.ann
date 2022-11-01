@@ -1,0 +1,9 @@
+T3	Subject 37 52;111 124	25-year-old man schizophrenia
+T4	Effect 59 63	dead
+T5	Treatment 96 106	olanzapine
+T8	Age 37 48	25-year-old
+T9	Gender 49 52	man
+T10	Drug 96 106	olanzapine
+T11	Treat-Disorder 111 124	schizophrenia
+T7	Adverse_event 53 58	found
+E1	Adverse_event:T7

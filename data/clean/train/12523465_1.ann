@@ -1,0 +1,5 @@
+T5	Treatment 195 205	zonisamide
+T6	Effect 133 188	complex visual hallucinations and altered mental status
+T8	Drug 195 205	zonisamide
+T7	Adverse_event 189 194	after
+E1	Adverse_event:T7

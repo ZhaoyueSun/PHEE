@@ -1,0 +1,8 @@
+T4	Effect 0 27	Severe acute encephalopathy
+T5	Treatment 50 88	intrathecal doxorubicin administration
+T6	Severity_cue 0 6	Severe
+T7	Route 50 61	intrathecal
+T8	Drug 62 73	doxorubicin
+T3	Adverse_event 28 37	following
+E1	Adverse_event:T3 
+A1	Severity E1 High

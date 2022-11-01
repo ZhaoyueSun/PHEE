@@ -1,0 +1,5 @@
+T5	Effect 0 26	Multiple pulmonary nodules
+T6	Treatment 55 66	fludarabine
+T8	Drug 55 66	fludarabine
+T7	Adverse_event 39 51	presentation
+E1	Adverse_event:T7

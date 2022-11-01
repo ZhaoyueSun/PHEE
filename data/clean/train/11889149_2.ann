@@ -1,0 +1,10 @@
+T13	Treatment 0 43	Both raloxifene (RLX) and alendronate (ALN)
+T16	Sub-Disorder 207 219	osteoporosis
+T17	Subject 181 219	postmenopausal women with osteoporosis
+T19	Treat-Disorder 70 89	vertebral fractures
+T15	Drug 5 15	raloxifene
+T18	Drug 26 37	alendronate
+T14	Potential_therapeutic_event 48 53	treat
+E1	Potential_therapeutic_event:T14 
+T1	Effect 91 126	increase bone mineral density (BMD)
+T2	Effect 132 177	decrease biochemical markers of bone turnover

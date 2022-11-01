@@ -1,0 +1,11 @@
+T3	Subject 0 11	Two infants
+T4	Effect 22 34	hyperkalemia
+T6	Treat-Disorder 89 105	infantile spasms
+T7	Treatment 35 84	shortly after cessation of prolonged ACTH therapy
+T8	Population 0 3	Two
+T9	Age 4 11	infants
+T10	Time_elapsed 35 48	shortly after
+T11	Dosage 49 58	cessation
+T12	Drug 72 76	ACTH
+T5	Adverse_event 12 21	developed
+E1	Adverse_event:T5

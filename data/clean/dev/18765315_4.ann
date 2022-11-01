@@ -1,0 +1,9 @@
+T4	Treatment 124 148	first rituximab infusion
+T5	Effect 56 79	acute coronary syndrome
+T6	Speculation_cue 80 112	should always be taken seriously
+T7	Duration 124 129	first
+T8	Drug 130 139	rituximab
+T9	Route 140 148	infusion
+T3	Adverse_event 113 119	during
+E1	Adverse_event:T3 
+A1	Speculated E1

@@ -1,0 +1,7 @@
+T3	Treatment 18 33	pseudoephedrine
+T5	Effect 42 66	intracerebral hemorrhage
+T6	Subject 70 120	a patient with an underlying vascular malformation
+T7	Sub-Disorder 99 120	vascular malformation
+T8	Drug 18 33	pseudoephedrine
+T4	Adverse_event 34 41	induced
+E1	Adverse_event:T4 

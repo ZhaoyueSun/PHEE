@@ -1,0 +1,5 @@
+T7	Treatment 0 25	Treatment with infliximab
+T9	Effect 49 152	increase of autoantibodies (antinuclear antibodies, anti-double-stranded DNA), but not clinical disease
+T10	Drug 15 25	infliximab
+T8	Adverse_event 38 45	produce
+E1	Adverse_event:T8

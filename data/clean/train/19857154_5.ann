@@ -1,0 +1,14 @@
+T10	Subject 22 68	a 57-year-old man with HIV and bipolar disease
+T12	Effect 83 111	rapid and severe weight gain
+T13	Treatment 117 199	quetiapine was added to a stable atazanavir-ritonavir-based antiretroviral regimen
+T14	Age 24 35	57-year-old
+T15	Gender 36 39	man
+T11	Adverse_event 73 82	developed
+E1	Adverse_event:T11 
+T1	Treat-Disorder 45 48	HIV
+T2	Treat-Disorder 53 68	bipolar disease
+T3	Combination 132 137	added
+E2	Combination:T3 arg:T6 arg2:T4 arg3:T5
+T4	Drug 150 160	atazanavir
+T5	Drug 161 170	ritonavir
+T6	Drug 117 127	quetiapine

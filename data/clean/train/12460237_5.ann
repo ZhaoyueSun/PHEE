@@ -1,0 +1,8 @@
+T12	Treatment 89 109	high-dose cytarabine
+T14	Effect 134 137	PPE
+T16	Dosage 89 98	high-dose
+T17	Drug 99 109	cytarabine
+T18	Speculation_cue 171 180	potential
+T11	Adverse_event 181 189	toxicity
+E1	Adverse_event:T11 
+T1	Treat-Disorder 287 312	haematologic malignancies

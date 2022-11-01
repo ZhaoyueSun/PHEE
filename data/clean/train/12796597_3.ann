@@ -1,0 +1,5 @@
+T3	Effect 25 91	focal segmental glomerulosclerosis in chronic myelogenous leukemia
+T5	Treatment 0 16	Interferon-alpha
+T6	Drug 0 16	Interferon-alpha
+T4	Adverse_event 17 24	induced
+E1	Adverse_event:T4

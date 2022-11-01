@@ -1,0 +1,6 @@
+T5	Treat-Disorder 18 49	upper gastrointestinal bleeding
+T7	Treatment 72 82	omeprazole
+T8	Drug 72 82	omeprazole
+T9	Drug 100 107	placebo
+T6	Potential_therapeutic_event 59 66	reduced
+E1	Potential_therapeutic_event:T6

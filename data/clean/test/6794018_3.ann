@@ -1,0 +1,6 @@
+T4	Effect 95 119	intrahepatic cholestasis
+T5	Speculation_cue 120 123	may
+T3	Treatment 135 149	chlorpropamide
+T7	Drug 135 149	chlorpropamide
+T6	Adverse_event 124 129	occur
+E1	Adverse_event:T6

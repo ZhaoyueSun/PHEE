@@ -1,0 +1,9 @@
+T6	Effect 16 19	NMS
+T7	Treatment 49 88	clozapine, risperidone, and amisulpride
+T8	Drug 49 58	clozapine
+T9	Drug 60 71	risperidone
+T11	Drug 77 88	amisulpride
+T5	Adverse_event 20 27	occured
+T10	Combination 73 76	and
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T8 arg2:T9 arg3:T11

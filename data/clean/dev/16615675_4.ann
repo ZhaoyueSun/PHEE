@@ -1,0 +1,6 @@
+T3	Treatment 20 38	chronic use of HCQ
+T5	Effect 55 73	torsade de pointes
+T6	Drug 35 38	HCQ
+T7	Duration 20 27	chronic
+T4	Adverse_event 39 49	associated
+E1	Adverse_event:T4

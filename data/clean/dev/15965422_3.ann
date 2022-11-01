@@ -1,0 +1,22 @@
+T6	Treat-Disorder 38 57	chronic hepatitis C
+T9	Treat-Disorder 157 184	chronic myelocytic leukemia
+T12	Effect 200 247	local cutaneous reactions at sites of injection
+T13	Treatment 258 357	administration of weekly subcutaneous injections of pegylated interferon alfa-2b at different doses
+T8	Drug 310 338	pegylated interferon alfa-2b
+T10	Dosage 342 357	different doses
+T14	Freq 276 282	weekly
+T15	Route 283 306	subcutaneous injections
+T5	Subject 22 57	3 patients with chronic hepatitis C
+T16	Treatment 71 134	pegylated interferon alfa-2b in association with oral ribavirin
+T17	Drug 71 99	pegylated interferon alfa-2b
+T18	Route 120 124	oral
+T19	Drug 125 134	ribavirin
+T20	Subject 139 184	two patients with chronic myelocytic leukemia
+T11	Adverse_event 190 199	developed
+T21	Combination 103 114	association
+E1	Adverse_event:T11 arg:T20 arg2:T12 arg3:T13
+E2	Adverse_event:T11 arg:T5 arg2:T16 arg3:T12
+E3	Combination:T21 arg:T17 arg2:T19
+R1	has_child Arg1:E2 Arg2:E3
+R2	has Arg1:T16 Arg2:T6	
+R3	has Arg1:T13 Arg2:T9	

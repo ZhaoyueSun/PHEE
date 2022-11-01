@@ -1,0 +1,8 @@
+T9	Treatment 0 66	Combination antimicrobial regimens (e.g., linezolid with rifampin)
+T11	Effect 76 133	improving bacterial eradication and preventing resistance
+T13	Drug 42 51	linezolid
+T15	Drug 57 65	rifampin
+T10	Potential_therapeutic_event 67 72	aimed
+T12	Combination 0 11	Combination
+E1	Potential_therapeutic_event:T10 
+E2	Combination:T12 arg:T13 arg2:T15

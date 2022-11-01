@@ -1,0 +1,9 @@
+T3	Effect 27 56	drug-induced Fanconi syndrome
+T4	Speculation_cue 17 26	potential
+T6	Subject 84 111	pediatric oncology patients
+T8	Treat-Disorder 94 102	oncology
+T9	Drug 136 146	ifosfamide
+T10	Treatment 136 146	ifosfamide
+T5	Age 84 93	pediatric
+T12	Adverse_event 123 130	treated
+E2	Adverse_event:T12

@@ -1,0 +1,9 @@
+T7	Subject 51 63	two children
+T9	Treatment 74 119	granulocyte colony-stimulating factor (G-CSF)
+T10	Effect 0 33	Painful neutrophilic skin lesions
+T12	Population 51 54	two
+T13	Age 55 63	children
+T14	Drug 74 111	granulocyte colony-stimulating factor
+T15	Treat-Disorder 137 159	idiopathic neutropenia
+T11	Adverse_event 39 47	observed
+E1	Adverse_event:T11

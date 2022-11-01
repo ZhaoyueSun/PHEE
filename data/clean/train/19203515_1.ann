@@ -1,0 +1,8 @@
+T3	Subject 68 90	a HIV-infected patient
+T4	Treatment 30 64	intravenous immunoglobulin therapy
+T6	Effect 0 19	Acute renal failure
+T7	Sub-Disorder 70 73	HIV
+T8	Drug 42 56	immunoglobulin
+T5	Adverse_event 20 29	following
+E1	Adverse_event:T5 
+T1	Route 30 41	intravenous

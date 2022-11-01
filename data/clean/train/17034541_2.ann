@@ -1,0 +1,7 @@
+T3	Effect 0 30	Several such HBV reactivations
+T5	Treatment 51 97	combined rituximab and multiagent chemotherapy
+T7	Drug 60 69	rituximab
+T10	Treat-Disorder 102 118	B-cell lymphomas
+T8	Route 85 97	chemotherapy
+T4	Adverse_event 45 50	after
+E1	Adverse_event:T4

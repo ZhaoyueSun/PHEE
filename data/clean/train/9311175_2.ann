@@ -1,0 +1,18 @@
+T22	Subject 155 158	one
+T24	Effect 200 253	manifested general erythema, dyspnea, and hypotension
+T25	Drug 144 153	cisplatin
+T26	Treatment 144 153;160 198	cisplatin involving intrahepatic artery infusion
+T27	Route 170 198	intrahepatic artery infusion
+T28	Route 276 296	intravenous infusion
+T30	Effect 298 352	manifested abdominal pain, general erythema, and fever
+T31	Treatment 144 153;266 296	cisplatin involving intravenous infusion
+T32	Treat-Disorder 18 32	ovarian cancer
+T34	Subject 255 264	the other
+T33	Drug 144 153	cisplatin
+T23	Adverse_event 131 140	reactions
+E1	Adverse_event:T23 arg2:T26 arg3:T22 arg:T24
+E2	Adverse_event:T23 arg3:T34 arg:T31 arg2:T30
+R1	has Arg1:T31 Arg2:T25	
+R2	has Arg1:T26 Arg2:T33	
+R3	has Arg1:T31 Arg2:T32	
+R4	has Arg1:T26 Arg2:T32

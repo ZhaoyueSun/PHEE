@@ -1,0 +1,7 @@
+T3	Subject 11 17	a case
+T4	Effect 21 58	cutaneous leucocytoclastic vasculitis
+T5	Treatment 68 82	amphotericin B
+T7	Speculation_cue 83 99	might presumably
+T8	Drug 68 82	amphotericin B
+T6	Adverse_event 100 102	be
+E1	Adverse_event:T6

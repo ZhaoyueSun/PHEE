@@ -1,0 +1,9 @@
+T4	Effect 0 19	Acute renal failure
+T6	Treatment 27 50	lisinopril and losartan
+T7	Treat-Disorder 63 74	proteinuria
+T8	Drug 27 37	lisinopril
+T9	Drug 42 50	losartan
+T5	Adverse_event 20 26	during
+T10	Combination 38 41	and
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T8 arg2:T9

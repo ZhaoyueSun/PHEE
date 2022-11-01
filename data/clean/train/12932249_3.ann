@@ -1,0 +1,11 @@
+T8	Treatment 98 141	combination therapy with IFN and ribavirin.
+T9	Subject 12 37	two dark-skinned patients
+T10	Effect 52 90	hyperpigmented skin and tongue lesions
+T11	Population 12 15	two
+T12	Race 16 28	dark-skinned
+T13	Drug 123 126	IFN
+T14	Drug 131 140	ribavirin
+T7	Adverse_event 91 97	during
+T15	Combination 98 109	combination
+E1	Adverse_event:T7 
+E2	Combination:T15 arg:T13 arg2:T14

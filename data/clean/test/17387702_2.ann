@@ -1,0 +1,11 @@
+T4	Subject 22 83	an 11-year-old female treated for mediastinal T-cell lymphoma
+T6	Effect 98 111	renal failure
+T7	Treatment 112 172	following the second cycle of high-dose methotrexate (HDMTX)
+T8	Age 25 36	11-year-old
+T9	Gender 37 43	female
+T11	Drug 152 172	methotrexate (HDMTX)
+T12	Freq 126 138	second cycle
+T13	Dosage 142 151	high-dose
+T14	Treat-Disorder 56 83	mediastinal T-cell lymphoma
+T5	Adverse_event 88 97	presented
+E1	Adverse_event:T5

@@ -1,0 +1,10 @@
+T6	Treatment 141 153	halofantrine
+T7	Subject 45 84	400 patients on the Thai-Burmese border
+T8	Effect 94 109;169 181	cardiac effects sudden death
+T10	Population 45 48	400
+T11	Drug 141 153	halofantrine
+T13	Drug 113 135	antimalarial treatment
+T12	Combination 136 140	with
+T5	Adverse_event 102 109	effects
+E2	Combination:T12 arg:T11 arg2:T13
+E1	Adverse_event:T5

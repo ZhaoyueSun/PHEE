@@ -1,0 +1,7 @@
+T4	Treatment 33 51	high doses of CCNU
+T5	Treat-Disorder 56 80	chronic myeloid leukemia
+T6	Effect 0 18	Pulmonary fibrosis
+T7	Dosage 33 43	high doses
+T8	Drug 47 51	CCNU
+T3	Adverse_event 19 29	subsequent
+E1	Adverse_event:T3

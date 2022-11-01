@@ -1,0 +1,12 @@
+T6	Treat-Disorder 14 36	lymphoblastic lymphoma
+T7	Treatment 60 86	L-asparaginase and steroid
+T9	Effect 125 151	cortical venous thrombosis
+T10	Effect 196 219	dural puncture headache
+T5	Subject 0 36	Patients with lymphoblastic lymphoma
+T12	Speculation_cue 156 159	may
+T13	Drug 79 86	steroid
+T15	Drug 60 74	L-asparaginase
+T8	Adverse_event 91 102	predisposed
+T14	Combination 75 78	and
+E1	Adverse_event:T8 
+E2	Combination:T14 arg:T15 arg2:T13

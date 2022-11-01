@@ -1,0 +1,6 @@
+T7	Treatment 48 92	trazodone hydrochloride (Molipaxin, Roussel)
+T9	Effect 127 163	generalized pustular psoriasis (GPP)
+T10	Subject 10 19	a patient
+T11	Drug 48 71	trazodone hydrochloride
+T8	Adverse_event 118 126	provoked
+E1	Adverse_event:T8

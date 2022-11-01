@@ -1,0 +1,8 @@
+T6	Treatment 16 29;33 52	ciprofloxacin chronic simvastatin
+T8	Effect 87 101	rhabdomyolysis
+T9	Drug 16 29	ciprofloxacin
+T10	Drug 33 52	chronic simvastatin
+T7	Adverse_event 61 64	led
+T11	Combination 4 12	addition
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

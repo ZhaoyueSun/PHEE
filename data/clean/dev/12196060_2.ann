@@ -1,0 +1,12 @@
+T8	Subject 10 21	a young man
+T9	Effect 49 74	acute neurologic symptoms
+T11	Treatment 25 34;81 91	phenytoin isradipine
+T12	Age 12 17	young
+T13	Gender 18 21	man
+T15	Drug 81 91	isradipine
+T16	Speculation_cue 148 156	possible
+T10	Adverse_event 39 48	developed
+E1	Adverse_event:T10 
+T1	Combination 177 188	interaction
+E2	Combination:T1 arg:T2 arg2:T15
+T2	Drug 25 34	phenytoin

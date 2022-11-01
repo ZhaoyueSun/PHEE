@@ -1,0 +1,5 @@
+T5	Treatment 15 37	a new antifungal agent
+T7	Effect 69 163	a possible drug interaction enhancing the risk of known neurological toxicity with this regime
+T8	Drug 21 37	antifungal agent
+T6	Adverse_event 58 68	suggesting
+E1	Adverse_event:T6

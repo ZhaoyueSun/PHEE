@@ -1,0 +1,9 @@
+T4	Effect 150 176	lethal cardiac arrhythmias
+T5	Speculation_cue 119 149	risk of developing potentially
+T6	Treatment 16 34	chronic use of HCQ
+T7	Treat-Disorder 39 57	rheumatic diseases
+T8	Drug 31 34	HCQ
+T9	Duration 16 23	chronic
+T3	Adverse_event 107 114	against
+E1	Adverse_event:T3 
+A1	Speculated E1

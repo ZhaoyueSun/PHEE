@@ -1,0 +1,11 @@
+T3	Subject 0 12;25 49	Two patients chronic myeloid leukemia
+T4	Treat-Disorder 25 49	chronic myeloid leukemia
+T5	Treatment 69 115	CCNU (1100 mg/m2 and 1240 mg/m2, respectively)
+T7	Effect 134 152	pulmonary fibrosis
+T8	Population 0 3	Two
+T10	Severity_cue 128 133	fatal
+T11	Drug 69 73	CCNU
+T12	Dosage 75 85	1100 mg/m2
+T13	Dosage 90 100	1240 mg/m2
+T6	Adverse_event 116 125	developed
+E1	Adverse_event:T6

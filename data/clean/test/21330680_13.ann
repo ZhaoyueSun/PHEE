@@ -1,0 +1,11 @@
+T9	Effect 84 96	parkinsonism
+T7	Subject 0 19	A 73-year-old woman
+T10	Treatment 30 52;103 120	high-dosage olanzapine smoking cessation
+T11	Age 2 13	73-year-old
+T12	Gender 14 19	woman
+T13	Treat-Disorder 57 73	bipolar disorder
+T14	Drug 42 52	olanzapine
+T15	Dosage 30 41	high-dosage
+T16	Drug 103 110	smoking
+T8	Adverse_event 97 102	after
+E1	Adverse_event:T8

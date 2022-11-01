@@ -1,0 +1,8 @@
+T11	Treatment 17 28	Macrodantin
+T12	Effect 54 87;158 273	less gastrointestinal intolerance liver damage, acute and chronic pulmonary reactions, peripheral neuropathy, blood dyscrasias and allergic reactions
+T14	Subject 317 330	one such case
+T15	Population 317 320	one
+T17	Speculation_cue 95 98	can
+T18	Drug 17 28	Macrodantin
+T13	Adverse_event 116 131	adverse effects
+E1	Adverse_event:T13

@@ -1,0 +1,29 @@
+T5	Treatment 87 105;198 220	blood transfusions cessation of linezolid
+T8	Population 49 53	five
+T10	Effect 63 85	bone marrow depression
+T11	Drug 211 220	linezolid
+T6	Treatment 211 220	linezolid
+T12	Drug 211 220	linezolid
+T14	Subject 0 12	Six patients
+T15	Population 0 3	Six
+T16	Effect 23 44	peripheral neuropathy
+T17	Subject 49 62	five patients
+T18	Treat-Disorder 63 85	bone marrow depression
+T19	Subject 120 134	three patients
+T21	Subject 142 159	all five patients
+T22	Treatment 198 220	cessation of linezolid
+T23	Drug 211 220	linezolid
+T24	Population 120 125	three
+T25	Population 146 150	five
+T9	Potential_therapeutic_event 181 191	normalized
+T13	Adverse_event 13 22	developed
+T20	Potential_therapeutic_event 111 116	given
+E1	Potential_therapeutic_event:T9 arg:T21 arg2:T22
+E2	Adverse_event:T13 arg:T6 arg2:T14 arg3:T16
+E3	Adverse_event:T13 arg:T17 arg2:T10 arg3:T6
+E4	Potential_therapeutic_event:T20 arg:T5 arg2:T19
+R1	has Arg1:T6 Arg2:T12	
+R2	has Arg1:T5 Arg2:T11	
+R3	has Arg1:T5 Arg2:T18	
+R4	has Arg1:T22 Arg2:T23	
+R5	has Arg1:T22 Arg2:T18

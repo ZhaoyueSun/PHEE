@@ -1,0 +1,6 @@
+T3	Effect 0 27	Massive subfascial hematoma
+T5	Treatment 34 51	alteplase therapy
+T7	Drug 34 43	alteplase
+T8	Treat-Disorder 56 83	acute myocardial infarction
+T4	Adverse_event 28 33	after
+E1	Adverse_event:T4

@@ -1,0 +1,9 @@
+T6	Treatment 37 57	a course of steroids
+T7	Effect 70 94	the rash improved slowly
+T9	Subject 25 27	he
+T10	Treat-Disorder 74 78	rash
+T11	Gender 25 27	he
+T12	Dosage 37 45	a course
+T13	Drug 49 57	steroids
+T8	Potential_therapeutic_event 79 87	improved
+E1	Potential_therapeutic_event:T8

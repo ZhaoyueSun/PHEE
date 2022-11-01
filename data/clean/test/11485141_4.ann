@@ -1,0 +1,6 @@
+T5	Subject 21 27	a case
+T6	Effect 31 85	linear immunoglobulin (Ig) A bullous dermatosis (LABD)
+T8	Treatment 97 108	gemcitabine
+T9	Drug 97 108	gemcitabine
+T7	Adverse_event 86 93	induced
+E1	Adverse_event:T7

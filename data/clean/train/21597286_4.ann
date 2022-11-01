@@ -1,0 +1,6 @@
+T4	Effect 2 58;77 97	methotrexate overdosage was shown at 36 h after infusion severe renal failure
+T7	Treatment 2 14	methotrexate
+T5	Severity_cue 77 83	severe
+T8	Drug 2 14	methotrexate
+T6	Adverse_event 59 69	associated
+E1	Adverse_event:T6

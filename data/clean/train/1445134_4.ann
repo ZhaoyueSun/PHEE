@@ -1,0 +1,9 @@
+T5	Effect 0 33;107 127	Masculinization of a female fetus clitoral hypertrophy
+T6	Subject 46 61	5 of 39 (12.8%)
+T7	Treatment 73 87	norethisterone
+T9	Population 46 61	5 of 39 (12.8%)
+T10	Drug 73 87	norethisterone
+T11	Severity_cue 128 160	not requiring surgical treatment
+T8	Adverse_event 62 69	exposed
+E1	Adverse_event:T8 
+A1	Severity E1 Low

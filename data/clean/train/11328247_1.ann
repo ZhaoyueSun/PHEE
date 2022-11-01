@@ -1,0 +1,6 @@
+T3	Effect 68 84	increased libido
+T4	Subject 88 101	some patients
+T5	Treatment 46 57	fluvoxamine
+T9	Drug 46 57	fluvoxamine
+T6	Adverse_event 62 67	cause
+E1	Adverse_event:T6 

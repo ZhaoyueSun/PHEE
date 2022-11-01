@@ -1,0 +1,5 @@
+T3	Effect 0 25	Fulminant hepatic failure
+T5	Treatment 42 54	bicalutamide
+T6	Drug 42 54	bicalutamide
+T4	Adverse_event 26 36	associated
+E1	Adverse_event:T4

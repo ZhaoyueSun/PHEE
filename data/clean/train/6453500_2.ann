@@ -1,0 +1,6 @@
+T3	Effect 0 15	Toxic hepatitis
+T6	Treatment 27 37	disulfiram
+T5	Drug 27 37	disulfiram
+T7	Subject 41 56	a non-alcoholic
+T4	Adverse_event 16 23	induced
+E1	Adverse_event:T4

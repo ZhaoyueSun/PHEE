@@ -1,0 +1,6 @@
+T4	Effect 1 19	Serotonin syndrome
+T6	Treatment 30 78	methylene blue infusion during parathyroidectomy
+T7	Drug 30 44	methylene blue
+T8	Route 45 53	infusion
+T5	Adverse_event 20 29	following
+E1	Adverse_event:T5

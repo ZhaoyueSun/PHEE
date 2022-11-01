@@ -1,0 +1,10 @@
+T11	Subject 10 49	a patient with pulmonary adenocarcinoma
+T12	Effect 65 136	the syndrome of inappropriate secretion of antidiuretic hormone (SIADH)
+T14	Treatment 147 210	systemic chemotherapy with cisplatin (CDDP) and vindesine (VDS)
+T16	Treat-Disorder 25 49	pulmonary adenocarcinoma
+T17	Drug 174 183	cisplatin
+T18	Drug 195 204	vindesine
+T13	Adverse_event 137 146	following
+T19	Combination 191 194	and
+E1	Adverse_event:T13 
+E2	Combination:T19 arg:T18 arg2:T17

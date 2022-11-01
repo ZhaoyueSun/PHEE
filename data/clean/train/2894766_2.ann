@@ -1,0 +1,7 @@
+T3	Treatment 19 32;115 128	sulfasalazine sulfasalazine
+T4	Effect 137 151	lupus syndrome
+T7	Drug 19 32	sulfasalazine
+T8	Treat-Disorder 56 82	inflammatory bowel disease
+T9	Drug 115 128	sulfasalazine
+T6	Adverse_event 129 136	induced
+E1	Adverse_event:T6

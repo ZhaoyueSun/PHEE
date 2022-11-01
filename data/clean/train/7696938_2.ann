@@ -1,0 +1,5 @@
+T3	Effect 51 69	cardiac arrhythmia
+T5	Treatment 77 106	amphotericin B administration
+T6	Drug 77 91	amphotericin B
+T4	Adverse_event 70 76	during
+E1	Adverse_event:T4

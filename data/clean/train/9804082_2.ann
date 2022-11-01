@@ -1,0 +1,8 @@
+T7	Subject 12 31	3 diabetic patients
+T8	Effect 37 90	intolerable dizziness followed by nausea and vomiting
+T9	Treatment 109 180	an initial administration of the alpha-glucosidase inhibitor, voglibose
+T11	Population 12 13	3
+T12	Treat-Disorder 14 22	diabetic
+T13	Drug 171 180	voglibose
+T10	Adverse_event 103 108	after
+E1	Adverse_event:T10 

@@ -1,0 +1,8 @@
+T7	Treatment 0 9	Gefitinib
+T9	Treat-Disorder 151 186	advanced non-small-cell lung cancer
+T10	Drug 0 9	Gefitinib
+T11	Drug 11 17	IRESSA
+T12	Drug 19 25	ZD1839
+T13	Drug 31 89	epidermal growth factor receptor tyrosine kinase inhibitor
+T8	Potential_therapeutic_event 138 147	treatment
+E1	Potential_therapeutic_event:T8

@@ -1,0 +1,6 @@
+T3	Effect 0 27	Sensorimotor polyneuropathy
+T4	Treatment 33 54	5-aminosalicylic acid
+T6	Drug 33 54	5-aminosalicylic acid
+T7	Subject 56 62	a case
+T5	Adverse_event 28 32	with
+E1	Adverse_event:T5

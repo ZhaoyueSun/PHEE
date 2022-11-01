@@ -1,0 +1,7 @@
+T7	Effect 0 49	Localized panniculitis and subsequent lipoatrophy
+T8	Treatment 55 107	subcutaneous glatiramer acetate (Copaxone) injection
+T11	Drug 68 97	glatiramer acetate (Copaxone)
+T12	Route 98 107	injection
+T13	Treat-Disorder 129 147	multiple sclerosis
+T9	Adverse_event 50 54	with
+E1	Adverse_event:T9

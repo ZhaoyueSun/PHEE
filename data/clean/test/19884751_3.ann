@@ -1,0 +1,6 @@
+T14	Effect 35 67;115 215	severe renal tubular dysfunction resulting in refractory hypokalemia, hypocalcemia, hypomagnesemia, metabolic alkalosis, and polyuria
+T15	Treatment 81 113	short-term therapy with Amikacin
+T16	Drug 105 113	Amikacin
+T17	Duration 81 91	short-term
+T13	Adverse_event 25 34	developed
+E1	Adverse_event:T13

@@ -1,0 +1,7 @@
+T3	Effect 0 39	Incomplete posterior hyaloid detachment
+T5	Treat-Disorder 83 105	diabetic macular edema
+T7	Drug 59 69	pegaptanib
+T8	Route 46 58;70 79	intravitreal injection
+T4	Treatment 47 105	ntravitreal pegaptanib injection in diabetic macular edema
+T6	Adverse_event 40 45	after
+E1	Adverse_event:T6

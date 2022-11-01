@@ -1,0 +1,6 @@
+T7	Treatment 19 29	amifostine
+T8	Effect 47 52	fever
+T10	Drug 19 29	amifostine
+T11	Effect 118 150	sepsis and fevers of neutropenia
+T9	Adverse_event 34 41	develop
+E1	Adverse_event:T9

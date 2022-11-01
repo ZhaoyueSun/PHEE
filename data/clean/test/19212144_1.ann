@@ -1,0 +1,11 @@
+T3	Subject 0 52	A 58-year-old man with advanced renal cell carcinoma
+T5	Effect 63 148	grade 3 proteinuria (8.5 g/24 h) without microscopic hematuria or renal insufficiency
+T6	Treatment 149 186	five days after temsirolimus infusion
+T7	Age 2 13	58-year-old
+T8	Gender 14 17	man
+T10	Treat-Disorder 32 52	renal cell carcinoma
+T11	Time_elapsed 149 158	five days
+T12	Drug 165 177	temsirolimus
+T13	Route 178 186	infusion
+T4	Adverse_event 53 62	developed
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T3	Subject 0 2	He
+T5	Effect 22 51	elevated serum ammonia levels
+T6	Treatment 61 74	valproic acid
+T7	Gender 0 2	He
+T8	Drug 61 74	valproic acid
+T4	Adverse_event 12 21	developed
+E1	Adverse_event:T4

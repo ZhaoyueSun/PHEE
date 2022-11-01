@@ -1,0 +1,8 @@
+T3	Treatment 96 105	sorafenib
+T5	Effect 129 162	serious interstitial lung disease
+T6	Drug 96 105	sorafenib
+T7	Treat-Disorder 51 62	lung cancer
+T8	Speculation_cue 110 121	potentially
+T4	Adverse_event 122 128	induce
+E1	Adverse_event:T4 
+A1	Speculated E1

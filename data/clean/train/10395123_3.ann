@@ -1,0 +1,5 @@
+T3	Effect 54 73	fixed drug eruption
+T5	Treatment 88 115	during omeprazole treatment
+T6	Drug 95 105	omeprazole
+T4	Adverse_event 79 87	occurred
+E1	Adverse_event:T4 

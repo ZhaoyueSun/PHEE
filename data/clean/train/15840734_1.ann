@@ -1,0 +1,7 @@
+T6	Treatment 0 12	Fluphenazine
+T8	Effect 21 51	neuroleptic malignant syndrome
+T9	Subject 55 78	a schizophrenic patient
+T11	Drug 0 12	Fluphenazine
+T12	Treat-Disorder 57 70	schizophrenic
+T7	Adverse_event 13 20	induced
+E1	Adverse_event:T7

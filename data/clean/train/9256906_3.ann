@@ -1,0 +1,7 @@
+T3	Treatment 124 153	cessation of suramin treatmen
+T6	Subject 60 71	our patient
+T7	Drug 137 144	suramin
+T8	Dosage 124 133	cessation
+T5	Effect 76 114	his renal function gradually recovered
+T9	Potential_therapeutic_event 105 114	recovered
+E2	Potential_therapeutic_event:T9

@@ -1,0 +1,7 @@
+T5	Subject 15 59	a case of chronic renal failure in a patient
+T6	Effect 75 102	acute hemorrhagic gastritis
+T8	Treatment 119 121	AZ
+T9	Sub-Disorder 25 46	chronic renal failure
+T10	Drug 119 121	AZ
+T7	Adverse_event 103 118	associated with
+E1	Adverse_event:T7 

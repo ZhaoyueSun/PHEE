@@ -1,0 +1,8 @@
+T5	Effect 0 48	Ovarian endometrioid carcinoma and endometriosis
+T7	Subject 63 101	a postmenopausal breast cancer patient
+T8	Treatment 109 126	tamoxifen therapy
+T9	Sub-Disorder 65 79	postmenopausal
+T11	Drug 109 118	tamoxifen
+T12	Treat-Disorder 80 93	breast cancer
+T6	Adverse_event 102 108	during
+E1	Adverse_event:T6 

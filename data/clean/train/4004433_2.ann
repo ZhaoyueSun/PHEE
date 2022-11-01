@@ -1,0 +1,10 @@
+T4	Effect 26 38	hyperkalemia
+T6	Treatment 67 132	low-dose heparin, within seven days of initiating heparin therapy
+T7	Subject 143 205	patients with diabetes mellitus or chronic renal insufficiency
+T8	Sub-Disorder 157 174	diabetes mellitus
+T9	Sub-Disorder 178 205	chronic renal insufficiency
+T10	Dosage 67 75	low-dose
+T11	Drug 76 83	heparin
+T12	Time_elapsed 85 102	within seven days
+T5	Adverse_event 43 50	develop
+E1	Adverse_event:T5 

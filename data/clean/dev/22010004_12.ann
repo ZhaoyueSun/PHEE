@@ -1,0 +1,9 @@
+T10	Subject 70 82	this patient
+T12	Effect 50 66	elevated the INR
+T13	Drug 23 29	niacin
+T15	Drug 34 42	warfarin
+T8	Treatment 3 42	interaction between niacin and warfarin
+T9	Adverse_event 50 58	elevated
+T14	Combination 3 14	interaction
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T13 arg2:T15

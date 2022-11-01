@@ -1,0 +1,12 @@
+T7	Drug 21 34	levetiracetam
+T8	Treatment 21 34	levetiracetam
+T10	Effect 36 44	seizures
+T11	Treat-Disorder 36 44	seizures
+T12	Treatment 58 96	intravenous loading with valproic acid
+T13	Route 58 69	intravenous
+T15	Drug 83 96	valproic acid
+T9	Adverse_event 45 53	recurred
+T14	Potential_therapeutic_event 101 113	administered
+E1	Adverse_event:T9 arg:T8 arg2:T10
+E2	Potential_therapeutic_event:T14 arg:T12
+R1	has Arg1:T12 Arg2:T11

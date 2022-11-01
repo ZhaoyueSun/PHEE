@@ -1,0 +1,7 @@
+T3	Subject 12 21	a patient
+T4	Effect 32 77	systemic allergic contact dermatitis to 8-MOP
+T5	Treatment 114 118	PUVA
+T6	Treat-Disorder 133 142	psoriasis
+T8	Drug 114 118	PUVA
+T7	Adverse_event 78 85	develop
+E1	Adverse_event:T7

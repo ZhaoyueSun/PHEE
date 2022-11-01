@@ -1,0 +1,8 @@
+T5	Effect 20 41	herpesvirus infection
+T6	Subject 74 96	four leukemic patients
+T7	Treatment 114 139	large doses of cytarabine
+T10	Population 74 78	four
+T11	Drug 129 169	cytarabine (cytosine arabinoside; Ara-C)
+T12	Treat-Disorder 79 87	leukemic
+T8	Adverse_event 46 51	found
+E1	Adverse_event:T8

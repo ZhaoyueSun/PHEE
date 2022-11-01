@@ -1,0 +1,8 @@
+T6	Effect 54 72	serotonin syndrome
+T8	Treatment 108 126	serotonergic drugs
+T9	Subject 91 100	a patient
+T10	Drug 108 126	serotonergic drugs
+T11	Speculation_cue 39 50	possibility
+T7	Adverse_event 101 107	taking
+E1	Adverse_event:T7 
+A1	Speculated E1

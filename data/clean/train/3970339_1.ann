@@ -1,0 +1,10 @@
+T4	Subject 0 9	A patient
+T5	Treatment 69 146	injected a solution of diamorphine and methylphenidate into his radial artery
+T6	Effect 27 61	painful, oedematous, cyanosed hand
+T8	Route 69 77;124 146	injected into his radial artery
+T9	Drug 92 103	diamorphine
+T10	Drug 108 123	methylphenidate
+T7	Adverse_event 10 19	presented
+T11	Combination 104 107	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

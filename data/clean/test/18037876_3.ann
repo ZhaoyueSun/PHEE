@@ -1,0 +1,7 @@
+T3	Treatment 39 50	thalidomide
+T6	Effect 0 33	Sustained ventricular tachycardia
+T4	Subject 59 100	patient with primary plasma-cell leukemia
+T8	Treat-Disorder 72 100	primary plasma-cell leukemia
+T9	Drug 39 50	thalidomide
+T7	Adverse_event 51 58	treated
+E1	Adverse_event:T7

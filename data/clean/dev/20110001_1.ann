@@ -1,0 +1,8 @@
+T3	Subject 34 43	a patient
+T5	Effect 67 69	KS
+T6	Treatment 70 79;110 127	12 months imatinib 400 mg/d
+T7	Time_elapsed 70 79	12 months
+T8	Drug 110 118	imatinib
+T9	Dosage 119 127	400 mg/d
+T4	Adverse_event 57 66	developed
+E1	Adverse_event:T4

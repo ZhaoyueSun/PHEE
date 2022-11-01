@@ -1,0 +1,9 @@
+T4	Speculation_cue 90 93	may
+T6	Treatment 78 89	risperidone
+T7	Effect 113 152	psychiatric and physical manifestations
+T8	Subject 160 201	mitochondrial disorder in this adolescent
+T9	Age 191 201	adolescent
+T10	Sub-Disorder 160 182	mitochondrial disorder
+T13	Drug 78 89	risperidone
+T5	Adverse_event 94 107	have worsened
+E1	Adverse_event:T5 

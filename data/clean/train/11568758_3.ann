@@ -1,0 +1,8 @@
+T4	Subject 12 21	a patient
+T5	Effect 40 58	lichenoid eruption
+T7	Treatment 65 92	the initiation of salsalate
+T3	Duration 69 79	initiation
+T8	Drug 83 92	salsalate
+T9	Treat-Disorder 107 121	arthritic pain
+T6	Adverse_event 59 64	after
+E1	Adverse_event:T6

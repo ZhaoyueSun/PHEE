@@ -1,0 +1,5 @@
+T5	Treatment 0 13	Oxcarbazepine
+T7	Effect 41 83	Eosinophilia and Systemic Symptoms (DRESS)
+T8	Drug 0 13	Oxcarbazepine
+T6	Adverse_event 14 21	induced
+E1	Adverse_event:T6

@@ -1,0 +1,6 @@
+T7	Effect 143 203	elevated hepato-biliary enzymes and transient biliary stasis
+T6	Treatment 126 137	ceftriaxone
+T8	Treat-Disorder 54 66	otitis media
+T9	Drug 126 137	ceftriaxone
+T5	Adverse_event 111 125	association of
+E1	Adverse_event:T5

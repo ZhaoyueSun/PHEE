@@ -1,0 +1,13 @@
+T9	Effect 36 51	aplastic anemia
+T11	Drug 118 131	methazolamide
+T12	Drug 187 200	methazolamide
+T13	Subject 23 32	two cases
+T14	Speculation_cue 79 95	almost certainly
+T16	Effect 149 164	agranulocytosis
+T17	Treatment 187 200	methazolamide
+T18	Treatment 118 131	methazolamide
+T10	Adverse_event 96 103	induced
+T15	Adverse_event 165 172	related
+E1	Adverse_event:T10 arg:T13 arg2:T9 arg3:T18
+E2	Adverse_event:T15 arg:T16 arg2:T17
+R1	has_cue Arg1:E1 Arg2:T14

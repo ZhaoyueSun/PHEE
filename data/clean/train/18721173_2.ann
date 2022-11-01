@@ -1,0 +1,5 @@
+T3	Treatment 0 10	Gabapentin
+T4	Effect 23 36	renal failure
+T6	Drug 0 10	Gabapentin
+T5	Adverse_event 11 19	toxicity
+E1	Adverse_event:T5

@@ -1,0 +1,10 @@
+T3	Subject 47 72	two women, aged 25 and 45
+T5	Effect 84 96	acute myopia
+T6	Treatment 112 122	topiramate
+T8	Population 47 50	two
+T9	Gender 51 56	women
+T10	Age 58 72	aged 25 and 45
+T11	Drug 112 122	topiramate
+T12	Treat-Disorder 127 135	epilepsy
+T4	Adverse_event 74 83	developed
+E1	Adverse_event:T4

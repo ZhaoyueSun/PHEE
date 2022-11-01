@@ -1,0 +1,6 @@
+T3	Effect 59 78	myasthenic syndrome
+T5	Treatment 102 118	statin treatment
+T7	Drug 102 108	statin
+T8	Subject 0 28	A few recent individual case
+T4	Adverse_event 86 96	associated
+E1	Adverse_event:T4

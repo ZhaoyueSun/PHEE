@@ -1,0 +1,17 @@
+T7	Subject 0 6	His PD
+T8	Treatment 20 125;145 165	pramipexole, entacapone, and immediate-release levodopa/carbidopa 100 mg/25 mg, 1.5 tablets 4 times daily via nasogastric tube
+T10	Gender 0 3	His
+T11	Treat-Disorder 4 6	PD
+T12	Drug 20 31	pramipexole
+T13	Drug 33 43	entacapone
+T14	Drug 67 75	levodopa
+T15	Drug 76 85	carbidopa
+T16	Dosage 86 92	100 mg
+T17	Dosage 93 98	25 mg
+T18	Dosage 100 111	1.5 tablets
+T19	Freq 112 125	4 times daily
+T20	Route 149 165	nasogastric tube
+T9	Potential_therapeutic_event 132 144	administered
+T21	Combination 45 48	and
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T21 arg:T12 arg2:T13 arg3:T14 arg4:T15

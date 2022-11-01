@@ -1,0 +1,7 @@
+T4	Effect 0 35	Transient neurological disturbances
+T5	Treatment 47 89	the chemotherapy of high-dose methotrexate
+T6	Drug 77 89	methotrexate
+T7	Dosage 67 76	high-dose
+T8	Treat-Disorder 94 112	osteogenic sarcoma
+T3	Adverse_event 36 43	induced
+E1	Adverse_event:T3

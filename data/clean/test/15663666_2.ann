@@ -1,0 +1,13 @@
+T4	Treatment 75 91	withholding ATRA
+T8	Drug 87 91	ATRA
+T12	Negation_cue 14 17	not
+T13	Treatment 29 49	antibiotic treatment
+T14	Treat-Disorder 4 9	ulcer
+T11	Potential_therapeutic_event 18 25	respond
+T5	Potential_therapeutic_event 54 60	healed
+E2	Potential_therapeutic_event:T11 arg:T13
+E3	Potential_therapeutic_event:T5 arg:T4
+R1	has_cue Arg1:E2 Arg2:T12	
+R2	has Arg1:T13 Arg2:T14	
+R3	has Arg1:T4 Arg2:T14	
+A1	Negated E2

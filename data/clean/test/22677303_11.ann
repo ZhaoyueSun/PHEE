@@ -1,0 +1,10 @@
+T7	Treatment 87 95;96 107	warfarin cloxacillin
+T8	Effect 124 143	increased INR value
+T10	Speculation_cue 155 163	probable
+T11	Drug 87 95	warfarin
+T12	Drug 96 107	cloxacillin
+T9	Adverse_event 62 74	relationship
+T13	Combination 108 119	interaction
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T11 arg2:T12
+A1	Speculated E1

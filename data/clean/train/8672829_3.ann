@@ -1,0 +1,7 @@
+T4	Subject 111 138	in the pediatric population
+T6	Treatment 74 84	ifosfamide
+T5	Effect 12 49	Central nervous system (CNS) toxicity
+T8	Age 118 127	pediatric
+T9	Drug 74 84	ifosfamide
+T7	Adverse_event 59 68	described
+E1	Adverse_event:T7

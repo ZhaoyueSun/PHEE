@@ -1,0 +1,11 @@
+T3	Subject 9 94	A 76-year-old woman with primary open-angle glaucoma and no history of ocular surgery
+T5	Effect 107 127	choroidal detachment
+T6	Treatment 128 191	12 hours after initiation of therapy with dorzolamide eye drops
+T7	Age 11 22	76-year-old
+T8	Gender 23 28	woman
+T10	Time_elapsed 128 136	12 hours
+T11	Drug 170 181	dorzolamide
+T12	Treat-Disorder 42 61	open-angle glaucoma
+T13	Route 182 191	eye drops
+T4	Adverse_event 95 104	developed
+E1	Adverse_event:T4

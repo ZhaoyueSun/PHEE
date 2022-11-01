@@ -1,0 +1,7 @@
+T3	Treatment 74 87	carbamazepine
+T4	Effect 181 189	dystonia
+T6	Drug 74 87	carbamazepine
+T7	Speculation_cue 88 91	may
+T5	Adverse_event 147 158	responsible
+E1	Adverse_event:T5 
+A1	Speculated E1

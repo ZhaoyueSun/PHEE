@@ -1,0 +1,6 @@
+T3	Effect 13 25	eosinophilia
+T5	Treatment 65 74	clozapine
+T6	Drug 65 74	clozapine
+T7	Dosage 31 49	non-dose-dependent
+T4	Adverse_event 5 12	induced
+E1	Adverse_event:T4

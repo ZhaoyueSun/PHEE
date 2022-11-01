@@ -1,0 +1,5 @@
+T4	Treatment 131 143	barbiturates
+T6	Effect 195 222	submassive hepatic necrosis
+T7	Drug 131 143	barbiturates
+T5	Adverse_event 189 194	cause
+E1	Adverse_event:T5

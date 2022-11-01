@@ -1,0 +1,11 @@
+T13	Effect 147 150	TdP
+T15	Treatment 0 121	Drug interactions between macrolide antibiotics such as erythomycin and pharmacologic agents that prolong the QT interval
+T16	Drug 56 67	erythomycin
+T17	Drug 72 92	pharmacologic agents
+T19	Drug 26 47	macrolide antibiotics
+T20	Speculation_cue 193 219	less frequently associated
+T14	Adverse_event 141 146	cause
+T18	Combination 5 17	interactions
+E1	Adverse_event:T14 
+E2	Combination:T18 arg:T16 arg2:T17
+A1	Speculated E1

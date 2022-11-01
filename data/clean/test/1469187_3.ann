@@ -1,0 +1,6 @@
+T5	Treatment 54 58	DGTX
+T6	Effect 81 119	cardiac DGTX toxicity (total AV-block)
+T9	Drug 54 58	DGTX
+T10	Drug 21 24	FAB
+T7	Adverse_event 120 129	persisted
+E1	Adverse_event:T7

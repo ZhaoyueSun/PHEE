@@ -1,0 +1,8 @@
+T4	Treatment 23 38	tenofovir (TDF)
+T6	Effect 50 64	nephrotoxicity
+T7	Subject 68 104	perinatally HIV-infected adolescents
+T9	Age 93 104	adolescents
+T10	Drug 23 32	tenofovir
+T8	Treat-Disorder 80 83	HIV
+T5	Adverse_event 39 49	associated
+E1	Adverse_event:T5

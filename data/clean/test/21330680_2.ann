@@ -1,0 +1,7 @@
+T4	Subject 12 21	a patient
+T5	Treatment 29 51;87 104	high-dosage olanzapine smoking cessation
+T7	Effect 68 80	parkinsonism
+T8	Dosage 29 40	high-dosage
+T9	Drug 41 51	olanzapine
+T6	Adverse_event 56 67	experienced
+E1	Adverse_event:T6

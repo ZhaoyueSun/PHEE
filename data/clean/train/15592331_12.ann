@@ -1,0 +1,7 @@
+T9	Treatment 0 13	Ciprofloxacin
+T10	Effect 31 131	plasma concentrations of tizanidine and dangerously potentiates its hypotensive and sedative effects
+T13	Drug 0 13	Ciprofloxacin
+T14	Drug 56 66	tizanidine
+T15	Drug 227 237	tizanidine
+T11	Potential_therapeutic_event 22 30	elevates
+E1	Potential_therapeutic_event:T11

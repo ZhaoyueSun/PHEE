@@ -1,0 +1,6 @@
+T3	Effect 0 5	Cough
+T5	Treatment 61 71	fosinopril
+T6	Drug 17 26	quinapril
+T7	Drug 61 71	fosinopril
+T4	Potential_therapeutic_event 32 42	resolution
+E1	Potential_therapeutic_event:T4

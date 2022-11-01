@@ -1,0 +1,6 @@
+T3	Subject 59 74	44% of patients
+T5	Effect 0 16	Hypersensitivity
+T4	Treatment 20 31;130 164	carboplatin after several courses of treatment
+T7	Drug 20 31	carboplatin
+T6	Adverse_event 17 19	to
+E1	Adverse_event:T6

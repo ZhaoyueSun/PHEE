@@ -1,0 +1,7 @@
+T3	Treatment 14 19	G-CSF
+T5	Effect 27 39	leucocytosis
+T7	Drug 14 19	G-CSF
+T6	Negation_cue 60 63	not
+T4	Adverse_event 20 26	driven
+E1	Adverse_event:T4 
+A1	Negated E1

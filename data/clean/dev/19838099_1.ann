@@ -1,0 +1,7 @@
+T3	Treatment 145 154	dasatinib
+T5	Effect 163 179	pleural effusion
+T6	Subject 129 139	2 patients
+T7	Population 129 130	2
+T8	Drug 145 154	dasatinib
+T4	Adverse_event 155 162	induced
+E1	Adverse_event:T4

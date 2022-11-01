@@ -1,0 +1,8 @@
+T5	Treatment 4 12;26 39	fluorine niflumic acid
+T7	Effect 50 89	marked densification of trabecular bone
+T8	Subject 93 104	all 3 cases
+T9	Population 97 98	3
+T10	Drug 4 12	fluorine
+T11	Drug 26 39	niflumic acid
+T6	Adverse_event 40 47	induced
+E1	Adverse_event:T6

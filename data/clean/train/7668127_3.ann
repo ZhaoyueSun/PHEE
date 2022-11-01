@@ -1,0 +1,8 @@
+T7	Subject 118 145	patients with brain tumours
+T8	Treatment 95 114	aspirin prophylaxis
+T10	Negation_cue 52 54	no
+T11	Sub-Disorder 132 145	brain tumours
+T12	Drug 95 102	aspirin
+T9	Adverse_event 78 91	complications
+E1	Adverse_event:T9 
+A1	Negated E1

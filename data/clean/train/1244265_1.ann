@@ -1,0 +1,12 @@
+T7	Subject 0 47	A 60-year-old white man with chronic bronchitis
+T9	Effect 69 117	acute respiratory failure and metabolic acidosis
+T10	Treatment 151 176	methazolamide (Neptazane)
+T12	Age 2 13	60-year-old
+T13	Race 14 19	white
+T14	Gender 20 23	man
+T15	Sub-Disorder 29 47	chronic bronchitis
+T16	Drug 151 164	methazolamide
+T17	Treat-Disorder 184 206	ophthalmologic problem
+T18	Time_elapsed 118 133	four days after
+T8	Adverse_event 61 68	develop
+E1	Adverse_event:T8 

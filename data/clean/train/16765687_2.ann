@@ -1,0 +1,15 @@
+T5	Treatment 67 98	methylprednisolone and mannitol
+T7	Treat-Disorder 20 61	topiramate-induced angle-closure glaucoma
+T9	Drug 67 85	methylprednisolone
+T10	Drug 90 98	mannitol
+T12	Treatment 20 30	topiramate
+T13	Drug 20 30	topiramate
+T14	Effect 39 61	angle-closure glaucoma
+T6	Potential_therapeutic_event 6 16	resolution
+T8	Combination 86 89	and
+T11	Adverse_event 31 38	induced
+E1	Potential_therapeutic_event:T6 arg:T5
+E2	Combination:T8 arg:T9 arg2:T10
+E3	Adverse_event:T11 arg:T12 arg2:T14
+R1	has Arg1:T5 Arg2:T7	
+R2	has_child Arg1:E1 Arg2:E2

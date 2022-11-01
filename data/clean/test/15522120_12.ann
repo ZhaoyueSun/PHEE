@@ -1,0 +1,11 @@
+T4	Treatment 20 43	two weeks of sertraline
+T5	Effect 67 104	ntense itching sensation in his scalp
+T7	Drug 33 43	sertraline
+T8	Time_elapsed 20 29	two weeks
+T9	Severity_cue 66 73	intense
+T10	Drug 129 138	chocolate
+T6	Adverse_event 57 62	noted
+T11	Combination 111 117	eating
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T10 arg2:T7
+A1	Severity E1 High

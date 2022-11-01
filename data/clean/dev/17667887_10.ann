@@ -1,0 +1,12 @@
+T11	Speculation_cue 164 173	potential
+T10	Treat-Disorder 120 140	psychotic depression
+T13	Effect 178 196	serotonin syndrome
+T14	Subject 20 36	elderly patients
+T16	Age 20 27	elderly
+T17	Drug 59 87	serotonergic antidepressants
+T18	Drug 92 115	atypical antipsychotics
+T15	Treatment 42 140	a combination of serotonergic antidepressants and atypical antipsychotics for psychotic depression
+T12	Adverse_event 148 156	be aware
+T19	Combination 44 55	combination
+E1	Adverse_event:T12 
+E2	Combination:T19 arg:T17 arg2:T18

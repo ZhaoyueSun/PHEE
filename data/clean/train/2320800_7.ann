@@ -1,0 +1,11 @@
+T10	Effect 30 43	lethal anuria
+T11	Treatment 62 72;97 144	ifosfamide having received previous cisplatin chemotherapy
+T13	Subject 87 204	a patient having received previous cisplatin chemotherapy and with poor kidney perfusion due to transient hypotension
+T14	Sub-Disorder 154 175	poor kidney perfusion
+T15	Speculation_cue 12 19	suspect
+T16	Drug 62 72	ifosfamide
+T17	Drug 122 131	cisplatin
+T12	Adverse_event 74 83	occurring
+E1	Adverse_event:T12 
+T1	Combination 104 112	received
+E2	Combination:T1 arg:T16 arg2:T17

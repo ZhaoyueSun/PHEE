@@ -1,0 +1,9 @@
+T4	Treatment 35 71	high-dose methylprednisolone therapy
+T5	Effect 0 27	Acute myocardial infarction
+T6	Drug 45 63	methylprednisolone
+T7	Treat-Disorder 76 98	Graves' ophthalmopathy
+T8	Dosage 35 44	high-dose
+T9	Severity_cue 0 5	Acute
+T3	Adverse_event 28 34	during
+E1	Adverse_event:T3 
+A1	Severity E1 High

@@ -1,0 +1,5 @@
+T5	Effect 12 31	Aphthous stomatitis
+T6	Treatment 101 110	sirolimus
+T8	Drug 101 110	sirolimus
+T7	Adverse_event 85 97	complication
+E1	Adverse_event:T7

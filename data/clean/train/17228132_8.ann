@@ -1,0 +1,6 @@
+T3	Effect 0 14	Hepatotoxicity
+T4	Treatment 29 38	erlotinib
+T6	Treat-Disorder 0 14	Hepatotoxicity
+T7	Drug 29 38	erlotinib
+T5	Potential_therapeutic_event 43 55	discontinued
+E1	Potential_therapeutic_event:T5

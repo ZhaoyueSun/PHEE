@@ -1,0 +1,5 @@
+T3	Effect 12 38	Hypersensitivity reactions
+T5	Treatment 42 54	cyclosporine
+T7	Drug 42 54	cyclosporine
+T4	Adverse_event 39 41	to
+E1	Adverse_event:T4

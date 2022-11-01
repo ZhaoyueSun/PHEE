@@ -1,0 +1,8 @@
+T7	Treatment 34 50	gabapentin (GBP)
+T9	Effect 78 102	behavioural side effects
+T10	Population 10 13	two
+T11	Age 14 20	adults
+T6	Subject 10 20	two adults
+T12	Drug 34 44	gabapentin
+T8	Adverse_event 68 77	developed
+E1	Adverse_event:T8 

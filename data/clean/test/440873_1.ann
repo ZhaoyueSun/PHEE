@@ -1,0 +1,8 @@
+T3	Effect 0 8	Dystonia
+T5	Treatment 25 53	carbamazepine administration
+T6	Subject 69 91	brain-damaged children
+T7	Sub-Disorder 69 82	brain-damaged
+T8	Age 83 91	children
+T9	Drug 25 38	carbamazepine
+T4	Adverse_event 9 24	associated with
+E1	Adverse_event:T4 

@@ -1,0 +1,12 @@
+T6	Subject 0 30	A 34-year-old HIV-infected man
+T7	Treatment 48 96	initiated efavirenz-based antiretroviral therapy
+T9	Sub-Disorder 116 161	disseminated Histoplasma capsulatum infection
+T10	Age 2 13	34-year-old
+T11	Treat-Disorder 14 17	HIV
+T12	Gender 27 30	man
+T13	Drug 58 67	efavirenz
+T14	Drug 74 88	antiretroviral
+T8	Potential_therapeutic_event 48 57	initiated
+E1	Potential_therapeutic_event:T8 
+T1	Combination 68 73	based
+E2	Combination:T1 arg:T13 arg2:T14

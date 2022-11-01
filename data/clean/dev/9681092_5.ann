@@ -1,0 +1,5 @@
+T5	Treatment 39 49;0 16	droperidol Prior to surgery
+T6	Subject 18 29	the patient
+T7	Drug 39 49	droperidol
+T4	Potential_therapeutic_event 30 38	received
+E1	Potential_therapeutic_event:T4

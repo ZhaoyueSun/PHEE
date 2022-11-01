@@ -1,0 +1,5 @@
+T5	Effect 33 60	submassive hepatic necrosis
+T6	Treatment 92 108	propylthiouracil
+T9	Drug 92 108	propylthiouracil
+T7	Adverse_event 65 71	result
+E1	Adverse_event:T7 

@@ -1,0 +1,9 @@
+T7	Treatment 45 70	intravenous valproic acid
+T8	Effect 79 99	seizure exacerbation
+T9	Subject 103 141	a child with juvenile absence epilepsy
+T10	Age 105 110	child
+T12	Drug 57 70	valproic acid
+T13	Route 45 56	intravenous
+T14	Treat-Disorder 116 141	juvenile absence epilepsy
+T6	Adverse_event 71 78	induced
+E1	Adverse_event:T6

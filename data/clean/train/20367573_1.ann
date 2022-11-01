@@ -1,0 +1,9 @@
+T3	Subject 30 38	newborns
+T4	Effect 84 98	thrombocytosis
+T6	Treatment 110 120	enoxaparin
+T7	Age 30 38	newborns
+T8	Drug 110 120	enoxaparin
+T9	Negation_cue 55 57	no
+T5	Adverse_event 99 106	induced
+E1	Adverse_event:T5 
+A1	Negated E1

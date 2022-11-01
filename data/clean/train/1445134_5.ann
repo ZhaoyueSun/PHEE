@@ -1,0 +1,7 @@
+T3	Treatment 0 14	Norethisterone
+T4	Subject 24 38	69 pregnancies
+T7	Population 24 26	69
+T8	Drug 0 14	Norethisterone
+T6	Effect 78 98	clitoral hypertrophy
+T5	Adverse_event 39 48	accounted
+E1	Adverse_event:T5

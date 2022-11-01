@@ -1,0 +1,7 @@
+T3	Effect 25 43	acute pancreatitis
+T5	Treatment 74 84	mesalamine
+T6	Treat-Disorder 97 115	ulcerative colitis
+T7	Drug 74 84	mesalamine
+T8	Subject 12 21	two cases
+T4	Adverse_event 49 57	occurred
+E1	Adverse_event:T4

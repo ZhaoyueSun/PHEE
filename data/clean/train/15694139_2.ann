@@ -1,0 +1,5 @@
+T5	Effect 82 101	teratogenic effects
+T6	Treatment 0 11	Thalidomide
+T7	Drug 0 11	Thalidomide
+T4	Adverse_event 53 62	following
+E1	Adverse_event:T4

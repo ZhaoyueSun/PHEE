@@ -1,0 +1,6 @@
+T3	Treatment 26 33	danazol
+T5	Effect 42 58	thrombocytopenia
+T6	Subject 13 22	this case
+T7	Drug 26 33	danazol
+T4	Adverse_event 34 41	induced
+E1	Adverse_event:T4

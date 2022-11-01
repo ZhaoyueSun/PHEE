@@ -1,0 +1,8 @@
+T4	Treatment 35 84	recombinant alpha-2b peginterferon plus ribavirin
+T6	Effect 94 118	type 1 diabetes mellitus
+T7	Drug 35 69	recombinant alpha-2b peginterferon
+T9	Drug 75 84	ribavirin
+T5	Adverse_event 85 93	provoked
+T8	Combination 70 74	plus
+E1	Adverse_event:T5 
+E2	Combination:T8 arg:T9 arg2:T7

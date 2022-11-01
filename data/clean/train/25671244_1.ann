@@ -1,0 +1,9 @@
+T6	Effect 0 18	Serotonin syndrome
+T8	Treatment 29 48	metaxalone overdose
+T9	Drug 29 39	metaxalone
+T10	Dosage 40 48	overdose
+T11	Drug 74 112	selective serotonin reuptake inhibitor
+T7	Adverse_event 19 28	following
+T12	Combination 49 52	and
+E1	Adverse_event:T7 
+E2	Combination:T12 arg:T9 arg2:T11

@@ -1,0 +1,11 @@
+T3	Subject 118 190	a 29-year Nigerian female patient with generalized tonic-elonic seizures
+T4	Effect 14 52	syndrome of inappropriate antidiuresis
+T5	Treatment 86 99	carbamazepine
+T8	Age 120 127	29-year
+T9	Race 128 136	Nigerian
+T10	Gender 137 143	female
+T6	Drug 86 99	carbamazepine
+T12	Time_elapsed 58 70	much earlier
+T13	Treat-Disorder 157 190	generalized tonic-elonic seizures
+T7	Adverse_event 71 82	side-effect
+E1	Adverse_event:T7

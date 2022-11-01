@@ -1,0 +1,5 @@
+T9	Effect 13 83	recurrent skin rash, fever, hypereosinophilia, and acute renal failure
+T10	Treatment 90 119	rechallenge with chlorambucil
+T11	Drug 107 119	chlorambucil
+T8	Adverse_event 3 12	developed
+E1	Adverse_event:T8

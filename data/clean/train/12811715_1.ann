@@ -1,0 +1,14 @@
+T5	Treatment 67 82	diphenhydramine
+T6	Effect 91 105	cardiotoxicity
+T9	Drug 67 82	diphenhydramine
+T7	Speculation_cue 106 111	could
+T11	Treatment 129 158	hypertonic sodium bicarbonate
+T12	Drug 129 158	hypertonic sodium bicarbonate
+T13	Treat-Disorder 67 105	diphenhydramine-induced cardiotoxicity
+T3	Adverse_event 83 90	induced
+T4	Potential_therapeutic_event 115 125	responsive
+E1	Adverse_event:T3 arg:T5 arg2:T6
+E2	Potential_therapeutic_event:T4 arg:T11
+R1	has_cue Arg1:E2 Arg2:T7	
+R2	has Arg1:T11 Arg2:T13	
+A1	Negated E1

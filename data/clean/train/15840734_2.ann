@@ -1,0 +1,7 @@
+T8	Effect 21 67	a case of neuroleptic malignant syndrome (NMS)
+T9	Treatment 84 96	fluphenazine
+T10	Subject 102 123	schizophrenic patient
+T11	Treat-Disorder 102 115	schizophrenic
+T12	Drug 84 96	fluphenazine
+T7	Adverse_event 68 78	associated
+E1	Adverse_event:T7 

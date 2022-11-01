@@ -1,0 +1,8 @@
+T4	Treatment 66 91	intraperitoneal cisplatin
+T5	Subject 95 106	3 patients.
+T6	Effect 39 62	anaphylactoid reactions
+T7	Population 95 96	3
+T8	Drug 82 91	cisplatin
+T9	Route 66 81	intraperitoneal
+T3	Adverse_event 63 65	to
+E1	Adverse_event:T3

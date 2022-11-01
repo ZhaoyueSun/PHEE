@@ -1,0 +1,6 @@
+T3	Treatment 148 160	methotrexate
+T4	Effect 173 191	neurotoxic effects
+T6	Subject 129 137	patients
+T7	Drug 148 160	methotrexate
+T5	Adverse_event 164 168	risk
+E1	Adverse_event:T5

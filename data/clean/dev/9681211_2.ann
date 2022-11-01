@@ -1,0 +1,5 @@
+T3	Effect 0 32	Leukaemoid monocytosis in M4 AML
+T5	Treatment 43 65	chemotherapy and G-CSF
+T6	Drug 60 65	G-CSF
+T4	Adverse_event 33 42	following
+E1	Adverse_event:T4

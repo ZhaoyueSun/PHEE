@@ -1,0 +1,8 @@
+T3	Subject 36 58	a mentally healthy man
+T5	Effect 86 141	short-lived, obsessional-like suicidal ideas and images
+T6	Treatment 148 194	ingestion of the anti-fungal drug ketoconazole
+T7	Gender 55 58	man
+T8	Route 148 157	ingestion
+T9	Drug 182 194	ketoconazole
+T4	Adverse_event 74 85	experienced
+E1	Adverse_event:T4

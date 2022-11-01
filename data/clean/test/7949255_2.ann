@@ -1,0 +1,12 @@
+T7	Subject 5 12	patient
+T9	Effect 23 114	sequential symptoms including alternative hemiparesis, dysarthria and altered consciousness
+T10	Treatment 128 215	the second course of HD-MTX (8 gm/m2 by 6 h continuous infusion) with leucovorin rescue
+T11	Time_elapsed 115 145	5 days after the second course
+T12	Drug 152 155	MTX
+T14	Drug 198 215	leucovorin rescue
+T15	Dosage 157 182	8 gm/m2 by 6 h continuous
+T16	Route 183 191	infusion
+T8	Adverse_event 13 22	developed
+T13	Combination 193 197	with
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T14 arg2:T12

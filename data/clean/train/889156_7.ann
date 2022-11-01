@@ -1,0 +1,6 @@
+T6	Treatment 110 120	oleic acid
+T7	Effect 90 106	adverse reaction
+T9	Speculation_cue 176 194	strong possibility
+T10	Drug 110 120	oleic acid
+T8	Adverse_event 107 109	to
+E1	Adverse_event:T8

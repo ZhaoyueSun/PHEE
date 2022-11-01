@@ -1,0 +1,6 @@
+T3	Effect 32 42	dacryolith
+T4	Speculation_cue 43 52	suggested
+T6	Treatment 73 105	breakdown products of adrenaline
+T8	Drug 95 105	adrenaline
+T5	Adverse_event 68 72	from
+E1	Adverse_event:T5

@@ -1,0 +1,9 @@
+T8	Effect 0 18	Serotonin toxicity
+T10	Treatment 35 43	fentanyl
+T12	Drug 35 43	fentanyl
+T13	Drug 113 118	SSRIs
+T11	Speculation_cue 47 54	unusual
+T9	Adverse_event 19 31	precipitated
+T14	Combination 96 107	combination
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T12 arg2:T13

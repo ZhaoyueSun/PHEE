@@ -1,0 +1,6 @@
+T3	Effect 52 62	ductopenia
+T5	Treatment 84 95	clindamycin
+T6	Speculation_cue 31 47	to our knowledge
+T7	Drug 84 95	clindamycin
+T4	Adverse_event 74 80	caused
+E1	Adverse_event:T4

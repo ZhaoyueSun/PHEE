@@ -1,0 +1,8 @@
+T3	Subject 0 52	A depressed woman with no history of bipolar illness
+T4	Effect 65 78	manic episode
+T6	Treatment 101 111	fluoxetine
+T8	Gender 12 17	woman
+T9	Drug 101 111	fluoxetine
+T10	Treat-Disorder 2 11	depressed
+T5	Adverse_event 79 85	during
+E1	Adverse_event:T5 

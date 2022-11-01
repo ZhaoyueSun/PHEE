@@ -1,0 +1,8 @@
+T13	Effect 218 302	fever, infectious complications, gastrointestinal tract symptoms and severe myalgias
+T14	Treatment 85 97;130 158	chemotherapy cytosine arabinoside (ARA-C)
+T16	Subject 201 205	five
+T17	Population 201 205	five
+T18	Drug 130 150	cytosine arabinoside
+T19	Duration 43 54	three-month
+T15	Adverse_event 206 217	experienced
+E1	Adverse_event:T15

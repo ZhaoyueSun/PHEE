@@ -1,0 +1,8 @@
+T3	Subject 62 79	childhood cancers
+T4	Effect 25 38	liver failure
+T6	Treatment 85 88	AMD
+T7	Age 62 71	childhood
+T8	Treat-Disorder 72 79	cancers
+T9	Drug 85 88	AMD
+T5	Adverse_event 39 48	following
+E1	Adverse_event:T5 

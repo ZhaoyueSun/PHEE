@@ -1,0 +1,8 @@
+T6	Treatment 96 125	low-dose methotrexate therapy
+T7	Effect 146 176	the development of lung cancer
+T10	Dosage 96 104	low-dose
+T11	Drug 105 117	methotrexate
+T8	Subject 72 90	pulmonary fibrosis
+T12	Sub-Disorder 72 90	pulmonary fibrosis
+T9	Adverse_event 137 145	promoted
+E1	Adverse_event:T9 

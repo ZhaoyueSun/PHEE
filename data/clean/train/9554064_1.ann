@@ -1,0 +1,7 @@
+T7	Effect 35 64	central nervous system insult
+T9	Treatment 0 17	Methanol toxicity
+T10	Drug 0 8	Methanol
+T11	Severity_cue 28 34	severe
+T8	Adverse_event 22 27	cause
+E1	Adverse_event:T8 
+A1	Severity E1 High

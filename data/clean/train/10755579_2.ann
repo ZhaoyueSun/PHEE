@@ -1,0 +1,5 @@
+T9	Drug 56 66	fluoxetine
+T8	Effect 40 45	death
+T5	Treatment 56 75	fluoxetine toxicity
+T7	Adverse_event 46 52	caused
+E1	Adverse_event:T7 

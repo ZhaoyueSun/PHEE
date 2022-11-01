@@ -1,0 +1,10 @@
+T6	Treatment 108 122;127 138	methylene blue venlafaxine
+T8	Effect 49 67	serotonin toxicity
+T9	Drug 108 122	methylene blue
+T10	Drug 127 138	venlafaxine
+T12	Severity_cue 30 35	fatal
+T7	Adverse_event 69 81	precipitated
+T11	Combination 88 99	interaction
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10
+A1	Severity E1 High

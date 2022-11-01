@@ -1,0 +1,5 @@
+T3	Treatment 11 21	amantadine
+T4	Effect 59 73	cornea cleared
+T7	Drug 11 21	amantadine
+T5	Adverse_event 22 25	was
+E1	Adverse_event:T5

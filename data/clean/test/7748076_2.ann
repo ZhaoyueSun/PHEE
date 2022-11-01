@@ -1,0 +1,6 @@
+T3	Effect 36 81	squamous metaplasia within endometrial glands
+T5	Treatment 107 124	progestin therapy
+T6	Treat-Disorder 128 139	hyperplasia
+T7	Drug 107 116	progestin
+T4	Adverse_event 92 106	as a result of
+E1	Adverse_event:T4

@@ -1,0 +1,15 @@
+T32	Treatment 259 300	trimethoprim (TMP)-sulfamethoxazole (SMX)
+T33	Effect 123 232	fever, skin eruptions, cervical lymphadenopathy, hepatosplenomegaly, atypical lymphocytosis, and eosinophilia
+T34	Subject 0 107	A 27-year-old man who had a history of bronchial asthma, eosinophilic enteritis, and eosinophilic pneumonia
+T35	Age 2 13	27-year-old
+T36	Gender 14 17	man
+T37	Sub-Disorder 39 55	bronchial asthma
+T38	Drug 259 271	trimethoprim
+T39	Drug 278 294	sulfamethoxazole
+T41	Time_elapsed 233 248	two weeks after
+T44	Sub-Disorder 57 79	eosinophilic enteritis
+T45	Sub-Disorder 85 107	eosinophilic pneumonia
+T31	Adverse_event 249 258	receiving
+T40	Combination 277 278	-
+E1	Adverse_event:T31 
+E2	Combination:T40 arg:T39 arg2:T38

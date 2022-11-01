@@ -1,0 +1,7 @@
+T5	Effect 78 97;155 169	myocardial necrosis cardiotoxicity
+T6	Treatment 137 146	amsacrine
+T8	Drug 137 146	amsacrine
+T9	Speculation_cue 103 111	possible
+T7	Adverse_event 147 154	related
+E1	Adverse_event:T7 
+A1	Speculated E1

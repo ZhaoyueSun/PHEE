@@ -1,0 +1,5 @@
+T7	Treatment 35 42	heparin
+T9	Effect 51 85	thrombocytopenia and skin necrosis
+T10	Drug 35 42	heparin
+T8	Adverse_event 43 50	induced
+E1	Adverse_event:T8

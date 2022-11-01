@@ -1,0 +1,6 @@
+T3	Treatment 74 162	discontinuation of amoxapine, and antidepressant which may also have neuroleptic effects
+T7	Drug 108 122	antidepressant
+T9	Effect 31 53	oral-facial dyskinesia
+T1	Drug 93 102	amoxapine
+T2	Adverse_event 59 67	occurred
+E1	Adverse_event:T2 

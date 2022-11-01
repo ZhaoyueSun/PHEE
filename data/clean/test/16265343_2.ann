@@ -1,0 +1,5 @@
+T3	Effect 0 25	Reversible cardiomyopathy
+T5	Treatment 36 70	administration of interferon alpha
+T6	Drug 54 70	interferon alpha
+T4	Adverse_event 26 35	caused by
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T3	Treatment 108 140	products containing L-tryptophan
+T4	Effect 67 96	eosinophilia-myalgia syndrome
+T6	Drug 128 140	L-tryptophan
+T5	Adverse_event 97 104	related
+E1	Adverse_event:T5

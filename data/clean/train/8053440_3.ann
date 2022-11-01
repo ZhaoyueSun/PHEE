@@ -1,0 +1,6 @@
+T5	Subject 0 18	The second patient
+T7	Effect 34 45;104 116	cholestasis duct paucity
+T8	Treatment 62 91	trimethoprim-sulfamethoxazole
+T9	Drug 62 91	trimethoprim-sulfamethoxazole
+T6	Adverse_event 24 33	developed
+E1	Adverse_event:T6

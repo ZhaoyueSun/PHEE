@@ -1,0 +1,9 @@
+T3	Effect 21 27	stroke
+T4	Treatment 34 37	PPA
+T6	Subject 91 139	an 8-year-old boy on chronic peritoneal dialysis
+T7	Age 94 104	8-year-old
+T8	Gender 105 108	boy
+T9	Drug 34 37	PPA
+T10	Time_elapsed 62 70	4 months
+T5	Adverse_event 28 33	after
+E1	Adverse_event:T5

@@ -1,0 +1,5 @@
+T7	Treatment 62 69	tacrine
+T8	Effect 78 92	hepatotoxicity
+T6	Drug 62 69	tacrine
+T5	Adverse_event 70 77	induced
+E1	Adverse_event:T5

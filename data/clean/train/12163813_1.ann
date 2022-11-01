@@ -1,0 +1,10 @@
+T4	Effect 125 152	ischemic skin complications
+T5	Treatment 13 62	Peripheral administration of low-dose vasopressin
+T7	Speculation_cue 117 121	risk
+T6	Treat-Disorder 67 79	septic shock
+T8	Drug 51 62	vasopressin
+T9	Dosage 42 50	low-dose
+T10	Route 13 38	Peripheral administration
+T3	Adverse_event 117 121	risk
+E1	Adverse_event:T3 
+A1	Speculated E1

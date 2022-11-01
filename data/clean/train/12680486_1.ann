@@ -1,0 +1,12 @@
+T6	Treatment 88 95	lithium
+T7	Drug 88 95	lithium
+T3	Treat-Disorder 56 103	diabetes insipidus secondary to lithium therapy
+T9	Effect 120 132	successfully
+T11	Treatment 138 147	amiloride
+T12	Drug 138 147	amiloride
+T13	Effect 56 74	diabetes insipidus
+T4	Adverse_event 41 50	diagnosed
+T5	Potential_therapeutic_event 112 119	treated
+E1	Adverse_event:T4 arg:T13 arg2:T6
+E2	Potential_therapeutic_event:T5 arg:T9 arg2:T11
+R1	has Arg1:T11 Arg2:T3

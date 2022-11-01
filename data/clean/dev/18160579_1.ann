@@ -1,0 +1,5 @@
+T3	Effect 0 22	Pericardial hemorrhage
+T5	Treatment 30 50	acetylsalicylic acid
+T6	Drug 30 50	acetylsalicylic acid
+T4	Adverse_event 23 26	due
+E1	Adverse_event:T4

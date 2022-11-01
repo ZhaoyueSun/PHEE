@@ -1,0 +1,5 @@
+T3	Treatment 76 94	hydroxychloroquine
+T4	Effect 119 142	symptomatic vision loss
+T6	Drug 76 94	hydroxychloroquine
+T5	Adverse_event 112 118	before
+E1	Adverse_event:T5

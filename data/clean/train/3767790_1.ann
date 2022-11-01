@@ -1,0 +1,5 @@
+T3	Treatment 39 49	tolazoline
+T5	Effect 0 19	Duodenal ulceration
+T6	Drug 39 49	tolazoline
+T4	Adverse_event 23 35	complication
+E1	Adverse_event:T4

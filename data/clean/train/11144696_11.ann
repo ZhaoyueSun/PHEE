@@ -1,0 +1,10 @@
+T8	Effect 181 189	seizures
+T9	Treatment 82 110	venlafaxine and trimipramine
+T10	Speculation_cue 142 145	may
+T11	Speculation_cue 3 14	hypothesize
+T13	Drug 82 93	venlafaxine
+T14	Drug 98 110	trimipramine
+T7	Adverse_event 168 176	inducing
+T15	Combination 94 97	and
+E1	Adverse_event:T7 
+E2	Combination:T15 arg:T13 arg2:T14

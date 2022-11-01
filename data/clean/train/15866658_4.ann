@@ -1,0 +1,5 @@
+T3	Treatment 20 23	MMF
+T4	Effect 33 53	bone marrow toxicity
+T6	Drug 20 23	MMF
+T5	Adverse_event 65 73	reported
+E1	Adverse_event:T5

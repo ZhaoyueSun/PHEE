@@ -1,0 +1,10 @@
+T10	Treatment 0 87	Acute pharmacokinetic and pharmacodynamic interactions between phenytoin and isradipine
+T12	Effect 118 164	the lethargy, dysarthria, ataxia, and weakness
+T14	Drug 63 72	phenytoin
+T15	Drug 77 87	isradipine
+T16	Speculation_cue 93 101	probably
+T11	Adverse_event 102 113	responsible
+T13	Combination 42 54	interactions
+E1	Adverse_event:T11 
+E2	Combination:T13 arg:T14 arg2:T15
+A1	Speculated E1

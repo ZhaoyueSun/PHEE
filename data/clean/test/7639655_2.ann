@@ -1,0 +1,5 @@
+T3	Effect 12 46	Anterior ischemic optic neuropathy
+T5	Treatment 77 92	interferon alfa
+T6	Drug 77 92	interferon alfa
+T4	Adverse_event 51 61	complicate
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T4	Treatment 32 43	ticlopidine
+T5	Effect 0 15	Agranulocytosis
+T6	Drug 32 43	ticlopidine
+T3	Adverse_event 16 26	associated
+E1	Adverse_event:T3

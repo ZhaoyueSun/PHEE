@@ -1,0 +1,8 @@
+T3	Treatment 56 65	tamoxifen
+T4	Effect 93 148	subsequent development of carcinoma of the corpus uteri
+T5	Subject 152 166	these patients
+T7	Speculation_cue 66 69	may
+T8	Drug 56 65	tamoxifen
+T6	Adverse_event 73 84	responsible
+E1	Adverse_event:T6 
+A1	Speculated E1

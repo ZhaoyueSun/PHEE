@@ -1,0 +1,5 @@
+T4	Effect 0 14	Rhabdomyolysis
+T5	Treatment 25 51	clarithromycin monotherapy
+T6	Drug 25 39	clarithromycin
+T3	Adverse_event 15 24	following
+E1	Adverse_event:T3

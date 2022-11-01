@@ -1,0 +1,5 @@
+T3	Effect 0 50	Clinical, spectroscopic, and imaging abnormalities
+T5	Treatment 84 97	metronidazole
+T6	Drug 84 97	metronidazole
+T4	Potential_therapeutic_event 51 59	resolved
+E1	Potential_therapeutic_event:T4

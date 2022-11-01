@@ -1,0 +1,5 @@
+T5	Effect 0 20	Asthma and urticaria
+T7	Treatment 28 59	disodium cromoglycate treatment
+T8	Drug 28 49	disodium cromoglycate
+T6	Adverse_event 21 27	during
+E1	Adverse_event:T6

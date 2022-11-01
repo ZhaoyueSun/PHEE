@@ -1,0 +1,10 @@
+T7	Effect 163 182	endometrial lesions
+T8	Effect 194 203	carcinoma
+T9	Speculation_cue 134 137	may
+T5	Treatment 96 133	addition of progestogens to tamoxifen
+T10	Drug 108 120	progestogens
+T11	Drug 124 133	tamoxifen
+T6	Adverse_event 134 148	may not reduce
+T12	Combination 96 104	addition
+E1	Adverse_event:T6 
+E2	Combination:T12 arg:T10 arg2:T11

@@ -1,0 +1,12 @@
+T5	Subject 0 12	Two patients
+T7	Treatment 65 70	ergot
+T8	Effect 79 91	arteriospasm
+T9	Population 0 3	Two
+T12	Drug 65 70	ergot
+T13	Effect 18 54	imminent gangrene of the extremities
+T15	Sub-Disorder 65 91	ergot-induced arteriospasm
+T6	Adverse_event 71 78	induced
+T14	Adverse_event 55 61	caused
+E1	Adverse_event:T6 arg:T7 arg2:T8
+E2	Adverse_event:T14 arg:T13 arg2:T7 arg3:T5
+R1	has Arg1:T5 Arg2:T15

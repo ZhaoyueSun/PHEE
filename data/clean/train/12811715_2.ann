@@ -1,0 +1,6 @@
+T3	Treat-Disorder 0 48	Diphenhydramine-induced wide complex dysrhythmia
+T4	Treatment 61 94	treatment with sodium bicarbonate
+T7	Drug 0 15	Diphenhydramine
+T8	Drug 76 94	sodium bicarbonate
+T5	Potential_therapeutic_event 58 60	to
+E2	Potential_therapeutic_event:T5

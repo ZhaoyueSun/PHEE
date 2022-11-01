@@ -1,0 +1,6 @@
+T3	Treatment 67 85;126 136	calcium antagonist nimodipine
+T5	Effect 95 100	ileus
+T6	Subject 104 112	patients
+T7	Drug 126 136	nimodipine
+T4	Adverse_event 87 94	related
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T3	Effect 0 42	Acute generalized exanthematous pustulosis
+T5	Treatment 53 61	morphine
+T6	Drug 53 61	morphine
+T4	Adverse_event 43 49	caused
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T4	Effect 10 44	increase in the theophylline level
+T6	Treatment 51 77	zafirlukast administration
+T7	Drug 51 62	zafirlukast
+T5	Adverse_event 45 50	after
+E1	Adverse_event:T5

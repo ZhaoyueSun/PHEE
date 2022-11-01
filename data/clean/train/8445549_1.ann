@@ -1,0 +1,5 @@
+T4	Treatment 123 136	penicillamine
+T5	Effect 32 34	PV
+T8	Drug 123 136	penicillamine
+T3	Adverse_event 79 89	associated
+E1	Adverse_event:T3

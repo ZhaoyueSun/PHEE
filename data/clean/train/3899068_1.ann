@@ -1,0 +1,5 @@
+T3	Effect 0 11	Ototoxicity
+T4	Treatment 27 54	cis-platinum administration
+T6	Drug 27 39	cis-platinum
+T5	Adverse_event 17 23	result
+E1	Adverse_event:T5

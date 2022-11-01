@@ -1,0 +1,6 @@
+T6	Effect 31 46;95 122	Crohn's disease long-term immunosuppression
+T7	Subject 13 20	patient
+T8	Treatment 56 64	Copaxone
+T9	Drug 56 64	Copaxone
+T5	Adverse_event 21 30	developed
+E1	Adverse_event:T5

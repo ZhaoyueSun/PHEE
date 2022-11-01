@@ -1,0 +1,5 @@
+T6	Effect 38 72;149 192	classical transient global amnesia a more or less extensive retrograde amnesia
+T7	Treatment 95 105	clioquinol
+T8	Drug 95 105	clioquinol
+T5	Adverse_event 89 94	after
+E1	Adverse_event:T5

@@ -1,0 +1,10 @@
+T4	Effect 0 19	Hepatotoxic effects
+T5	Subject 23 30	a child
+T7	Treatment 41 64	valproate and carnitine
+T8	Age 25 30	child
+T9	Drug 41 50	valproate
+T10	Drug 55 64	carnitine
+T6	Adverse_event 31 40	receiving
+T11	Combination 51 54	and
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T9 arg2:T10

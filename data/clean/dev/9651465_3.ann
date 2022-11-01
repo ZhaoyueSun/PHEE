@@ -1,0 +1,7 @@
+T6	Treatment 38 123	different pancreatic enzymes preparations, ie, Creon 10, Viokase, and Pancrease MT 16
+T7	Effect 4 12	vomiting
+T8	Drug 85 93	Creon 10
+T9	Drug 95 102	Viokase
+T10	Drug 108 123	Pancrease MT 16
+T5	Adverse_event 25 34	switching
+E1	Adverse_event:T5

@@ -1,0 +1,10 @@
+T6	Treatment 109 138;196 257	administration of propafenone receiving lithium at concentrations within therapeutic levels
+T7	Effect 20 98	ST elevation in right precordial leads compatible with type 1 Brugada syndrome
+T5	Subject 142 187	a patient with Wolff-Parkinson-White syndrome
+T10	Drug 127 138	propafenone
+T8	Adverse_event 99 108	following
+E1	Adverse_event:T8 
+T1	Treat-Disorder 157 187	Wolff-Parkinson-White syndrome
+T2	Combination 109 123	administration
+E2	Combination:T2 arg:T10 arg2:T3
+T3	Drug 206 213	lithium

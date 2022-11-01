@@ -1,0 +1,10 @@
+T3	Subject 3 26	three of these patients
+T4	Treatment 142 196	300 mg of cytarabine daily for the preceding five days
+T5	Effect 84 107	cutaneous herpes zoster
+T7	Population 3 8	three
+T8	Dosage 142 148	300 mg
+T9	Drug 152 162	cytarabine
+T10	Freq 163 168	daily
+T11	Duration 177 196	preceding five days
+T6	Adverse_event 108 117	developed
+E1	Adverse_event:T6

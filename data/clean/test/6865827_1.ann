@@ -1,0 +1,9 @@
+T3	Subject 0 39	A 45-year-old woman with thyrotoxicosis
+T5	Effect 50 65	agranulocytosis
+T6	Treatment 87 103	propylthiouracil
+T7	Age 2 13	45-year-old
+T8	Gender 14 19	woman
+T10	Treat-Disorder 25 39	thyrotoxicosis
+T11	Drug 87 103	propylthiouracil
+T4	Adverse_event 40 49	developed
+E1	Adverse_event:T4

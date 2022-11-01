@@ -1,0 +1,5 @@
+T4	Treatment 6 15	ritonavir
+T6	Effect 24 46	maculopapular eruption
+T7	Drug 6 15	ritonavir
+T5	Adverse_event 16 23	induced
+E1	Adverse_event:T5

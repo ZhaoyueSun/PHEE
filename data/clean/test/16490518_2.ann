@@ -1,0 +1,12 @@
+T6	Treatment 99 138	intravitreal injection of triamcinolone
+T8	Subject 9 26	A 34-year-old man
+T9	Effect 36 92	visual field defects and severe vision loss in both eyes
+T10	Age 11 22	34-year-old
+T11	Gender 23 26	man
+T12	Severity_cue 61 67	severe
+T7	Treat-Disorder 143 165	diabetic macular edema
+T13	Route 99 121	intravitreal injection
+T14	Drug 125 138	triamcinolone
+T5	Adverse_event 93 98	after
+E1	Adverse_event:T5 
+A1	Severity E1 High

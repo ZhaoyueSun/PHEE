@@ -1,0 +1,6 @@
+T3	Treatment 0 12	Chlorambucil
+T4	Effect 13 37	central nervous toxicity
+T7	Drug 0 12	Chlorambucil
+T8	Treat-Disorder 92 120	childhood nephrotic syndrome
+T6	Adverse_event 53 64	side effect
+E1	Adverse_event:T6

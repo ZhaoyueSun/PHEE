@@ -1,0 +1,8 @@
+T3	Subject 96 112	an elderly woman
+T4	Effect 166 210	nonconvulsive generalized status epilepticus
+T5	Treatment 221 250	acute withdrawal of lorazepam
+T7	Age 99 106	elderly
+T8	Gender 107 112	woman
+T9	Drug 241 250	lorazepam
+T6	Adverse_event 211 220	following
+E1	Adverse_event:T6 

@@ -1,0 +1,6 @@
+T5	Subject 95 112	a healthy patient
+T7	Treatment 140 150	vardenafil
+T8	Effect 49 91	symptomatic paroxysmal atrial fibrillation
+T9	Drug 140 150	vardenafil
+T6	Adverse_event 113 118	after
+E1	Adverse_event:T6

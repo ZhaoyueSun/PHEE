@@ -1,0 +1,8 @@
+T5	Treatment 177 187	tacrolimus
+T6	Effect 95 155	progressive liver failure and severe hepatocellular necrosis
+T7	Subject 0 77	Four months after receiving an orthotopic liver transplant, a 51-year-old man
+T9	Age 60 73	a 51-year-old
+T10	Drug 177 187	tacrolimus
+T11	Time_elapsed 0 11	Four months
+T8	Adverse_event 170 176	due to
+E1	Adverse_event:T8

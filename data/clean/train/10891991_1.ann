@@ -1,0 +1,9 @@
+T3	Subject 72 97	women of reproductive age
+T4	Treatment 117 139	valproate for epilepsy
+T6	Effect 168 196	menstrual cycle disturbances
+T7	Gender 72 77	women
+T8	Age 81 97	reproductive age
+T9	Drug 117 126	valproate
+T10	Treat-Disorder 131 139	epilepsy
+T5	Adverse_event 160 167	develop
+E1	Adverse_event:T5 

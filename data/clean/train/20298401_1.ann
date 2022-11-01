@@ -1,0 +1,8 @@
+T7	Effect 6 31	interstitial lung disease
+T9	Treatment 38 47	erlotinib
+T10	Subject 66 99	a patient with radiation fibrosis
+T11	Sub-Disorder 81 99	radiation fibrosis
+T12	Severity_cue 0 5	Fatal
+T13	Drug 38 47	erlotinib
+T8	Adverse_event 32 37	after
+E1	Adverse_event:T8 

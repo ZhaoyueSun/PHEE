@@ -1,0 +1,9 @@
+T6	Treatment 0 11	Ciclesonide
+T7	Treat-Disorder 92 98	asthma
+T8	Subject 53 67	adult patients
+T10	Age 53 58	adult
+T11	Drug 0 11	Ciclesonide
+T12	Drug 38 45	steroid
+T13	Route 33 37	oral
+T9	Potential_therapeutic_event 12 19	reduces
+E1	Potential_therapeutic_event:T9

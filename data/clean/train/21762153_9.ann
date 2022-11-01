@@ -1,0 +1,9 @@
+T6	Treatment 4 28	zinc/o-cymen-5-ol system
+T7	Effect 40 61	antimicrobial effects
+T9	Effect 66 105	inhibits oral disease-related processes
+T10	Drug 4 8	zinc
+T11	Drug 9 21	o-cymen-5-ol
+T8	Potential_therapeutic_event 66 74	inhibits
+T12	Combination 22 28	system
+E2	Potential_therapeutic_event:T8 
+E1	Combination:T12 arg:T10 arg2:T11

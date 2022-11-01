@@ -1,0 +1,7 @@
+T3	Subject 0 12	Two patients
+T4	Treatment 16 41	long-term lithium therapy
+T6	Effect 56 74	nephrotic syndrome
+T7	Population 0 3	Two
+T8	Drug 26 33	lithium
+T5	Adverse_event 42 51	developed
+E1	Adverse_event:T5

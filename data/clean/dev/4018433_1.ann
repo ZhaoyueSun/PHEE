@@ -1,0 +1,6 @@
+T4	Treatment 10 20	pyridoxine
+T5	Effect 31 39	seizures
+T6	Subject 0 6	A case
+T7	Drug 10 20	pyridoxine
+T3	Adverse_event 21 30	dependent
+E1	Adverse_event:T3

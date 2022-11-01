@@ -1,0 +1,7 @@
+T3	Subject 0 39	A patient with Wegener's granulomatosis
+T6	Effect 60 95;148 205	circumferential subglottic stenosis resolution of systemic symptoms and pulmonary infiltrates
+T7	Treatment 107 131	cyclophosphamide regimen
+T8	Drug 107 123	cyclophosphamide
+T10	Treat-Disorder 15 39	Wegener's granulomatosis
+T5	Adverse_event 48 57	developed
+E1	Adverse_event:T5

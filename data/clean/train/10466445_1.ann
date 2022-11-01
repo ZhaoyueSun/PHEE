@@ -1,0 +1,6 @@
+T5	Subject 46 115	a patient with ATRA-resistant relapse of acute promyelocytic leukemia
+T7	Treatment 26 42	arsenic trioxide
+T9	Drug 26 42	arsenic trioxide
+T10	Treat-Disorder 61 115	ATRA-resistant relapse of acute promyelocytic leukemia
+T6	Potential_therapeutic_event 11 20	treatment
+E1	Potential_therapeutic_event:T6

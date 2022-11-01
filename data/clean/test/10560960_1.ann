@@ -1,0 +1,9 @@
+T3	Subject 0 19	A 48-year-old woman
+T5	Treatment 60 71	methimazole
+T7	Effect 82 97	agranulocytosis
+T8	Age 2 13	48-year-old
+T9	Gender 14 19	woman
+T10	Treat-Disorder 40 54	thyrotoxicosis
+T4	Drug 60 71	methimazole
+T6	Adverse_event 72 81	developed
+E1	Adverse_event:T6

@@ -1,0 +1,6 @@
+T5	Subject 23 29	a case
+T6	Effect 33 56	serotonin syndrome (SS)
+T8	Treatment 73 96	mirtazapine monotherapy
+T9	Drug 73 84	mirtazapine
+T7	Adverse_event 57 67	associated
+E1	Adverse_event:T7

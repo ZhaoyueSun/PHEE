@@ -1,0 +1,7 @@
+T5	Effect 39 64	acute cytolytic hepatitis
+T6	Subject 68 77	a patient
+T8	Treatment 89 128	pulse itraconazole therapy for 24 weeks
+T9	Drug 95 107	itraconazole
+T10	Time_elapsed 120 128	24 weeks
+T7	Adverse_event 78 88	exposed to
+E1	Adverse_event:T7

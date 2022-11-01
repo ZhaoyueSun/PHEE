@@ -1,0 +1,8 @@
+T7	Subject 72 79	patient
+T8	Effect 85 148;189 201	severe cerebral swelling and raised intracranial pressure (ICP) intoxication
+T9	Treatment 162 188	sodium valproic acid (VPA)
+T11	Severity_cue 155 161	severe
+T12	Drug 162 182	sodium valproic acid
+T10	Adverse_event 149 154	after
+E1	Adverse_event:T10 
+A1	Severity E1 High

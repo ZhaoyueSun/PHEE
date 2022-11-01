@@ -1,0 +1,7 @@
+T3	Treatment 72 87;0 39	56 days therapy The azathioprine dose was low (1 mg/kg)
+T5	Effect 44 56	pancytopenia
+T6	Time_elapsed 72 79	56 days
+T7	Drug 4 16	azathioprine
+T8	Dosage 31 38	1 mg/kg
+T4	Adverse_event 57 65	occurred
+E1	Adverse_event:T4

@@ -1,0 +1,10 @@
+T8	Effect 0 20	Renal toxicity signs
+T10	Treatment 33 47	amphotericin B
+T11	Drug 33 47	amphotericin B
+T13	Treatment 80 91	fluconazole
+T14	Drug 80 91	fluconazole
+T15	Effect 64 73	infection
+T9	Adverse_event 22 29	induced
+T12	Adverse_event 74 79	after
+E1	Adverse_event:T9 arg:T8 arg2:T10
+E2	Adverse_event:T12 arg:T15 arg2:T13

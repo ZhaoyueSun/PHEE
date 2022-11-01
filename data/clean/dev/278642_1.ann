@@ -1,0 +1,8 @@
+T3	Effect 0 26	Acute myelogenous leukemia
+T4	Subject 30 38	patients
+T5	Treatment 39 96	receiving chlorambucil as long-term adjuvant chemotherapy
+T8	Drug 49 61	chlorambucil
+T9	Treat-Disorder 101 124	stage II breast cancer.
+T6	Route 84 96	chemotherapy
+T7	Adverse_event 27 29	in
+E1	Adverse_event:T7

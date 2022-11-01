@@ -1,0 +1,8 @@
+T5	Subject 0 12;100 144	Two patients Mycobacterium avium-intracellulare infection
+T6	Effect 27 50;149 180;196 215	decreased visual acuity bitemporal visual field defects optic chiasm damage
+T8	Treatment 75 85	ethambutol
+T9	Treat-Disorder 100 144	Mycobacterium avium-intracellulare infection
+T10	Population 0 3	Two
+T13	Drug 75 85	ethambutol
+T7	Adverse_event 51 56	after
+E1	Adverse_event:T7

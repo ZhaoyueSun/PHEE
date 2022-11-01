@@ -1,0 +1,6 @@
+T5	Treatment 35 73	increasing steroid replacement therapy
+T6	Treat-Disorder 0 18	The hypoadrenalism
+T7	Drug 46 53	steroid
+T8	Dosage 35 45	increasing
+T4	Potential_therapeutic_event 23 31	overcome
+E1	Potential_therapeutic_event:T4

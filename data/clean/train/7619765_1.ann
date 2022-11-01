@@ -1,0 +1,5 @@
+T3	Treatment 0 9	Etoposide
+T5	Effect 18 39	myocardial infarction
+T6	Drug 0 9	Etoposide
+T4	Adverse_event 10 17	related
+E1	Adverse_event:T4

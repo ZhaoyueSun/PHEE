@@ -1,0 +1,6 @@
+T5	Treatment 90 149	nonsteroidal anti-inflammatory agents, especially zomepirac
+T6	Effect 67 86	renal complications
+T8	Drug 90 120	nonsteroidal anti-inflammatory
+T9	Drug 140 149	zomepirac
+T7	Adverse_event 58 66	reported
+E1	Adverse_event:T7

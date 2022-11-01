@@ -1,0 +1,6 @@
+T3	Subject 0 9	A patient
+T5	Effect 54 72	pulmonary fibrosis
+T6	Treatment 142 152	nabumetone
+T7	Drug 142 152	nabumetone
+T4	Adverse_event 27 36	developed
+E1	Adverse_event:T4

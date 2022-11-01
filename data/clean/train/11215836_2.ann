@@ -1,0 +1,11 @@
+T4	Treatment 94 106	clomipramine
+T6	Effect 52 70	serotonin syndrome
+T7	Subject 76 83	patient
+T8	Drug 94 106	clomipramine
+T9	Drug 113 122	clozapine
+T11	Speculation_cue 28 36	possible
+T5	Adverse_event 84 93	receiving
+T10	Combination 107 112	after
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T8 arg2:T9
+A1	Speculated E1

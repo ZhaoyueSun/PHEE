@@ -1,0 +1,10 @@
+T5	Subject 2 41	12 year old patient with atrial flutter
+T7	Treatment 64 85	intravenous adenosine
+T9	Effect 102 170	acceleration of the heart rate to a potentially dangerous arrhythmia
+T8	Speculation_cue 138 149	potentially
+T11	Age 2 13	12 year old
+T12	Drug 76 85	adenosine
+T13	Route 64 75	intravenous
+T14	Treat-Disorder 27 41	atrial flutter
+T10	Adverse_event 90 101	followed by
+E1	Adverse_event:T10

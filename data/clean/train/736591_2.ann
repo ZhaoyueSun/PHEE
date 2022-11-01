@@ -1,0 +1,8 @@
+T3	Effect 0 68	Progressive interstitial fibrosis with roentgenographic honeycombing
+T5	Subject 94 113	a psoriatic patient
+T6	Treatment 130 168	a regimen of methotrexate for 18 years
+T8	Drug 143 155	methotrexate
+T9	Duration 160 168	18 years
+T10	Treat-Disorder 96 105	psoriatic
+T4	Adverse_event 69 78	developed
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T3	Effect 10 40	prolonged suxamethonium apnoea
+T4	Treatment 68 131	the infusion of a commercial preparation of serumcholinesterase
+T6	Drug 20 33	suxamethonium
+T7	Route 72 80	infusion
+T8	Drug 112 131	serumcholinesterase
+T5	Potential_therapeutic_event 54 64	terminated
+E1	Potential_therapeutic_event:T5

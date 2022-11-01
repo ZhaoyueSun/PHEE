@@ -1,0 +1,5 @@
+T3	Treatment 34 74	extensive administration of prednisolone
+T5	Effect 127 143	mite infestation
+T6	Drug 62 74	prednisolone
+T4	Adverse_event 115 126	generalized
+E1	Adverse_event:T4

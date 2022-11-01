@@ -1,0 +1,11 @@
+T6	Treatment 35 46	pentamidine
+T7	Effect 55 69	cardiotoxicity
+T9	Speculation_cue 165 183	not been described
+T8	Drug 35 46	pentamidine
+T10	Effect 108 133	second-degree heart block
+T5	Adverse_event 47 54	induced
+T13	Adverse_event 134 144	associated
+E1	Adverse_event:T5 arg:T6 arg2:T7
+E2	Adverse_event:T13 arg:T6 arg2:T10
+R1	has_cue Arg1:E2 Arg2:T9	
+A1	Negated E1

@@ -1,0 +1,6 @@
+T3	Subject 42 55	most patients
+T4	Treatment 56 59	MTX
+T5	Effect 68 101	liver cirrhosis is not aggressive
+T7	Drug 56 59	MTX
+T6	Adverse_event 60 67	induced
+E1	Adverse_event:T6

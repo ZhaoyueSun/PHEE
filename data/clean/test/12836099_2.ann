@@ -1,0 +1,10 @@
+T3	Subject 27 45	a 14-year-old male
+T4	Effect 20 23	SJS
+T6	Treatment 92 121	oral prednisolone for 6 weeks
+T7	Age 29 40	14-year-old
+T8	Gender 41 45	male
+T9	Route 92 96	oral
+T10	Drug 97 109	prednisolone
+T11	Duration 114 121	6 weeks
+T5	Adverse_event 87 91	with
+E1	Adverse_event:T5

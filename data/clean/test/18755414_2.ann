@@ -1,0 +1,8 @@
+T6	Subject 10 16	a case
+T7	Treatment 125 155	low-dose aspirin for 16 months
+T8	Effect 26 36	hemorrhage
+T10	Dosage 125 133	low-dose
+T11	Drug 134 141	aspirin
+T12	Time_elapsed 146 155	16 months
+T9	Adverse_event 37 45	occurred
+E1	Adverse_event:T9

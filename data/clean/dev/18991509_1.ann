@@ -1,0 +1,11 @@
+T4	Effect 0 27	Iatrogenic Cushing syndrome
+T5	Treatment 102 144;34 67	receiving therapy with ritonavir-lopinavir epidural triamcinolone injections
+T6	Subject 71 101	an HIV type 1-infected patient
+T7	Treat-Disorder 74 84	HIV type 1
+T8	Drug 34 56	epidural triamcinolone
+T9	Route 57 67	injections
+T10	Drug 125 144	ritonavir-lopinavir
+T3	Adverse_event 28 33	after
+E1	Adverse_event:T3 
+T1	Combination 120 124	with
+E2	Combination:T1 arg:T8 arg2:T10

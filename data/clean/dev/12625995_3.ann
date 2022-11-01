@@ -1,0 +1,18 @@
+T4	Treatment 59 68	clozapine
+T3	Subject 0 42	Two cases of childhood-onset schizophrenia
+T7	Population 0 3	Two
+T8	Age 13 22	childhood
+T10	Drug 59 68	clozapine
+T11	Treat-Disorder 29 42	schizophrenia
+T6	Effect 77 97	akathisia responsive
+T13	Treatment 101 123	beta-blocker treatment
+T14	Drug 101 113	beta-blocker
+T16	Treat-Disorder 59 97	clozapine-induced akathisia responsive
+T5	Adverse_event 69 76	induced
+T15	Potential_therapeutic_event 43 53	associated
+E1	Adverse_event:T5 arg:T4 arg2:T6 arg3:T3
+E2	Potential_therapeutic_event:T15 arg:T13 arg2:T3
+R1	has Arg1:T4 Arg2:T10	
+R2	has Arg1:T13 Arg2:T14	
+R3	has Arg1:T13 Arg2:T16	
+R4	has Arg1:T4 Arg2:T11

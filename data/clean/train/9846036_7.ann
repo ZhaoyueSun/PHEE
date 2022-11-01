@@ -1,0 +1,9 @@
+T5	Effect 34 57	adverse cardiac effects
+T6	Subject 63 78	28-year-old man
+T7	Treatment 106 126	24 mg of risperidone
+T9	Age 63 74	28-year-old
+T10	Gender 75 78	man
+T11	Dosage 106 111	24 mg
+T12	Drug 115 126	risperidone
+T8	Adverse_event 97 105	ingested
+E1	Adverse_event:T8

@@ -1,0 +1,8 @@
+T5	Subject 37 45	patients
+T6	Effect 58 96	unexplained abdominal pain or collapse
+T7	Treatment 107 118	vasopressin
+T9	Drug 107 118	vasopressin
+T10	Speculation_cue 24 33	suspected
+T8	Adverse_event 50 57	develop
+E1	Adverse_event:T8 
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T3	Subject 0 13	Both patients
+T4	Treatment 39 50	carboplatin
+T7	Drug 39 50	carboplatin
+T8	Negation_cue 120 127	neither
+T9	Effect 120 189	neither a relapse of the colitis nor a recurrence of the malignancies
+T6	Treat-Disorder 145 152;177 189	colitis malignancies
+T5	Potential_therapeutic_event 108 116	resulted
+E1	Potential_therapeutic_event:T5

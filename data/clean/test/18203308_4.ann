@@ -1,0 +1,9 @@
+T3	Subject 12 25	3 AS patients
+T5	Treat-Disorder 54 63	active AS
+T7	Effect 91 93	CD
+T9	Population 12 13	3
+T10	Drug 39 49	etanercept
+T11	Treat-Disorder 14 16	AS
+T4	Treatment 39 63	etanercept for active AS
+T6	Adverse_event 68 77	developed
+E1	Adverse_event:T6

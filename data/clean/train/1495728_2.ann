@@ -1,0 +1,7 @@
+T6	Subject 12 18	a case
+T7	Effect 22 33	pneumonitis
+T9	Treatment 44 80	local administration of methotrexate
+T11	Drug 68 80	methotrexate
+T12	Treat-Disorder 115 132	ectopic pregnancy
+T8	Adverse_event 34 43	following
+E1	Adverse_event:T8

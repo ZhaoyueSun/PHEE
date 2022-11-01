@@ -1,0 +1,7 @@
+T5	Effect 33 57	diffuse papular eruption
+T3	Treatment 96 119	methotrexate injections
+T6	Drug 96 108	methotrexate
+T7	Route 109 119	injections
+T8	Treat-Disorder 81 90	psoriasis
+T4	Adverse_event 58 67	following
+E1	Adverse_event:T4

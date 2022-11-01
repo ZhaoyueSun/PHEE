@@ -1,0 +1,5 @@
+T3	Treatment 133 143	fenoprofen
+T5	Effect 42 59	erythroid aplasia
+T6	Drug 133 143	fenoprofen
+T4	Adverse_event 60 70	associated
+E1	Adverse_event:T4

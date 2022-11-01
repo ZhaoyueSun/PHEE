@@ -1,0 +1,5 @@
+T5	Treatment 21 29	methanol
+T6	Effect 0 42	Putaminal infarct in methanol intoxication
+T8	Drug 21 29	methanol
+T7	Adverse_event 30 42	intoxication
+E1	Adverse_event:T7

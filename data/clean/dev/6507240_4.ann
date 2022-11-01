@@ -1,0 +1,9 @@
+T4	Subject 0 11	One patient
+T5	Effect 22 69	severe hyponatremia with serum Na+ of 108 mEq/L
+T6	Treatment 75 94	hydrochlorothiazide
+T7	Treat-Disorder 116 128	hypertension
+T8	Population 0 3	One
+T9	Severity_cue 22 28	severe
+T10	Drug 75 94	hydrochlorothiazide
+T3	Adverse_event 12 21	developed
+E1	Adverse_event:T3

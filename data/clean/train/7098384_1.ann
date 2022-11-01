@@ -1,0 +1,9 @@
+T3	Subject 0 63	A 66-year-old mand suffering from severe coronary heart disease
+T4	Treatment 69 76	digoxin
+T5	Effect 129 160	complete atrioventricular block
+T7	Age 2 13	66-year-old
+T8	Gender 14 18	mand
+T9	Sub-Disorder 41 62	coronary heart diseas
+T10	Drug 69 76	digoxin
+T6	Adverse_event 64 68	took
+E1	Adverse_event:T6 

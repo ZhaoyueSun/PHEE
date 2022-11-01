@@ -1,0 +1,7 @@
+T3	Effect 156 179	abnormal liver function
+T4	Treatment 67 110	receiving high doses of cyproterone acetate
+T5	Subject 58 66	patients
+T7	Drug 91 110	cyproterone acetate
+T8	Dosage 77 87	high doses
+T6	Adverse_event 156 164	abnormal
+E1	Adverse_event:T6

@@ -1,0 +1,17 @@
+T11	Effect 144 202	reducing the duration of neutropenia and risk of infection
+T13	Subject 52 89	an RA patient treated with gold salts
+T14	Treatment 97 142	granulocyte colony-stimulating factor (G-CSF)
+T16	Drug 97 134	granulocyte colony-stimulating factor
+T12	Potential_therapeutic_event 21 29	overcome
+E1	Potential_therapeutic_event:T12 arg:T13 arg2:T14 arg3:T11
+T1	Treat-Disorder 30 48	severe neutropenia
+T2	Sub-Disorder 55 57	RA
+T3	Effect 30 48	severe neutropenia
+T4	Adverse_event 49 51	in
+E2	Adverse_event:T4 arg:T3 arg2:T6
+T5	Treat-Disorder 55 57	RA
+T6	Treatment 79 89	gold salts
+T7	Drug 79 89	gold salts
+R1	has Arg1:T6 Arg2:T5	
+R2	has Arg1:T14 Arg2:T1	
+R3	has Arg1:T13 Arg2:T2	

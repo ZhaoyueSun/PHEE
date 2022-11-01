@@ -1,0 +1,9 @@
+T4	Treatment 24 67	high-dose tamoxifen for greater than 1 year
+T5	Effect 94 109	retinal changes
+T6	Subject 0 13	Four patients
+T7	Population 0 4	Four
+T8	Duration 61 67	1 year
+T9	Dosage 24 33	high-dose
+T10	Drug 34 43	tamoxifen
+T3	Adverse_event 14 23	receiving
+E1	Adverse_event:T3

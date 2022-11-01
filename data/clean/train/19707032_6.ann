@@ -1,0 +1,9 @@
+T5	Treatment 27 85	intravitreal injection of bevacizumab (1.25 mg in 0.1 ml),
+T7	Effect 99 144	acute vision loss and change of consciousness
+T8	Subject 86 88	he
+T9	Gender 86 88	he
+T10	Route 27 49	intravitreal injection
+T11	Drug 53 64	bevacizumab
+T12	Dosage 66 83	1.25 mg in 0.1 ml
+T6	Adverse_event 89 98	developed
+E1	Adverse_event:T6

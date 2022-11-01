@@ -1,0 +1,7 @@
+T4	Treatment 79 130	diltiazem, a recently introduced calcium antagonist
+T5	Effect 13 44	widespread cutaneous vasculitis
+T6	Severity_cue 13 23	widespread
+T7	Drug 79 88	diltiazem
+T3	Adverse_event 62 73	association
+E1	Adverse_event:T3 
+A1	Severity E1 Medium

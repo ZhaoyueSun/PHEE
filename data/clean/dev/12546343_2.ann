@@ -1,0 +1,7 @@
+T11	Effect 20 45;88 155	hypersensitivity reaction with diffuse urticaria, facial swelling, cough, and chest tightness
+T12	Treatment 75 87	MTX infusion
+T14	Time_elapsed 10 19	immediate
+T15	Drug 75 78	MTX
+T16	Route 79 87	infusion
+T13	Adverse_event 46 52	during
+E1	Adverse_event:T13

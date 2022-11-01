@@ -1,0 +1,9 @@
+T3	Subject 10 43	a male patient with advanced AIDS
+T5	Effect 58 71	hypercalcemia
+T6	Treatment 72 113	2 weeks after institution of rhGH therapy
+T7	Gender 12 16	male
+T9	Treat-Disorder 30 43	advanced AIDS
+T10	Drug 101 105	rhGH
+T11	Time_elapsed 72 79	2 weeks
+T4	Adverse_event 48 57	developed
+E1	Adverse_event:T4

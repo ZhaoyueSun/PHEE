@@ -1,0 +1,6 @@
+T7	Effect 0 36;62 83;113 136	Painful erosion of psoriatic plaques methotrexate toxicity bone marrow suppression
+T8	Treatment 62 74	methotrexate
+T10	Drug 62 74	methotrexate
+T11	Treat-Disorder 19 36	psoriatic plaques
+T9	Adverse_event 54 58	sign
+E1	Adverse_event:T9

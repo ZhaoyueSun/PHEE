@@ -1,0 +1,5 @@
+T3	Treatment 66 75	ofloxacin
+T5	Effect 84 110	toxic epidermal necrolysis
+T6	Drug 66 75	ofloxacin
+T4	Adverse_event 76 83	induced
+E1	Adverse_event:T4

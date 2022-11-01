@@ -1,0 +1,5 @@
+T5	Effect 66 75;0 54	amblyopia Abnormalities of the pupil and visual-evoked potential
+T6	Treatment 58 65	quinine
+T9	Drug 58 65	quinine
+T8	Adverse_event 55 57	in
+E1	Adverse_event:T8

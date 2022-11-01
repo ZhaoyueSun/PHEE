@@ -1,0 +1,10 @@
+T4	Effect 0 22	Eye movement disorders
+T5	Subject 26 57	bone marrow transplant patients
+T6	Treatment 61 88	cyclosporin and ganciclovir
+T8	Sub-Disorder 26 48	bone marrow transplant
+T9	Drug 61 72	cyclosporin
+T10	Drug 77 88	ganciclovir
+T7	Adverse_event 58 60	on
+T11	Combination 73 76	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

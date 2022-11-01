@@ -1,0 +1,9 @@
+T3	Treatment 31 42	calcineurin
+T5	Effect 51 71	pain syndrome (CIPS)
+T6	Subject 75 146	a child undergoing his second hematopoietic stem cell transplant (HSCT)
+T7	Age 77 82	child
+T8	Gender 94 97	his
+T10	Drug 31 42	calcineurin
+T11	Treat-Disorder 105 139	hematopoietic stem cell transplant
+T4	Adverse_event 43 50	induced
+E1	Adverse_event:T4

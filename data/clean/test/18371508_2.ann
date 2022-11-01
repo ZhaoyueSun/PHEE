@@ -1,0 +1,9 @@
+T9	Effect 38 80	adult respiratory distress syndrome (ARDS)
+T11	Treatment 97 157	pegylated interferon alpha-2a (pegIFNalpha-2a) and ribavirin
+T12	Drug 97 126	pegylated interferon alpha-2a
+T13	Drug 148 157	ribavirin
+T14	Treat-Disorder 166 177	hepatitis C
+T15	Severity_cue 220 225	fatal
+T10	Adverse_event 81 91	associated
+E1	Adverse_event:T10 
+A1	Severity E1 High

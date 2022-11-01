@@ -1,0 +1,12 @@
+T3	Subject 24 98	a nonatopic 17-year-old girl with bronchial asthma and aspirin intolerance
+T5	Effect 113 145	a dramatic anaphylactic reaction
+T6	Treatment 149 164	oral prednisone
+T7	Sub-Disorder 26 35	nonatopic
+T8	Age 36 47	17-year-old
+T9	Gender 48 52	girl
+T11	Sub-Disorder 79 98	aspirin intolerance
+T12	Route 149 153	oral
+T13	Drug 154 164	prednisone
+T14	Treat-Disorder 58 74	bronchial asthma
+T4	Adverse_event 103 112	developed
+E1	Adverse_event:T4 

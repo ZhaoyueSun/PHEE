@@ -1,0 +1,6 @@
+T3	Treatment 18 25;53 56	steroid PTU
+T4	Effect 66 115	a good clinical response and the ANCA disappeared
+T6	Drug 18 25	steroid
+T7	Drug 53 56	PTU
+T5	Potential_therapeutic_event 57 65	produced
+E1	Potential_therapeutic_event:T5

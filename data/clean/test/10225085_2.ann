@@ -1,0 +1,9 @@
+T4	Effect 0 17	Methemoglobinemia
+T6	Treatment 24 116	axillary block with bupivacaine and additional injection of lidocaine in the operative field
+T7	Route 71 80	injection
+T8	Drug 44 55	bupivacaine
+T9	Drug 84 93	lidocaine
+T5	Adverse_event 18 23	after
+T10	Combination 56 59	and
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T9 arg2:T8

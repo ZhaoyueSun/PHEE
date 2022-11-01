@@ -1,0 +1,5 @@
+T3	Treatment 5 17	itraconazole
+T5	Effect 19 30	hepatotoxic
+T6	Drug 5 17	itraconazole
+T4	Adverse_event 68 76	reported
+E1	Adverse_event:T4

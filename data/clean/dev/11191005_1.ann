@@ -1,0 +1,6 @@
+T3	Effect 73 98	increases urate excretion
+T4	Treatment 27 71	angiotensin II receptor antagonist, losartan
+T5	Effect 102 162	reducing reabsorption of urate in the renal proximal tubule.
+T7	Drug 63 71	losartan
+T6	Adverse_event 73 82	increases
+E1	Adverse_event:T6

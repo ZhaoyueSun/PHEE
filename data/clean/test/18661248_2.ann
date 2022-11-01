@@ -1,0 +1,7 @@
+T5	Subject 30 98	a patient with collapsing focal glomeruloesclerosis (collapsing FGS)
+T4	Treatment 128 160	withdrawal of cyclosporine (CSA)
+T7	Treat-Disorder 22 26	PRES
+T8	Sub-Disorder 45 81	collapsing focal glomeruloesclerosis
+T9	Drug 142 154	cyclosporine
+T6	Potential_therapeutic_event 104 121	complete recovery
+E1	Potential_therapeutic_event:T6 

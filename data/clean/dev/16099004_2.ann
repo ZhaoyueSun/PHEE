@@ -1,0 +1,5 @@
+T6	Treat-Disorder 41 59	falciparum malaria
+T7	Drug 0 7	Quinine
+T4	Treatment 0 7	Quinine
+T5	Potential_therapeutic_event 27 36	treatment
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,5 @@
+T4	Treatment 54 62	Accutane
+T5	Effect 67 101	recurrence of the transient myopia
+T6	Drug 54 62	Accutane
+T3	Adverse_event 10 30	a clear relationship
+E1	Adverse_event:T3

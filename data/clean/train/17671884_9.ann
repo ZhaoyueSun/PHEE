@@ -1,0 +1,10 @@
+T14	Effect 26 32	anemia
+T16	Treatment 50 53;91 101	MMF prednisone
+T17	Speculation_cue 33 36	can
+T18	Drug 50 53	MMF
+T19	Drug 91 101	prednisone
+T15	Adverse_event 43 46	due
+T20	Combination 86 90	with
+E1	Adverse_event:T15 
+E2	Combination:T20 arg:T18 arg2:T19
+A1	Speculated E1

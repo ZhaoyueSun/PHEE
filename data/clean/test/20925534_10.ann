@@ -1,0 +1,9 @@
+T8	Drug 79 89	omeprazole
+T9	Drug 104 111	placebo
+T10	Time_elapsed 115 123	180 days
+T11	Effect 26 48	gastrointestinal event
+T13	Subject 8 19	51 patients
+T14	Treatment 69 111	1.1% with omeprazole and 2.9% with placebo
+T15	Population 8 10	51
+T12	Adverse_event 20 23	had
+E1	Adverse_event:T12

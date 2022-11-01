@@ -1,0 +1,7 @@
+T3	Effect 0 16	Increased libido
+T4	Subject 20 27	a woman
+T5	Treatment 41 52	fluvoxamine
+T7	Gender 22 27	woman
+T8	Drug 41 52	fluvoxamine
+T6	Adverse_event 17 19	in
+E1	Adverse_event:T6

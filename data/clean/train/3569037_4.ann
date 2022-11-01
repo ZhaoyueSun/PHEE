@@ -1,0 +1,8 @@
+T3	Subject 28 56	a patient with typhoid fever
+T4	Effect 75 100	hypersensitivity reaction
+T6	Treatment 115 163	the infusion of chloramphenicol sodium succinate
+T7	Treat-Disorder 43 56	typhoid fever
+T8	Drug 131 163	chloramphenicol sodium succinate
+T9	Route 119 127	infusion
+T5	Adverse_event 101 114	subsequent to
+E1	Adverse_event:T5 

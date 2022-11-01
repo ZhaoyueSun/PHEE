@@ -1,0 +1,9 @@
+T8	Effect 149 151	SS
+T10	Subject 106 122	some individuals
+T11	Treatment 28 88	coadministration of serotonergic antidepressants and opioids
+T13	Drug 48 76	serotonergic antidepressants
+T14	Drug 81 88	opioids
+T9	Adverse_event 140 144	risk
+T12	Combination 28 44	coadministration
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T14 arg2:T13

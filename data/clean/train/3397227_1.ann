@@ -1,0 +1,5 @@
+T3	Effect 0 21	Anhedonic ejaculation
+T5	Treatment 27 38	desipramine
+T6	Drug 27 38	desipramine
+T4	Adverse_event 22 26	with
+E1	Adverse_event:T4

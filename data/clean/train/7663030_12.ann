@@ -1,0 +1,6 @@
+T4	Treatment 0 11	Propafenone
+T8	Drug 68 79	propranolol
+T6	Effect 98 128	central nervous system effects
+T7	Drug 0 11	Propafenone
+T5	Potential_therapeutic_event 80 90	contribute
+E1	Potential_therapeutic_event:T5

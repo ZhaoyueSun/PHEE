@@ -1,0 +1,5 @@
+T11	Treatment 76 84	levodopa
+T13	Effect 105 283	marked motor hyperactivity during augmentation, with anarchic discharges of motor unit potentials, tonic grouped discharges and flexor spasms, associated with painful dysesthesia
+T14	Drug 76 84	levodopa
+T12	Adverse_event 92 104	demonstrated
+E1	Adverse_event:T12

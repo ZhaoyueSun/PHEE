@@ -1,0 +1,5 @@
+T3	Treatment 53 68	sodium warfarin
+T5	Effect 77 98	necrotizing fasciitis
+T6	Drug 53 68	sodium warfarin
+T4	Adverse_event 69 76	induced
+E1	Adverse_event:T4

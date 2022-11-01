@@ -1,0 +1,10 @@
+T6	Subject 10 19	two cases
+T7	Treatment 23 76	warfarin therapy in which the addition of tolterodine
+T9	Effect 89 137	prolonged international normalized ratios (INRs)
+T10	Population 10 13	two
+T11	Drug 23 31	warfarin
+T12	Drug 65 76	tolterodine
+T8	Adverse_event 77 85	resulted
+T13	Combination 53 61	addition
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T11 arg2:T12

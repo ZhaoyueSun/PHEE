@@ -1,0 +1,7 @@
+T4	Treatment 0 12;14 24	Aripiprazole 5 mg daily
+T5	Treat-Disorder 106 109	OCD
+T7	Drug 0 12	Aripiprazole
+T8	Dosage 14 18	5 mg
+T9	Freq 19 24	daily
+T6	Potential_therapeutic_event 63 75	augmentation
+E1	Potential_therapeutic_event:T6

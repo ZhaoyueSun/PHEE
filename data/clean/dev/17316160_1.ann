@@ -1,0 +1,10 @@
+T8	Effect 0 32	Decreased serum linezolid levels
+T9	Subject 36 60	a critically ill patient
+T10	Treatment 71 105	concomitant linezolid and rifampin
+T12	Sub-Disorder 38 52	critically ill
+T14	Drug 83 92	linezolid
+T15	Drug 97 105	rifampin
+T13	Combination 71 82	concomitant
+T17	Potential_therapeutic_event 61 70	receiving
+E2	Combination:T13 arg:T14 arg2:T15
+E3	Potential_therapeutic_event:T17 

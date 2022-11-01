@@ -1,0 +1,7 @@
+T12	Effect 0 14	Rhabdomyolysis
+T13	Treatment 34 41;94 182	statins other drugs that are themselves myotoxic or that elevate the concentration of the statin
+T14	Drug 34 41	statins
+T16	Speculation_cue 15 18	can
+T15	Adverse_event 19 24	occur
+E1	Adverse_event:T15 
+A1	Speculated E1

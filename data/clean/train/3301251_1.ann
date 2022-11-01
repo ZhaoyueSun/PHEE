@@ -1,0 +1,8 @@
+T3	Subject 10 29	a 21-year-old woman
+T5	Effect 48 67	mild hepatotoxicity
+T6	Treatment 84 115	choline magnesium trisalicylate
+T7	Age 12 23	21-year-old
+T8	Gender 24 29	woman
+T9	Drug 84 115	choline magnesium trisalicylate
+T4	Adverse_event 74 83	receiving
+E1	Adverse_event:T4

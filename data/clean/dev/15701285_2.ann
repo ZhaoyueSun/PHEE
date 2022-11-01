@@ -1,0 +1,9 @@
+T4	Effect 54 77	profound cerebral edema
+T5	Treatment 94 124	implantation of Gliadel wafers
+T6	Subject 14 31	two clinical case
+T7	Population 14 17	two
+T8	Severity_cue 54 62	profound
+T9	Route 94 106	implantation
+T10	Drug 110 124	Gliadel wafers
+T3	Adverse_event 78 88	associated
+E1	Adverse_event:T3

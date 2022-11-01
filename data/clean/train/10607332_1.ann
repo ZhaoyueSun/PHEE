@@ -1,0 +1,10 @@
+T3	Subject 10 44	3 cases of HIV-1 infected patients
+T5	Effect 61 85	symptomatic angiolipomas
+T6	Treatment 109 174	antiretroviral therapy including the protease inhibitor indinavir
+T7	Population 10 11	3
+T8	Treat-Disorder 21 26	HIV-1
+T10	Speculation_cue 86 99	shortly after
+T11	Drug 165 174	indinavir
+T4	Adverse_event 49 60	experienced
+E1	Adverse_event:T4 
+A1	Speculated E1

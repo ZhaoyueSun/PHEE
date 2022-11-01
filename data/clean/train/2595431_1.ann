@@ -1,0 +1,7 @@
+T3	Treatment 0 14	Metoclopramide
+T5	Effect 23 35	parkinsonism
+T6	Subject 83 110	patients with renal failure
+T7	Sub-Disorder 97 110	renal failure
+T8	Drug 0 14	Metoclopramide
+T4	Adverse_event 15 22	induced
+E1	Adverse_event:T4 

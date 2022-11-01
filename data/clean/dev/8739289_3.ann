@@ -1,0 +1,5 @@
+T7	Effect 19 51	central diabetes insipidus (CDI)
+T8	Treatment 57 64	lithium
+T10	Drug 57 64	lithium
+T6	Adverse_event 4 15	association
+E1	Adverse_event:T6

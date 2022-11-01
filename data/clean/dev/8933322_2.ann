@@ -1,0 +1,7 @@
+T3	Treatment 48 55	nitrate
+T5	Effect 64 81	methemoglobinemia
+T6	Subject 0 7	Infants
+T7	Age 0 7	Infants
+T8	Drug 48 55	nitrate
+T4	Adverse_event 56 63	induced
+E1	Adverse_event:T4

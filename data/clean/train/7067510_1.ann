@@ -1,0 +1,5 @@
+T3	Effect 294 329	transient coronary vasoconstriction
+T5	Treatment 345 353	dopamine
+T6	Drug 345 353	dopamine
+T4	Adverse_event 330 337	induced
+E1	Adverse_event:T4

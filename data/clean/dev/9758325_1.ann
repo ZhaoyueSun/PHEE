@@ -1,0 +1,8 @@
+T3	Subject 21 67	two patients with probable Alzheimer's disease
+T4	Treatment 87 123	long-term treatment with metrifonate
+T6	Effect 0 8	Seizures
+T7	Population 21 24	two
+T8	Treat-Disorder 48 67	Alzheimer's disease
+T10	Drug 112 123	metrifonate
+T5	Adverse_event 9 17	occurred
+E1	Adverse_event:T5 

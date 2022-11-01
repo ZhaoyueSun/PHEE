@@ -1,0 +1,8 @@
+T4	Treatment 73 114	topical 1:1000 epinephrine during surgery
+T5	Effect 21 46	coronary artery vasospasm
+T6	Subject 0 11	One patient
+T7	Population 0 3	One
+T8	Dosage 81 87	1:1000
+T9	Drug 88 99	epinephrine
+T3	Adverse_event 48 58	attributed
+E1	Adverse_event:T3

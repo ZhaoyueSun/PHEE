@@ -1,0 +1,5 @@
+T3	Treatment 13 21	mannitol
+T4	Effect 22 36	nephrotoxicity
+T7	Drug 13 21	mannitol
+T5	Adverse_event 37 45	syndrome
+E1	Adverse_event:T5

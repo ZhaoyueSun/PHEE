@@ -1,0 +1,5 @@
+T4	Effect 0 18	Self-limited edema
+T6	Treatment 56 63	insulin
+T7	Drug 56 63	insulin
+T5	Adverse_event 40 52	complication
+E1	Adverse_event:T5

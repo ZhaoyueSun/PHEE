@@ -1,0 +1,5 @@
+T3	Treatment 0 13	Carbamazepine
+T5	Effect 22 34	hyponatremia
+T6	Drug 0 13	Carbamazepine
+T4	Adverse_event 14 21	related
+E1	Adverse_event:T4

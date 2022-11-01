@@ -1,0 +1,5 @@
+T3	Effect 0 21;65 105	Hypogammaglobulinemia a partial maturation blockade of B cells
+T5	Treatment 38 50	gold therapy
+T6	Drug 38 42	gold
+T4	Adverse_event 22 32	associated
+E1	Adverse_event:T4

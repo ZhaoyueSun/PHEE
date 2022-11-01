@@ -1,0 +1,5 @@
+T5	Treatment 46 56	amantadine
+T6	Effect 0 29	Exacerbation of schizophrenia
+T7	Drug 46 56	amantadine
+T4	Adverse_event 30 40	associated
+E1	Adverse_event:T4

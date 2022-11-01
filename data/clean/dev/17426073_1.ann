@@ -1,0 +1,9 @@
+T3	Treatment 35 45	vancomycin
+T5	Effect 54 65	neutropenia
+T6	Subject 21 29	patients
+T7	Drug 35 45	vancomycin
+T9	Drug 96 107	teicoplanin
+T4	Adverse_event 46 53	induced
+T10	Combination 76 92	cross-reactivity
+E1	Adverse_event:T4 
+E2	Combination:T10 arg:T9 arg2:T7

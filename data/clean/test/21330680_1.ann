@@ -1,0 +1,6 @@
+T4	Treatment 32 65;0 10	associated with smoking cessation Olanzapine
+T6	Effect 19 31	parkinsonism
+T7	Drug 0 10	Olanzapine
+T8	Dosage 56 65	cessation
+T5	Adverse_event 11 18	induced
+E1	Adverse_event:T5

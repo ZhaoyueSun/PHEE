@@ -1,0 +1,7 @@
+T4	Treatment 21 62	a beta-sympathomimetic drug (Partusisten)
+T5	Subject 63 72	one fetus
+T6	Effect 83 112	supraventricular tachycardia.
+T7	Age 67 72	fetus
+T8	Drug 50 61	Partusisten
+T3	Adverse_event 73 82	developed
+E1	Adverse_event:T3

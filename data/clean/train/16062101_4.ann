@@ -1,0 +1,5 @@
+T3	Effect 91 95	ADRs
+T4	Treatment 32 42	lamivudine
+T6	Drug 32 42	lamivudine
+T5	Adverse_event 85 90	cause
+E1	Adverse_event:T5

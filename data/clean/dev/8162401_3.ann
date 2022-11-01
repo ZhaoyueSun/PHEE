@@ -1,0 +1,5 @@
+T3	Effect 0 8	Seizures
+T5	Treatment 25 43	fluoxetine therapy
+T6	Drug 25 35	fluoxetine
+T4	Adverse_event 9 24	associated with
+E1	Adverse_event:T4

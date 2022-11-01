@@ -1,0 +1,7 @@
+T3	Subject 12 58	a patient with extranodal non-Hodgkin lymphoma
+T4	Effect 73 93	systemic candidiasis
+T6	Treatment 115 161	a cyclophosphamide-based chemotherapy regimen.
+T8	Treat-Disorder 27 58	extranodal non-Hodgkin lymphoma
+T9	Drug 117 152	cyclophosphamide-based chemotherapy
+T5	Adverse_event 100 109	treatment
+E1	Adverse_event:T5

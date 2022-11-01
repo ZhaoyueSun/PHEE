@@ -1,0 +1,5 @@
+T6	Effect 0 21	Transient hemiparesis
+T7	Treatment 32 50	phenytoin toxicity
+T8	Drug 32 41	phenytoin
+T5	Adverse_event 22 28	caused
+E1	Adverse_event:T5

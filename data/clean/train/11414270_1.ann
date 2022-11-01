@@ -1,0 +1,7 @@
+T8	Treatment 0 15	Succinylcholine
+T10	Subject 40 64	a patient with mucositis
+T11	Sub-Disorder 55 64	mucositis
+T12	Effect 24 36	hyperkalemia
+T9	Adverse_event 16 23	induced
+E1	Adverse_event:T9 
+T1	Drug 0 15	Succinylcholine

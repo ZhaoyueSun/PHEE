@@ -1,0 +1,12 @@
+T9	Subject 107 114	patient
+T7	Treatment 49 101	intravenous hydration and broad-spectrum antibiotics
+T8	Drug 61 70	hydration
+T12	Drug 75 101	broad-spectrum antibiotics
+T13	Route 49 60	intravenous
+T10	Effect 128 203	become more confused, agitated, and despondent over the subsequent 24 hours
+T15	Negation_cue 115 124	continued
+T11	Potential_therapeutic_event 115 124	continued
+T14	Combination 71 74	and
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T14 arg:T8 arg2:T12
+A1	Negated E1

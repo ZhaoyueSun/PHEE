@@ -1,0 +1,6 @@
+T4	Treatment 13 37	routine follow up by ECG
+T6	Subject 41 68	patients over the age of 50
+T8	Drug 82 95	carbamazepine
+T7	Age 50 68	over the age of 50
+T5	Potential_therapeutic_event 38 40	of
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,7 @@
+T3	Effect 41 52	weight loss
+T4	Subject 56 64	patients
+T6	Treatment 78 89	leflunomide
+T5	Treat-Disorder 94 114	rheumatoid arthritis
+T8	Drug 78 89	leflunomide
+T7	Adverse_event 48 52	loss
+E1	Adverse_event:T7 

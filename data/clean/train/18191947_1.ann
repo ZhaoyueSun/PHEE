@@ -1,0 +1,5 @@
+T3	Treatment 52 64	methotrexate
+T5	Effect 73 96	sub-acute neurotoxicity
+T6	Drug 52 64	methotrexate
+T4	Adverse_event 65 72	related
+E1	Adverse_event:T4

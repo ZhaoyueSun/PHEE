@@ -1,0 +1,6 @@
+T3	Effect 13 35	Spontaneous hemothorax
+T4	Treatment 77 81	LMWH
+T5	Effect 119 145	acute respiratory distress
+T7	Drug 77 81	LMWH
+T6	Adverse_event 96 106	considered
+E1	Adverse_event:T6

@@ -1,0 +1,11 @@
+T3	Effect 0 14	Hepatotoxicity
+T5	Treatment 18 29;42 62	paracetamol ingestion of alcohol
+T6	Subject 74 84	two cases.
+T7	Population 74 77	two
+T8	Drug 18 29	paracetamol
+T10	Drug 55 62	alcohol
+T11	Route 42 51	ingestion
+T4	Adverse_event 30 38	enhanced
+T9	Combination 30 38	enhanced
+E1	Adverse_event:T4 
+E2	Combination:T9 arg:T10 arg2:T8

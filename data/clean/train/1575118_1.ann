@@ -1,0 +1,7 @@
+T3	Effect 11 35	drug-induced neutropenia
+T5	Subject 46 55	a patient
+T6	Treatment 66 114	a semisynthetic penicillin for two weeks or more
+T7	Drug 68 92	semisynthetic penicillin
+T8	Duration 97 106	two weeks
+T4	Adverse_event 36 42	occurs
+E1	Adverse_event:T4

@@ -1,0 +1,12 @@
+T13	Treatment 32 57	tizanidine and mexiletine
+T15	Effect 113 137	drowsiness and dry mouth
+T12	Subject 7 18	15 patients
+T16	Population 7 9	15
+T17	Drug 32 42	tizanidine
+T18	Drug 47 57	mexiletine
+T20	Subject 59 60	4
+T21	Drug 70 80	tizanidine
+T14	Adverse_event 81 88	induced
+T19	Combination 43 46	and
+E1	Adverse_event:T14 
+E2	Combination:T19 arg:T17 arg2:T18

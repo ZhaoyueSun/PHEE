@@ -1,0 +1,6 @@
+T3	Treatment 81 90	metformin
+T5	Effect 121 136	lactic acidosis
+T7	Drug 81 90	metformin
+T8	Treat-Disorder 42 57	Type 2 diabetes
+T4	Adverse_event 97 103	result
+E1	Adverse_event:T4

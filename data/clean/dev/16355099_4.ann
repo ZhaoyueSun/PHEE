@@ -1,0 +1,6 @@
+T3	Treatment 32 39	heparin
+T4	Effect 5 15;78 83	thrombosis HITTs
+T7	Speculation_cue 70 77	suspect
+T8	Drug 32 39	heparin
+T5	Adverse_event 16 24	develops
+E1	Adverse_event:T5

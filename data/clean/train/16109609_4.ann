@@ -1,0 +1,9 @@
+T3	Effect 24 72	hemodynamically significant pericardial effusion
+T4	Subject 154 220	had a history of mediastinal radiation without subcarinal blocking
+T5	Treatment 129 140	gemcitabine
+T7	Treat-Disorder 90 109	refractory lymphoma
+T8	Sub-Disorder 171 220	mediastinal radiation without subcarinal blocking
+T9	Drug 129 140	gemcitabine
+T6	Adverse_event 73 75	in
+E1	Adverse_event:T6 
+T1	Population 10 14	four

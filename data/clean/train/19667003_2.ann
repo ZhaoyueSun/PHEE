@@ -1,0 +1,6 @@
+T4	Subject 9 15	A case
+T5	Treatment 19 32	carbamazepine
+T7	Effect 41 55	hyperammonemia
+T8	Drug 19 32	carbamazepine
+T6	Adverse_event 33 40	induced
+E1	Adverse_event:T6

@@ -1,0 +1,9 @@
+T4	Effect 35 67	spontaneous choroidal hemorrhage
+T5	Subject 73 118	67-year-old man after a myocardial infarction
+T6	Treatment 141 169	tissue plasminogen activator
+T7	Age 73 84	67-year-old
+T8	Gender 85 88	man
+T9	Treat-Disorder 97 118	myocardial infarction
+T10	Drug 141 169	tissue plasminogen activator
+T3	Adverse_event 68 70	in
+E1	Adverse_event:T3 

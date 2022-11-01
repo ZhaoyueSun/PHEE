@@ -1,0 +1,8 @@
+T8	Subject 127 161	10 patients with Behcet's syndrome
+T9	Treatment 172 184	chlorambucil
+T11	Effect 58 75	chromosome damage
+T12	Population 127 129	10
+T13	Treat-Disorder 144 161	Behcet's syndrome
+T14	Drug 172 184	chlorambucil
+T10	Adverse_event 162 171	receiving
+E1	Adverse_event:T10 

@@ -1,0 +1,6 @@
+T5	Treatment 14 29	methylphenidate
+T7	Effect 40 61	cataract and glaucoma
+T8	Speculation_cue 30 33	may
+T9	Drug 14 29	methylphenidate
+T6	Adverse_event 34 39	cause
+E1	Adverse_event:T6

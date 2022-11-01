@@ -1,0 +1,5 @@
+T5	Effect 29 74	acute lung injury and diffuse alveolar damage
+T7	Treatment 85 95	mefloquine
+T8	Drug 85 95	mefloquine
+T6	Adverse_event 75 81	caused
+E1	Adverse_event:T6

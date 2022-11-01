@@ -1,0 +1,8 @@
+T4	Subject 11 32	40 healthy volunteers
+T6	Treatment 60 102	600 mg rifampicin once daily from days 1-5
+T7	Population 11 13	40
+T8	Dosage 60 66	600 mg
+T9	Drug 67 77	rifampicin
+T10	Freq 78 88	once daily
+T5	Potential_therapeutic_event 49 54	start
+E1	Potential_therapeutic_event:T5

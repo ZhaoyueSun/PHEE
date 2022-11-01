@@ -1,0 +1,8 @@
+T5	Effect 178 192;217 237	acral necrosis Raynaud's phenomenon
+T6	Treatment 27 36;41 56	bleomycin vinca alkaloids
+T8	Drug 27 36	bleomycin
+T9	Drug 41 56	vinca alkaloids
+T7	Adverse_event 168 177	provoking
+T10	Combination 37 40	and
+E1	Adverse_event:T7 
+E2	Combination:T10 arg:T8 arg2:T9

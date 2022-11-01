@@ -1,0 +1,1 @@
+Evaluation of initial and steady-state gatifloxacin pharmacokinetics and dose in pulmonary tuberculosis patients by using monte carlo simulations.

@@ -1,0 +1,7 @@
+T3	Treatment 0 10	Interferon
+T5	Effect 129 154	neuropsychiatric symptoms
+T6	Speculation_cue 37 46	potential
+T7	Drug 0 10	Interferon
+T4	Adverse_event 90 101	complicated
+E1	Adverse_event:T4 
+A1	Speculated E1

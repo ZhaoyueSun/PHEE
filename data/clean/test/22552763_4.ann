@@ -1,0 +1,10 @@
+T8	Treatment 55 138	thromboprophylactic dabigatran etexilate, with and without concomitant NSAID or ASA
+T10	Effect 16 24	bleeding
+T11	Subject 33 41	patients
+T12	Drug 135 138	ASA
+T13	Drug 126 131	NSAID
+T14	Drug 75 95	dabigatran etexilate
+T9	Adverse_event 42 49	treated
+T15	Combination 114 125	concomitant
+E1	Adverse_event:T9 
+E2	Combination:T15 arg:T14 arg2:T13 arg3:T12

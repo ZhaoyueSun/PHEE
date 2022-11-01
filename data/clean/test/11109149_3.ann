@@ -1,0 +1,13 @@
+T7	Subject 12 56	a 57-year-old man with acral erythrocyanosis
+T8	Effect 72 107	acute digital ischemia and gangrene
+T10	Treatment 129 179	combined chemotherapy (bleomycin and methotrexate)
+T12	Age 14 25	57-year-old
+T13	Gender 26 29	man
+T14	Sub-Disorder 35 56	acral erythrocyanosis
+T15	Drug 152 161	bleomycin
+T16	Drug 166 178	methotrexate
+T18	Treat-Disorder 196 249	metastatic squamous cell carcinoma of the hypopharynx
+T9	Adverse_event 113 122	developed
+T17	Combination 162 165	and
+E1	Adverse_event:T9 
+E2	Combination:T17 arg:T15 arg2:T16

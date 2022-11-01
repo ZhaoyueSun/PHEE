@@ -1,0 +1,6 @@
+T3	Effect 0 18	Cutaneous necrosis
+T5	Treatment 25 82	injection of polyethylene glycol-modified interferon alfa
+T6	Drug 38 83	polyethylene glycol-modified interferon alfa.
+T7	Route 25 34	injection
+T4	Adverse_event 19 24	after
+E1	Adverse_event:T4

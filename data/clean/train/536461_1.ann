@@ -1,0 +1,7 @@
+T3	Treatment 14 25	clindamycin
+T5	Effect 37 61	pseudomembranous colitis
+T6	Subject 65 83	leukaemic patients
+T7	Sub-Disorder 65 74	leukaemic
+T8	Drug 14 25	clindamycin
+T4	Adverse_event 26 36	associated
+E1	Adverse_event:T4 

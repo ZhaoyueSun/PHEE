@@ -1,0 +1,5 @@
+T5	Treatment 82 103	34 months after LASIK
+T6	Effect 29 81	traumatic flap dehiscence and Enterobacter keratitis
+T8	Time_elapsed 82 97	34 months after
+T7	Adverse_event 92 97	after
+E1	Adverse_event:T7

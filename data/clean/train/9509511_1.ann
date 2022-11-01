@@ -1,0 +1,17 @@
+T7	Treatment 4 75	chemotherapeutics, including vincristine, actinomycin D, and epirubicin
+T8	Effect 153 177	hepatotoxicity developed
+T10	Drug 33 44	vincristine
+T11	Drug 46 59	actinomycin D
+T12	Drug 65 75	epirubicin
+T14	Drug 90 101	vincristine
+T15	Drug 106 119	actinomycin D
+T18	Treatment 90 119	vincristine and actinomycin D
+T9	Adverse_event 136 141	given
+T16	Combination 102 105	and
+T17	Combination 61 64	and
+E1	Adverse_event:T9 arg:T18 arg2:T8
+E2	Combination:T16 arg:T14 arg2:T15
+E3	Combination:T17 arg:T12 arg2:T11 arg3:T10
+E4	Adverse_event:T9 arg:T7 arg2:T8
+R1	has_child Arg1:E4 Arg2:E3	
+R2	has_child Arg1:E1 Arg2:E2

@@ -1,0 +1,7 @@
+T8	Subject 208 219	RA patients
+T5	Treatment 196 207	MTX-treated
+T6	Effect 110 192	Epstein-Barr virus (EBV)-associated polyclonal B cell lymphoproliferative disorder
+T10	Drug 196 199	MTX
+T11	Treat-Disorder 208 210	RA
+T7	Adverse_event 99 106	reports
+E1	Adverse_event:T7

@@ -1,0 +1,10 @@
+T5	Treatment 60 130	interferon-alpha (5 x 10(6) IU) intramuscularly once a day for 28 days
+T8	Subject 0 42	A 28 year-old man with chronic hepatitis B
+T9	Age 2 13	28 year-old
+T10	Gender 14 17	man
+T11	Treat-Disorder 23 42	chronic hepatitis B
+T12	Drug 60 76	interferon-alpha
+T13	Route 92 107	intramuscularly
+T14	Freq 108 118	once a day
+T6	Potential_therapeutic_event 47 59	administered
+E1	Potential_therapeutic_event:T6

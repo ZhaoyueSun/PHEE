@@ -1,0 +1,10 @@
+T5	Subject 10 84	a 45-year-old Chinese man with CML and chronic hepatitis B virus infection
+T6	Treatment 86 107	on imatinib treatment
+T7	Effect 125 162	herpetic rash and acute liver failure
+T9	Age 12 23	45-year-old
+T10	Race 24 31	Chinese
+T11	Gender 32 35	man
+T13	Drug 89 97	imatinib
+T14	Treat-Disorder 41 68	CML and chronic hepatitis B
+T8	Adverse_event 109 119	presenting
+E1	Adverse_event:T8

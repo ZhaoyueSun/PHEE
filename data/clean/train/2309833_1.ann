@@ -1,0 +1,5 @@
+T3	Treatment 6 31	discontinuation of danazo
+T4	Treat-Disorder 37 45	diabetes
+T6	Drug 25 32	danazol
+T5	Potential_therapeutic_event 57 65	resolved
+E1	Potential_therapeutic_event:T5

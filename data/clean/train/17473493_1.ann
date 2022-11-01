@@ -1,0 +1,5 @@
+T3	Treatment 38 48	raloxifene
+T5	Effect 60 103	aggravation of nonalcoholic steatohepatitis
+T6	Drug 38 48	raloxifene
+T4	Adverse_event 49 59	associated
+E1	Adverse_event:T4

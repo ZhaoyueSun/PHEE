@@ -1,0 +1,5 @@
+T4	Treatment 25 47	discontinuation of APV
+T3	Treat-Disorder 0 12	The bleeding
+T6	Drug 44 47	APV
+T5	Potential_therapeutic_event 13 21	resolved
+E1	Potential_therapeutic_event:T5

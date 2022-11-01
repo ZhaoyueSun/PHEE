@@ -1,0 +1,11 @@
+T3	Subject 9 28	A 79-year-old woman
+T4	Treatment 48 73;152 165	imiquimod 5 days per week after 7 weeks
+T5	Treat-Disorder 80 98	nodular basal cell
+T6	Effect 111 127	verrucous plaque
+T8	Age 11 22	79-year-old
+T9	Gender 23 28	woman
+T10	Drug 48 57	imiquimod
+T11	Freq 58 73	5 days per week
+T12	Time_elapsed 158 165	7 weeks
+T7	Adverse_event 99 108	developed
+E1	Adverse_event:T7

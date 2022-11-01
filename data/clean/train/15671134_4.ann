@@ -1,0 +1,7 @@
+T3	Treatment 22 31	clozapine
+T5	Effect 40 48	seizures
+T6	Subject 52 100	a patient with treatment-resistant schizophrenia
+T8	Drug 22 31	clozapine
+T9	Treat-Disorder 67 100	treatment-resistant schizophrenia
+T4	Adverse_event 32 39	induced
+E1	Adverse_event:T4

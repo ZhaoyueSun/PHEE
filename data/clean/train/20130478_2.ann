@@ -1,0 +1,7 @@
+T3	Effect 0 24	Reversible heart failure
+T4	Subject 28 37	a patient
+T5	Treatment 48 58	etanercept
+T6	Drug 48 58	etanercept
+T8	Treat-Disorder 63 85	ankylosing spondylitis
+T7	Adverse_event 25 27	in
+E1	Adverse_event:T7

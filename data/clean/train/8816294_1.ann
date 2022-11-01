@@ -1,0 +1,7 @@
+T3	Effect 4 26	delayed encephalopathy
+T5	Treatment 90 114	intrathecal methotrexate
+T6	Time_elapsed 37 52	9 and 22 months
+T7	Dosage 102 114	methotrexate
+T8	Route 90 101	intrathecal
+T4	Adverse_event 27 36	developed
+E1	Adverse_event:T4

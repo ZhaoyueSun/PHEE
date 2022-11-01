@@ -1,0 +1,5 @@
+T3	Treatment 37 74	systemic tissue plasminogen activator
+T5	Effect 0 20	Choroidal hemorrhage
+T6	Drug 37 74	systemic tissue plasminogen activator
+T4	Adverse_event 21 31	associated
+E1	Adverse_event:T4

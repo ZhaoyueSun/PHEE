@@ -1,0 +1,10 @@
+T4	Effect 26 53	fatal acute hepatic failure
+T5	Treatment 0 17	Imatinib mesylate
+T6	Subject 57 131	a patient with chronic myeloid leukaemia and chronic hepatitis B infection
+T8	Severity_cue 26 31	fatal
+T9	Sub-Disorder 102 131	chronic hepatitis B infection
+T10	Drug 0 17	Imatinib mesylate
+T11	Treat-Disorder 72 97	chronic myeloid leukaemia
+T3	Adverse_event 18 25	related
+E1	Adverse_event:T3 
+A1	Severity E1 High

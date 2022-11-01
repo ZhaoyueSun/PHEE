@@ -1,0 +1,11 @@
+T6	Effect 10 33	serious adverse effects
+T8	Treatment 41 108	interaction between orally administered voriconazole and everolimus
+T9	Subject 112 140	a renal transplant recipient
+T10	Sub-Disorder 114 130	renal transplant
+T12	Drug 81 93	voriconazole
+T13	Drug 98 108	everolimus
+T7	Adverse_event 34 40	due to
+T11	Combination 41 52	interaction
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T12 arg2:T13
+T1	Route 61 67	orally

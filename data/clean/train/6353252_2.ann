@@ -1,0 +1,9 @@
+T3	Speculation_cue 53 58	might
+T4	Subject 0 46	The 5 patients had severe renovascular disease
+T6	Treatment 122 131	captopril
+T7	Effect 140 159	acute renal failure
+T8	Population 4 5	5
+T9	Sub-Disorder 26 46	renovascular disease
+T11	Drug 122 131	captopril
+T5	Adverse_event 132 139	induced
+E1	Adverse_event:T5 

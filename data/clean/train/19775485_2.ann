@@ -1,0 +1,7 @@
+T4	Treatment 79 93	oxymetalzoline
+T5	Effect 25 67	cardiovascular and neurological depression
+T6	Subject 97 106	a toddler
+T7	Age 99 106	toddler
+T8	Drug 79 93	oxymetalzoline
+T3	Adverse_event 68 75	induced
+E1	Adverse_event:T3

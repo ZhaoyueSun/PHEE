@@ -1,0 +1,9 @@
+T3	Subject 0 46	A patient with chronic myelomonocytic leukemia
+T5	Effect 70 88	pulmonary toxicity
+T6	Treatment 95 124	using low dose oral etoposide
+T7	Sub-Disorder 15 46	chronic myelomonocytic leukemia
+T8	Route 110 114	oral
+T9	Drug 115 124	etoposide
+T4	Adverse_event 47 56	developed
+E1	Adverse_event:T4 
+T1	Dosage 101 109	low dose

@@ -1,0 +1,8 @@
+T4	Treatment 16 23	insulin
+T5	Subject 27 59	a patient with liver dysfunction
+T6	Effect 60 124	increase water retention in the body, i.e. cause insulin oedema?
+T8	Drug 16 23	insulin
+T9	Speculation_cue 0 4	Does
+T10	Treat-Disorder 42 59	liver dysfunction
+T3	Adverse_event 9 12	use
+E1	Adverse_event:T3

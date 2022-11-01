@@ -1,0 +1,5 @@
+T5	Treat-Disorder 93 137	Human Immunodeficiency Virus (HIV) infection
+T7	Treatment 12 15	NVP
+T8	Drug 12 15	NVP
+T6	Potential_therapeutic_event 68 72	used
+E1	Potential_therapeutic_event:T6

@@ -1,0 +1,9 @@
+T3	Treatment 110 138	institution of glibenclamide
+T4	Subject 0 66	The patient described in this paper was a 78-year-old diabetic man
+T6	Effect 81 99	oral lesions of PV
+T7	Age 42 53	78-year-old
+T9	Gender 63 66	man
+T10	Drug 125 138	glibenclamide
+T11	Treat-Disorder 54 62	diabetic
+T5	Adverse_event 100 109	following
+E1	Adverse_event:T5 

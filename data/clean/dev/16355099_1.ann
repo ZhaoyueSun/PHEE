@@ -1,0 +1,5 @@
+T6	Effect 16 117	thrombocytopenia complicated with massive thrombosis of the inferior vena cava after filter placement
+T7	Treatment 0 7	Heparin
+T8	Drug 0 7	Heparin
+T5	Adverse_event 8 15	induced
+E1	Adverse_event:T5

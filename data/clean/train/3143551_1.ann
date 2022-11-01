@@ -1,0 +1,5 @@
+T3	Effect 13 25	camptocormia
+T5	Treatment 61 70	valproate
+T6	Drug 61 70	valproate
+T4	Adverse_event 51 57	effect
+E1	Adverse_event:T4

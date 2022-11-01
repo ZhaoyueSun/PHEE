@@ -1,0 +1,7 @@
+T8	Treatment 0 29;34 61	Moxifloxacin and lomefloxacin fluoroquinolone antibiotics
+T11	Drug 0 12	Moxifloxacin
+T12	Drug 17 29	lomefloxacin
+T13	Drug 34 61	fluoroquinolone antibiotics
+T14	Treat-Disorder 79 119	urinary and respiratory tract infections
+T9	Potential_therapeutic_event 70 78	treating
+E1	Potential_therapeutic_event:T9

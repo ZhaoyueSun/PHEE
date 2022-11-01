@@ -1,0 +1,5 @@
+T8	Treat-Disorder 107 145	human immunodeficiency virus infection
+T9	Treatment 0 51	Vicriviroc (SCH 417690), a CCR5 receptor antagonist
+T10	Drug 0 10	Vicriviroc
+T7	Potential_therapeutic_event 94 103	treatment
+E1	Potential_therapeutic_event:T7

@@ -1,0 +1,9 @@
+T7	Effect 24 42	serotonin syndrome
+T8	Treatment 65 88	lithium and venlafaxine
+T9	Subject 10 16	a case
+T11	Drug 65 72	lithium
+T12	Drug 77 88	venlafaxine
+T10	Adverse_event 43 49	during
+T13	Combination 73 76	and
+E1	Adverse_event:T10 
+E2	Combination:T13 arg:T11 arg2:T12

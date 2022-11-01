@@ -1,0 +1,7 @@
+T3	Effect 0 16	Optic neuropathy
+T5	Treatment 33 46	penicillamine
+T6	Subject 58 93	a patient with rheumatoid arthritis
+T7	Treat-Disorder 73 93	rheumatoid arthritis
+T8	Drug 33 46	penicillamine
+T4	Adverse_event 17 27	associated
+E1	Adverse_event:T4 

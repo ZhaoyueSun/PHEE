@@ -1,0 +1,7 @@
+T3	Subject 0 18	The second patient
+T4	Effect 29 40	sudden PLMS
+T6	Treatment 51 71	olanzapine injection
+T7	Drug 51 61	olanzapine
+T8	Route 62 71	injection
+T5	Adverse_event 41 50	following
+E1	Adverse_event:T5

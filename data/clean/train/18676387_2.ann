@@ -1,0 +1,8 @@
+T9	Effect 20 38	serotonin toxicity
+T11	Treatment 113 123;177 185	paroxetine fentanyl
+T12	Drug 113 123	paroxetine
+T13	Drug 177 185	fentanyl
+T10	Adverse_event 80 86	caused
+T14	Combination 93 104	interaction
+E1	Adverse_event:T10 
+E2	Combination:T14 arg:T12 arg2:T13

@@ -1,0 +1,6 @@
+T4	Effect 0 22	Recurrent hyponatremia
+T6	Treatment 39 65	citalopram and mirtazapine
+T7	Drug 39 49	citalopram
+T8	Drug 54 65	mirtazapine
+T5	Adverse_event 23 33	associated
+E1	Adverse_event:T5

@@ -1,0 +1,9 @@
+T3	Effect 0 18	Acute pancreatitis
+T5	Subject 22 64	a child with idiopathic ulcerative colitis
+T6	Treatment 68 107	long-term 5-aminosalicylic acid therapy
+T7	Age 24 29	child
+T9	Drug 78 99	5-aminosalicylic acid
+T10	Treat-Disorder 35 64	idiopathic ulcerative colitis
+T11	Duration 68 77	long-term
+T4	Adverse_event 19 21	in
+E1	Adverse_event:T4 

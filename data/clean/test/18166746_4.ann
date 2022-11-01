@@ -1,0 +1,6 @@
+T7	Treatment 75 85	paroxetine
+T8	Subject 0 61	The patient had a background of obsessive compulsive disorder
+T9	Treat-Disorder 32 61	obsessive compulsive disorder
+T10	Drug 75 85	paroxetine
+T5	Potential_therapeutic_event 62 69	treated
+E1	Potential_therapeutic_event:T5

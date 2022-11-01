@@ -1,0 +1,5 @@
+T6	Treatment 130 140	omeprazole
+T7	Effect 94 124	risk of diarrhea was increased
+T8	Drug 130 140	omeprazole
+T5	Adverse_event 115 124	increased
+E1	Adverse_event:T5

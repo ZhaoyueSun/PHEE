@@ -1,0 +1,7 @@
+T3	Treat-Disorder 27 31	HMSN
+T4	Effect 88 128	severe neurotoxicity of polychemotherapy
+T5	Treatment 141 152	vincristine
+T7	Severity_cue 88 94	severe
+T8	Drug 141 152	vincristine
+T6	Adverse_event 129 131	by
+E1	Adverse_event:T6

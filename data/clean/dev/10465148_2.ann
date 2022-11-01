@@ -1,0 +1,9 @@
+T6	Treat-Disorder 124 155	central nervous system leukemia
+T7	Subject 159 167	children
+T10	Age 159 167	children
+T12	Drug 30 42	methotrexate
+T13	Drug 46 66	cytosine arabinoside
+T9	Treatment 0 66	Intrathecal chemotherapy with methotrexate or cytosine arabinoside
+T14	Route 0 24	Intrathecal chemotherapy
+T8	Potential_therapeutic_event 111 120	treatment
+E1	Potential_therapeutic_event:T8 

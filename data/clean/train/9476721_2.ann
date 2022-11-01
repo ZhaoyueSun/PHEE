@@ -1,0 +1,10 @@
+T6	Treatment 111 145	an initial d-penicillamine therapy
+T7	Subject 93 104	WD patients
+T8	Effect 17 79	acute generalized dystonia with brainstem and thalamic lesions
+T9	Treat-Disorder 93 95	WD
+T10	Drug 122 137	d-penicillamine
+T11	Speculation_cue 80 89	may occur
+T12	Severity_cue 17 22	acute
+T5	Adverse_event 105 110	after
+E1	Adverse_event:T5 
+A1	Severity E1 High

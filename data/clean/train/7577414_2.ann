@@ -1,0 +1,7 @@
+T5	Treatment 44 56	griseofulvin
+T7	Effect 69 74;84 102	lupus nephrotic syndrome
+T8	Speculation_cue 0 16	To our knowledge
+T9	Drug 44 56	griseofulvin
+T10	Subject 26 40	the first case
+T6	Adverse_event 57 68	exacerbated
+E1	Adverse_event:T6

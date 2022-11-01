@@ -1,0 +1,5 @@
+T6	Treatment 0 10	Budesonide
+T8	Treat-Disorder 92 112	asthma and rhinitis.
+T9	Drug 0 10	Budesonide
+T7	Potential_therapeutic_event 63 70	used in
+E1	Potential_therapeutic_event:T7

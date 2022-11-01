@@ -1,0 +1,7 @@
+T4	Treatment 61 65	rhGH
+T5	Effect 74 87	hypercalcemia
+T6	Subject 91 114	an HIV-infected patient
+T8	Drug 61 65	rhGH
+T9	Treat-Disorder 94 97	HIV
+T3	Adverse_event 66 73	induced
+E1	Adverse_event:T3

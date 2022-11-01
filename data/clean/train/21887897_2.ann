@@ -1,0 +1,10 @@
+T7	Treatment 33 89	etizolam, phenobarbital, promethazine and chlorpromazine
+T8	Effect 0 17	A fatal poisoning
+T10	Subject 0 22	A fatal poisoning case
+T11	Severity_cue 2 7	fatal
+T12	Drug 33 41	etizolam
+T13	Drug 43 56	phenobarbital
+T14	Drug 58 70	promethazine
+T15	Drug 75 89	chlorpromazine
+T9	Adverse_event 23 32	involving
+E1	Adverse_event:T9

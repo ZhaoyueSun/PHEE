@@ -1,0 +1,7 @@
+T3	Subject 21 32	57 patients
+T4	Effect 68 84	cytotoxic effect
+T5	Treatment 88 99	ticlopidine
+T7	Population 21 23	57
+T8	Drug 88 99	ticlopidine
+T6	Adverse_event 166 174	proposed
+E1	Adverse_event:T6

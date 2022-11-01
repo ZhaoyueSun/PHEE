@@ -1,0 +1,8 @@
+T7	Treatment 140 147	TMP-SMX
+T9	Effect 156 170	hepatotoxicity
+T10	Subject 121 136	pediatric cases
+T12	Age 121 130	pediatric
+T13	Drug 140 147	TMP-SMX
+T8	Adverse_event 148 155	induced
+E1	Adverse_event:T8 
+A1	Negated E1

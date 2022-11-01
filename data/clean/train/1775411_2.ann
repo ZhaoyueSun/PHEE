@@ -1,0 +1,5 @@
+T3	Treatment 35 45	nabumetone
+T5	Effect 0 18	Pulmonary fibrosis
+T6	Drug 35 45	nabumetone
+T4	Adverse_event 19 29	associated
+E1	Adverse_event:T4

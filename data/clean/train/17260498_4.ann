@@ -1,0 +1,16 @@
+T14	Treatment 87 130;212 223;233 302	weekly administration of 30 mg/m2 docetaxel seven doses despite mechanical ventilation and high-dose corticosteroid treatment
+T16	Effect 145 205;224 232	subacute interstitial pneumonitis-related pulmonary fibrosis and died
+T17	Age 27 38	72-year-old
+T12	Subject 25 82	a 72-year-old man with hormone-refractory prostate cancer
+T18	Gender 39 42	man
+T19	Freq 87 93	weekly
+T20	Route 94 108	administration
+T21	Dosage 112 120	30 mg/m2
+T22	Drug 121 130	docetaxel
+T23	Dosage 212 223	seven doses
+T24	Drug 278 292	corticosteroid
+T25	Treat-Disorder 48 82	hormone-refractory prostate cancer
+T27	Severity_cue 228 232	died
+T30	Dosage 268 277	high-dose
+T15	Adverse_event 135 144	developed
+E1	Adverse_event:T15

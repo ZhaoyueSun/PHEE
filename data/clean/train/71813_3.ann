@@ -1,0 +1,5 @@
+T5	Effect 0 22	Lichen planus and acne
+T7	Treatment 35 39	gold
+T8	Drug 35 39	gold
+T6	Adverse_event 23 31	provoked
+E1	Adverse_event:T6

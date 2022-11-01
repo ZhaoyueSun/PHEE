@@ -1,0 +1,6 @@
+T4	Treatment 28 57	administration of gemcitabine
+T5	Effect 59 139	a symmetric, bullous, herpetiform eruption appeared on his trunk and upper limbs
+T6	Drug 46 57	gemcitabine
+T7	Time_elapsed 0 17	Twenty-four hours
+T3	Adverse_event 18 23	after
+E1	Adverse_event:T3

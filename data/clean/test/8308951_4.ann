@@ -1,0 +1,8 @@
+T6	Effect 44 56	coagulopathy
+T4	Treatment 0 35	Percutaneous absorption of warfarin
+T7	Drug 27 35	warfarin
+T8	Route 0 23	Percutaneous absorption
+T9	Severity_cue 95 113	a significant risk
+T5	Adverse_event 36 43	causing
+E1	Adverse_event:T5 
+A1	Severity E1 High

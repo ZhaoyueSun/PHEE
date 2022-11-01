@@ -1,0 +1,5 @@
+T5	Treatment 50 68	lithium withdrawal
+T8	Drug 50 57	lithium
+T4	Treat-Disorder 14 39	thyrotoxic ophthalmopathy
+T3	Potential_therapeutic_event 0 10	Regression
+E1	Potential_therapeutic_event:T3

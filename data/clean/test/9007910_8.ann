@@ -1,0 +1,7 @@
+T8	Treatment 242 254	5-FU therapy
+T9	Subject 197 231	DPD-deficient patients with cancer
+T10	Sub-Disorder 197 210	DPD-deficient
+T11	Drug 242 246	5-FU
+T7	Potential_therapeutic_event 232 241	receiving
+E1	Potential_therapeutic_event:T7 
+T1	Treat-Disorder 225 231	cancer

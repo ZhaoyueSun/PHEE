@@ -1,0 +1,8 @@
+T4	Treatment 125 132	TMP-SMX
+T5	Subject 12 48	a relatively healthy, 9-year-old boy
+T6	Treat-Disorder 65 103	CA-MRSA skin and soft tissue infection
+T7	Age 34 44	9-year-old
+T8	Gender 45 48	boy
+T9	Drug 125 132	TMP-SMX
+T3	Potential_therapeutic_event 112 119	treated
+E1	Potential_therapeutic_event:T3

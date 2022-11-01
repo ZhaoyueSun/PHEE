@@ -1,0 +1,10 @@
+T9	Effect 219 236	drug interactions
+T10	Treatment 123 196	ritonavir's concomitant administration with the substrates of this enzyme
+T14	Drug 123 132	ritonavir
+T15	Drug 171 196	substrates of this enzyme
+T12	Speculation_cue 197 200	may
+T11	Adverse_event 201 205	lead
+T17	Combination 224 236	interactions
+E1	Adverse_event:T11 
+E3	Combination:T17 arg:T15 arg2:T14
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T4	Treatment 38 58	bleomycin and oxygen
+T6	Effect 67 83	pulmonary damage
+T7	Drug 52 58	oxygen
+T8	Drug 38 47	bleomycin
+T5	Adverse_event 59 66	induced
+T9	Combination 48 51	and
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T7 arg2:T8

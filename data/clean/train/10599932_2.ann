@@ -1,0 +1,11 @@
+T10	Effect 0 29	A pharmacokinetic interaction
+T11	Treatment 38 136	the selective serotonin reuptake inhibitor citalopram and a tricyclic antidepressant, clomipramine
+T12	Subject 151 223	a patient treated for major depression and obsessive-compulsive disorder
+T16	Drug 81 91	citalopram
+T17	Drug 124 136	clomipramine
+T18	Treat-Disorder 179 189	depression
+T19	Treat-Disorder 194 223	obsessive-compulsive disorder
+T13	Adverse_event 18 29	interaction
+T15	Combination 18 29	interaction
+E1	Adverse_event:T13 
+E2	Combination:T15 arg:T16 arg2:T17

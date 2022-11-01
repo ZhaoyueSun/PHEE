@@ -1,0 +1,5 @@
+T3	Treatment 0 11	Methimazole
+T5	Effect 23 47	cholestatic liver injury
+T6	Drug 0 11	Methimazole
+T4	Adverse_event 12 22	associated
+E1	Adverse_event:T4

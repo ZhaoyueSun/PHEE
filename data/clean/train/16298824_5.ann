@@ -1,0 +1,6 @@
+T3	Effect 0 21;97 109	Progressive hypoxemia led to death
+T4	Treatment 68 92	rituximab administration
+T6	Drug 68 77	rituximab
+T7	Time_elapsed 55 61	1 week
+T5	Adverse_event 62 67	after
+E1	Adverse_event:T5

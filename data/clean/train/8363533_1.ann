@@ -1,0 +1,7 @@
+T3	Treatment 41 48	lithium
+T5	Effect 60 80	thyroid dysfunctions
+T6	Subject 120 137	Hong Kong Chinese
+T7	Race 120 137	Hong Kong Chinese
+T8	Drug 41 48	lithium
+T4	Adverse_event 49 59	associated
+E1	Adverse_event:T4

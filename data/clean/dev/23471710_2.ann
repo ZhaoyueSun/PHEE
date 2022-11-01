@@ -1,0 +1,10 @@
+T8	Treatment 97 126	clarithromycin and omeprazole
+T10	Effect 161 173	hypoglycemia
+T11	Drug 97 111	clarithromycin
+T12	Drug 116 126	omeprazole
+T13	Treat-Disorder 64 95	a Helicobacter pylori infection
+T9	Adverse_event 145 155	associated
+T14	Combination 112 115	and
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T11 arg2:T12
+A1	Negated E1

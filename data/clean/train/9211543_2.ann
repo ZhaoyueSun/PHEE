@@ -1,0 +1,11 @@
+T7	Treatment 106 163	drug regimens that included bleomycin or cyclophosphamide
+T8	Subject 0 87	Two pediatric oncology patients with Ewing's sarcoma and one with mixed germ cell tumor
+T10	Population 0 3	Two
+T12	Drug 134 143	bleomycin
+T13	Drug 147 163	cyclophosphamide
+T9	Potential_therapeutic_event 93 105	treated with
+E1	Potential_therapeutic_event:T9 
+T1	Age 4 13	pediatric
+T2	Treat-Disorder 37 52	Ewing's sarcoma
+T3	Population 57 60	one
+T4	Treat-Disorder 66 87	mixed germ cell tumor

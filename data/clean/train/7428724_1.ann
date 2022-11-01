@@ -1,0 +1,8 @@
+T3	Subject 0 10	Four cases
+T4	Effect 14 32	oesophageal damage
+T6	Treatment 49 113	ingestion of the urinary anti-spasmodic agent emepronium bromide
+T7	Population 0 4	Four
+T8	Route 49 58	ingestion
+T9	Drug 95 113	emepronium bromide
+T5	Adverse_event 33 43	associated
+E1	Adverse_event:T5

@@ -1,0 +1,8 @@
+T4	Subject 20 32	two patients
+T6	Treatment 95 121	quetiapine and risperidone
+T7	Effect 52 73	diabetic ketoacidosis
+T8	Population 20 23	two
+T9	Drug 95 105	quetiapine
+T10	Drug 110 121	risperidone
+T12	Adverse_event 37 46	presented
+E3	Adverse_event:T12

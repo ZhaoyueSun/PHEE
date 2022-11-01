@@ -1,0 +1,7 @@
+T3	Treatment 0 14	Rituximab-CHOP
+T5	Effect 23 47	interstitial pneumonitis
+T6	Subject 51 118	patients with disseminated extranodal marginal zone B cell lymphoma
+T7	Treat-Disorder 65 118	disseminated extranodal marginal zone B cell lymphoma
+T8	Drug 0 14	Rituximab-CHOP
+T4	Adverse_event 15 22	induced
+E1	Adverse_event:T4 

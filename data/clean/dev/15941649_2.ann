@@ -1,0 +1,7 @@
+T4	Treatment 25 28	VGB
+T5	Effect 40 58	visual dysfunction
+T6	Subject 62 80	pediatric patients
+T8	Age 62 71	pediatric
+T9	Drug 25 28	VGB
+T3	Adverse_event 29 39	associated
+E1	Adverse_event:T3 

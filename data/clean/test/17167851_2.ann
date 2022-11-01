@@ -1,0 +1,11 @@
+T3	Treatment 103 106	CPA
+T4	Effect 60 88	severe hepatotoxic reactions
+T5	Subject 0 36	Three male patients aged 78-83 years
+T7	Population 0 5	Three
+T8	Gender 6 10	male
+T9	Age 25 36	78-83 years
+T10	Drug 103 106	CPA
+T11	Severity_cue 60 66	severe
+T6	Adverse_event 97 102	after
+E1	Adverse_event:T6 
+A1	Severity E1 High

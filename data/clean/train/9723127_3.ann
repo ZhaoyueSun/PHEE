@@ -1,0 +1,6 @@
+T3	Effect 0 31	Decreased plasma cortisol level
+T5	Treatment 39 49	alprazolam
+T6	Drug 39 49	alprazolam
+T7	Treat-Disorder 63 77	panic disorder
+T4	Adverse_event 32 38	during
+E1	Adverse_event:T4

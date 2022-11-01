@@ -1,0 +1,5 @@
+T5	Effect 17 20;80 86;103 116	ARF anuria renal failure
+T4	Treatment 0 8	Mannitol
+T6	Drug 0 8	Mannitol
+T3	Adverse_event 9 16	induced
+E1	Adverse_event:T3

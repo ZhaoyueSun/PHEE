@@ -1,0 +1,6 @@
+T3	Effect 0 23	Extrapyramidal symptoms
+T4	Treatment 74 85;97 108	haloperidol small doses
+T7	Drug 74 85	haloperidol
+T8	Dosage 97 108	small doses
+T5	Adverse_event 44 57	complications
+E1	Adverse_event:T5

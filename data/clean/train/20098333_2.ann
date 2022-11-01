@@ -1,0 +1,15 @@
+T5	Subject 22 76	a 14-year-old female with acute promyelocytic leukemia
+T7	Effect 91 117	symptomatic cardiomyopathy
+T8	Treatment 123 214	4 months into treatment with a combination of daunomycin and all-trans retinoic acid (ATRA)
+T9	Age 24 35	14-year-old
+T10	Gender 36 42	female
+T12	Treat-Disorder 48 76	acute promyelocytic leukemia
+T13	Time_elapsed 123 131	4 months
+T15	Drug 169 179	daunomycin
+T16	Drug 184 207	all-trans retinoic acid
+T17	Severity_cue 48 53	acute
+T6	Adverse_event 81 90	developed
+T14	Combination 154 165	combination
+E1	Adverse_event:T6 
+E2	Combination:T14 arg:T15 arg2:T16
+A1	Severity E1 High

@@ -1,0 +1,7 @@
+T4	Effect 17 29	exophthalmos
+T6	Treatment 45 52	lithium
+T8	Drug 45 52	lithium
+T9	Severity_cue 2 8	severe
+T5	Adverse_event 30 39	resulting
+E1	Adverse_event:T5 
+A1	Severity E1 High

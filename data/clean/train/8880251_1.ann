@@ -1,0 +1,11 @@
+T13	Subject 121 132	the patient
+T15	Treatment 6 107	therapy for diabetic coma with insulin (containing the preservative cresol) and electrolyte solutions
+T16	Effect 147 251	increasing myalgia, developed a high fever and respiratory and metabolic acidosis and lost consciousness
+T17	Treat-Disorder 18 31	diabetic coma
+T18	Drug 37 44	insulin
+T19	Drug 61 80	preservative cresol
+T20	Drug 86 107	electrolyte solutions
+T14	Adverse_event 0 5	After
+T21	Combination 82 85	and
+E1	Adverse_event:T14 
+E2	Combination:T21 arg:T20 arg2:T19 arg3:T18

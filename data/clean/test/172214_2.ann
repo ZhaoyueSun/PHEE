@@ -1,0 +1,6 @@
+T6	Effect 0 34	Exacerbations of the heart failure
+T8	Treatment 88 162	antitumor antibiotics actinomycin-D (NSC-3053) and mithramycin (NSC-24559)
+T9	Drug 110 123	actinomycin-D
+T10	Drug 139 150	mithramycin
+T7	Adverse_event 51 58	related
+E1	Adverse_event:T7

@@ -1,0 +1,7 @@
+T4	Effect 79 113	neurologic or psychiatric symptoms
+T3	Treatment 128 175	large amounts of lidocaine cream are being used
+T6	Drug 145 154	lidocaine
+T7	Route 155 160	cream
+T8	Dosage 128 141	large amounts
+T5	Adverse_event 114 121	develop
+E1	Adverse_event:T5

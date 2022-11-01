@@ -1,0 +1,5 @@
+T5	Effect 0 77	Sagittal sinus thrombosis associated with transient free protein S deficiency
+T7	Treatment 84 108	L-asparaginase treatment
+T8	Drug 84 98	L-asparaginase
+T6	Adverse_event 78 83	after
+E1	Adverse_event:T6

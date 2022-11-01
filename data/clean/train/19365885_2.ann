@@ -1,0 +1,7 @@
+T3	Subject 62 111	a patient with nonfunctional neuroendocrine tumor
+T5	Effect 0 12	Hypoglycemia
+T6	Treatment 24 58	long-acting somatostatin analogues
+T7	Treat-Disorder 77 111	nonfunctional neuroendocrine tumor
+T8	Drug 24 58	long-acting somatostatin analogues
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4 

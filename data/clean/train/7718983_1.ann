@@ -1,0 +1,6 @@
+T12	Effect 0 58	Graves' hyperthyroidism following transient thyrotoxicosis
+T13	Treatment 66 76	interferon
+T15	Drug 66 76	interferon
+T16	Treat-Disorder 89 113	chronic hepatitis type C
+T14	Adverse_event 59 65	during
+E1	Adverse_event:T14

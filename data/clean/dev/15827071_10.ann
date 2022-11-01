@@ -1,0 +1,6 @@
+T9	Subject 23 30	patient
+T11	Effect 41 103	anxiety, panic attacks, tremors, tachycardia, and hypertension
+T12	Treatment 130 139	linezolid
+T13	Drug 130 139	linezolid
+T10	Adverse_event 31 40	developed
+E1	Adverse_event:T10

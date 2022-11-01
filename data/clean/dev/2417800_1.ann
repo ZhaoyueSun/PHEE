@@ -1,0 +1,12 @@
+T4	Effect 42 59	acute pneumonitis
+T5	Subject 0 27	A case of a 53-year-old man
+T6	Treatment 66 95	bleomycin and moderate oxygen
+T8	Age 12 23	53-year-old
+T9	Gender 24 27	man
+T10	Drug 66 75	bleomycin
+T11	Dosage 80 88	moderate
+T12	Drug 89 95	oxygen
+T7	Adverse_event 60 65	after
+T13	Combination 76 79	and
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T10 arg2:T12

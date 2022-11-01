@@ -1,0 +1,8 @@
+T7	Treatment 105 175	several hours after beginning a trial of bretylium maintenance therapy
+T8	Treat-Disorder 180 206	complex ventricular ectopy
+T9	Effect 20 88	five cardiac arrests due to ventricular tachycardia and fibrillation
+T11	Subject 0 18	In the second case
+T12	Time_elapsed 105 124	several hours after
+T13	Drug 146 155	bretylium
+T10	Adverse_event 89 97	occurred
+E1	Adverse_event:T10

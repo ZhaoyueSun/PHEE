@@ -1,0 +1,6 @@
+T3	Effect 20 39	acute renal failure
+T4	Subject 47 54	patient
+T5	Treatment 75 86	anastrozole
+T7	Drug 75 86	anastrozole
+T6	Adverse_event 59 69	associated
+E1	Adverse_event:T6

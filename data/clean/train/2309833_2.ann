@@ -1,0 +1,5 @@
+T4	Treatment 52 59	danazol
+T5	Effect 0 35	Insulin-dependent diabetes mellitus
+T6	Drug 52 59	danazol
+T3	Adverse_event 36 46	associated
+E1	Adverse_event:T3

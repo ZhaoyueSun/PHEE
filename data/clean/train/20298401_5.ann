@@ -1,0 +1,9 @@
+T6	Treatment 49 58	erlotinib
+T8	Effect 67 70	ILD
+T10	Sub-Disorder 158 176	radiation fibrosis
+T9	Subject 143 176	a patient with radiation fibrosis
+T11	Drug 49 58	erlotinib
+T7	Adverse_event 59 66	induced
+E1	Adverse_event:T7 
+T1	Severity_cue 43 48	fatal
+A1	Severity E1 High

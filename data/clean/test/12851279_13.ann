@@ -1,0 +1,7 @@
+T8	Effect 53 61	bleeding
+T9	Treatment 69 78	tifacogin
+T12	Drug 69 78	tifacogin
+T10	Treat-Disorder 138 146	high INR
+T13	Treat-Disorder 184 191	low INR
+T11	Adverse_event 33 47	adverse events
+E1	Adverse_event:T11

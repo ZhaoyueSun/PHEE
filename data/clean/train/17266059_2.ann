@@ -1,0 +1,6 @@
+T4	Effect 0 35	Thrombotic thrombocytopenic purpura
+T6	Treatment 47 76	trimethoprim-sulfamethoxazole
+T7	Subject 80 99	a Jehovah's Witness
+T8	Drug 47 76	trimethoprim-sulfamethoxazole
+T5	Adverse_event 36 43	induced
+E1	Adverse_event:T5

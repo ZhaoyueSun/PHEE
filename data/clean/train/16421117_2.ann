@@ -1,0 +1,8 @@
+T5	Treatment 78 120	treatment with amantadine (400 mg/day, po)
+T6	Subject 124 142	all three patients
+T7	Population 128 133	three
+T8	Drug 93 103	amantadine
+T9	Dosage 105 115	400 mg/day
+T3	Effect 18 45	levodopa induced dyskinesia
+T4	Potential_therapeutic_event 50 58	improved
+E1	Potential_therapeutic_event:T4

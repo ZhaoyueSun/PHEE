@@ -1,0 +1,8 @@
+T4	Treatment 70 85	im gold therapy
+T5	Effect 14 40	mucocutaneous side effects
+T6	Drug 73 77	gold
+T7	Route 70 72	im
+T8	Time_elapsed 41 56	within 20 weeks
+T9	Treat-Disorder 102 104	RA
+T3	Adverse_event 60 69	beginning
+E1	Adverse_event:T3

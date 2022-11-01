@@ -1,0 +1,11 @@
+T7	Treatment 18 29;40 65	cyclosporin together with ganciclovir
+T10	Subject 162 181	occasional patients
+T11	Speculation_cue 3 12	postulate
+T9	Effect 79 158	transient brain stem or neuromuscular dysfunction with eye movement abnormality
+T13	Drug 54 65	ganciclovir
+T14	Drug 18 29	cyclosporin
+T8	Adverse_event 71 78	produce
+T12	Combination 40 48	together
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T14 arg2:T13
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T3	Subject 62 98	child with atypical absence seizures
+T4	Treatment 47 56	lorazepam
+T6	Effect 0 43	Paradoxical precipitation of tonic seizures
+T7	Age 62 67	child
+T8	Treat-Disorder 82 98	absence seizures
+T9	Drug 47 56	lorazepam
+T5	Adverse_event 12 25	precipitation
+E1	Adverse_event:T5 

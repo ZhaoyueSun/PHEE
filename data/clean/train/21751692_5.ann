@@ -1,0 +1,14 @@
+T10	Subject 121 169	children with a history of EA with propofol TIVA
+T11	Treat-Disorder 115 117	EA
+T14	Sub-Disorder 148 169	EA with propofol TIVA
+T15	Age 121 129	children
+T16	Speculation_cue 78 81	may
+T13	Treatment 42 77	low-dose ketamine added to propofol
+T18	Drug 51 59	ketamine
+T19	Drug 69 77	propofol
+T20	Dosage 42 50	low-dose
+T12	Potential_therapeutic_event 101 111	prevention
+T17	Combination 60 65	added
+E1	Potential_therapeutic_event:T12 
+E2	Combination:T17 arg:T18 arg2:T19
+A1	Speculated E1

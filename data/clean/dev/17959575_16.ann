@@ -1,0 +1,10 @@
+T8	Treatment 90 118	dobutamine by continuous i.v
+T9	Subject 12 39	A patient with CHF and ESRD
+T10	Effect 50 73	myoclonic muscle spasms
+T11	Drug 90 100	dobutamine
+T12	Freq 104 114	continuous
+T13	Route 115 118	i.v
+T14	Treat-Disorder 27 30	CHF
+T16	Sub-Disorder 35 39	ESRD
+T7	Adverse_event 74 79	after
+E1	Adverse_event:T7 

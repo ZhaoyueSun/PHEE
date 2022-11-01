@@ -1,0 +1,7 @@
+T3	Effect 0 14	Hepatotoxicity
+T5	Treatment 21 49	high-dose methylprednisolone
+T7	Dosage 21 30	high-dose
+T8	Drug 31 49	methylprednisolone
+T9	Treat-Disorder 54 75	demyelinating disease
+T4	Adverse_event 15 20	after
+E1	Adverse_event:T4

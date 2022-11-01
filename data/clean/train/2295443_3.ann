@@ -1,0 +1,8 @@
+T3	Effect 31 48	colon perforation
+T5	Treatment 94 127	intraperitoneal chromic phosphate
+T7	Drug 110 127	chromic phosphate
+T8	Time_elapsed 64 72	4 months
+T9	Route 94 109	intraperitoneal
+T10	Treat-Disorder 132 184	stage IB ovarian papillary serous cystadenocarcinoma
+T4	Adverse_event 55 63	occurred
+E1	Adverse_event:T4

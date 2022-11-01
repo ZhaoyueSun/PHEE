@@ -1,0 +1,7 @@
+T5	Effect 25 38	liver failure
+T7	Treatment 71 85	clarithromycin
+T8	Drug 71 85	clarithromycin
+T9	Speculation_cue 9 15	likely
+T6	Adverse_event 16 21	cause
+E1	Adverse_event:T6 
+A1	Speculated E1

@@ -1,0 +1,6 @@
+T3	Treatment 52 70	gentamicin therapy
+T5	Effect 0 13;96 260	Renal failure creatinine clearances 4 to 10 ml/min, urine to plasma creatinine ratios less than 20, urinary sodium concentrations 16 to 60 mEq/liter, proteinuria, and cylindruria
+T6	Time_elapsed 23 35	8 to 17 days
+T7	Drug 52 62	gentamicin
+T4	Adverse_event 42 51	beginning
+E1	Adverse_event:T4

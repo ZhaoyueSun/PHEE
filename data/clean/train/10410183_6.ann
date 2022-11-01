@@ -1,0 +1,6 @@
+T7	Treatment 12 22;35 63	Olanzapine atypical antipsychotic drugs
+T8	Effect 75 145	muscle injury with concomitant elevations of serum CK of muscle origin
+T10	Drug 12 22	Olanzapine
+T11	Severity_cue 65 68	may
+T9	Adverse_event 69 74	cause
+E1	Adverse_event:T9

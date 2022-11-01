@@ -1,0 +1,9 @@
+T3	Subject 2 19	57-year-old woman
+T5	Effect 30 51	pulmonary sarcoidosis
+T7	Treat-Disorder 92 159	advanced renal cell carcinoma metastatic to mediastinal lymph nodes
+T8	Age 2 13	57-year-old
+T9	Gender 14 19	woman
+T10	Drug 72 87	interferon beta
+T6	Treatment 72 159	interferon beta for advanced renal cell carcinoma metastatic to mediastinal lymph nodes
+T4	Adverse_event 20 29	developed
+E1	Adverse_event:T4

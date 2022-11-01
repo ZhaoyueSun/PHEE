@@ -1,0 +1,7 @@
+T4	Treatment 0 9	Protamine
+T6	Effect 24 35	anaphylaxis
+T7	Drug 0 9	Protamine
+T8	Severity_cue 18 23	fatal
+T5	Adverse_event 10 17	induced
+E1	Adverse_event:T5 
+A1	Severity E1 High

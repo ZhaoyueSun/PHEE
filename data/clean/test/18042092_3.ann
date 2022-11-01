@@ -1,0 +1,5 @@
+T3	Treatment 163 181	glatiramer acetate
+T5	Effect 193 206	skin necrosis
+T6	Drug 163 181	glatiramer acetate
+T4	Adverse_event 186 192	induce
+E1	Adverse_event:T4

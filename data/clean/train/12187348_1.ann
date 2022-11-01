@@ -1,0 +1,5 @@
+T4	Effect 0 13	Gigantomastia
+T5	Treatment 25 36	bucillamine
+T7	Drug 25 36	bucillamine
+T6	Adverse_event 14 21	induced
+E1	Adverse_event:T6

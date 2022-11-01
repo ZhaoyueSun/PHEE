@@ -1,0 +1,9 @@
+T3	Treatment 110 121	vincristine
+T5	Effect 133 151	severe visual loss
+T6	Subject 155 181	a small number of patients
+T7	Population 155 169	a small number
+T8	Severity_cue 133 139	severe
+T9	Speculation_cue 93 104	very likely
+T10	Drug 110 121	vincristine
+T4	Adverse_event 127 132	cause
+E1	Adverse_event:T4

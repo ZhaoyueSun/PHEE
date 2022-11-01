@@ -1,0 +1,10 @@
+T5	Subject 2 52	72-year-old woman with a history of thyrotoxicosis
+T6	Sub-Disorder 38 52	thyrotoxicosis
+T7	Effect 68 89	sore throat and fever
+T8	Treatment 90 126	two weeks after starting carbimazole
+T10	Age 2 13	72-year-old
+T11	Gender 14 19	woman
+T12	Drug 115 126	carbimazole
+T13	Time_elapsed 90 99	two weeks
+T9	Adverse_event 53 62	presented
+E1	Adverse_event:T9 

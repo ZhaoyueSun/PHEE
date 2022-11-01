@@ -1,0 +1,8 @@
+T5	Treat-Disorder 82 105	cerebrovascular disease
+T6	Treatment 0 41	Ticlopidine is an oral antiplatelet agent
+T7	Speculation_cue 113 119	rarely
+T9	Effect 136 193	severe bone marrow suppression, typically aplastic anemia
+T10	Drug 0 11	Ticlopidine
+T11	Route 18 22	oral
+T8	Adverse_event 120 130	associated
+E1	Adverse_event:T8

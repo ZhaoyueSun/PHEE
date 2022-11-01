@@ -1,0 +1,8 @@
+T3	Treatment 18 28	argatroban
+T4	Effect 60 165	minor bleeding was observed with a concurrent activated partial thromboplastin time (aPTT) of 100 seconds
+T6	Time_elapsed 6 14	39 hours
+T7	Drug 18 28	argatroban
+T8	Severity_cue 60 65	minor
+T5	Adverse_event 0 5	After
+E1	Adverse_event:T5 
+A1	Severity E1 Low

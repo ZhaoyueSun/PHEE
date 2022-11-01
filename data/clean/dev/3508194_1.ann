@@ -1,0 +1,8 @@
+T5	Treatment 58 87	sodium nitroprusside infusion
+T7	Effect 0 41	Transient leucopenia and thrombocytopenia
+T8	Severity_cue 0 9	Transient
+T9	Route 79 87	infusion
+T10	Drug 58 78	sodium nitroprusside
+T6	Adverse_event 42 52	associated
+E1	Adverse_event:T6 
+A1	Severity E1 Low

@@ -1,0 +1,7 @@
+T3	Effect 22 40	contact dermatitis
+T5	Treatment 44 56	calcipotriol
+T6	Drug 44 56	calcipotriol
+T7	Severity_cue 0 21	Allergic and irritant
+T4	Adverse_event 41 43	to
+E1	Adverse_event:T4 
+A1	Severity E1 Medium

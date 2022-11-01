@@ -1,0 +1,8 @@
+T3	Subject 0 20	Three diabetic cases
+T4	Effect 24 39	acute dizziness
+T6	Treatment 47 82	initial administration of voglibose
+T7	Population 0 5	Three
+T9	Drug 73 82	voglibose
+T10	Treat-Disorder 6 14	diabetic
+T5	Adverse_event 40 43	due
+E1	Adverse_event:T5

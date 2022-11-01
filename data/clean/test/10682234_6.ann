@@ -1,0 +1,7 @@
+T5	Treatment 0 50	Two days' administration of levomepromazine 100 mg
+T7	Effect 62 79	a coma for 2 days
+T8	Drug 28 43	levomepromazine
+T9	Dosage 44 50	100 mg
+T10	Duration 0 8	Two days
+T6	Adverse_event 51 54	led
+E1	Adverse_event:T6

@@ -1,0 +1,9 @@
+T6	Treatment 62 75	glibenclamide
+T7	Effect 0 45	Intrahepatic cholestasis and cutaneous bullae
+T8	Subject 101 168	a 61-year-old diabetic patient who presented wit hypoglycaemic coma
+T9	Sub-Disorder 150 168	hypoglycaemic coma
+T10	Age 103 114	61-year-old
+T12	Drug 62 75	glibenclamide
+T13	Treat-Disorder 115 123	diabetic
+T5	Adverse_event 46 56	associated
+E1	Adverse_event:T5 

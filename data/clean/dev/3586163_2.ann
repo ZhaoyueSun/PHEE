@@ -1,0 +1,5 @@
+T3	Effect 0 33	Upper tract urothelial malignancy
+T5	Treatment 40 64	cyclophosphamide therapy
+T6	Drug 40 56	cyclophosphamide
+T4	Adverse_event 34 39	after
+E1	Adverse_event:T4

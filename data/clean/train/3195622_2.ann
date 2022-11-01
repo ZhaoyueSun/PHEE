@@ -1,0 +1,7 @@
+T21	Treatment 2 9	dapsone
+T23	Effect 10 154	hypersensitivity syndrome, consisting of fever, headache, nausea, vomiting, lymphadenopathy, hepatitis, hemolysis, leukopenia, and mononucleosis
+T25	Drug 2 9	dapsone
+T26	Treat-Disorder 213 220	leprosy
+T22	Subject 178 186	patients
+T24	Adverse_event 187 194	treated
+E1	Adverse_event:T24

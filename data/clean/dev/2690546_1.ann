@@ -1,0 +1,5 @@
+T3	Treatment 18 28	amiodarone
+T5	Effect 37 55	torsades de pointe
+T6	Drug 18 28	amiodarone
+T4	Adverse_event 29 36	induced
+E1	Adverse_event:T4

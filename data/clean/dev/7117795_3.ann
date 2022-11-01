@@ -1,0 +1,5 @@
+T3	Effect 0 20	Ulcerating enteritis
+T5	Treatment 37 56	flucytosine therapy
+T6	Drug 37 48	flucytosine
+T4	Adverse_event 21 36	associated with
+E1	Adverse_event:T4

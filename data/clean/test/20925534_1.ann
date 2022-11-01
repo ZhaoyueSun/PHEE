@@ -1,0 +1,9 @@
+T6	Treatment 0 38	Clopidogrel with or without omeprazole
+T8	Treat-Disorder 42 65	coronary artery disease
+T10	Drug 0 11	Clopidogrel
+T11	Drug 28 38	omeprazole
+T13	Drug 0 11	Clopidogrel
+T7	Potential_therapeutic_event 39 41	in
+T9	Combination 12 16	with
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T9 arg:T10 arg2:T11

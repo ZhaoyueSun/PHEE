@@ -1,0 +1,10 @@
+T7	Subject 0 52	A 66-year-old Japanese woman with severe scleroderma
+T9	Effect 63 90	anemia and thrombocytopenia
+T10	Treatment 98 131	D-penicillamine (D-Pen) treatment
+T11	Age 2 13	66-year-old
+T12	Race 14 22	Japanese
+T13	Gender 23 28	woman
+T14	Treat-Disorder 34 52	severe scleroderma
+T15	Drug 98 113	D-penicillamine
+T8	Adverse_event 53 62	developed
+E1	Adverse_event:T8 

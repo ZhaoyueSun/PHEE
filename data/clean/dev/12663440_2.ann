@@ -1,0 +1,9 @@
+T8	Treatment 41 48	quinine
+T9	Effect 77 119	reverse P-glycoprotein-mediated resistance
+T11	Speculation_cue 185 192	whether
+T13	Subject 231 263	adult patients (15-60 years old)
+T14	Age 231 236;247 262	adult 15-60 years old
+T15	Drug 41 48	quinine
+T16	Treat-Disorder 269 309	de novo acute myelogenous leukemia (AML)
+T10	Potential_therapeutic_event 207 214	improve
+E1	Potential_therapeutic_event:T10

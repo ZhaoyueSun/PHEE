@@ -1,0 +1,7 @@
+T3	Effect 128 133	SIADH
+T5	Treatment 192 196	CDDP
+T6	Speculation_cue 138 152	most likely to
+T7	Drug 192 196	CDDP
+T4	Adverse_event 163 170	induced
+E1	Adverse_event:T4 
+A1	Speculated E1

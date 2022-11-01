@@ -1,0 +1,5 @@
+T4	Treatment 73 87	5-fluorouracil
+T5	Effect 0 31	Squamous-cell carcinoma arising
+T6	Drug 73 87	5-fluorouracil
+T3	Adverse_event 60 67	treated
+E1	Adverse_event:T3

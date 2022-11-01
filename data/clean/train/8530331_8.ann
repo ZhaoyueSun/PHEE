@@ -1,0 +1,15 @@
+T10	Subject 99 120	parkinsonian patients
+T12	Treat-Disorder 86 95	psychosis
+T13	Negation_cue 43 46	not
+T15	Sub-Disorder 99 111	parkinsonian
+T16	Drug 64 73	clozapine
+T17	Drug 28 39	risperidone
+T11	Treatment 28 39	risperidone
+T20	Treatment 64 73	clozapine
+T14	Potential_therapeutic_event 77 85	treating
+E1	Potential_therapeutic_event:T14 arg:T11 arg2:T10
+E2	Potential_therapeutic_event:T14 arg:T20 arg2:T10
+R1	has Arg1:T20 Arg2:T12	
+R2	has_cue Arg1:E1 Arg2:T13	
+A1	Negated E1
+R3	has Arg1:T11 Arg2:T12	

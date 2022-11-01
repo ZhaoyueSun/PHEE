@@ -1,0 +1,8 @@
+T5	Treatment 147 154	heparin
+T6	Effect 163 179	thrombocytopenia
+T3	Subject 195 203	children
+T7	Age 195 203	children
+T8	Drug 147 154	heparin
+T9	Speculation_cue 16 38	paucity of information
+T4	Adverse_event 155 162	induced
+E1	Adverse_event:T4

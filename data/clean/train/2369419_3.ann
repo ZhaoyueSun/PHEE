@@ -1,0 +1,7 @@
+T3	Effect 28 61	reversible hepatic decompensation
+T5	Treatment 88 91	MTX
+T7	Treat-Disorder 117 137	rheumatoid arthritis
+T6	Subject 103 137	patients with rheumatoid arthritis
+T8	Drug 88 91	MTX
+T4	Adverse_event 62 72	associated
+E1	Adverse_event:T4 

@@ -1,0 +1,8 @@
+T6	Effect 36 65	Plasmodium falciparum malaria
+T8	Treatment 76 136	quinine treatment in the context of concurrent phenytoin use
+T9	Drug 76 83	quinine
+T10	Drug 123 132	phenytoin
+T7	Adverse_event 66 75	following
+T11	Combination 112 122	concurrent
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T10 arg2:T9

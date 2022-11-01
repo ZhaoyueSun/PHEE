@@ -1,0 +1,11 @@
+T9	Subject 10 19;88 105;181 205	a case of a 71-year-old man for pericardial effusion
+T11	Effect 33 54	Kaposi's sarcoma (KS)
+T12	Treatment 119 180	6 months with corticosteroid therapy (prednisolone 25 mg/day)
+T13	Age 90 101	71-year-old
+T14	Gender 102 105	man
+T16	Duration 119 127	6 months
+T17	Dosage 170 179	25 mg/day
+T19	Drug 157 169	prednisolone
+T20	Treat-Disorder 185 205	pericardial effusion
+T10	Adverse_event 25 32	induced
+E1	Adverse_event:T10

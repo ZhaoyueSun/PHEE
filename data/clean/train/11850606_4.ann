@@ -1,0 +1,6 @@
+T4	Treatment 22 38	interferon alpha
+T5	Effect 66 90	proximal muscle weakness
+T7	Treat-Disorder 9 20	hepatitis B
+T8	Drug 22 38	interferon alpha
+T6	Adverse_event 91 100	developed
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T5	Treatment 0 9	Cisplatin
+T6	Subject 33 42	the cases
+T7	Effect 91 105	INR elevations
+T9	Speculation_cue 67 72	could
+T10	Drug 0 9	Cisplatin
+T8	Adverse_event 76 83	related
+E1	Adverse_event:T8

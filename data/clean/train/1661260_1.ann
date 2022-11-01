@@ -1,0 +1,11 @@
+T4	Effect 0 31	Reactivation of cytomegalovirus
+T5	Treatment 97 129	corticosteroids and azathioprine
+T6	Treat-Disorder 67 91	Wegener's granulomatosis
+T7	Drug 97 112	corticosteroids
+T8	Drug 117 129	azathioprine
+T10	Speculation_cue 32 40	probably
+T3	Adverse_event 41 49	followed
+T9	Combination 113 116	and
+E1	Adverse_event:T3 
+E2	Combination:T9 arg:T7 arg2:T8
+A1	Speculated E1

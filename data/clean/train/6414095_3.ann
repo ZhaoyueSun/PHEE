@@ -1,0 +1,12 @@
+T8	Effect 85 134	transient hemiparesis contralateral to the injury
+T9	Treatment 29 38	phenytoin
+T10	Treat-Disorder 51 74	post-traumatic epilepsy
+T11	Subject 0 25	A 52-year-old Black woman
+T12	Age 2 13	52-year-old
+T13	Race 14 19	Black
+T14	Gender 20 25	woman
+T15	Severity_cue 85 94	transient
+T16	Drug 29 38	phenytoin
+T7	Adverse_event 75 84	developed
+E1	Adverse_event:T7 
+A1	Severity E1 Low

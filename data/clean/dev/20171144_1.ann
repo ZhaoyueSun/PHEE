@@ -1,0 +1,6 @@
+T9	Treatment 41 74	lacosamide doses up to 600 mg/day
+T11	Effect 83 177	nonspecific central nervous system effects (e.g., dizziness, ataxia, diplopia, and somnolence)
+T12	Drug 41 51	lacosamide
+T13	Dosage 64 74	600 mg/day
+T10	Adverse_event 75 82	include
+E1	Adverse_event:T10

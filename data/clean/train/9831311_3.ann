@@ -1,0 +1,5 @@
+T5	Effect 22 36;101 112	potassium loss hypokalemia
+T6	Treatment 83 92	phosphate
+T8	Drug 83 92	phosphate
+T7	Adverse_event 93 100	induced
+E1	Adverse_event:T7

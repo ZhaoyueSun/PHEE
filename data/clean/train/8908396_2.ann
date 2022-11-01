@@ -1,0 +1,6 @@
+T3	Treatment 0 7	Insulin
+T5	Effect 16 27	lipoatrophy
+T6	Treat-Disorder 31 46	type I diabetes
+T7	Drug 0 7	Insulin
+T4	Adverse_event 8 15	induced
+E1	Adverse_event:T4

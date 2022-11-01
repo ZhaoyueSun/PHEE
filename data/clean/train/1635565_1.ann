@@ -1,0 +1,7 @@
+T3	Subject 51 66	several infants
+T4	Treatment 80 96	prostaglandin E1
+T5	Effect 6 32	gastric-outlet obstruction
+T7	Age 59 66	infants
+T8	Drug 80 96	prostaglandin E1
+T6	Adverse_event 71 79	received
+E1	Adverse_event:T6

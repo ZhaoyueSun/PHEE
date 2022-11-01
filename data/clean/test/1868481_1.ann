@@ -1,0 +1,9 @@
+T5	Effect 0 32	Seizures and transient blindness
+T7	Treatment 43 79	intravenous pulse methylprednisolone
+T8	Subject 83 123	children with primary glomerulonephritis
+T10	Age 83 91	children
+T11	Route 43 54	intravenous
+T12	Drug 61 79	methylprednisolone
+T13	Treat-Disorder 97 123	primary glomerulonephritis
+T6	Adverse_event 33 42	following
+E1	Adverse_event:T6

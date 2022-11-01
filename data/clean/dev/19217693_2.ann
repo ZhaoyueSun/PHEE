@@ -1,0 +1,8 @@
+T3	Effect 0 23	Persistent hypoglycemia
+T4	Subject 27 50	a patient with diabetes
+T5	Treatment 58 68	etanercept
+T8	Sub-Disorder 42 50	diabetes
+T10	Drug 58 68	etanercept
+T11	Treat-Disorder 90 99	psoriasis
+T7	Adverse_event 51 57	taking
+E1	Adverse_event:T7 

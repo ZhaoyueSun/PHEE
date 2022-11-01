@@ -1,0 +1,7 @@
+T6	Treatment 39 68	intravesical alum irrigations
+T7	Effect 0 27	Encephalopathy and seizures
+T8	Drug 52 56	alum
+T9	Route 39 51	intravesical
+T10	Route 57 68	irrigations
+T5	Adverse_event 28 35	induced
+E1	Adverse_event:T5

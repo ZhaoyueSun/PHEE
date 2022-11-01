@@ -1,0 +1,8 @@
+T4	Subject 22 27	a man
+T5	Treatment 44 70	EGFR-inhibitor (erlotinib)
+T6	Treat-Disorder 77 93	cell lung cancer
+T7	Effect 108 188	skin manifestations localized in an uncommon area and with an atypical evolution
+T8	Gender 24 27	man
+T9	Drug 44 58	EGFR-inhibitor
+T3	Adverse_event 98 107	developed
+E1	Adverse_event:T3

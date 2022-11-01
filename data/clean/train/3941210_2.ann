@@ -1,0 +1,10 @@
+T3	Subject 88 127	a 45 year old woman with pre-excitation
+T4	Effect 23 37	hypothyroidism
+T5	Treatment 51 84	long-term therapy with amiodarone
+T7	Age 90 101	45 year old
+T8	Gender 102 107	woman
+T10	Drug 74 84	amiodarone
+T6	Duration 51 60	long-term
+T13	Treat-Disorder 113 127	pre-excitation
+T12	Adverse_event 38 50	complicating
+E2	Adverse_event:T12

@@ -1,0 +1,8 @@
+T4	Treatment 20 46	procainamide hydrochloride
+T5	Effect 55 60	lupus
+T6	Subject 0 14	An elderly man
+T7	Age 3 10	elderly
+T8	Gender 11 14	man
+T9	Drug 20 46	procainamide hydrochloride
+T3	Adverse_event 47 54	induced
+E1	Adverse_event:T3

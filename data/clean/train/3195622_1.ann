@@ -1,0 +1,7 @@
+T4	Treatment 89 96	dapsone
+T5	Effect 21 46	hypersensitivity syndrome
+T6	Subject 60 69	a patient
+T7	Drug 89 96	dapsone
+T8	Treat-Disorder 103 128	brown recluse spider bite
+T3	Adverse_event 76 83	treated
+E1	Adverse_event:T3 

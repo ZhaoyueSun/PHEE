@@ -1,0 +1,12 @@
+T3	Subject 0 16	A 9-year-old boy
+T5	Effect 27 46	acute renal failure
+T6	Treatment 57 78	intravenous acyclovir
+T7	Treat-Disorder 131 152	herpetic encephalitis
+T8	Age 2 12	9-year-old
+T9	Gender 13 16	boy
+T10	Drug 57 78	intravenous acyclovir
+T11	Dosage 80 88	30 mg/kg
+T12	Freq 89 96	per day
+T13	Duration 115 121	6 days
+T4	Adverse_event 17 26	developed
+E1	Adverse_event:T4

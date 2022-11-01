@@ -1,0 +1,6 @@
+T5	Treatment 32 57	indinavir nephrolithiasis
+T7	Effect 68 86	papillary necrosis
+T8	Speculation_cue 58 61	may
+T9	Drug 32 41	indinavir
+T6	Adverse_event 62 67	cause
+E1	Adverse_event:T6

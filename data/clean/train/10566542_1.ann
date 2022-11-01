@@ -1,0 +1,8 @@
+T4	Effect 14 33	hypocalcemic tetany
+T6	Treatment 44 62	fleet phospho-soda
+T7	Treatment 95 113	alendronate sodium
+T8	Subject 80 87	patient
+T9	Drug 95 113	alendronate sodium
+T10	Drug 44 62	fleet phospho-soda
+T5	Adverse_event 34 40	caused
+E1	Adverse_event:T5

@@ -1,0 +1,9 @@
+T4	Treatment 114 125	leflunomide
+T3	Subject 90 106	patients with RA
+T5	Effect 69 86	severe infections
+T7	Treat-Disorder 104 106	RA
+T8	Severity_cue 69 75	severe
+T9	Drug 114 125	leflunomide
+T6	Adverse_event 107 113	taking
+E1	Adverse_event:T6 
+A1	Severity E1 High

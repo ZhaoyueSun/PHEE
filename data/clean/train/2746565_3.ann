@@ -1,0 +1,8 @@
+T4	Treatment 49 68	ibuprofen treatment
+T5	Effect 22 42	ulcerative proctitis
+T6	Subject 72 121	a girl with juvenile systemic lupus erythematosus
+T7	Gender 74 78	girl
+T9	Drug 49 58	ibuprofen
+T10	Treat-Disorder 84 121	juvenile systemic lupus erythematosus
+T3	Adverse_event 43 48	after
+E1	Adverse_event:T3

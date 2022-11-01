@@ -1,0 +1,5 @@
+T4	Effect 0 24	Metastatic osteomyelitis
+T5	Treatment 35 50	BCG vaccination
+T6	Drug 35 50	BCG vaccination
+T3	Adverse_event 25 34	following
+E1	Adverse_event:T3

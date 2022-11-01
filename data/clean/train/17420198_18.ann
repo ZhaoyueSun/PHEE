@@ -1,0 +1,6 @@
+T7	Treatment 0 12	Aripiprazole
+T8	Effect 108 127	a movement disorder
+T10	Treat-Disorder 81 84	OCD
+T12	Drug 0 12	Aripiprazole
+T9	Adverse_event 93 104	development
+E1	Adverse_event:T9

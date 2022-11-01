@@ -1,0 +1,8 @@
+T4	Effect 6 22	tardive seizures
+T6	Treatment 65 90	piperacillin and cefotiam
+T7	Drug 65 77	piperacillin
+T8	Drug 82 90	cefotiam
+T5	Adverse_event 54 61	related
+T9	Combination 78 81	and
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T7 arg2:T8

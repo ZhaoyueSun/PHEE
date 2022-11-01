@@ -1,0 +1,8 @@
+T8	Treat-Disorder 48 83	advanced non-small-cell lung cancer
+T10	Drug 18 27	cisplatin
+T11	Drug 0 12	Tirapazamine
+T12	Treatment 0 27	Tirapazamine plus cisplatin
+T9	Potential_therapeutic_event 45 47	in
+T7	Combination 13 17	plus
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T7 arg:T10 arg2:T11

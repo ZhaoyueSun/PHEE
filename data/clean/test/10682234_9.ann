@@ -1,0 +1,19 @@
+T10	Effect 46 66	refractory akathisia
+T12	Treatment 73 99	interferon-alpha treatment
+T13	Drug 73 89	interferon-alpha
+T14	Drug 114 122	levodopa
+T15	Drug 225 242	interferon-alpha.
+T18	Treatment 114 132	levodopa treatment
+T19	Treat-Disorder 195 241	neurotoxicity associated with interferon-alpha
+T20	Treatment 225 241	interferon-alpha
+T22	Effect 195 208	neurotoxicity
+T11	Adverse_event 67 72	after
+T17	Potential_therapeutic_event 172 178	useful
+T21	Adverse_event 209 219	associated
+E1	Adverse_event:T11 arg:T10 arg2:T12
+E2	Potential_therapeutic_event:T17 arg:T18
+E3	Adverse_event:T21 arg:T22 arg2:T20
+R1	has Arg1:T18 Arg2:T14	
+R2	has Arg1:T18 Arg2:T19	
+R3	has Arg1:T12 Arg2:T13	
+R4	has Arg1:T20 Arg2:T15

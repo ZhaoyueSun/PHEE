@@ -1,0 +1,5 @@
+T3	Treatment 51 61	infliximab
+T5	Effect 86 114	lupus-like clinical syndrome
+T6	Drug 51 61	infliximab
+T4	Adverse_event 78 85	induced
+E1	Adverse_event:T4

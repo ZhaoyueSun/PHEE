@@ -1,0 +1,8 @@
+T4	Treatment 27 41	Cyclosporine A
+T5	Subject 45 64	transplant patients
+T6	Effect 83 115	herpes esophagitis may increase.
+T7	Sub-Disorder 45 55	transplant
+T8	Drug 27 41	Cyclosporine A
+T9	Speculation_cue 102 105	may
+T3	Adverse_event 70 79	incidence
+E1	Adverse_event:T3 

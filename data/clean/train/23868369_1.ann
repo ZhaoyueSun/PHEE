@@ -1,0 +1,9 @@
+T5	Speculation_cue 0 8	Possible
+T6	Effect 9 25	digoxin toxicity
+T8	Treatment 54 67;9 16	ciprofloxacin digoxin
+T9	Drug 54 67	ciprofloxacin
+T10	Drug 9 16	digoxin
+T7	Adverse_event 26 36	associated
+T11	Combination 42 53	concomitant
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

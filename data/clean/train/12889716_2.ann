@@ -1,0 +1,7 @@
+T3	Subject 5 13	one case
+T4	Effect 19 49	generalized maculopapular rash
+T5	Treatment 55 65	enoxaparin
+T7	Population 5 8	one
+T8	Drug 55 65	enoxaparin
+T6	Adverse_event 50 54	with
+E1	Adverse_event:T6

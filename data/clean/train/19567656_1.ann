@@ -1,0 +1,7 @@
+T3	Subject 13 25	This patient
+T4	Effect 28 42	rhabdomyolysis
+T6	Treatment 67 77	sertraline
+T7	Speculation_cue 47 55	probably
+T8	Drug 67 77	sertraline
+T5	Adverse_event 56 63	induced
+E1	Adverse_event:T5

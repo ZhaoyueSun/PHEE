@@ -1,0 +1,9 @@
+T4	Subject 64 83;139 141	a 67-year-old woman RA
+T3	Effect 22 60	infection with Mycobacterium abscessus
+T5	Treatment 94 134	infliximab as a component of her therapy
+T8	Age 66 77	67-year-old
+T9	Gender 78 83	woman
+T10	Drug 94 104	infliximab
+T11	Treat-Disorder 139 141	RA
+T6	Adverse_event 84 93	receiving
+E1	Adverse_event:T6

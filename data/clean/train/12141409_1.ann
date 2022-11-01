@@ -1,0 +1,5 @@
+T3	Effect 30 49	renal complications
+T4	Treatment 0 25	Epsilon-aminocaproic acid
+T6	Drug 0 25	Epsilon-aminocaproic acid
+T5	Adverse_event 36 49	complications
+E1	Adverse_event:T5

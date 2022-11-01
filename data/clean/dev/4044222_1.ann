@@ -1,0 +1,8 @@
+T3	Subject 0 17	A 54-year-old man
+T4	Treatment 32 42	amiodarone
+T6	Effect 54 68	thyrotoxicosis
+T7	Age 2 13	54-year-old
+T8	Gender 14 17	man
+T9	Drug 32 42	amiodarone
+T5	Adverse_event 44 53	developed
+E1	Adverse_event:T5

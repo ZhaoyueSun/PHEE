@@ -1,0 +1,10 @@
+T7	Subject 8 27	a 29-year-old woman
+T8	Effect 39 152	bilateral optic neuritis combined with numbness of the lower extremities as well as bowel and bladder dysfunction
+T10	Treatment 161 208	22-month use of recombinant interferon alpha-2b
+T12	Age 10 21	29-year-old
+T13	Gender 22 27	woman
+T14	Time_elapsed 161 169	22-month
+T15	Drug 189 208	interferon alpha-2b
+T16	Treat-Disorder 213 241	chronic myelogenous leukemia
+T9	Adverse_event 153 158	after
+E1	Adverse_event:T9

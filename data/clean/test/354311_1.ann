@@ -1,0 +1,8 @@
+T3	Subject 3 18	8-year-old girl
+T5	Effect 102 115	osteomyelitis
+T6	Age 3 13	8-year-old
+T7	Gender 14 18	girl
+T8	Treatment 49 52	BCG
+T9	Drug 49 52	BCG
+T4	Adverse_event 92 101	developed
+E1	Adverse_event:T4

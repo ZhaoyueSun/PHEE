@@ -1,0 +1,8 @@
+T4	Effect 16 21	death
+T6	Treatment 38 58	risperidone overdose
+T7	Subject 14 15	1
+T8	Population 14 15	1
+T9	Drug 38 49	risperidone
+T10	Dosage 50 58	overdose
+T5	Adverse_event 22 34	attributable
+E1	Adverse_event:T5

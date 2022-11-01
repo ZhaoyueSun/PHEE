@@ -1,0 +1,7 @@
+T5	Treatment 0 55	Eleven days after initiation of therapy with amiodarone
+T6	Subject 57 68	the patient
+T8	Effect 81 169	syncope and was noted to have recurrent episodes of polymorphous ventricular tachycardia
+T9	Time_elapsed 0 17	Eleven days after
+T10	Drug 45 55	amiodarone
+T7	Adverse_event 69 80	experienced
+E1	Adverse_event:T7

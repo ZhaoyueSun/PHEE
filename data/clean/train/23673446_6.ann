@@ -1,0 +1,8 @@
+T4	Subject 0 3	She
+T6	Treatment 21 46	sorafenib at 400 mg daily
+T7	Gender 0 3	She
+T8	Drug 21 30	sorafenib
+T9	Dosage 34 40	400 mg
+T10	Freq 41 46	daily
+T5	Potential_therapeutic_event 8 15	treated
+E1	Potential_therapeutic_event:T5

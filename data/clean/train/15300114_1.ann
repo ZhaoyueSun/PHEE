@@ -1,0 +1,5 @@
+T3	Effect 0 23	Deepening of lid sulcus
+T5	Treatment 37 48	bimatoprost
+T6	Drug 37 48	bimatoprost
+T4	Adverse_event 24 28	from
+E1	Adverse_event:T4

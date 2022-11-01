@@ -1,0 +1,4 @@
+T3	Treatment 0 18	Cardiac glycosides
+T6	Drug 42 53	doxorubicin
+T4	Potential_therapeutic_event 23 33	thought to
+E1	Potential_therapeutic_event:T4

@@ -1,0 +1,6 @@
+T3	Effect 5 13;30 57	eruption distinct cutaneous toxicity
+T4	Treatment 61 64	PLD
+T6	Speculation_cue 14 21	appears
+T7	Drug 61 64	PLD
+T5	Adverse_event 58 60	of
+E1	Adverse_event:T5

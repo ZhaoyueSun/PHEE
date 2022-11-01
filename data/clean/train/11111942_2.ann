@@ -1,0 +1,5 @@
+T5	Effect 91 110	protracted diarrhea
+T6	Treatment 127 135	warfarin
+T8	Drug 127 135	warfarin
+T7	Adverse_event 33 53	over-anticoagulation
+E1	Adverse_event:T7

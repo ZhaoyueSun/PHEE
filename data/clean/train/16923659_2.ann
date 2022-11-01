@@ -1,0 +1,5 @@
+T7	Effect 0 64	Serotonin syndrome (SS) and neuroleptic malignant syndrome (NMS)
+T9	Treatment 105 132	psychotropic administration
+T10	Drug 105 117	psychotropic
+T8	Adverse_event 89 99	associated
+E1	Adverse_event:T8

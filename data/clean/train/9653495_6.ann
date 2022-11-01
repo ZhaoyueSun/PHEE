@@ -1,0 +1,16 @@
+T10	Subject 0 56	Patients with inoperable or metastatic colorectal cancer
+T12	Treat-Disorder 28 56	metastatic colorectal cancer
+T13	Treatment 84 169	monthly FU 400 mg/m2/day plus LV 20 mg/m2/day as intravenous push daily for five days
+T17	Dosage 95 108	400 mg/m2/day
+T16	Drug 92 94	FU
+T20	Drug 114 116	LV
+T21	Dosage 117 129	20 mg/m2/day
+T23	Route 133 149	intravenous push
+T24	Treat-Disorder 14 24	inoperable
+T18	Freq 150 155	daily
+T22	Freq 84 91	monthly
+T25	Duration 160 169	five days
+T14	Potential_therapeutic_event 76 83	receive
+T19	Combination 109 113	plus
+E1	Potential_therapeutic_event:T14 
+E2	Combination:T19 arg:T16 arg2:T20

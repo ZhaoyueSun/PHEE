@@ -1,0 +1,8 @@
+T5	Treatment 26 29	MTX
+T7	Effect 38 56	pulmonary toxicity
+T8	Subject 80 308	the presence in 3 out of 5 of our patients of pre-existing lung disease, represented by diffuse interstitial changes on chest X-ray, and mild bronchial asthma in two RA patients and by pulmonary silicosis in the patient with PsA
+T9	Population 96 106	3 out of 5
+T10	Sub-Disorder 126 308	pre-existing lung disease, represented by diffuse interstitial changes on chest X-ray, and mild bronchial asthma in two RA patients and by pulmonary silicosis in the patient with PsA
+T11	Drug 26 29	MTX
+T6	Adverse_event 30 37	induced
+E1	Adverse_event:T6 

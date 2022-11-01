@@ -1,0 +1,7 @@
+T3	Subject 14 24	3 patients
+T4	Treatment 62 71	bleomycin
+T5	Effect 76 87	scleroderma
+T7	Population 14 15	3
+T8	Drug 62 71	bleomycin
+T6	Adverse_event 25 33	supports
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T3	Treatment 60 93	chemotherapy containing etoposide
+T4	Effect 20 41	myocardial infarction
+T5	Subject 98 151	a man with no risk factors for coronary heart disease
+T7	Gender 100 103	man
+T8	Drug 84 93	etoposide
+T6	Adverse_event 54 59	after
+E1	Adverse_event:T6

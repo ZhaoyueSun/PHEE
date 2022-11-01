@@ -1,0 +1,11 @@
+T3	Subject 0 17;72 145	A 54-year-old man complex partial seizures related to a glioblastoma multiforme brain tumor
+T4	Effect 28 31	TEN
+T5	Treatment 32 67	4 weeks after beginning lamotrigine
+T7	Age 2 13	54-year-old
+T8	Gender 14 17	man
+T9	Time_elapsed 32 39	4 weeks
+T10	Drug 56 67	lamotrigine
+T11	Treat-Disorder 72 96	complex partial seizures
+T12	Sub-Disorder 110 145	glioblastoma multiforme brain tumor
+T6	Adverse_event 18 27	developed
+E1	Adverse_event:T6 

@@ -1,0 +1,10 @@
+T9	Effect 149 173	synergistic coagulopathy
+T10	Treatment 36 42;179 209	niacin combined with warfarin therapy
+T12	Drug 36 42	niacin
+T13	Drug 193 201	warfarin
+T15	Speculation_cue 135 144	potential
+T11	Adverse_event 135 144	potential
+T14	Combination 179 187	combined
+E1	Adverse_event:T11 
+E2	Combination:T14 arg:T13 arg2:T12
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T5	Subject 58 77	3 patients with CML
+T6	Effect 101 135	from chronic phase to blast crisis
+T7	Treatment 149 157	imatinib
+T8	Population 58 59	3
+T9	Treat-Disorder 74 77	CML
+T10	Drug 149 157	imatinib
+T3	Adverse_event 90 100	progressed
+E1	Adverse_event:T3 

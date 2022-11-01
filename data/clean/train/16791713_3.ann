@@ -1,0 +1,13 @@
+T5	Subject 28 35	a woman
+T7	Treatment 49 96	high doses of methylprednisolone (1 g iv daily)
+T8	Effect 146 230	severe hypertension followed by myocardial infarction on the fifth day of treatment.
+T9	Gender 30 35	woman
+T10	Drug 63 81	methylprednisolone
+T11	Dosage 83 86	1 g
+T12	Route 87 89	iv
+T13	Freq 90 95	daily
+T14	Treat-Disorder 101 130	active Graves' ophthalmopathy
+T15	Severity_cue 146 152	severe
+T6	Adverse_event 40 48	received
+E1	Adverse_event:T6 
+A1	Severity E1 High

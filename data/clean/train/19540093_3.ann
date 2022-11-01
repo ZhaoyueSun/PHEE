@@ -1,0 +1,7 @@
+T4	Effect 115 133	acute pancreatitis
+T5	Treatment 95 106	tigecycline
+T6	Speculation_cue 80 88	concerns
+T7	Drug 95 106	tigecycline
+T3	Adverse_event 107 114	induced
+E1	Adverse_event:T3 
+A1	Speculated E1

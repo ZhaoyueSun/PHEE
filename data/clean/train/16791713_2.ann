@@ -1,0 +1,7 @@
+T3	Effect 7 21	hypothyroidism
+T4	Treatment 28 90	radioiodine treatment (euthyroid under substitutional therapy)
+T5	Subject 92 95	she
+T7	Gender 92 95	she
+T8	Drug 28 39	radioiodine
+T6	Adverse_event 22 27	after
+E1	Adverse_event:T6

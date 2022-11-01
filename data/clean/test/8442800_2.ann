@@ -1,0 +1,6 @@
+T5	Treatment 0 10	Disulfiram
+T7	Subject 69 109	patients with a history of alcohol abuse
+T10	Drug 0 10	Disulfiram
+T11	Treat-Disorder 85 109	history of alcohol abuse
+T8	Potential_therapeutic_event 20 24	used
+E1	Potential_therapeutic_event:T8

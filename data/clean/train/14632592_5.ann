@@ -1,0 +1,8 @@
+T4	Effect 50 58	myopathy
+T5	Subject 62 112	a teenager with familial Mediterranean fever (FMF)
+T6	Treatment 31 41	colchicine
+T7	Age 64 72	teenager
+T8	Treat-Disorder 78 106	familial Mediterranean fever
+T9	Drug 31 41	colchicine
+T3	Adverse_event 42 49	induced
+E1	Adverse_event:T3 

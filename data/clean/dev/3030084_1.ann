@@ -1,0 +1,7 @@
+T5	Treatment 10 19	phenytoin
+T7	Effect 28 69	IgA deficiency and permanent IgE increase
+T8	Drug 10 19	phenytoin
+T9	Severity_cue 47 56	permanent
+T6	Adverse_event 20 27	induced
+E1	Adverse_event:T6 
+A1	Severity E1 High

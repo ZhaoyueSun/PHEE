@@ -1,0 +1,6 @@
+T4	Treatment 60 70	amiodarone
+T5	Effect 34 52	acute pancreatitis
+T6	Subject 10 19	a patient
+T7	Drug 60 70	amiodarone
+T3	Adverse_event 53 59	during
+E1	Adverse_event:T3

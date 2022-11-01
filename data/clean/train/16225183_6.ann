@@ -1,0 +1,13 @@
+T8	Subject 36 50;125 170	28-yr-old male relapsing/remitting Multiple Sclerosis (RRMS)
+T9	Effect 82 100	nephrotic syndrome
+T11	Treatment 176 215	weekly injections of interferon beta 1a
+T14	Age 36 45	28-yr-old
+T15	Gender 46 50	male
+T16	Freq 176 182	weekly
+T17	Route 183 193	injections
+T18	Drug 197 215	interferon beta 1a
+T19	Treat-Disorder 125 163	relapsing/remitting Multiple Sclerosis
+T13	Severity_cue 67 78	severe case
+T12	Adverse_event 55 64	developed
+E1	Adverse_event:T12 
+A1	Severity E1 High

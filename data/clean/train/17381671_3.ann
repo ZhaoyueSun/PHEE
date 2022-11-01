@@ -1,0 +1,11 @@
+T17	Subject 0 21	A 65-year-old patient
+T18	Treatment 22 107;233 265	chronically treated with the selective serotonin reuptake inhibitor (SSRI) citalopram following initiation of fentanyl
+T19	Effect 118 231	confusion, agitation, tachycardia, tremors, myoclonic jerks and unsteady gait, consistent with serotonin syndrome
+T21	Age 2 13	65-year-old
+T22	Drug 97 107	citalopram
+T25	Drug 257 265	fentanyl
+T26	Time_elapsed 22 33	chronically
+T20	Adverse_event 108 117	developed
+T24	Combination 233 242	following
+E1	Adverse_event:T20 
+E2	Combination:T24 arg:T22 arg2:T25

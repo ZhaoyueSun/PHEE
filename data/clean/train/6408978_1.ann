@@ -1,0 +1,6 @@
+T4	Effect 37 45	seizures
+T5	Treatment 0 20	Intravenous diazepam
+T6	Route 0 11	Intravenous
+T7	Drug 12 20	diazepam
+T3	Adverse_event 21 32	exacerbated
+E1	Adverse_event:T3

@@ -1,0 +1,5 @@
+T4	Treatment 21 34	carbamazepine
+T5	Effect 0 9	Asterixis
+T6	Drug 21 34	carbamazepine
+T3	Adverse_event 10 17	induced
+E1	Adverse_event:T3

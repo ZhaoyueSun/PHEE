@@ -1,0 +1,7 @@
+T8	Treatment 143 156	sulfasalazine
+T5	Subject 0 33	A patient with ulcerative colitis
+T7	Effect 44 128	skin pigmentation and diffuse pulmonary shadowing without respiratory symptomatology
+T10	Drug 143 156	sulfasalazine
+T11	Treat-Disorder 15 33	ulcerative colitis
+T6	Adverse_event 34 43	developed
+E1	Adverse_event:T6 

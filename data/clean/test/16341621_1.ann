@@ -1,0 +1,7 @@
+T3	Effect 0 39	Massive prolapse of the urethral mucosa
+T5	Treatment 50 99	periurethral injection of calcium hydroxylapatite
+T7	Drug 76 99	calcium hydroxylapatite
+T8	Route 50 72	periurethral injection
+T9	Treat-Disorder 104 131	stress urinary incontinence
+T4	Adverse_event 40 49	following
+E1	Adverse_event:T4

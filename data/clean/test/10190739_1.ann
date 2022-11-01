@@ -1,0 +1,5 @@
+T4	Treatment 37 45	riluzole
+T5	Effect 62 86	the relapse of hepatitis
+T6	Drug 37 45	riluzole
+T3	Adverse_event 17 33	readministration
+E1	Adverse_event:T3 

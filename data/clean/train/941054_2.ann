@@ -1,0 +1,6 @@
+T4	Treatment 37 48	methicillin
+T5	Effect 57 68;80 96	nephropathy hypersensitivity
+T6	Speculation_cue 69 77	suggests
+T8	Drug 37 48	methicillin
+T3	Adverse_event 49 56	induced
+E1	Adverse_event:T3

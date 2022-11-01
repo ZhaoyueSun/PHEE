@@ -1,0 +1,8 @@
+T8	Effect 106 134	a pulmonary adverse reaction
+T9	Treatment 179 220	oxaliplatinum and 5-fluorouracil regimens
+T11	Drug 179 192	oxaliplatinum
+T12	Drug 197 211	5-fluorouracil
+T10	Adverse_event 163 173	associated
+T13	Combination 193 196	and
+E1	Adverse_event:T10 
+E2	Combination:T13 arg:T11 arg2:T12

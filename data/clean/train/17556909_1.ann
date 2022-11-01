@@ -1,0 +1,5 @@
+T5	Treatment 0 10	Bortezomib
+T7	Effect 19 34	paralytic ileus
+T8	Drug 0 10	Bortezomib
+T6	Adverse_event 11 18	induced
+E1	Adverse_event:T6

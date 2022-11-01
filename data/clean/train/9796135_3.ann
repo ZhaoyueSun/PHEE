@@ -1,0 +1,8 @@
+T7	Treatment 35 80	administration of isosorbide dinitrate (5 mg)
+T8	Effect 82 106	blood pressure decreased
+T9	Effect 146 153	syncope
+T10	Effect 159 190	a sudden decrease in pulse rate
+T12	Drug 53 73	isosorbide dinitrate
+T13	Dosage 75 79	5 mg
+T11	Adverse_event 29 34	after
+E1	Adverse_event:T11

@@ -1,0 +1,7 @@
+T6	Treatment 50 62	chemotherapy
+T7	Effect 27 36	mucositis
+T8	Subject 10 21	One patient
+T9	Population 10 13	One
+T10	Route 50 62	chemotherapy
+T5	Adverse_event 37 46	secondary
+E1	Adverse_event:T5

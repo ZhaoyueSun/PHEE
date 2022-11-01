@@ -1,0 +1,10 @@
+T6	Subject 57 64	a woman
+T7	Treatment 76 119	a first injection of high-dose methotrexate
+T8	Treat-Disorder 124 150	a T-lymphoblastic lymphoma
+T9	Gender 59 64	woman
+T10	Speculation_cue 22 31	potential
+T11	Route 84 93	injection
+T12	Dosage 97 106	high-dose
+T13	Drug 107 119	methotrexate
+T5	Potential_therapeutic_event 65 72	treated
+E1	Potential_therapeutic_event:T5

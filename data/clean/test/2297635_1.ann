@@ -1,0 +1,11 @@
+T10	Treatment 85 98;173 199;217 232	MTX treatment subsequent Ara-C treatment within 3 weeks.
+T11	Subject 42 53	the patient
+T12	Treat-Disorder 26 41	meningeal tumor
+T14	Effect 99 150;204 216	a progressive visual loss and loss of consciousness led to death
+T15	Drug 85 88	MTX
+T16	Drug 184 189	Ara-C
+T17	Time_elapsed 224 232	3 weeks.
+T13	Adverse_event 54 63	developed
+T19	Combination 173 183	subsequent
+E1	Adverse_event:T13 
+E2	Combination:T19 arg:T15 arg2:T16

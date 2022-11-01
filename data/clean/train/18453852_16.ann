@@ -1,0 +1,10 @@
+T7	Subject 101 109	patients
+T6	Effect 0 44	Liver function should be carefully monitored
+T8	Treatment 50 97	rifampicin and lopinavir/ritonavir are combined
+T10	Speculation_cue 35 44	monitored
+T12	Drug 50 60	rifampicin
+T13	Drug 65 84	lopinavir/ritonavir
+T9	Adverse_event 45 49	when
+T11	Combination 61 64	and
+E1	Adverse_event:T9 
+E2	Combination:T11 arg:T12 arg2:T13

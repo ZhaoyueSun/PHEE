@@ -1,0 +1,7 @@
+T5	Treatment 28 36	warfarin
+T6	Subject 40 64	a critically ill patient
+T3	Effect 0 24	Unusual hypersensitivity
+T7	Sub-Disorder 42 56	critically ill
+T8	Drug 28 36	warfarin
+T4	Adverse_event 25 27	to
+E1	Adverse_event:T4 

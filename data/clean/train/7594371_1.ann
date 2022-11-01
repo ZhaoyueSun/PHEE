@@ -1,0 +1,6 @@
+T4	Effect 0 32	Acute sensorineural hearing loss
+T5	Treatment 43 64	intravenous ketoralac
+T6	Drug 55 64	ketoralac
+T7	Route 43 54	intravenous
+T3	Adverse_event 33 42	following
+E1	Adverse_event:T3

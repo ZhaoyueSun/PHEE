@@ -1,0 +1,16 @@
+T15	Subject 2 52	50-year-old diabetic and hypertensive male patient
+T16	Sub-Disorder 14 39	diabetic and hypertensive
+T17	Treatment 73 84	ticlopidine
+T19	Effect 93 107	marrow aplasia
+T20	Age 2 13	50-year-old
+T21	Gender 40 44	male
+T22	Drug 73 84	ticlopidine
+T25	Effect 184 213	experienced complete recovery
+T24	Treatment 219 231	cyclosporine
+T26	Drug 219 231	cyclosporine
+T28	Treat-Disorder 73 107	ticlopidine-induced marrow aplasia
+T18	Adverse_event 85 92	induced
+T27	Potential_therapeutic_event 214 218	with
+E1	Adverse_event:T18 arg:T17 arg2:T15 arg3:T19
+E2	Potential_therapeutic_event:T27 arg:T25 arg2:T24 arg3:T15
+R1	has Arg1:T24 Arg2:T28

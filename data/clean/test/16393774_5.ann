@@ -1,0 +1,6 @@
+T5	Subject 0 17	The first patient
+T7	Treatment 72 80	IFN-beta
+T8	Effect 30 43	monoarthritis
+T9	Drug 72 80	IFN-beta
+T6	Adverse_event 58 68	initiation
+E1	Adverse_event:T6

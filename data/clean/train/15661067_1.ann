@@ -1,0 +1,7 @@
+T4	Speculation_cue 19 27	possible
+T5	Effect 0 17	Asthenozoospermia
+T6	Treatment 45 106	long-term exposure to an anti-epileptic drug of carbamazepine
+T8	Drug 93 106	carbamazepine
+T9	Duration 45 54	long-term
+T3	Adverse_event 28 39	association
+E1	Adverse_event:T3

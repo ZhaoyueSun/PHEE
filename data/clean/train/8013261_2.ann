@@ -1,0 +1,8 @@
+T5	Treatment 0 45	Four years after the beginning of IFN therapy
+T6	Subject 47 49	he
+T7	Effect 50 145	acutely developed moderate hyperglycemia and severe ketonuria with positive islet cell antibody
+T9	Gender 47 49	he
+T10	Time_elapsed 0 16	Four years after
+T11	Drug 34 37	IFN
+T8	Adverse_event 58 67	developed
+E1	Adverse_event:T8

@@ -1,0 +1,14 @@
+T5	Subject 0 28	A 17-year-old female patient
+T6	Treatment 49 97	oral minocycline (50 mg twice daily) for 3 weeks
+T7	Treat-Disorder 102 106	acne
+T9	Effect 120 128	eruption
+T10	Effect 148 173	an exfoliative dermatitis
+T11	Age 2 13	17-year-old
+T12	Gender 14 20	female
+T13	Drug 54 65	minocycline
+T14	Dosage 67 72	50 mg
+T15	Freq 73 84	twice daily
+T16	Duration 90 97	3 weeks
+T17	Route 49 53	oral
+T8	Adverse_event 107 116	developed
+E1	Adverse_event:T8

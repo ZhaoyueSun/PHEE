@@ -1,0 +1,6 @@
+T4	Treatment 0 37	Extended-release tolterodine 4 mg/day
+T7	Treat-Disorder 68 86	overactive bladder
+T8	Drug 0 28	Extended-release tolterodine
+T9	Dosage 29 37	4 mg/day
+T6	Potential_therapeutic_event 47 57	prescribed
+E1	Potential_therapeutic_event:T6

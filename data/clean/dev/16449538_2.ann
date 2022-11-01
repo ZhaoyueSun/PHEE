@@ -1,0 +1,8 @@
+T3	Subject 16 28	Two patients
+T4	Treatment 42 76	ifosfamide-containing chemotherapy
+T5	Effect 87 91	NCSE
+T7	Population 16 19	Two
+T8	Drug 42 52	ifosfamide
+T9	Route 64 76	chemotherapy
+T6	Adverse_event 77 86	developed
+E1	Adverse_event:T6

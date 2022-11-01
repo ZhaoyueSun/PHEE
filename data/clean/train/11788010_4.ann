@@ -1,0 +1,5 @@
+T9	Effect 35 53;66 154	gallbladder stasis alters bile acid composition and may thus hasten intrahepatic sludge and stone formation
+T10	Treatment 55 65	octreotide
+T12	Drug 55 65	octreotide
+T11	Adverse_event 25 34	effect on
+E1	Adverse_event:T11

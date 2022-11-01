@@ -1,0 +1,7 @@
+T8	Treatment 0 10	Amprenavir
+T11	Subject 116 124	children
+T12	Age 116 124	children
+T13	Treat-Disorder 103 115	HIV-infected
+T14	Drug 0 10	Amprenavir
+T9	Potential_therapeutic_event 97 102	treat
+E1	Potential_therapeutic_event:T9 

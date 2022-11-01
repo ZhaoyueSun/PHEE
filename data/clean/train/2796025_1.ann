@@ -1,0 +1,5 @@
+T3	Effect 0 13	Panic anxiety
+T4	Treatment 20 55	abrupt discontinuation of mianserin
+T6	Drug 46 55	mianserin
+T5	Adverse_event 14 19	after
+E1	Adverse_event:T5

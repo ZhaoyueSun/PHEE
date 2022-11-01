@@ -1,0 +1,8 @@
+T4	Treatment 106 119	Bromocryptine
+T5	Effect 59 70	lost vision
+T6	Subject 0 58	An infertile patient with amenorrhea-galactorrhea syndrome
+T8	Sub-Disorder 3 12	infertile
+T9	Drug 106 119	Bromocryptine
+T10	Treat-Disorder 26 58	amenorrhea-galactorrhea syndrome
+T3	Adverse_event 100 105	after
+E1	Adverse_event:T3 

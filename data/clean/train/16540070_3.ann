@@ -1,0 +1,5 @@
+T5	Effect 8 24	hypersensitivity
+T7	Treatment 38 49	cloxacillin
+T8	Drug 38 49	cloxacillin
+T6	Adverse_event 25 37	reactions to
+E1	Adverse_event:T6

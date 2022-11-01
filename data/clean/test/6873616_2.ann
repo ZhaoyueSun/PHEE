@@ -1,0 +1,5 @@
+T5	Effect 0 42	Intrahepatic cholestasis and sicca complex
+T7	Treatment 49 62	thiabendazole
+T8	Drug 49 62	thiabendazole
+T6	Adverse_event 43 48	after
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T3	Subject 10 21	three cases
+T4	Effect 25 46	severe hepatotoxicity
+T6	Treatment 58 67	benzarone
+T7	Population 10 15	three
+T8	Drug 58 67	benzarone
+T5	Adverse_event 47 54	related
+E1	Adverse_event:T5

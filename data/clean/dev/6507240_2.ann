@@ -1,0 +1,9 @@
+T3	Subject 3 17	eight patients
+T4	Effect 21 69	mean decrease in serum Na+ of 8.25 +/- 3.2 mEq/L
+T6	Treatment 89 135	a single 200 mg intravenous dose of lorcainide
+T7	Population 3 8	eight
+T8	Dosage 89 104	a single 200 mg
+T9	Route 105 116	intravenous
+T10	Drug 125 135	lorcainide
+T5	Adverse_event 74 82	observed
+E1	Adverse_event:T5

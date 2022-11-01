@@ -1,0 +1,7 @@
+T5	Treatment 2 18	CFTR potentiator
+T6	Subject 22 74	patients with cystic fibrosis and the G551D mutation
+T7	Treat-Disorder 36 51	cystic fibrosis
+T9	Drug 2 17	CFTR potentiato
+T8	Potential_therapeutic_event 19 21	in
+E1	Potential_therapeutic_event:T8 
+T1	Sub-Disorder 60 74	G551D mutation

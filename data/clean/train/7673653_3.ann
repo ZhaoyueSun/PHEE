@@ -1,0 +1,5 @@
+T3	Effect 42 51	akathisia
+T5	Treatment 63 74	fluvoxamine
+T6	Drug 63 74	fluvoxamine
+T4	Adverse_event 52 59	induced
+E1	Adverse_event:T4

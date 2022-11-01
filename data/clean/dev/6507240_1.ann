@@ -1,0 +1,6 @@
+T4	Treatment 38 48	lorcainide
+T5	Effect 0 12	Hyponatremia
+T6	Subject 16 24	patients
+T7	Drug 38 48	lorcainide
+T3	Adverse_event 25 32	treated
+E1	Adverse_event:T3

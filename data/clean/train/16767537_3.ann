@@ -1,0 +1,7 @@
+T3	Effect 34 64	spontaneous splenic infarction
+T5	Subject 10 19	a patient
+T6	Treatment 82 93	sumatriptan
+T7	Treat-Disorder 115 132	migraine headache
+T8	Drug 82 93	sumatriptan
+T4	Adverse_event 24 33	developed
+E1	Adverse_event:T4

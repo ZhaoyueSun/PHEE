@@ -1,0 +1,5 @@
+T4	Effect 0 22	Transient acute myopia
+T6	Treatment 38 69	isotretinoin (accutane) therapy
+T7	Drug 38 50	isotretinoin
+T5	Adverse_event 23 32	resulting
+E1	Adverse_event:T5

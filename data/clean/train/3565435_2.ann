@@ -1,0 +1,8 @@
+T4	Treatment 45 54;71 88	ibuprofen prolonged therapy
+T5	Effect 0 41	Severe systemic hypersensitivity reaction
+T6	Severity_cue 0 6	Severe
+T7	Drug 45 54	ibuprofen
+T8	Time_elapsed 71 88	prolonged therapy
+T3	Adverse_event 65 70	after
+E1	Adverse_event:T3 
+A1	Severity E1 High

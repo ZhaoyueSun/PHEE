@@ -1,0 +1,9 @@
+T4	Treatment 68 112	intraventricular administration of nafcillin
+T5	Effect 43 51	seizures
+T6	Subject 10 28	a premature infant
+T7	Age 22 28	infant
+T8	Sub-Disorder 12 21	premature
+T9	Drug 103 112	nafcillin
+T10	Route 68 84	intraventricular
+T3	Adverse_event 52 67	associated with
+E1	Adverse_event:T3 

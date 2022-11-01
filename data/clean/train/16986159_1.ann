@@ -1,0 +1,8 @@
+T5	Effect 46 86	mild parkinsonian signs and camptocormia
+T6	Treatment 97 123	introduction of olanzapine
+T8	Subject 13 31	depressive patient
+T10	Severity_cue 46 50	mild
+T11	Drug 113 123	olanzapine
+T12	Treat-Disorder 13 23	depressive
+T7	Adverse_event 36 45	developed
+E1	Adverse_event:T7

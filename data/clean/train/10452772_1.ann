@@ -1,0 +1,8 @@
+T4	Treatment 99 123	standard desensitization
+T5	Subject 12 41;158 187	Patients with insulin allergy concomitant protamine allergy
+T6	Negation_cue 46 49	not
+T7	Sub-Disorder 26 41	insulin allergy
+T10	Sub-Disorder 170 187	protamine allergy
+T3	Potential_therapeutic_event 64 74	resolution
+E1	Potential_therapeutic_event:T3 
+A1	Negated E1

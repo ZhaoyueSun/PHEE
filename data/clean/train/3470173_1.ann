@@ -1,0 +1,5 @@
+T3	Effect 12 31	cerebellar toxicity
+T4	Treatment 130 136	HDARAC
+T6	Drug 130 136	HDARAC
+T5	Adverse_event 127 129	of
+E1	Adverse_event:T5

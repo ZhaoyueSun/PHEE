@@ -1,0 +1,7 @@
+T4	Effect 0 22	Esophageal candidiasis
+T5	Treatment 33 43	omeprazole
+T6	Subject 65 74	two cases
+T7	Population 65 68	two
+T8	Drug 33 43	omeprazole
+T3	Adverse_event 23 32	following
+E1	Adverse_event:T3

@@ -1,0 +1,6 @@
+T4	Treatment 49 58	rituximab
+T5	Treat-Disorder 72 107	low-grade cutaneous B-cell lymphoma
+T6	Effect 0 42	Late lethal hepatitis B virus reactivation
+T7	Drug 49 58	rituximab
+T3	Adverse_event 43 48	after
+E1	Adverse_event:T3

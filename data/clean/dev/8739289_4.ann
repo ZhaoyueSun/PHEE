@@ -1,0 +1,8 @@
+T6	Subject 12 19	patient
+T7	Treatment 30 53	chronic lithium therapy
+T9	Effect 75 88	transient CDI
+T10	Sub-Disorder 117 139	underlying chronic NDI
+T11	Drug 38 45	lithium
+T12	Duration 30 37	chronic
+T8	Adverse_event 58 67	presented
+E1	Adverse_event:T8 

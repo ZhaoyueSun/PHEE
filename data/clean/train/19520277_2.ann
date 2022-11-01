@@ -1,0 +1,8 @@
+T4	Treatment 35 44	valproate
+T5	Effect 53 122	stupor and electroencephalographic pattern of increased fast activity
+T6	Subject 12 29	a 4-year-old girl
+T7	Age 14 24	4-year-old
+T8	Gender 25 29	girl
+T9	Drug 35 44	valproate
+T3	Adverse_event 45 52	induced
+E1	Adverse_event:T3

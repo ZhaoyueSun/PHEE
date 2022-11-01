@@ -1,0 +1,12 @@
+T6	Subject 0 27	An 80-year-old white female
+T8	Treat-Disorder 148 178	paroxysmal atrial fibrillation
+T9	Treatment 109 143	propafenone 900 mg/d for >10 years
+T10	Age 3 14	80-year-old
+T11	Race 15 20	white
+T12	Gender 21 27	female
+T13	Sub-Disorder 66 91	mild cognitive impairment
+T14	Drug 109 120	propafenone
+T15	Dosage 121 129	900 mg/d
+T16	Duration 134 143	>10 years
+T7	Potential_therapeutic_event 144 147	for
+E1	Potential_therapeutic_event:T7 

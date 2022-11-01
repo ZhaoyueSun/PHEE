@@ -1,0 +1,5 @@
+T5	Treatment 93 131	paroxetine until 2 days before surgery
+T7	Effect 18 55	delirium resembled serotonin toxicity
+T8	Drug 93 103	paroxetine
+T6	Adverse_event 86 92	taking
+E1	Adverse_event:T6

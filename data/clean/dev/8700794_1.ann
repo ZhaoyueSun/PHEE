@@ -1,0 +1,11 @@
+T7	Effect 110 122;148 181	hyponatremia seizures or altered mental status
+T8	Subject 33 57	11 children and 2 adults
+T9	Treatment 66 89	intranasal desmopressin
+T11	Population 33 35	11
+T12	Population 49 50	2
+T13	Age 36 44	children
+T14	Age 51 57	adults
+T15	Drug 77 89	desmopressin
+T16	Route 66 76	intranasal
+T10	Adverse_event 94 104	associated
+E1	Adverse_event:T10

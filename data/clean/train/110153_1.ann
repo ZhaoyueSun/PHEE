@@ -1,0 +1,7 @@
+T3	Treatment 41 48;91 161	lithium when serum lithium levels are within or close to the therapeutic range
+T5	Effect 57 80	organic brain syndromes
+T6	Drug 41 48	lithium
+T7	Speculation_cue 32 40	probable
+T4	Adverse_event 49 56	induced
+E1	Adverse_event:T4 
+A1	Speculated E1

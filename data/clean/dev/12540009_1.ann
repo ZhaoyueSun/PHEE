@@ -1,0 +1,8 @@
+T5	Treatment 0 11	Doxycycline
+T8	Subject 36 59	a nondiabetic young man
+T9	Gender 56 59	man
+T10	Age 50 55	young
+T11	Drug 0 11	Doxycycline
+T7	Effect 20 32	hypoglycemia
+T6	Adverse_event 12 19	induced
+E1	Adverse_event:T6

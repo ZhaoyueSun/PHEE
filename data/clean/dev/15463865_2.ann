@@ -1,0 +1,7 @@
+T6	Effect 0 25	Acute renal insufficiency
+T8	Subject 47 55;103 110	patients elderly
+T9	Treatment 71 84	ciprofloxacin
+T10	Age 103 110	elderly
+T11	Drug 71 84	ciprofloxacin
+T7	Adverse_event 38 43	occur
+E1	Adverse_event:T7

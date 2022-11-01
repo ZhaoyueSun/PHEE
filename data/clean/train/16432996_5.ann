@@ -1,0 +1,11 @@
+T9	Subject 71 166	a 50-year-old female with CHC who had not responded to a previous treatment by interferon alpha
+T11	Age 73 84	50-year-old
+T12	Gender 85 91	female
+T13	Treat-Disorder 97 100	CHC
+T15	Drug 27 43	interferon alpha
+T16	Drug 48 57	ribavirin
+T8	Treatment 4 57	combination therapy of interferon alpha and ribavirin
+T10	Potential_therapeutic_event 62 67	given
+T14	Combination 4 15	combination
+E1	Potential_therapeutic_event:T10 
+E2	Combination:T14 arg:T15 arg2:T16

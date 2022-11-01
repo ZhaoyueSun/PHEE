@@ -1,0 +1,5 @@
+T5	Effect 10 47	acute cardiomyopathy and pericarditis
+T7	Treatment 64 79	methylphenidate
+T8	Drug 64 79	methylphenidate
+T6	Adverse_event 48 58	associated
+E1	Adverse_event:T6

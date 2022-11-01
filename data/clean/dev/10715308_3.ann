@@ -1,0 +1,8 @@
+T16	Treatment 187 214	tirapazamine plus cisplatin
+T22	Drug 187 199	tirapazamine
+T24	Drug 205 214	cisplatin
+T25	Treat-Disorder 236 270	non-small-cell lung cancer (NSCLC)
+T20	Potential_therapeutic_event 223 232	treatment
+T23	Combination 200 204	plus
+E1	Potential_therapeutic_event:T20 
+E2	Combination:T23 arg:T22 arg2:T24

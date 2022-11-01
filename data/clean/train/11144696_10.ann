@@ -1,0 +1,7 @@
+T5	Treatment 0 11	Venlafaxine
+T7	Effect 23 31	seizures
+T9	Drug 0 11	Venlafaxine
+T8	Negation_cue 58 61	not
+T6	Adverse_event 12 22	associated
+E1	Adverse_event:T6 
+A1	Negated E1

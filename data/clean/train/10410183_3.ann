@@ -1,0 +1,10 @@
+T8	Subject 14 58	A 39-year-old white Jewish schizophrenic man
+T9	Effect 93 127	an elevated serum CK concentration
+T11	Treatment 72 82	olanzapine
+T12	Age 16 27	39-year-old
+T13	Race 28 40	white Jewish
+T14	Treat-Disorder 41 54	schizophrenic
+T15	Gender 55 58	man
+T16	Drug 72 82	olanzapine
+T10	Adverse_event 83 92	developed
+E1	Adverse_event:T10 

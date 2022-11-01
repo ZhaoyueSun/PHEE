@@ -1,0 +1,10 @@
+T8	Treatment 166 250	a seven-month use of recombinant interferon alpha-2a for chronic active hepatitis C.
+T9	Subject 8 27	a 62-year-old woman
+T10	Effect 39 159	bilateral optic neuritis with decreased sensation of vibration and increased deep tendon reflex in the lower extremities
+T11	Age 10 21	62-year-old
+T12	Gender 22 27	woman
+T13	Time_elapsed 166 179	a seven-month
+T14	Drug 187 218	recombinant interferon alpha-2a
+T15	Treat-Disorder 223 249	chronic active hepatitis C
+T7	Adverse_event 160 165	after
+E1	Adverse_event:T7 

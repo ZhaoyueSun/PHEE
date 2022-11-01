@@ -1,0 +1,5 @@
+T4	Effect 14 22	delirium
+T5	Treatment 30 50	lithium intoxication
+T6	Drug 30 37	lithium
+T3	Adverse_event 23 26	due
+E1	Adverse_event:T3

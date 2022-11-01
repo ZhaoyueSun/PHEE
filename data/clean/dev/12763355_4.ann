@@ -1,0 +1,18 @@
+T13	Effect 112 235	weakness and atrophy in his right arm as well as progressive worsening of the dysesthesia in his legs and gait disturbance.
+T16	Drug 25 46	5-aminosalicylic acid
+T18	Drug 5 9	SASP
+T19	Subject 99 101	he
+T20	Treat-Disorder 60 74	skin eruptions
+T21	Treatment 5 54	SASP was changed to 5-aminosalicylic acid (5-ASA)
+T22	Treatment 5 54	SASP was changed to 5-aminosalicylic acid (5-ASA)
+T23	Drug 5 9	SASP
+T24	Drug 25 46	5-aminosalicylic acid
+T15	Adverse_event 102 111	developed
+T17	Potential_therapeutic_event 80 88	resolved
+E1	Adverse_event:T15 arg:T19 arg2:T13 arg3:T22
+E2	Potential_therapeutic_event:T17 arg:T21
+R1	has Arg1:T21 Arg2:T20	
+R2	has Arg1:T21 Arg2:T16	
+R3	has Arg1:T21 Arg2:T18	
+R4	has Arg1:T22 Arg2:T23	
+R5	has Arg1:T22 Arg2:T24

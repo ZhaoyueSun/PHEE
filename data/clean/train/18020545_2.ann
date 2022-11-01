@@ -1,0 +1,7 @@
+T3	Effect 0 25	Tardive oculogyric crisis
+T4	Treatment 48 57	clozapine
+T6	Subject 69 80	three cases
+T7	Population 69 74	three
+T8	Drug 48 57	clozapine
+T5	Adverse_event 43 47	with
+E1	Adverse_event:T5

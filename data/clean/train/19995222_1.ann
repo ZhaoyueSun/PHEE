@@ -1,0 +1,7 @@
+T3	Subject 40 62	schizophrenic patients
+T4	Treatment 0 9	Clozapine
+T6	Effect 18 36	tardive dyskinesia
+T8	Drug 0 9	Clozapine
+T9	Treat-Disorder 40 53	schizophrenic
+T5	Adverse_event 10 17	induced
+E1	Adverse_event:T5

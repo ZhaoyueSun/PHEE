@@ -1,0 +1,8 @@
+T6	Effect 0 19	Infectious toxicity
+T7	Treatment 23 36;44 80	dexamethasone all remission-induction chemotherapy
+T8	Subject 92 101	two cases
+T9	Population 92 95	two
+T10	Drug 23 36	dexamethasone
+T11	Route 68 80	chemotherapy
+T5	Adverse_event 37 43	during
+E1	Adverse_event:T5

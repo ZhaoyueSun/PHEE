@@ -1,0 +1,5 @@
+T4	Treatment 0 8	Coumarin
+T6	Effect 24 65	elevate liver function tests (LFT) values
+T7	Drug 0 8	Coumarin
+T5	Adverse_event 12 20	reported
+E1	Adverse_event:T5 

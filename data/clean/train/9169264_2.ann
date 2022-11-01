@@ -1,0 +1,6 @@
+T4	Effect 0 19	The ampicillin rash
+T5	Treatment 4 14	ampicillin
+T6	Drug 4 14	ampicillin
+T7	Treat-Disorder 42 66	infectious mononucleosis
+T3	Adverse_event 20 29	occurring
+E1	Adverse_event:T3 

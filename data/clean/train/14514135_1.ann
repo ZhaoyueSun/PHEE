@@ -1,0 +1,7 @@
+T4	Treatment 103 119	cyclophosphamide
+T5	Effect 0 33	Neutrophilic eccrine hidradenitis
+T6	Subject 68 83	a lupus patient
+T7	Treat-Disorder 70 75	lupus
+T8	Drug 103 119	cyclophosphamide
+T3	Adverse_event 87 99	complication
+E1	Adverse_event:T3 

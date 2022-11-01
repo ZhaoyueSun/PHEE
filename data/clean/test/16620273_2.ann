@@ -1,0 +1,6 @@
+T4	Treatment 35 44	metformin
+T5	Effect 0 15	Severe acidosis
+T6	Subject 19 27	patients
+T8	Drug 35 44	metformin
+T3	Adverse_event 28 34	taking
+E1	Adverse_event:T3

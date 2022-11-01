@@ -1,0 +1,5 @@
+T5	Treatment 0 9	Valproate
+T7	Effect 47 68;18 32	altered mental status hyperammonemia
+T8	Drug 0 9	Valproate
+T6	Adverse_event 10 17	induced
+E1	Adverse_event:T6

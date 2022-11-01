@@ -1,0 +1,8 @@
+T5	Subject 10 28	a 16-year-old male
+T8	Treatment 176 203	treatment with griseofulvin
+T7	Effect 43 169	nephrotic syndrome related to membranous glomerulopathy with clinical and serological evidence of systemic lupus erythematosus
+T9	Age 12 23	16-year-old
+T10	Gender 24 28	male
+T11	Drug 191 203	griseofulvin
+T6	Adverse_event 170 175	after
+E1	Adverse_event:T6

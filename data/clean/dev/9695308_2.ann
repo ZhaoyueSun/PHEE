@@ -1,0 +1,5 @@
+T4	Treatment 91 115	propylthiouracil therapy
+T5	Effect 0 74	Antineutrophil cytoplasmic antibody-positive crescentic glomerulonephritis
+T6	Drug 91 107	propylthiouracil
+T3	Adverse_event 75 85	associated
+E1	Adverse_event:T3

@@ -1,0 +1,7 @@
+T3	Subject 73 111	some patients with Parkinson's disease
+T4	Effect 51 69	daytime somnolence
+T6	Treatment 34 40	L-dopa
+T8	Drug 34 40	L-dopa
+T9	Treat-Disorder 92 111	Parkinson's disease
+T5	Adverse_event 45 50	cause
+E1	Adverse_event:T5

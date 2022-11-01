@@ -1,0 +1,9 @@
+T6	Effect 33 55	acute severe hepatitis
+T8	Treatment 71 92	erlotinib monotherapy
+T9	Subject 96 145	a patient with locally advanced pancreatic cancer
+T11	Severity_cue 39 45	severe
+T12	Drug 71 80	erlotinib
+T13	Treat-Disorder 111 145	locally advanced pancreatic cancer
+T7	Adverse_event 56 65	resulting
+E1	Adverse_event:T7 
+A1	Severity E1 High

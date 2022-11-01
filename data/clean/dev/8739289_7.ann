@@ -1,0 +1,6 @@
+T5	Treatment 57 64	lithium
+T6	Effect 76 84	polyuria
+T8	Subject 0 9	This case
+T9	Drug 57 64	lithium
+T4	Adverse_event 65 75	associated
+E1	Adverse_event:T4

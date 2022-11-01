@@ -1,0 +1,10 @@
+T4	Treatment 124 169	7 months after commencing therapy with G-CSF.
+T5	Subject 0 50	A girl with cystic fibrosis and cyclic neutropenia
+T6	Effect 64 123	erythematous papular eruption without fever or neutrophilia
+T7	Gender 2 6	girl
+T8	Sub-Disorder 12 27	cystic fibrosis
+T9	Treat-Disorder 32 50	cyclic neutropenia
+T10	Drug 163 168	G-CSF
+T11	Time_elapsed 124 132	7 months
+T3	Adverse_event 51 60	developed
+E1	Adverse_event:T3 

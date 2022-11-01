@@ -1,0 +1,7 @@
+T5	Treatment 71 79	pirmenol
+T8	Speculation_cue 33 50	might be involved
+T7	Effect 88 124	QT prolongation and T wave inversion
+T9	Drug 71 79	pirmenol
+T6	Adverse_event 80 87	induced
+E1	Adverse_event:T6 
+A1	Speculated E1

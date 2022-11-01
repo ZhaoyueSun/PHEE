@@ -1,0 +1,9 @@
+T12	Subject 105 164	an elderly asymptomatic asthmatic patient with hypertension
+T14	Effect 179 201	an acute asthma attack
+T15	Treatment 212 254	sustained-release verapamil administration
+T9	Age 108 115	elderly
+T10	Sub-Disorder 116 138	asymptomatic asthmatic
+T16	Drug 212 239	sustained-release verapamil
+T17	Treat-Disorder 152 164	hypertension
+T13	Adverse_event 169 178	developed
+E2	Adverse_event:T13 

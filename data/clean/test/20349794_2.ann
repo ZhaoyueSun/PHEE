@@ -1,0 +1,7 @@
+T8	Subject 114 193	a patient with advanced-stage large cell neuroendocrine carcinoma of the cervix
+T10	Effect 25 79	syndrome of inappropriate antidiuretic hormone (SIADH)
+T11	Treatment 93 110	cisplatin therapy
+T13	Drug 93 102	cisplatin
+T14	Treat-Disorder 129 193	advanced-stage large cell neuroendocrine carcinoma of the cervix
+T9	Adverse_event 80 89	secondary
+E1	Adverse_event:T9

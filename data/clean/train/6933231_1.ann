@@ -1,0 +1,5 @@
+T5	Effect 0 42	Intracranial hemorrhage and focal seizures
+T7	Treatment 63 77	L-asparaginase
+T8	Drug 63 77	L-asparaginase
+T6	Adverse_event 43 55	secondary to
+E1	Adverse_event:T6

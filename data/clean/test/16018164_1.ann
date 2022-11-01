@@ -1,0 +1,12 @@
+T3	Effect 33 57	intracerebral hemorrhage
+T4	Subject 73 124	middle-aged man who suffered from chronic sinusitis
+T6	Treatment 138 182	ingesting pseudoephedrine daily for one year
+T8	Age 73 84	middle-aged
+T9	Gender 85 88	man
+T7	Route 138 147	ingesting
+T11	Drug 148 163	pseudoephedrine
+T12	Freq 164 169	daily
+T13	Duration 170 182	for one year
+T14	Treat-Disorder 107 124	chronic sinusitis
+T10	Adverse_event 58 67	occurring
+E2	Adverse_event:T10

@@ -1,0 +1,7 @@
+T3	Treatment 98 105	insulin
+T5	Effect 114 129	lipohypertrophy
+T6	Speculation_cue 10 18	possible
+T7	Drug 98 105	insulin
+T4	Adverse_event 106 113	induced
+E1	Adverse_event:T4 
+A1	Speculated E1

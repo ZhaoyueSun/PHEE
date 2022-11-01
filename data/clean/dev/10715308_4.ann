@@ -1,0 +1,17 @@
+T8	Subject 0 40	Patients with previously untreated NSCLC
+T10	Treatment 68 260	either tirapazamine (390 mg/m(2) infused over 2 hours) followed 1 hour later by cisplatin (75 mg/m(2) over 1 hour) or 75 mg/m(2) of cisplatin alone, every 3 weeks for a maximum of eight cycles
+T14	Drug 75 87	tirapazamine
+T15	Drug 148 157	cisplatin
+T16	Dosage 89 100	390 mg/m(2)
+T17	Route 101 108	infused
+T18	Time_elapsed 109 121	over 2 hours
+T19	Dosage 159 169	75 mg/m(2)
+T20	Time_elapsed 170 181	over 1 hour
+T22	Drug 200 209	cisplatin
+T23	Dosage 186 196	75 mg/m(2)
+T24	Freq 217 260	every 3 weeks for a maximum of eight cycles
+T9	Potential_therapeutic_event 60 67	receive
+T13	Combination 123 131	followed
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T13 arg:T14 arg2:T15
+T1	Treat-Disorder 35 40	NSCLC

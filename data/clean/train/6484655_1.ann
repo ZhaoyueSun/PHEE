@@ -1,0 +1,5 @@
+T4	Effect 189 197	seizures
+T6	Treatment 218 236	ampicillin therapy
+T7	Drug 218 228	ampicillin
+T5	Adverse_event 203 210	related
+E1	Adverse_event:T5

@@ -1,0 +1,5 @@
+T4	Treatment 32 37	FK506
+T5	Effect 17 20	RTA
+T9	Drug 32 37	FK506
+T3	Adverse_event 21 28	induced
+E1	Adverse_event:T3

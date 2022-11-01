@@ -1,0 +1,5 @@
+T3	Effect 0 14	Cardiac arrest
+T4	Treatment 32 43	sumatriptan
+T6	Drug 32 43	sumatriptan
+T5	Adverse_event 15 24	following
+E1	Adverse_event:T5

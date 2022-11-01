@@ -1,0 +1,7 @@
+T8	Effect 120 168	diabetes mellitus and impaired glucose tolerance
+T9	Treatment 75 89	norethisterone
+T10	Drug 75 89	norethisterone
+T11	Severity_cue 96 107	lesser risk
+T7	Adverse_event 111 119	emerging
+E1	Adverse_event:T7 
+A1	Severity E1 Low

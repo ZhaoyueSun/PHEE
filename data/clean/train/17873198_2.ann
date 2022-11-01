@@ -1,0 +1,5 @@
+T3	Effect 0 18	Pulmonary toxicity
+T5	Treatment 35 44	erlotinib
+T6	Drug 35 44	erlotinib
+T4	Adverse_event 19 29	associated
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T4	Effect 88 92	NCSE
+T5	Treatment 100 110	ifosfamide
+T6	Speculation_cue 115 123	probable
+T8	Drug 100 110	ifosfamide
+T3	Adverse_event 93 96	due
+E1	Adverse_event:T3

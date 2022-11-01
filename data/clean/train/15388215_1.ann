@@ -1,0 +1,6 @@
+T4	Treatment 0 18	Tiagabine overdose
+T5	Effect 26 67	an unusual array of neurological symptoms
+T6	Drug 0 9	Tiagabine
+T7	Dosage 10 18	overdose
+T3	Adverse_event 19 25	causes
+E1	Adverse_event:T3

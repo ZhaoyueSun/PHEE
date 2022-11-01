@@ -1,0 +1,11 @@
+T7	Treatment 0 20;81 104	Orally delivered PXD weekly AUC2-carboplatin
+T8	Treat-Disorder 108 112	PROC
+T9	Negation_cue 28 30	no
+T11	Route 0 6	Orally
+T12	Drug 17 20	PXD
+T13	Freq 81 87	weekly
+T14	Drug 88 104	AUC2-carboplatin
+T10	Potential_therapeutic_event 43 60	clinical activity
+T15	Combination 67 75	combined
+E1	Potential_therapeutic_event:T10 
+E2	Combination:T15 arg:T12 arg2:T14

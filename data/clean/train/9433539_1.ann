@@ -1,0 +1,16 @@
+T4	Subject 22 38	an elderly woman
+T5	Age 25 32	elderly
+T6	Gender 33 38	woman
+T8	Effect 53 76	febrile agranulocytosis
+T9	Treatment 77 119	several weeks after commencing ticlopidine
+T10	Time_elapsed 77 90	several weeks
+T11	Drug 108 119	ticlopidine
+T12	Effect 132 151	a favorable outcome
+T14	Treatment 158 210	cessation of that drug and treatment with filgastrim
+T15	Drug 200 210	filgastrim
+T16	Treat-Disorder 53 76	febrile agranulocytosis
+T7	Adverse_event 43 52	developed
+T13	Potential_therapeutic_event 152 157	after
+E1	Adverse_event:T7 arg:T4 arg2:T8 arg3:T9
+E2	Potential_therapeutic_event:T13 arg:T12 arg2:T4 arg3:T14
+R1	has Arg1:T14 Arg2:T16

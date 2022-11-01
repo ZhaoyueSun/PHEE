@@ -1,0 +1,9 @@
+T8	Effect 82 129	less platelet inhibition than would be expected
+T9	Subject 133 142	a patient
+T6	Treatment 147 201	taking a concomitant inducer of ticagrelor metabolism.
+T10	Drug 179 189	ticagrelor
+T12	Drug 168 200	inducer of ticagrelor metabolism
+T7	Adverse_event 73 81	revealed
+T13	Combination 156 167	concomitant
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T12 arg2:T10

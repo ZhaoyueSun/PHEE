@@ -1,0 +1,5 @@
+T5	Treatment 13 23	topiramate
+T7	Effect 32 77	acute-onset myopia and angle closure glaucoma
+T8	Drug 13 23	topiramate
+T6	Adverse_event 24 31	induced
+E1	Adverse_event:T6

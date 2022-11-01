@@ -1,0 +1,7 @@
+T5	Effect 159 169	leukopenia
+T4	Treatment 18 132	long-term use of adequately-dosed AZA and stable non-toxic metabolite levels could not acknowledge TPMT deficiency
+T8	Duration 19 27	ong-term
+T9	Dosage 35 51	adequately-dosed
+T10	Drug 52 55	AZA
+T3	Adverse_event 146 151	cause
+E1	Adverse_event:T3

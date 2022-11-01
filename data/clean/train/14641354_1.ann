@@ -1,0 +1,5 @@
+T5	Effect 35 50;0 24	contact allergy Angioedema and dysphagia
+T6	Treatment 62 72	budesonide
+T8	Drug 62 72	budesonide
+T7	Adverse_event 54 61	inhaled
+E1	Adverse_event:T7

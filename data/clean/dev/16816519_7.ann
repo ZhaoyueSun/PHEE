@@ -1,0 +1,8 @@
+T6	Treatment 13 49	3.8 mg cumulative dose of vincristin
+T8	Effect 72 78	ptosis
+T9	Subject 0 3	She
+T10	Gender 0 3	She
+T11	Dosage 13 19	3.8 mg
+T12	Drug 39 49	vincristin
+T7	Adverse_event 57 68	development
+E1	Adverse_event:T7

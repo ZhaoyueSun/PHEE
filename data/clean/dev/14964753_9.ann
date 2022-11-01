@@ -1,0 +1,6 @@
+T7	Treatment 15 23	ramipril
+T9	Effect 32 52	cutaneous vasculitis
+T10	Subject 56 65	a patient
+T11	Drug 15 23	ramipril
+T8	Adverse_event 24 31	induced
+E1	Adverse_event:T8

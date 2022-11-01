@@ -1,0 +1,5 @@
+T4	Treatment 59 70	gemcitabine
+T6	Effect 82 85	HUS
+T3	Drug 59 70	gemcitabine
+T5	Adverse_event 71 81	associated
+E1	Adverse_event:T5

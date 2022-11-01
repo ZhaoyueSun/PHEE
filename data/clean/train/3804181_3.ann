@@ -1,0 +1,11 @@
+T12	Treatment 277 325	antithyroid therapy with 20 mg methimazole daily
+T13	Subject 30 53	this 58-year-old female
+T14	Effect 90 230	leucopenia and cholestasis, and biopsy features of fatty liver parenchyma degeneration with granulocytic portal infiltration and bile stasis
+T15	Age 35 46	58-year-old
+T16	Gender 47 53	female
+T17	Time_elapsed 245 258	20 days after
+T18	Drug 308 319	methimazole
+T19	Dosage 302 307	20 mg
+T20	Freq 320 325	daily
+T11	Adverse_event 232 244	demonstrated
+E1	Adverse_event:T11

@@ -1,0 +1,9 @@
+T7	Effect 0 18	Itch and skin rash
+T8	Treatment 24 76	chocolate during fluoxetine and sertraline treatment
+T11	Drug 24 33	chocolate
+T12	Drug 41 51	fluoxetine
+T13	Drug 56 66	sertraline
+T9	Adverse_event 19 23	from
+T10	Combination 52 55	and
+E1	Adverse_event:T9 
+E2	Combination:T10 arg:T12 arg2:T11 arg3:T13

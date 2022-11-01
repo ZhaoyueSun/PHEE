@@ -1,0 +1,7 @@
+T3	Treatment 49 59	salicylate
+T4	Effect 60 74	hepatotoxicity
+T6	Drug 49 59	salicylate
+T7	Speculation_cue 79 88	suspected
+T5	Adverse_event 79 88	suspected
+E1	Adverse_event:T5 
+A1	Speculated E1

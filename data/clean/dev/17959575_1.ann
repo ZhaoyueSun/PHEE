@@ -1,0 +1,8 @@
+T8	Treatment 26 56	continuous dobutamine infusion
+T9	Effect 0 9	Myoclonus
+T6	Subject 60 98	a patient with end-stage renal disease
+T11	Drug 37 47	dobutamine
+T12	Route 48 56	infusion
+T13	Treat-Disorder 75 98	end-stage renal disease
+T10	Adverse_event 10 20	associated
+E1	Adverse_event:T10

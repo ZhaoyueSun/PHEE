@@ -1,0 +1,9 @@
+T6	Subject 8 19	the patient
+T7	Speculation_cue 74 85	possibility
+T8	Effect 95 109	rhabdomyolysis
+T10	Treatment 161 171	lovastatin
+T11	Drug 36 46	lovastatin
+T12	Duration 60 68	12 years
+T13	Drug 161 171	lovastatin
+T9	Adverse_event 124 130	caused
+E1	Adverse_event:T9

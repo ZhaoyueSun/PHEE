@@ -1,0 +1,6 @@
+T3	Effect 15 36	withdrawal dyskinesia
+T5	Treatment 53 62	amoxapine
+T6	Drug 53 62	amoxapine
+T7	Subject 0 4	Case
+T4	Adverse_event 37 47	associated
+E1	Adverse_event:T4

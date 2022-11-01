@@ -1,0 +1,7 @@
+T3	Treatment 17 31;52 107	oral-verapamil in the presence of concomitant beta-adrenergic blockade
+T5	Effect 40 51	hypotension
+T7	Drug 22 31	verapamil
+T8	Route 17 21	oral
+T9	Route 115 119	oral
+T4	Adverse_event 32 39	induced
+E1	Adverse_event:T4

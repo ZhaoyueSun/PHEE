@@ -1,0 +1,6 @@
+T3	Treatment 23 32	phenytoin
+T5	Effect 41 72	unilateral gingival hyperplasia
+T6	Drug 23 32	phenytoin
+T7	Time_elapsed 2 9	15-year
+T4	Adverse_event 33 40	induced
+E1	Adverse_event:T4

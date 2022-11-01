@@ -1,0 +1,5 @@
+T4	Effect 82 150	various degrees of hepatic lesion with ground-glass inclusion bodies
+T5	Treatment 12 21	Cyanamide
+T6	Drug 12 21	Cyanamide
+T3	Adverse_event 75 81	induce
+E1	Adverse_event:T3

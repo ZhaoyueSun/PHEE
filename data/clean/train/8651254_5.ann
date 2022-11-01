@@ -1,0 +1,8 @@
+T5	Subject 12 60	a patient with acute myeloblastic leukemia (AML)
+T6	Treatment 110 197	several courses of chemotherapy, including macrophage-colony-stimulating factor (M-CSF)
+T7	Effect 75 93	nephrotic syndrome
+T8	Treat-Disorder 27 54	acute myeloblastic leukemia
+T9	Drug 153 189	macrophage-colony-stimulating factor
+T4	Adverse_event 94 99	after
+E1	Adverse_event:T4 
+T1	Route 129 141	chemotherapy

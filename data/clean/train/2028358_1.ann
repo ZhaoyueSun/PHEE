@@ -1,0 +1,7 @@
+T3	Subject 0 13	Four patients
+T4	Effect 22 38	pulmonary oedema
+T7	Population 0 4	Four
+T8	Drug 71 84	hexoprenaline
+T6	Adverse_event 39 48	developed
+E1	Adverse_event:T6 
+T1	Treatment 56 84	tocolysis with hexoprenaline

@@ -1,0 +1,9 @@
+T3	Treatment 5 14	cyanamide
+T4	Effect 69 81	inflammation
+T6	Subject 5 33	cyanamide-treated alcoholics
+T8	Drug 5 14	cyanamide
+T9	Treat-Disorder 23 33	alcoholics
+T10	Severity_cue 62 68	severe
+T5	Adverse_event 82 90	develops
+E1	Adverse_event:T5 
+A1	Severity E1 High

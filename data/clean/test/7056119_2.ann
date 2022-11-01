@@ -1,0 +1,10 @@
+T10	Subject 0 19	A 44-year-old woman
+T11	Treatment 41 80	amiodarone, disopyramide, and quinidine
+T13	Effect 121 179	atypical ventricular tachycardia (AVT, torsade de pointes)
+T14	Age 2 13	44-year-old
+T15	Gender 14 19	woman
+T16	Drug 41 51	amiodarone
+T17	Drug 53 65	disopyramide
+T18	Drug 71 80	quinidine
+T12	Adverse_event 113 120	induced
+E1	Adverse_event:T12

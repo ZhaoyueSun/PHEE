@@ -1,0 +1,10 @@
+T3	Subject 56 75	a pediatric patient
+T4	Treatment 0 29	Trimethoprim-sulfamethoxazole
+T6	Effect 38 52	hepatotoxicity
+T7	Age 58 67	pediatric
+T5	Adverse_event 30 37	induced
+E1	Adverse_event:T5 
+T1	Combination 12 13	-
+E2	Combination:T1 arg:T2 arg2:T8
+T2	Drug 0 12	Trimethoprim
+T8	Drug 13 29	sulfamethoxazole

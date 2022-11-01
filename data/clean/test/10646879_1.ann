@@ -1,0 +1,5 @@
+T3	Treatment 50 60	ifosfamide
+T4	Effect 69 83	encephalopathy
+T6	Drug 50 60	ifosfamide
+T5	Adverse_event 61 68	induced
+E1	Adverse_event:T5

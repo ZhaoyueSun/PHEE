@@ -1,0 +1,9 @@
+T7	Treatment 0 12	Erythromycin
+T5	Effect 49 102	ncrease the risk of lovastatin-induced rhabdomyolysis
+T6	Speculation_cue 44 47	may
+T8	Drug 0 12	Erythromycin
+T9	Drug 69 79	lovastatin
+T4	Adverse_event 80 87	induced
+T10	Combination 61 65	risk
+E1	Adverse_event:T4 
+E2	Combination:T10 arg:T9 arg2:T8

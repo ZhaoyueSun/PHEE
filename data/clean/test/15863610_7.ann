@@ -1,0 +1,7 @@
+T6	Treatment 48 58	raloxifene
+T7	Effect 82 114	malignant mixed mesodermal tumor
+T8	Drug 48 58	raloxifene
+T9	Speculation_cue 18 21	may
+T5	Adverse_event 28 39	association
+E1	Adverse_event:T5 
+A1	Speculated E1

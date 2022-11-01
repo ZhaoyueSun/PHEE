@@ -1,0 +1,8 @@
+T6	Treatment 13 21;0 8	oxazepam Baclofen
+T8	Treat-Disorder 51 87	right-sided hemiparesis contractures
+T10	Drug 0 8	Baclofen
+T11	Drug 13 21	oxazepam
+T7	Potential_therapeutic_event 27 37	prescribed
+T9	Combination 9 12	and
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T9 arg:T11 arg2:T10

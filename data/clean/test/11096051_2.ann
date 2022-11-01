@@ -1,0 +1,8 @@
+T3	Treatment 112 134;159 188	intravenous phosphorus phosphorus-enriched dialysate
+T4	Treat-Disorder 14 30	hypophosphatemia
+T6	Route 112 123	intravenous
+T7	Drug 124 134	phosphorus
+T8	Route 179 188	dialysate
+T9	Drug 159 169	phosphorus
+T5	Potential_therapeutic_event 0 10	Management
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,7 @@
+T6	Effect 22 38	cerebral atrophy
+T7	Treatment 92 96	ACTH
+T9	Speculation_cue 52 55	may
+T10	Drug 92 96	ACTH
+T11	Drug 106 110	ACTH
+T8	Adverse_event 56 65	represent
+E1	Adverse_event:T8

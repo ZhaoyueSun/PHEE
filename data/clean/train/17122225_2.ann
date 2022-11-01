@@ -1,0 +1,11 @@
+T5	Effect 0 18	Serotonin syndrome
+T6	Subject 83 91	patients
+T7	Treatment 99 128	proserotoninergic medications
+T9	Drug 99 116	proserotoninergic
+T10	Treat-Disorder 0 18	Serotonin syndrome
+T11	Severity_cue 36 42	lethal
+T12	Speculation_cue 70 73	may
+T8	Adverse_event 74 79	occur
+E1	Adverse_event:T8 
+A1	Severity E1 High
+A2	Speculated E1

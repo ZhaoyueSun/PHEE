@@ -1,0 +1,5 @@
+T3	Treatment 0 9	Cefoxitin
+T5	Effect 21 34	renal failure
+T6	Drug 0 9	Cefoxitin
+T4	Adverse_event 10 20	associated
+E1	Adverse_event:T4

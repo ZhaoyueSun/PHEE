@@ -1,0 +1,9 @@
+T5	Effect 0 21	Severe loss of vision
+T7	Treatment 58 84;105 117	intravitreal triamcinolone photodynamic
+T10	Drug 71 84	triamcinolone
+T11	Drug 105 117	photodynamic
+T13	Treat-Disorder 130 172	exudative age-related macular degeneration
+T6	Adverse_event 48 54	caused
+T12	Combination 88 99	combination
+E1	Adverse_event:T6 
+E2	Combination:T12 arg:T10 arg2:T11

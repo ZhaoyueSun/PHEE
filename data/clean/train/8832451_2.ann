@@ -1,0 +1,5 @@
+T7	Effect 18 40;59 91	neuromuscular blockade potentiation of muscle relaxants
+T8	Treatment 99 116	magnesium sulfate
+T10	Drug 99 124	magnesium sulfate (MgSO4)
+T9	Adverse_event 92 98	during
+E1	Adverse_event:T9

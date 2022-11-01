@@ -1,0 +1,6 @@
+T4	Effect 0 26	Autoimmune thyroid disease
+T5	Treatment 54 82	interferon-alpha (IFN-alpha)
+T9	Drug 54 70	interferon-alpha
+T10	Treat-Disorder 96 113	viral hepatitis C
+T7	Adverse_event 39 50	side-effect
+E1	Adverse_event:T7

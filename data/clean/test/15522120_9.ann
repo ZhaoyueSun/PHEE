@@ -1,0 +1,8 @@
+T7	Effect 0 30	An adverse drug reaction (ADR)
+T9	Treatment 42 52	fluoxetine
+T10	Drug 42 52	fluoxetine
+T11	Drug 71 81	fluoxetine
+T12	Speculation_cue 57 66	suspected
+T8	Adverse_event 31 38	induced
+E1	Adverse_event:T8 
+A1	Speculated E1

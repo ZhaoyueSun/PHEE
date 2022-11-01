@@ -1,0 +1,7 @@
+T3	Effect 0 26	Prominent positive U waves
+T4	Treatment 42 77	high-dose intravenous phenylephrine
+T6	Drug 64 77	phenylephrine
+T7	Route 52 63	intravenous
+T8	Dosage 42 51	high-dose
+T5	Adverse_event 27 36	appearing
+E1	Adverse_event:T5

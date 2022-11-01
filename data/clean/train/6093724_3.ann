@@ -1,0 +1,6 @@
+T5	Effect 57 103	isolated paresthesia and peripheral neuropathy
+T6	Treatment 148 171	sulindac administration
+T8	Speculation_cue 0 16	To our knowledge
+T9	Drug 148 156	sulindac
+T7	Adverse_event 135 144	secondary
+E1	Adverse_event:T7

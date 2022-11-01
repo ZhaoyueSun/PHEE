@@ -1,0 +1,8 @@
+T3	Effect 0 16	Optic neuropathy
+T5	Subject 30 65	a patient with rheumatoid arthritis
+T6	Treatment 89 121	D-penicillamine for about 1 year
+T7	Treat-Disorder 45 65	rheumatoid arthritis
+T8	Drug 89 104	D-penicillamine
+T9	Duration 115 121	1 year
+T4	Adverse_event 17 26	developed
+E1	Adverse_event:T4 

@@ -1,0 +1,5 @@
+T3	Effect 0 33	Leishmania infantum leishmaniasis
+T4	Treatment 37 51	corticosteroid
+T6	Drug 37 51	corticosteroid
+T5	Adverse_event 53 60	treated
+E1	Adverse_event:T5

@@ -1,0 +1,20 @@
+T11	Speculation_cue 0 9	Suspected
+T13	Treatment 37 47	omeprazole
+T14	Effect 10 31	methotrexate toxicity
+T15	Drug 37 47	omeprazole
+T17	Treatment 66 85	carboxypeptidase G2
+T18	Drug 66 85	carboxypeptidase G2
+T19	Treat-Disorder 133 154	methotrexate toxicity
+T20	Subject 95 127	methotrexate-experienced patient
+T22	Treatment 133 145	methotrexate
+T23	Drug 133 145	methotrexate
+T25	Effect 146 154	toxicity
+T12	Adverse_event 32 36	from
+T21	Potential_therapeutic_event 86 89	use
+T24	Adverse_event 146 154	toxicity
+E1	Adverse_event:T12 arg:T14 arg2:T13
+E2	Potential_therapeutic_event:T21 arg:T20 arg2:T17
+E3	Adverse_event:T24 arg:T22 arg2:T25
+R1	has_cue Arg1:E1 Arg2:T11	
+R2	has Arg1:T17 Arg2:T19	
+A1	Speculated E1

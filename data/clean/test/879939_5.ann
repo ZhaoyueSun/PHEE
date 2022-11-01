@@ -1,0 +1,7 @@
+T5	Treatment 0 13	Acetazolamide
+T7	Effect 54 66	osteomalacia
+T8	Drug 0 13	Acetazolamide
+T9	Speculation_cue 14 17	may
+T6	Adverse_event 23 34	accelerated
+E1	Adverse_event:T6 
+A1	Speculated E1

@@ -1,0 +1,7 @@
+T3	Effect 0 37	Reflex sympathetic dystrophy syndrome
+T4	Subject 41 68	renal transplanted patients
+T5	Treatment 98 108	tacrolimus
+T7	Sub-Disorder 41 59	renal transplanted
+T8	Drug 98 108	tacrolimus
+T6	Adverse_event 93 97	with
+E1	Adverse_event:T6 

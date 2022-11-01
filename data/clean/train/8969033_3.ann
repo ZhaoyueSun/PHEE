@@ -1,0 +1,9 @@
+T9	Effect 47 79;98 167	severe hemodynamic deterioration systemic hypotension, pulmonary hypertension, and bronchoconstriction
+T11	Speculation_cue 37 40	may
+T12	Treatment 0 36	The reversal of heparin by protamine
+T16	Drug 16 23	heparin
+T17	Drug 27 36	protamine
+T10	Adverse_event 41 46	cause
+T15	Combination 4 12	reversal
+E1	Adverse_event:T10 
+E2	Combination:T15 arg:T16 arg2:T17

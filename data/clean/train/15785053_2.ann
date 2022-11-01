@@ -1,0 +1,6 @@
+T4	Treatment 110 128	topical tacrolimus
+T5	Effect 76 102	appearance of pigmentation
+T7	Drug 118 128	tacrolimus
+T8	Route 110 117	topical
+T6	Adverse_event 103 109	during
+E1	Adverse_event:T6

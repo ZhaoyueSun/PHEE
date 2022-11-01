@@ -1,0 +1,5 @@
+T3	Treatment 31 44	acenocoumarol
+T4	Effect 0 25	Early overanticoagulation
+T6	Drug 31 44	acenocoumarol
+T5	Adverse_event 26 30	with
+E1	Adverse_event:T5

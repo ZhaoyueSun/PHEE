@@ -1,0 +1,6 @@
+T7	Effect 27 52	hypersensitivity reaction
+T9	Treatment 56 66	pranlukast
+T10	Drug 56 66	pranlukast
+T11	Drug 153 163	pranlukast
+T8	Adverse_event 53 55	to
+E1	Adverse_event:T8

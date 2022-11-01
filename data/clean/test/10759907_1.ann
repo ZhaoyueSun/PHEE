@@ -1,0 +1,9 @@
+T6	Treatment 167 179	zolmitriptan
+T7	Effect 125 145	a spinal cord lesion
+T3	Subject 0 113	A 50-year-old woman with a history of migraine without aura, predominantly occurring around her menstrual periods
+T4	Age 2 13	50-year-old
+T8	Gender 14 19	woman
+T10	Drug 167 179	zolmitriptan
+T11	Treat-Disorder 38 59	migraine without aura
+T5	Adverse_event 115 124	developed
+E1	Adverse_event:T5

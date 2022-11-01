@@ -1,0 +1,5 @@
+T4	Treatment 31 40	protamine
+T5	Effect 49 72	pulmonary hypertension.
+T6	Drug 31 40	protamine
+T3	Adverse_event 41 48	induced
+E1	Adverse_event:T3

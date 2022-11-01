@@ -1,0 +1,5 @@
+T4	Effect 0 3	HUS
+T5	Treatment 28 122	several anticancer chemotherapies and most often after mitomycin C-based chemotherapy regimens
+T7	Drug 83 94	mitomycin C
+T3	Adverse_event 13 21	reported
+E1	Adverse_event:T3

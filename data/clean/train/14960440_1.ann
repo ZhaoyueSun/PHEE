@@ -1,0 +1,7 @@
+T3	Treatment 38 54	warfarin therapy
+T4	Effect 85 110	haemorrhagic side-effects
+T6	Drug 38 46	warfarin
+T7	Age 70 78	over 75s
+T8	Subject 70 78	over 75s
+T5	Adverse_event 111 117	become
+E1	Adverse_event:T5

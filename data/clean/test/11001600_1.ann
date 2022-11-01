@@ -1,0 +1,10 @@
+T3	Subject 79 101;166 182	patients with dementia elderly patients
+T5	Sub-Disorder 93 101	dementia
+T8	Effect 151 159	dystonia
+T11	Treatment 108 119	risperidone
+T4	Age 166 173	elderly
+T7	Drug 108 119	risperidone
+T12	Speculation_cue 120 127	appears
+T6	Adverse_event 136 147	contributed
+E1	Adverse_event:T6 
+A1	Speculated E1

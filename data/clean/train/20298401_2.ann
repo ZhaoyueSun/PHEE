@@ -1,0 +1,12 @@
+T12	Treatment 23 32	gefitinib
+T13	Drug 23 32	gefitinib
+T14	Treat-Disorder 59 85	non-small-cell lung cancer
+T15	Effect 111 142	interstitial lung disease (ILD)
+T17	Treatment 164 173	erlotinib
+T18	Drug 164 173	erlotinib
+T19	Effect 182 185	ILD
+T16	Adverse_event 102 107	cause
+T11	Adverse_event 174 181	induced
+E2	Adverse_event:T16 arg:T12 arg2:T15
+E1	Adverse_event:T11 arg:T17 arg2:T19
+R1	has Arg1:T12 Arg2:T14

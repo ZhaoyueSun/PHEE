@@ -1,0 +1,11 @@
+T5	Treatment 96 112	propylthiouracil
+T7	Drug 96 112	propylthiouracil
+T3	Treat-Disorder 41 127	a hyperthyroid pregnancy with hepatic impairment after propylthiouracil administration
+T8	Treatment 26 37	carbimazole
+T9	Drug 26 37	carbimazole
+T11	Effect 41 89	a hyperthyroid pregnancy with hepatic impairment
+T4	Potential_therapeutic_event 0 20	Successful treatment
+T10	Adverse_event 90 95	after
+E1	Potential_therapeutic_event:T4 arg:T8
+E2	Adverse_event:T10 arg:T5 arg2:T11
+R1	has Arg1:T8 Arg2:T3

@@ -1,0 +1,7 @@
+T5	Treatment 85 125	switching from citalopram to mirtazapine
+T6	Effect 48 60	hyponatremia
+T7	Drug 100 110	citalopram
+T8	Drug 114 125	mirtazapine
+T9	Time_elapsed 70 78	5 months
+T4	Adverse_event 79 84	after
+E1	Adverse_event:T4

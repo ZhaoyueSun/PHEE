@@ -1,0 +1,5 @@
+T4	Effect 0 19	Atrial fibrillation
+T6	Treatment 26 44	vardenafil therapy
+T7	Drug 26 36	vardenafil
+T5	Adverse_event 20 25	after
+E1	Adverse_event:T5

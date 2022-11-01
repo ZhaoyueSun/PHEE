@@ -1,0 +1,8 @@
+T3	Treat-Disorder 4 17	hypercalcemia
+T7	Drug 50 54	rhGH
+T8	Route 76 87	intravenous
+T9	Drug 88 108	pamidronate disodium
+T5	Treatment 31 108	discontinuation of rhGH and a single dose of intravenous pamidronate disodium
+T6	Effect 113 154	has not recurred in 8 months of follow-up
+T4	Potential_therapeutic_event 18 27	responded
+E1	Potential_therapeutic_event:T4

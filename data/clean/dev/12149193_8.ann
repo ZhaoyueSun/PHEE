@@ -1,0 +1,10 @@
+T5	Effect 51 54	DVT
+T6	Treatment 59 114	combination chemotherapy including doxorubicin (P =.02)
+T8	Speculation_cue 150 159	confirmed
+T10	Drug 71 83	chemotherapy
+T11	Drug 94 105	doxorubicin
+T7	Adverse_event 14 25	association
+T9	Combination 59 70	combination
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T10 arg2:T11
+A1	Speculated E1

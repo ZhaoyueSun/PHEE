@@ -1,0 +1,5 @@
+T5	Treatment 32 43	vasopressin
+T6	Effect 227 252	impaired tissue perfusion
+T8	Drug 32 43	vasopressin
+T7	Adverse_event 213 223	contribute
+E1	Adverse_event:T7

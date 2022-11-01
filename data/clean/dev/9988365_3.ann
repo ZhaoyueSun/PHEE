@@ -1,0 +1,5 @@
+T4	Treatment 26 35	clozapine
+T5	Treat-Disorder 52 64	eosinophilia
+T6	Drug 26 35	clozapine
+T3	Potential_therapeutic_event 21 25	with
+E1	Potential_therapeutic_event:T3

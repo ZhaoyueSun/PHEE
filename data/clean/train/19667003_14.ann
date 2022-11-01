@@ -1,0 +1,10 @@
+T6	Subject 12 51	A 26-year-old man with bipolar disorder
+T8	Effect 62 76	hyperammonemia
+T9	Treatment 77 127	three weeks after initiating carbamazepine therapy
+T10	Age 14 25	26-year-old
+T11	Gender 26 29	man
+T13	Time_elapsed 77 88	three weeks
+T14	Drug 106 119	carbamazepine
+T15	Treat-Disorder 35 51	bipolar disorder
+T7	Adverse_event 52 61	developed
+E1	Adverse_event:T7

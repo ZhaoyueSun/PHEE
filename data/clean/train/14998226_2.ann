@@ -1,0 +1,18 @@
+T9	Subject 0 17	A 67-year-old man
+T10	Treatment 59 67	warfarin
+T12	Effect 83 129	increased international normalized ratio (INR)
+T13	Age 2 13	67-year-old
+T14	Gender 14 17	man
+T15	Drug 59 67	warfarin
+T16	Drug 156 168	atorvastatin
+T17	Drug 193 204	fluvastatin
+T19	Treat-Disorder 138 146	bleeding
+T22	Treatment 156 204	atorvastatin therapy was switched to fluvastatin
+T11	Adverse_event 68 79	experienced
+T21	Potential_therapeutic_event 181 189	switched
+E1	Adverse_event:T11 arg:T10 arg2:T12 arg3:T9
+E2	Potential_therapeutic_event:T21 arg:T22
+R1	has Arg1:T10 Arg2:T15	
+R2	has Arg1:T22 Arg2:T17	
+R3	has Arg1:T22 Arg2:T16	
+R4	has Arg1:T22 Arg2:T19

@@ -1,0 +1,7 @@
+T3	Treatment 13 33	Intrathecal baclofen
+T5	Effect 38 76	impair sexual function and ejaculation
+T6	Subject 80 93	some patients
+T9	Route 13 24	Intrathecal
+T10	Drug 25 33	baclofen
+T4	Adverse_event 38 44	impair
+E1	Adverse_event:T4

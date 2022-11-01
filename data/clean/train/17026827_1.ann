@@ -1,0 +1,6 @@
+T3	Effect 0 9	Scleritis
+T4	Treatment 23 47	zoledronic acid infusion
+T6	Drug 23 38	zoledronic acid
+T7	Route 39 47	infusion
+T5	Adverse_event 10 22	complicating
+E1	Adverse_event:T5

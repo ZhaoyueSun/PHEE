@@ -1,0 +1,6 @@
+T3	Effect 0 35	Acute respiratory distress syndrome
+T5	Treatment 42 60	rituximab infusion
+T6	Drug 42 51	rituximab
+T7	Route 52 60	infusion
+T4	Adverse_event 36 41	after
+E1	Adverse_event:T4

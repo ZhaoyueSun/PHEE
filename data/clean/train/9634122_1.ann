@@ -1,0 +1,7 @@
+T8	Treatment 102 111	flutamide
+T9	Effect 52 95	decrease in prostate-specific antigen (PSA)
+T10	Subject 128 200	subset of patients with progressing metastatic carcinoma of the prostate
+T11	Treat-Disorder 152 200	progressing metastatic carcinoma of the prostate
+T12	Drug 102 111	flutamide
+T7	Adverse_event 112 122	withdrawal
+E1	Adverse_event:T7 

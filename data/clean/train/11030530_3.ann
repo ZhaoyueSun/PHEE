@@ -1,0 +1,5 @@
+T3	Effect 20 27	seizure
+T5	Treatment 44 66	L-asparaginase therapy
+T6	Drug 44 58	L-asparaginase
+T4	Adverse_event 28 38	associated
+E1	Adverse_event:T4

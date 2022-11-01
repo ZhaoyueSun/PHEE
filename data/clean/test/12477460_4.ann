@@ -1,0 +1,9 @@
+T3	Subject 74 96	a postmenopausal woman
+T6	Effect 0 35	Ovarian endometrioid adenocarcinoma
+T4	Treatment 103 120	tamoxifen therapy
+T7	Age 76 90	postmenopausal
+T8	Gender 91 96	woman
+T9	Drug 103 112	tamoxifen
+T5	Adverse_event 97 102	under
+E1	Adverse_event:T5 
+T1	Treat-Disorder 125 138	breast cancer

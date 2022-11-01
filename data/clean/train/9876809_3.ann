@@ -1,0 +1,10 @@
+T7	Subject 0 23	A 72-year-old white man
+T9	Effect 43 136	combative behavior, refused to leave his room, stopped eating, and began falling to the floor
+T10	Treatment 137 174	6 weeks after being given ticlopidine
+T11	Age 2 13	72-year-old
+T12	Race 14 19	white
+T13	Gender 20 23	man
+T14	Time_elapsed 137 144	6 weeks
+T15	Drug 163 174	ticlopidine
+T8	Adverse_event 33 42	developed
+E1	Adverse_event:T8

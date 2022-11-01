@@ -1,0 +1,10 @@
+T5	Subject 17 47	patient with diabetic rubeosis
+T7	Effect 66 106	acute retinal ischemic change and stroke
+T9	Treatment 113 150	intravitreal injection of bevacizumab
+T11	Treat-Disorder 30 47	diabetic rubeosis
+T8	Drug 139 150	bevacizumab
+T12	Route 113 135	intravitreal injection
+T13	Severity_cue 66 71	acute
+T10	Adverse_event 52 60	suffered
+E1	Adverse_event:T10 
+A1	Severity E1 High

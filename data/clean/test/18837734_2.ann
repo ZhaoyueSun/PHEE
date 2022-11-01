@@ -1,0 +1,8 @@
+T4	Effect 47 67;151 177	rosaceiform eruption Demodex folliculorum mites
+T5	Treatment 79 88;215 228	erlotinib skin scraping
+T6	Subject 92 110	an 81-year-old-man
+T7	Gender 107 110	man
+T8	Age 95 106	81-year-old
+T9	Drug 79 88	erlotinib
+T3	Adverse_event 68 75	induced
+E1	Adverse_event:T3

@@ -1,0 +1,12 @@
+T7	Subject 0 22	A young diamond dealer
+T8	Effect 33 106	visual impairment attributed to bilateral posterior subcapsular cataracts
+T10	Treatment 117 206	only four courses of intermittent Decadron used as part of a five-drug antiemetic regimen
+T11	Treat-Disorder 211 238	cisplatin-associated nausea
+T12	Age 2 7	young
+T13	Drug 151 159	Decadron
+T14	Dosage 122 134	four courses
+T15	Drug 178 206	five-drug antiemetic regimen
+T9	Adverse_event 107 116	following
+T16	Combination 168 177	part of a
+E1	Adverse_event:T9 
+E2	Combination:T16 arg:T13 arg2:T15

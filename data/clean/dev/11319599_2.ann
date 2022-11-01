@@ -1,0 +1,7 @@
+T4	Subject 12 24	two patients
+T6	Treatment 80 141	fludarabine-based non-myeloablative stem cell transplantation
+T3	Population 12 15	two
+T7	Effect 30 69	aspergillus arthritis of the knee joint
+T8	Drug 80 91	fludarabine
+T5	Adverse_event 70 79	following
+E1	Adverse_event:T5 

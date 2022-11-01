@@ -1,0 +1,7 @@
+T3	Subject 55 188	a patient with pre-treatment negative anti-thyroid autoantibodies and with the specific genetic susceptibility to the thyroid disease
+T4	Effect 0 19	Hashimoto's disease
+T5	Treatment 27 43	interferon-alpha
+T7	Sub-Disorder 134 188	specific genetic susceptibility to the thyroid disease
+T8	Drug 27 43	interferon-alpha
+T6	Adverse_event 20 26	during
+E1	Adverse_event:T6 

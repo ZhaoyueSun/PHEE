@@ -1,0 +1,10 @@
+T5	Treatment 0 17;141 166	Azole antifungals drug substrates of CYP3A4
+T7	Treat-Disorder 56 73	severe infections
+T8	Subject 77 121	immunosuppressed organ transplant recipients
+T9	Sub-Disorder 77 110	immunosuppressed organ transplant
+T10	Drug 0 17	Azole antifungals
+T6	Drug 141 166	drug substrates of CYP3A4
+T12	Adverse_event 127 135	interact
+T11	Combination 127 135	interact
+E2	Adverse_event:T12 
+E3	Combination:T11 arg:T6 arg2:T10

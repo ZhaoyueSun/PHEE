@@ -1,0 +1,8 @@
+T11	Treatment 75 113	vincristine, adriamycin, dexamethasone
+T13	Effect 0 64	Distinct patterns of chromonychia, Beau's lines, and melanoderma
+T14	Drug 75 86	vincristine
+T15	Drug 88 98	adriamycin
+T16	Drug 100 113	dexamethasone
+T17	Treat-Disorder 126 142	multiple myeloma
+T10	Adverse_event 65 69	seen
+E1	Adverse_event:T10

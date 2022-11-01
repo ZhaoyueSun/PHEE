@@ -1,0 +1,7 @@
+T8	Treatment 92 117	the use of nitrofurantoin
+T7	Subject 36 48	two patients
+T9	Effect 63 75;118 200	lung disease with histological features of bronchiolitis obliterans organising pneumonia (BOOP)
+T11	Population 36 39	two
+T12	Drug 103 117	nitrofurantoin
+T10	Adverse_event 53 62	developed
+E1	Adverse_event:T10

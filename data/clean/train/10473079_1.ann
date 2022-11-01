@@ -1,0 +1,9 @@
+T5	Effect 147 196	unusual presentation of life-threatening toxicity
+T6	Sub-Disorder 38 54	metabolic defect
+T7	Treatment 69 131	topical 5-FU (a drug demonstrating a narrow therapeutic index)
+T8	Severity_cue 171 187	life-threatening
+T9	Drug 77 81	5-FU
+T10	Route 69 76	topical
+T3	Subject 33 54	this metabolic defect
+T4	Adverse_event 132 142	results in
+E1	Adverse_event:T4 

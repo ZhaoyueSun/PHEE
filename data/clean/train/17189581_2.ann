@@ -1,0 +1,8 @@
+T8	Treatment 51 86	concurrent linezolid and fluoxetine
+T9	Effect 10 28	serotonin syndrome
+T11	Drug 62 71	linezolid
+T12	Drug 76 86	fluoxetine
+T7	Adverse_event 34 43	developed
+T10	Combination 51 61	concurrent
+E1	Adverse_event:T7 
+E2	Combination:T10 arg:T11 arg2:T12

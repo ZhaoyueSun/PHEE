@@ -1,0 +1,5 @@
+T8	Treatment 0 11	Raltegravir
+T9	Effect 39 90	Eosinophilia and Systemic Symptoms (DRESS) syndrome
+T10	Drug 0 11	Raltegravir
+T7	Adverse_event 12 19	induced
+E1	Adverse_event:T7

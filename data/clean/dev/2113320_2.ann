@@ -1,0 +1,6 @@
+T4	Treatment 68 140	cyclophosphamide treatment with response to carbon dioxide laser therapy
+T5	Effect 0 47	Subglottic stenosis in Wegener's granulomatosis
+T6	Drug 68 84	cyclophosphamide
+T7	Treat-Disorder 23 47	Wegener's granulomatosis
+T3	Adverse_event 61 67	during
+E1	Adverse_event:T3

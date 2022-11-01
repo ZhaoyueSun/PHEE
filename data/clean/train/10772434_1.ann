@@ -1,0 +1,11 @@
+T3	Subject 14 66	A 10-year-old white girl with bilateral optic glioma
+T5	Effect 79 104	hypersensitivity reaction
+T6	Treatment 108 138	carboplatin after nine courses
+T7	Age 16 27	10-year-old
+T8	Gender 34 38	girl
+T9	Race 28 33	white
+T10	Treat-Disorder 44 66	bilateral optic glioma
+T11	Drug 108 119	carboplatin
+T12	Duration 126 138	nine courses
+T4	Adverse_event 67 76	developed
+E1	Adverse_event:T4 

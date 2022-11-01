@@ -1,0 +1,7 @@
+T3	Effect 57 76	renal abnormalities
+T4	Subject 36 45	this case
+T6	Treatment 93 109	IFNalpha therapy
+T8	Drug 93 101	IFNalpha
+T9	Treat-Disorder 114 117	CML
+T5	Adverse_event 77 87	consistent
+E1	Adverse_event:T5

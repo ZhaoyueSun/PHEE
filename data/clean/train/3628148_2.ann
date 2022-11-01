@@ -1,0 +1,9 @@
+T3	Effect 12 51	rupture of a cerebral arterial aneurysm
+T4	Subject 55 87	a 32 year old hypertensive woman
+T5	Treatment 118 138	nifedipine treatment
+T7	Age 57 68	32 year old
+T8	Treat-Disorder 69 81	hypertensive
+T9	Gender 82 87	woman
+T10	Drug 118 128	nifedipine
+T6	Adverse_event 88 97	following
+E1	Adverse_event:T6 

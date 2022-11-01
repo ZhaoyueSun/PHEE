@@ -1,0 +1,12 @@
+T3	Treatment 87 97	amiodarone
+T4	Effect 98 109	pneumonitis
+T6	Drug 87 97	amiodarone
+T8	Treat-Disorder 98 109	pneumonitis
+T9	Treatment 111 187	immediate withdrawal of amiodarone, and prompt but continued steroid therapy
+T10	Drug 172 179	steroid
+T11	Drug 135 145	amiodarone
+T5	Adverse_event 84 86	of
+T12	Potential_therapeutic_event 203 211	recovery
+E1	Adverse_event:T5 arg:T3 arg2:T4
+E2	Potential_therapeutic_event:T12 arg:T9
+R1	has Arg1:T9 Arg2:T8

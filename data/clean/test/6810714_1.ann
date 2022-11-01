@@ -1,0 +1,8 @@
+T7	Subject 21 55	a woman with chronic schizophrenia
+T8	Effect 72 121	delirium, grand mal seizure, and photosensitivity
+T10	Treatment 144 155	propranolol
+T11	Gender 23 28	woman
+T13	Drug 144 155	propranolol
+T14	Treat-Disorder 34 55	chronic schizophrenia
+T9	Adverse_event 122 127	after
+E1	Adverse_event:T9

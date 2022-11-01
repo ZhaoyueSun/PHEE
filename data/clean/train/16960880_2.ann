@@ -1,0 +1,7 @@
+T3	Effect 0 35	Lower extremity arterial thrombosis
+T5	Treatment 69 115	thrombin injection of a femoral pseudoaneurysm
+T6	Drug 69 77	thrombin
+T7	Route 78 87	injection
+T8	Treat-Disorder 93 115	femoral pseudoaneurysm
+T4	Adverse_event 36 45	following
+E1	Adverse_event:T4

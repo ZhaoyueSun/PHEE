@@ -1,0 +1,9 @@
+T7	Effect 0 62	Acute myopathy with selective degeneration of myosin filaments
+T9	Treat-Disorder 80 91	asthmaticus
+T10	Treatment 105 123;128 138	methylprednisolone vecuronium
+T11	Drug 105 123	methylprednisolone
+T12	Drug 128 138	vecuronium
+T8	Adverse_event 63 72	following
+T13	Combination 124 127	and
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T12 arg2:T11

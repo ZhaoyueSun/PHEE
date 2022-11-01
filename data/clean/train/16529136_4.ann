@@ -1,0 +1,5 @@
+T6	Treatment 29 65	monoamine oxidase inhibitors (MAOIs)
+T7	Effect 192 233	hypertensive crisis or serotonin syndrome
+T9	Drug 29 57	monoamine oxidase inhibitors
+T8	Adverse_event 178 189	precipitate
+E1	Adverse_event:T8

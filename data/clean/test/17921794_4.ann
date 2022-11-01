@@ -1,0 +1,13 @@
+T6	Subject 20 67	a patient with mild chronic renal insufficiency
+T7	Treatment 81 115;152 229	taking simvastatin for over a year 3 weeks after the start of treatment with colchicine for acute gouty bursitis
+T9	Effect 130 144	acute weakness
+T10	Treat-Disorder 209 229	acute gouty bursitis
+T11	Sub-Disorder 35 67	mild chronic renal insufficiency
+T12	Drug 88 99	simvastatin
+T13	Time_elapsed 104 115	over a year
+T14	Time_elapsed 152 159	3 weeks
+T15	Drug 194 204	colchicine
+T8	Adverse_event 120 129	developed
+T18	Combination 145 151	within
+E1	Adverse_event:T8 
+E2	Combination:T18 arg:T12 arg2:T15

@@ -1,0 +1,5 @@
+T4	Treatment 0 10	Piritrexim
+T5	Effect 19 37	pulmonary toxicity
+T6	Drug 0 10	Piritrexim
+T3	Adverse_event 11 18	induced
+E1	Adverse_event:T3

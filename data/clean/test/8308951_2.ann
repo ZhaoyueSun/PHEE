@@ -1,0 +1,5 @@
+T5	Treatment 40 48	warfarin
+T7	Effect 57 69;10 32	coagulopathy intercerebral hematoma
+T8	Drug 40 48	warfarin
+T6	Adverse_event 49 56	induced
+E1	Adverse_event:T6

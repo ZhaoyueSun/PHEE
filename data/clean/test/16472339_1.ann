@@ -1,0 +1,9 @@
+T3	Treatment 18 29	sumatriptan
+T4	Treat-Disorder 33 57	subarachnoid haemorrhage
+T5	Subject 64 72	patients
+T7	Effect 120 150	symptomatic cerebral vasospasm
+T8	Speculation_cue 109 112	may
+T9	Drug 18 29	sumatriptan
+T6	Adverse_event 113 119	induce
+E1	Adverse_event:T6 
+A1	Speculated E1

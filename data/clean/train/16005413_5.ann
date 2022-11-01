@@ -1,0 +1,12 @@
+T9	Subject 0 27	Four elderly LTCF residents
+T11	Treatment 41 152	serotonergic antidepressants including selective serotonin reuptake inhibitor (SSRI) or mirtazapine and opioids
+T12	Population 0 4	Four
+T13	Age 5 12	elderly
+T15	Treat-Disorder 13 17	LTCF
+T16	Drug 80 118	selective serotonin reuptake inhibitor
+T17	Drug 129 140	mirtazapine
+T18	Drug 145 152	opioids
+T10	Potential_therapeutic_event 28 35	treated
+T19	Combination 141 144	and
+E1	Potential_therapeutic_event:T10 
+E2	Combination:T19 arg:T18 arg2:T17

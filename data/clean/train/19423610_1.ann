@@ -1,0 +1,8 @@
+T8	Effect 15 33;145 168	serotonin toxicity post-operative delirium
+T10	Treatment 44 113	co-administration of methylene blue and serotonin reuptake inhibitors
+T9	Drug 65 79	methylene blue
+T12	Drug 84 113	serotonin reuptake inhibitors
+T11	Adverse_event 34 43	following
+T13	Combination 44 61	co-administration
+E2	Adverse_event:T11 
+E1	Combination:T13 arg:T9 arg2:T12

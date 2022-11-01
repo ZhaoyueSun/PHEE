@@ -1,0 +1,6 @@
+T8	Treatment 0 7	Heparin
+T10	Effect 19 50	thrombocytopenia and thrombosis
+T11	Drug 0 7	Heparin
+T12	Drug 88 95	heparin
+T9	Adverse_event 8 18	associated
+E1	Adverse_event:T9

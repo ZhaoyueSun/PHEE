@@ -1,0 +1,5 @@
+T5	Treatment 0 10	Amiodarone
+T7	Effect 19 33	thyrotoxicosis
+T8	Drug 0 10	Amiodarone
+T6	Adverse_event 11 18	induced
+E1	Adverse_event:T6

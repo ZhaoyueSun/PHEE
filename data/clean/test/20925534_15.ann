@@ -1,0 +1,7 @@
+T11	Treatment 193 196	PPI
+T13	Effect 155 169	cardiovascular
+T14	Negation_cue 10 12	no
+T15	Speculation_cue 101 116	do not rule out
+T16	Drug 193 196	PPI
+T12	Adverse_event 177 180	due
+E1	Adverse_event:T12

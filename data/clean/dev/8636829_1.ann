@@ -1,0 +1,10 @@
+T5	Effect 2 32	macrophage activation syndrome
+T7	Treatment 54 75	methotrexate toxicity
+T8	Subject 90 139	a boy with systemic juvenile rheumatoid arthritis
+T9	Gender 92 95	boy
+T11	Drug 54 66	methotrexate
+T12	Treat-Disorder 101 139	systemic juvenile rheumatoid arthritis
+T13	Speculation_cue 34 42	possibly
+T6	Adverse_event 77 86	developed
+E1	Adverse_event:T6 
+A1	Speculated E1

@@ -1,0 +1,7 @@
+T4	Effect 29 47	acute pancreatitis
+T5	Treatment 97 110	carbamazepine
+T6	Subject 66 75	a patient
+T7	Treat-Disorder 121 154	post-traumatic petit mal epilepsy
+T9	Drug 97 110	carbamazepine
+T8	Adverse_event 53 62	occurring
+E1	Adverse_event:T8

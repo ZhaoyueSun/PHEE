@@ -1,0 +1,11 @@
+T4	Effect 25 54	fatal cryptococcal meningitis
+T5	Subject 58 99	a child with systemic lupus erythematosus
+T6	Treatment 119 148	prednisolone and azathioprine
+T8	Age 60 65	child
+T9	Treat-Disorder 71 99	systemic lupus erythematosus
+T10	Drug 119 131	prednisolone
+T11	Drug 136 148	azathioprine
+T7	Adverse_event 55 57	in
+T12	Combination 132 135	and
+E1	Adverse_event:T7 
+E2	Combination:T12 arg:T10 arg2:T11

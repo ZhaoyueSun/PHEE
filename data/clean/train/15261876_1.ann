@@ -1,0 +1,10 @@
+T3	Subject 16 72	a 72-year-old man with advanced Parkinson's disease (PD)
+T4	Treatment 86 121	levodopa and anti-cholinergic drugs
+T5	Effect 155 170	completely bald
+T7	Age 18 29	72-year-old
+T8	Gender 30 33	man
+T9	Treat-Disorder 39 72	advanced Parkinson's disease (PD)
+T10	Drug 86 94	levodopa
+T11	Drug 99 121	anti-cholinergic drugs
+T6	Adverse_event 141 147	become
+E1	Adverse_event:T6 

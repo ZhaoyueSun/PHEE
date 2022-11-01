@@ -1,0 +1,7 @@
+T3	Treatment 61 113	hydrocortisone supplementation and intensive therapy
+T4	Effect 132 152	successfully treated
+T6	Subject 156 239	a newborn, whose mother had received high-dose methylprednisolone in late pregnancy
+T7	Age 158 165	newborn
+T8	Drug 61 75	hydrocortisone
+T5	Potential_therapeutic_event 51 60	requiring
+E1	Potential_therapeutic_event:T5

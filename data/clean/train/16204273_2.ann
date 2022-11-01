@@ -1,0 +1,5 @@
+T3	Treatment 41 51	infliximab
+T5	Effect 60 82	membranous nephropathy
+T6	Drug 41 51	infliximab
+T4	Adverse_event 52 59	induced
+E1	Adverse_event:T4

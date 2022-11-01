@@ -1,0 +1,8 @@
+T3	Effect 32 54	pulmonary hypertension
+T4	Treatment 62 77	lithium therapy
+T6	Subject 85 88	she
+T7	Gender 85 88	she
+T9	Drug 62 69	lithium
+T5	Adverse_event 55 61	during
+E1	Adverse_event:T5 
+T1	Duration 113 120	6 years

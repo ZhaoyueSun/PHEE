@@ -1,0 +1,7 @@
+T5	Subject 22 71	a patient with chronic lymphocytic leukemia (CLL)
+T7	Effect 86 140	fatal intravascular autoimmune hemolytic anemia (AIHA)
+T8	Treatment 147 168	fludarabine treatment
+T10	Drug 147 158	fludarabine
+T11	Treat-Disorder 37 65	chronic lymphocytic leukemia
+T6	Adverse_event 141 146	after
+E1	Adverse_event:T6

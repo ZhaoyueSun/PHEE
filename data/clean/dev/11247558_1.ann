@@ -1,0 +1,6 @@
+T3	Treatment 38 47	meloxicam
+T4	Effect 0 17	Ischaemic colitis
+T6	Subject 21 30	a patient
+T7	Drug 38 47	meloxicam
+T5	Adverse_event 31 37	taking
+E1	Adverse_event:T5

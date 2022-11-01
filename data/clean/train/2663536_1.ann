@@ -1,0 +1,7 @@
+T4	Treatment 69 78	captopril
+T5	Effect 15 43	persistent late onset asthma
+T6	Severity_cue 15 25	persistent
+T7	Drug 69 78	captopril
+T3	Adverse_event 44 53	following
+E1	Adverse_event:T3 
+A1	Severity E1 High

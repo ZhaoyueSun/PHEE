@@ -1,0 +1,8 @@
+T9	Treatment 48 60	desmopressin
+T12	Age 31 36	child
+T13	Effect 0 25	Seizure with hyponatremia
+T14	Drug 48 60	desmopressin
+T15	Treat-Disorder 65 83	nocturnal enuresis
+T1	Subject 29 36	a child
+T2	Adverse_event 26 28	in
+E1	Adverse_event:T2 

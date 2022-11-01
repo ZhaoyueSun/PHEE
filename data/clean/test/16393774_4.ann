@@ -1,0 +1,9 @@
+T8	Subject 24 104	two female patients diagnosed with relapsing-remitting multiple sclerosis (RRMS)
+T9	Effect 119 162	inflammatory musculoskeletal manifestations
+T11	Treatment 174 182	IFN-beta
+T13	Population 24 27	two
+T14	Gender 28 34	female
+T15	Drug 174 182	IFN-beta
+T16	Treat-Disorder 59 97	relapsing-remitting multiple sclerosis
+T10	Adverse_event 109 118	developed
+E1	Adverse_event:T10

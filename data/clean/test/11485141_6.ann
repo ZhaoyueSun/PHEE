@@ -1,0 +1,5 @@
+T3	Effect 96 100	LABD
+T4	Treatment 0 10	Vancomycin
+T6	Drug 0 10	Vancomycin
+T5	Adverse_event 90 95	cause
+E1	Adverse_event:T5

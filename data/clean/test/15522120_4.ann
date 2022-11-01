@@ -1,0 +1,5 @@
+T7	Treatment 0 10	SSRI-drugs
+T8	Effect 11 44;67 106	increase serotonin concentrations pruritus and other dermal side effects.
+T9	Drug 0 4	SSRI
+T6	Adverse_event 11 19	increase
+E1	Adverse_event:T6

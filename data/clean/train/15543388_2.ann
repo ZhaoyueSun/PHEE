@@ -1,0 +1,9 @@
+T5	Treatment 27 94	pegylated interferon and ribavirin treatment of chronic hepatitis C
+T4	Effect 0 14	Celiac disease
+T7	Drug 27 47	pegylated interferon
+T9	Drug 52 71	ribavirin treatment
+T10	Treat-Disorder 75 94	chronic hepatitis C
+T6	Adverse_event 15 20	onset
+T8	Combination 48 51	and
+E1	Adverse_event:T6 
+E2	Combination:T8 arg:T7 arg2:T9

@@ -1,0 +1,10 @@
+T4	Treatment 77 108	retrogasserian phenol injection
+T5	Treat-Disorder 130 150	trigeminal neuralgia
+T6	Subject 10 27	a 78-year-old man
+T7	Effect 36 70	acute unilateral total visual loss
+T8	Age 12 23	78-year-old
+T9	Gender 24 27	man
+T10	Route 99 108	injection
+T11	Drug 92 98	phenol
+T3	Adverse_event 71 76	after
+E1	Adverse_event:T3

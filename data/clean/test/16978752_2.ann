@@ -1,0 +1,7 @@
+T8	Treatment 62 91	phenothiazines and clozapine.
+T9	Effect 0 31	Neutropenia and agranulocytosis
+T10	Drug 62 76	phenothiazines
+T11	Drug 81 90	clozapine
+T12	Speculation_cue 36 41	risks
+T7	Adverse_event 51 56	occur
+E1	Adverse_event:T7

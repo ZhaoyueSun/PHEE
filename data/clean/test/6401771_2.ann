@@ -1,0 +1,9 @@
+T4	Effect 15 35	acute renal toxicity
+T5	Subject 39 47	patients
+T6	Treatment 81 111	mitomycin C and 5-fluorouracil
+T8	Drug 81 92	mitomycin C
+T9	Drug 97 111	5-fluorouracil
+T10	Severity_cue 58 67	long-term
+T7	Adverse_event 116 124	reported
+E1	Adverse_event:T7 
+A1	Severity E1 High

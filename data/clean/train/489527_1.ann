@@ -1,0 +1,5 @@
+T3	Effect 0 12	Renal damage
+T5	Treatment 46 63	lithium carbonate
+T6	Drug 46 64	lithium carbonate.
+T4	Adverse_event 13 23	associated
+E1	Adverse_event:T4

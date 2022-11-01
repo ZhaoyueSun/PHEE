@@ -1,0 +1,12 @@
+T6	Treatment 34 55	nimodipine overdosage
+T7	Effect 69 104	prolonged hypotension and hypoxemia
+T8	Dosage 45 55	overdosage
+T9	Drug 34 44	nimodipine
+T11	Treat-Disorder 69 104	prolonged hypotension and hypoxemia
+T13	Treatment 142 159	calcium gluconate
+T14	Drug 142 159	calcium gluconate
+T5	Adverse_event 56 65	resulting
+T12	Potential_therapeutic_event 129 136	treated
+E1	Adverse_event:T5 arg:T6 arg2:T7
+E2	Potential_therapeutic_event:T12 arg:T13
+R1	has Arg1:T13 Arg2:T11

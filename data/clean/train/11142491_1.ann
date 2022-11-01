@@ -1,0 +1,8 @@
+T5	Effect 0 38	Acute myeloid leukemia and lung cancer
+T7	Subject 52 90	a chronic lymphocytic leukemia patient
+T8	Treatment 104 173	fludarabine and autologous peripheral blood stem-cell transplantation
+T10	Drug 104 115	fludarabine
+T11	Treat-Disorder 54 82	chronic lymphocytic leukemia
+T6	Adverse_event 39 48	occurring
+E1	Adverse_event:T6 
+A1	Severity E1 High

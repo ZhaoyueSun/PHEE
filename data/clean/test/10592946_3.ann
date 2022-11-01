@@ -1,0 +1,10 @@
+T7	Effect 65 115	caffeine intoxication with coexisting hyponatremia
+T8	Treatment 32 63	massive ingestion of oolong tea
+T10	Drug 53 63	oolong tea
+T11	Dosage 32 39	massive
+T12	Drug 65 73	caffeine
+T13	Route 40 49	ingestion
+T14	Severity_cue 0 6	Severe
+T9	Adverse_event 22 31	following
+E1	Adverse_event:T9 
+A1	Severity E1 High

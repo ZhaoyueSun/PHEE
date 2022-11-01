@@ -1,0 +1,10 @@
+T8	Effect 6 40	A malignant mixed mesodermal tumor
+T9	Treatment 124 134	raloxifene
+T11	Subject 58 102	a 64-year-old woman with a bicornuate uterus
+T13	Age 60 71	64-year-old
+T14	Gender 72 77	woman
+T15	Sub-Disorder 85 102	bicornuate uterus
+T16	Drug 124 134	raloxifene
+T17	Treat-Disorder 139 151	osteoporosis
+T12	Adverse_event 45 54	diagnosed
+E1	Adverse_event:T12 

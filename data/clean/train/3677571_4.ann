@@ -1,0 +1,7 @@
+T7	Effect 145 155	leukopenia
+T8	Treatment 47 84	carbamazepine 200 mg four times daily
+T10	Drug 47 60	carbamazepine
+T11	Dosage 61 67	200 mg
+T12	Freq 68 84	four times daily
+T9	Adverse_event 134 141	because
+E1	Adverse_event:T9

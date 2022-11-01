@@ -1,0 +1,6 @@
+T6	Treatment 39 51	gatifloxacin
+T8	Subject 81 112	pulmonary tuberculosis patients
+T10	Treat-Disorder 81 103	pulmonary tuberculosis
+T11	Drug 39 51	gatifloxacin
+T7	Potential_therapeutic_event 78 80	in
+E1	Potential_therapeutic_event:T7

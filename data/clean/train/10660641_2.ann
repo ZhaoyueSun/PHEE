@@ -1,0 +1,6 @@
+T8	Subject 0 9	A patient
+T5	Treatment 23 42	itraconazole (ITCZ)
+T9	Drug 23 35	itraconazole
+T10	Treat-Disorder 66 129	Aspergillus flavus-induced chronic hypertrophic pachymeningitis
+T6	Potential_therapeutic_event 10 17	treated
+E1	Potential_therapeutic_event:T6 

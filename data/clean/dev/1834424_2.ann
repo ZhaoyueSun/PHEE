@@ -1,0 +1,5 @@
+T4	Treatment 33 61	4-chloro-7-nitrobenzofurazan
+T5	Effect 0 27	Allergic contact dermatitis
+T6	Drug 33 61	4-chloro-7-nitrobenzofurazan
+T3	Adverse_event 28 32	from
+E1	Adverse_event:T3

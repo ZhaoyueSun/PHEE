@@ -1,0 +1,8 @@
+T6	Treatment 126 158	d-penicillamine 125-500 mg daily
+T7	Subject 12 22	3 patients
+T8	Effect 37 91	acute generalized dystonia and akinetic rigid syndrome
+T9	Population 12 13	3
+T10	Drug 126 141	d-penicillamine
+T11	Dosage 142 158	125-500 mg daily
+T5	Adverse_event 92 101	following
+E1	Adverse_event:T5

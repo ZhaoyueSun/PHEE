@@ -1,0 +1,9 @@
+T3	Effect 53 72	arterial thrombotic
+T4	Treatment 109 127	thrombin injection
+T7	Drug 109 117	thrombin
+T8	Route 118 127	injection
+T9	Treat-Disorder 131 146	pseudoaneurysms
+T10	Severity_cue 46 52	severe
+T6	Adverse_event 99 108	following
+E1	Adverse_event:T6 
+A1	Severity E1 High

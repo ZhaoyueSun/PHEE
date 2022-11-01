@@ -1,0 +1,10 @@
+T8	Treatment 25 88	valproic acid may interfere with glucuronidation of lamotrigine
+T9	Effect 101 237	increased serum lamotrigine levels, or perhaps alter the drug's metabolism, resulting in accumulation of a toxic intermediate metabolite
+T7	Speculation_cue 7 19	hypothesized
+T12	Drug 25 38	valproic acid
+T13	Drug 77 88	lamotrigine
+T10	Adverse_event 90 97	leading
+T11	Combination 43 52	interfere
+E1	Adverse_event:T10 
+E2	Combination:T11 arg:T12 arg2:T13
+A1	Speculated E1

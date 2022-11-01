@@ -1,0 +1,8 @@
+T3	Subject 98 126	childhood nephrotic syndrome
+T4	Treatment 29 41	chlorambucil
+T5	Effect 42 66	central nervous toxicity
+T7	Age 98 107	childhood
+T8	Sub-Disorder 108 126	nephrotic syndrome
+T9	Drug 29 41	chlorambucil
+T6	Adverse_event 70 75	found
+E1	Adverse_event:T6 

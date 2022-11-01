@@ -1,0 +1,5 @@
+T3	Treatment 0 8	Naproxen
+T4	Effect 20 53	sudden sensorineural hearing loss
+T6	Drug 0 8	Naproxen
+T5	Adverse_event 9 19	associated
+E1	Adverse_event:T5

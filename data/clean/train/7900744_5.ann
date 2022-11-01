@@ -1,0 +1,7 @@
+T5	Effect 36 39	ARF
+T7	Treatment 56 73	mannitol infusion
+T8	Subject 77 85	patients
+T9	Drug 56 64	mannitol
+T10	Route 65 73	infusion
+T6	Adverse_event 40 50	associated
+E1	Adverse_event:T6

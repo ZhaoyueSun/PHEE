@@ -1,0 +1,14 @@
+T5	Treatment 157 254	the second cycle of neoadjuvant chemotherapy consisting of cisplatin, bleomycin, and methotrexate
+T6	Effect 101 149	a chemotherapy-related hemolytic-uremic syndrome
+T8	Subject 0 90	A 62-year-old woman who was being treated for squamous cell carcinoma of the head and neck
+T9	Age 2 13	62-year-old
+T10	Gender 14 19	woman
+T12	Treat-Disorder 46 90	squamous cell carcinoma of the head and neck
+T13	Dosage 161 173	second cycle
+T14	Drug 216 225	cisplatin
+T15	Drug 227 236	bleomycin
+T16	Drug 242 254	methotrexate
+T7	Adverse_event 91 100	developed
+T17	Combination 202 215	consisting of
+E1	Adverse_event:T7 
+E2	Combination:T17 arg:T14 arg2:T15 arg3:T16

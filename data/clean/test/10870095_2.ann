@@ -1,0 +1,5 @@
+T6	Treat-Disorder 64 100	allergic and exercise-induced asthma
+T7	Treatment 0 49	Zafirlukast is a cysteinyl leukotriene antagonist
+T9	Drug 0 11	Zafirlukast
+T5	Potential_therapeutic_event 58 63	treat
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,10 @@
+T4	Effect 0 18	Progressive anemia
+T6	Subject 92 138	a patient with metastatic renal cell carcinoma
+T8	Treat-Disorder 107 138	metastatic renal cell carcinoma
+T9	Drug 54 70	interferon-alpha
+T10	Drug 75 88	interleukin-2
+T5	Treatment 29 88	combination therapy with interferon-alpha and interleukin-2
+T7	Adverse_event 19 28	following
+T11	Combination 29 40	combination
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

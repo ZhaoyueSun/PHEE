@@ -1,0 +1,8 @@
+T3	Effect 10 34	congestive heart failure
+T4	Subject 38 63	a child with Wilms' tumor
+T5	Treatment 72 82	Adriamycin
+T7	Age 40 45	child
+T9	Drug 72 82	Adriamycin
+T10	Treat-Disorder 51 63	Wilms' tumor
+T6	Adverse_event 35 37	in
+E1	Adverse_event:T6

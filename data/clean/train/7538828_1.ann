@@ -1,0 +1,8 @@
+T5	Effect 0 40	Bone marrow aplasia and severe skin rash
+T7	Treatment 47 80	a single low dose of methotrexate
+T8	Drug 68 80	methotrexate
+T9	Dosage 49 64	single low dose
+T11	Severity_cue 24 30	severe
+T6	Adverse_event 41 46	after
+E1	Adverse_event:T6 
+A1	Severity E1 High

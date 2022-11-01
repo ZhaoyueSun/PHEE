@@ -1,0 +1,10 @@
+T3	Subject 30 44	cancer patient
+T4	Effect 59 89;154 182	life-threatening complications have profound DPD deficiency
+T5	Treatment 111 123	topical 5-FU
+T6	Treat-Disorder 30 36	cancer
+T8	Drug 119 123	5-FU
+T9	Severity_cue 59 75	life-threatening
+T12	Route 111 118	topical
+T10	Adverse_event 49 58	developed
+E1	Adverse_event:T10 
+A1	Severity E1 High

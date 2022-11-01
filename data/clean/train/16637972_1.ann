@@ -1,0 +1,8 @@
+T5	Effect 43 128	a sudden spontaneous onset of sub-conjunctival haematoma associated with bloody tears
+T6	Subject 0 17	A 65-year-old man
+T7	Treatment 21 37	warfarin therapy
+T9	Age 2 13	65-year-old
+T10	Gender 14 17	man
+T11	Drug 21 29	warfarin
+T8	Adverse_event 38 42	with
+E1	Adverse_event:T8

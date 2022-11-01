@@ -1,0 +1,7 @@
+T3	Treatment 0 22	Antacid and sucralfate
+T5	Effect 31 60	hypophosphatemic osteomalacia
+T6	Subject 62 68	a case
+T7	Drug 12 22	sucralfate
+T8	Drug 0 7	Antacid
+T4	Adverse_event 23 30	induced
+E1	Adverse_event:T4

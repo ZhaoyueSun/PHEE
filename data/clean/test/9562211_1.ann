@@ -1,0 +1,11 @@
+T3	Subject 0 38	A 28 year old white schizophrenic male
+T4	Treatment 54 77	risperidone monotherapy
+T6	Effect 115 135	dyskinetic movements
+T7	Age 2 13	28 year old
+T8	Race 14 19	white
+T10	Gender 34 38	male
+T11	Drug 54 65	risperidone
+T12	Duration 82 96	about one year
+T13	Treat-Disorder 20 33	schizophrenic
+T5	Adverse_event 105 114	developed
+E1	Adverse_event:T5

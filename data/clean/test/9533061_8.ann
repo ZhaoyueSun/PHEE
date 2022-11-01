@@ -1,0 +1,7 @@
+T5	Treatment 54 89	receiving clindamycin vaginal cream
+T8	Subject 45 53	patients
+T9	Drug 64 75	clindamycin
+T10	Route 76 89	vaginal cream
+T11	Treat-Disorder 94 113	bacterial vaginosis
+T6	Potential_therapeutic_event 90 93	for
+E1	Potential_therapeutic_event:T6

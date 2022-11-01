@@ -1,0 +1,10 @@
+T4	Treatment 70 169	four days after the application of a patch of transdermal scopolamine delivery system (TRANSDERM-V)
+T5	Subject 0 19	A 58-year-old woman
+T6	Effect 30 69	unilateral acute angle-closure glaucoma
+T7	Age 2 13	58-year-old
+T8	Gender 14 19	woman
+T9	Route 107 112	patch
+T10	Drug 128 139	scopolamine
+T11	Time_elapsed 70 79	four days
+T3	Adverse_event 80 85	after
+E1	Adverse_event:T3

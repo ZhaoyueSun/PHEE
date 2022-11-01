@@ -1,0 +1,6 @@
+T4	Effect 33 42	pemphigus
+T5	Treatment 97 106	captopril
+T6	Subject 10 16	a case
+T7	Drug 97 106	captopril
+T3	Adverse_event 25 32	induced
+E1	Adverse_event:T3

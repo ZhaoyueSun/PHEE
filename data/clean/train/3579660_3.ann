@@ -1,0 +1,8 @@
+T3	Subject 12 81	a patient with Wilson's disease who presented with neurologic disease
+T4	Effect 130 161	sudden neurologic deterioration
+T5	Treatment 100 115	D-penicillamine
+T7	Treat-Disorder 27 43	Wilson's disease
+T8	Drug 100 115	D-penicillamine
+T6	Adverse_event 121 129	suffered
+E1	Adverse_event:T6 
+T1	Sub-Disorder 63 81	neurologic disease

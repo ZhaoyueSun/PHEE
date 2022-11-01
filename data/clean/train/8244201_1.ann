@@ -1,0 +1,13 @@
+T10	Treatment 0 28;151 196	A high dose of cotrimoxazole after several days of the drug administration
+T11	Effect 37 150	hyperkalaemia with the elevation of serum creatinine and blood urea, and increased urinary N-acetyl glucosaminase
+T14	Dosage 2 11	high dose
+T15	Drug 15 28	cotrimoxazole
+T16	Time_elapsed 157 169	several days
+T12	Subject 216 227	one patient
+T17	Subject 200 214	these patients
+T18	Population 216 219	one
+T20	Effect 235 246	unconscious
+T9	Adverse_event 29 36	induced
+T19	Adverse_event 228 234	became
+E1	Adverse_event:T9 arg:T10 arg2:T11 arg3:T17
+E2	Adverse_event:T19 arg:T12 arg2:T20 arg3:T10

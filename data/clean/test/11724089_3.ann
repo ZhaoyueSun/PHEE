@@ -1,0 +1,7 @@
+T3	Treatment 57 66	ofloxacin
+T5	Effect 75 113	toxic epidermal necrolysis is possible
+T6	Drug 57 66	ofloxacin
+T7	Speculation_cue 105 113	possible
+T4	Adverse_event 67 74	induced
+E1	Adverse_event:T4 
+A1	Speculated E1

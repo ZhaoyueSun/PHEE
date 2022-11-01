@@ -1,0 +1,6 @@
+T5	Effect 0 3	RTA
+T6	Effect 19 33	nephrotoxicity
+T7	Treatment 45 50	FK506
+T9	Drug 45 50	FK506
+T8	Adverse_event 34 41	induced
+E1	Adverse_event:T8

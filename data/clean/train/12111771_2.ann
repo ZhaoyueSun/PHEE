@@ -1,0 +1,7 @@
+T6	Subject 56 105	all patients who develop unexplained lung disease
+T7	Effect 0 33	Fludarabine induced lung toxicity
+T9	Treatment 122 133	fludarabine
+T10	Sub-Disorder 93 105	lung disease
+T11	Drug 122 133	fludarabine
+T8	Adverse_event 112 121	receiving
+E1	Adverse_event:T8 

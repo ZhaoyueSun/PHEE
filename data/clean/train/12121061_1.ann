@@ -1,0 +1,5 @@
+T6	Treatment 0 11	Ticlopidine
+T8	Effect 20 34	marrow aplasia
+T9	Drug 0 11	Ticlopidine
+T7	Adverse_event 12 19	induced
+E1	Adverse_event:T7

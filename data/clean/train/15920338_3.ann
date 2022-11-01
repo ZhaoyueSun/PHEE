@@ -1,0 +1,7 @@
+T8	Treatment 111 120	tamoxifen
+T9	Effect 51 94;143 198	potentially life-threatening adverse events including endometrial adenocarcinoma or uterine sarcoma
+T10	Drug 19 20	x
+T11	Drug 111 120	tamoxifen
+T12	Drug 15 24	tamoxifen
+T7	Adverse_event 95 110	associated with
+E1	Adverse_event:T7

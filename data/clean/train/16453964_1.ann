@@ -1,0 +1,6 @@
+T4	Treatment 22 45	intraoperative gelatine
+T6	Effect 54 65	anaphylaxis
+T7	Drug 37 45	gelatine
+T8	Route 22 36	intraoperative
+T5	Adverse_event 46 53	induced
+E1	Adverse_event:T5

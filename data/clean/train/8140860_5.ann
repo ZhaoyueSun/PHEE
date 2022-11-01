@@ -1,0 +1,11 @@
+T8	Effect 14 68	the increase in the INR value with associated bruising
+T10	Treatment 91 102	amoxycillin
+T11	Drug 91 102	amoxycillin
+T13	Drug 139 152	acenocoumarol
+T14	Drug 157 168	amoxycillin
+T15	Speculation_cue 103 111	suggests
+T9	Adverse_event 69 74	after
+T12	Combination 119 130	interaction
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T13 arg2:T14
+A1	Speculated E1

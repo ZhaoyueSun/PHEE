@@ -1,0 +1,6 @@
+T3	Treatment 70 75	D-Pen
+T4	Effect 28 39	bicytopenia
+T5	Subject 48 55	patient
+T7	Drug 70 75	D-Pen
+T6	Adverse_event 60 66	caused
+E1	Adverse_event:T6

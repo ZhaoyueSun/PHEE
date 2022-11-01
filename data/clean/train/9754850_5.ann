@@ -1,0 +1,11 @@
+T3	Subject 13 52	three patients with acute schizophrenia
+T4	Effect 75 84	akathisia
+T6	Treatment 107 130	olanzapine (20-25 mg/d)
+T7	Population 13 18	three
+T8	Treat-Disorder 33 52	acute schizophrenia
+T9	Drug 107 117	olanzapine
+T10	Dosage 119 129	20-25 mg/d
+T12	Severity_cue 68 74	severe
+T5	Adverse_event 102 106	with
+E1	Adverse_event:T5 
+A1	Severity E1 High

@@ -1,0 +1,5 @@
+T3	Effect 0 28	Hepato-biliary abnormalities
+T5	Treatment 42 57	ceftriaxone use
+T6	Drug 42 53	ceftriaxone
+T4	Adverse_event 29 41	secondary to
+E1	Adverse_event:T4

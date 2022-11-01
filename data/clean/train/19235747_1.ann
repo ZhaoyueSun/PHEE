@@ -1,0 +1,11 @@
+T5	Effect 23 55	osteonecrosis of the jaw (BRONJ)
+T6	Subject 77 94	18.6% of patients
+T7	Treatment 108 135	intravenous bisphosphonates
+T3	Population 77 82	18.6%
+T8	Drug 0 14	Bisphosphonate
+T9	Route 108 119	intravenous
+T10	Drug 120 135	bisphosphonates
+T11	Severity_cue 154 165	significant
+T4	Adverse_event 15 22	related
+E1	Adverse_event:T4 
+A1	Severity E1 High

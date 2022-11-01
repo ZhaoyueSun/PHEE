@@ -1,0 +1,6 @@
+T4	Treatment 0 25	Corticosteroid injections
+T7	Drug 0 14	Corticosteroid
+T8	Route 15 25	injections
+T9	Treat-Disorder 85 99	pain disorders
+T5	Potential_therapeutic_event 57 67	treatments
+E1	Potential_therapeutic_event:T5

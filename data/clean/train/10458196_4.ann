@@ -1,0 +1,10 @@
+T3	Treatment 13 32	Topical brimonidine
+T5	Effect 56 89	central nervous system depression
+T6	Subject 93 100	infants
+T7	Age 93 100	infants
+T8	Drug 21 32	brimonidine
+T9	Route 13 20	Topical
+T10	Speculation_cue 33 36	may
+T4	Adverse_event 40 50	associated
+E1	Adverse_event:T4 
+A1	Speculated E1

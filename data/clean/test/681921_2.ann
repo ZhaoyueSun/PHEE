@@ -1,0 +1,5 @@
+T3	Treatment 67 77	disulfiram
+T5	Effect 97 106	catatonia
+T6	Drug 67 77	disulfiram
+T4	Adverse_event 85 93	etiology
+E1	Adverse_event:T4

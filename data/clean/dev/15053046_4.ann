@@ -1,0 +1,6 @@
+T10	Effect 4 19	agranulocytosis
+T9	Treatment 44 138	granulocyte colony-stimulating factor (G-CSF) therapy and by the discontinuation of vancomycin
+T11	Drug 44 81	granulocyte colony-stimulating factor
+T12	Drug 128 138	vancomycin
+T7	Potential_therapeutic_event 32 40	resolved
+E1	Potential_therapeutic_event:T7

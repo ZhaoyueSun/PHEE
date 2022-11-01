@@ -1,0 +1,6 @@
+T3	Effect 0 25	Fulminant hepatic failure
+T4	Treatment 52 62	disulfiram
+T5	Treat-Disorder 77 87	alcoholism
+T7	Drug 52 62	disulfiram
+T6	Adverse_event 36 48	complication
+E1	Adverse_event:T6

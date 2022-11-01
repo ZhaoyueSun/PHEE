@@ -1,0 +1,7 @@
+T3	Effect 43 86	respiratory syncytial virus (RSV) infection
+T4	Subject 90 146	a patient with a long-standing history of refractory CLL
+T6	Treatment 169 190	fludarabine phosphate
+T8	Drug 169 190	fludarabine phosphate
+T9	Treat-Disorder 132 146	refractory CLL
+T5	Adverse_event 156 163	treated
+E1	Adverse_event:T5

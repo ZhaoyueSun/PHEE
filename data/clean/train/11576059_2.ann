@@ -1,0 +1,9 @@
+T3	Subject 23 40	a 5-year-old girl
+T4	Effect 55 85	bilateral vocal cord paralysis
+T6	Treatment 96 147	preoperative peritonsillar bupivacaine infiltration
+T7	Age 25 35	5-year-old
+T8	Gender 36 40	girl
+T9	Drug 123 134	bupivacaine
+T10	Route 109 122;135 147	peritonsillar infiltration
+T5	Adverse_event 86 95	following
+E1	Adverse_event:T5

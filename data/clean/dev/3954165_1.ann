@@ -1,0 +1,13 @@
+T4	Subject 18 38	large patient groups
+T6	Effect 128 133	ulcer
+T8	Drug 42 54	theophylline
+T7	Treatment 42 101	theophylline and a combination of theophylline and steroids
+T9	Drug 76 88	theophylline
+T10	Drug 93 101	steroids
+T12	Treat-Disorder 197 203	asthma
+T13	Speculation_cue 102 107	might
+T5	Adverse_event 120 124	risk
+T11	Combination 61 72	combination
+E1	Adverse_event:T5 
+E2	Combination:T11 arg:T9 arg2:T10
+A1	Speculated E1

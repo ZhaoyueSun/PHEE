@@ -1,0 +1,8 @@
+T3	Effect 0 28	Withdrawal emergent syndrome
+T4	Subject 32 41	an infant
+T6	Treatment 58 86	maternal haloperidol therapy
+T7	Age 35 41	infant
+T8	Drug 67 78	haloperidol
+T9	Route 58 66	maternal
+T5	Adverse_event 42 52	associated
+E1	Adverse_event:T5

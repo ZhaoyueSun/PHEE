@@ -1,0 +1,5 @@
+T4	Treatment 27 34	Ritalin
+T5	Effect 40 48	glaucoma
+T6	Drug 27 34	Ritalin
+T3	Adverse_event 12 23	association
+E1	Adverse_event:T3

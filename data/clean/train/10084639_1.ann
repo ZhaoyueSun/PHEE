@@ -1,0 +1,7 @@
+T3	Subject 30 48	psychotic patients
+T4	Treatment 67 76	clozapine
+T7	Effect 85 120	agranulocytosis or granulocytopenia
+T8	Drug 67 76	clozapine
+T9	Treat-Disorder 30 39	psychotic
+T6	Adverse_event 77 84	induced
+E1	Adverse_event:T6

@@ -1,0 +1,10 @@
+T3	Subject 14 106	A 57-year-old female with cardiomyopathy and "sulfa" (trimethoprim/sulfamethoxazole) allergy
+T4	Effect 121 133	pancreatitis
+T6	Treatment 200 210	furosemide
+T7	Age 16 27	57-year-old
+T8	Gender 28 34	female
+T9	Sub-Disorder 40 54	cardiomyopathy
+T10	Drug 200 210	furosemide
+T5	Adverse_event 187 196	after use
+E1	Adverse_event:T5 
+T1	Sub-Disorder 59 106	"sulfa" (trimethoprim/sulfamethoxazole) allergy

@@ -1,0 +1,7 @@
+T3	Effect 56 112	later presentation of withdrawal symptoms in the neonate
+T4	Subject 105 112	neonate
+T5	Treatment 0 8	Diazepam
+T7	Age 105 112	neonate
+T8	Drug 0 8	Diazepam
+T6	Adverse_event 38 48	associated
+E1	Adverse_event:T6

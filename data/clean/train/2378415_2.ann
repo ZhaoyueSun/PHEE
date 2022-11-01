@@ -1,0 +1,12 @@
+T6	Treatment 190 231	a single dose of intravenous methotrexate
+T8	Effect 131 170	cerebral edema and brainstem herniation
+T9	Treat-Disorder 15 40	intracranial osteosarcoma
+T5	Subject 0 114	A patient with intracranial osteosarcoma that arose 16 years after radiation therapy for hereditary retinoblastoma
+T10	Freq 190 203	a single dose
+T11	Route 207 218	intravenous
+T12	Drug 219 231	methotrexate
+T13	Severity_cue 125 130	fatal
+T7	Adverse_event 115 124	developed
+E1	Adverse_event:T7 
+A1	Severity E1 High
+T1	Sub-Disorder 89 114	hereditary retinoblastoma

@@ -1,0 +1,5 @@
+T3	Treatment 99 112	amphotercin B
+T5	Effect 55 63	seizures
+T7	Drug 99 112	amphotercin B
+T4	Adverse_event 92 98	during
+E1	Adverse_event:T4

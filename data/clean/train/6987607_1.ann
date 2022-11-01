@@ -1,0 +1,5 @@
+T3	Effect 80 99	Cushingoid features
+T5	Treatment 23 33;43 67	prednisone to maintain normotension
+T6	Drug 23 33	prednisone
+T4	Adverse_event 68 79	resulted in
+E1	Adverse_event:T4

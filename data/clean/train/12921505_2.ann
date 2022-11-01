@@ -1,0 +1,5 @@
+T4	Treat-Disorder 51 70	hepato-renal failur
+T3	Treatment 0 10	Argatroban
+T6	Drug 0 10	Argatroban
+T5	Potential_therapeutic_event 11 14	for
+E1	Potential_therapeutic_event:T5

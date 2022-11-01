@@ -1,0 +1,7 @@
+T4	Treatment 84 102	dihydrotachysterol
+T6	Effect 0 34	Unaccountable severe hypercalcemia
+T7	Subject 40 47	patient
+T8	Treat-Disorder 60 78	hypoparathyroidism
+T9	Drug 84 102	dihydrotachysterol
+T5	Adverse_event 48 55	treated
+E1	Adverse_event:T5

@@ -1,0 +1,9 @@
+T3	Subject 3 12	one child
+T4	Treatment 14 46	a second course of carbamazepine
+T6	Effect 59 83	a return of the dystonia
+T7	Population 3 6	one
+T8	Age 7 12	child
+T9	Duration 16 29	second course
+T10	Drug 33 46	carbamazepine
+T5	Adverse_event 47 55	resulted
+E1	Adverse_event:T5

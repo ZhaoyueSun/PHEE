@@ -1,0 +1,5 @@
+T4	Effect 120 132;149 160	severe human lipoatrophy
+T5	Treatment 133 140	insulin
+T6	Drug 133 140	insulin
+T3	Adverse_event 141 148	induced
+E1	Adverse_event:T3

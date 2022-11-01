@@ -1,0 +1,8 @@
+T4	Treatment 75 84	clozapine
+T5	Effect 100 103	EPS
+T3	Subject 32 61	a woman schizophrenic patient
+T7	Gender 34 39	woman
+T8	Treat-Disorder 40 53	schizophrenic
+T9	Drug 75 84	clozapine
+T1	Adverse_event 85 94	suffering
+E1	Adverse_event:T1 

@@ -1,0 +1,7 @@
+T3	Treatment 17 28	clofazimine
+T4	Effect 82 103	a ceroid-like pigment
+T5	Subject 122 176	patients treated with this drug or lepromatous leprosy
+T7	Treat-Disorder 157 176	lepromatous leprosy
+T8	Drug 17 28	clofazimine
+T6	Adverse_event 74 81	produce
+E1	Adverse_event:T6 

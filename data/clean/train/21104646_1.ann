@@ -1,0 +1,9 @@
+T6	Effect 0 40	Abnormal dexamethasone suppression tests
+T7	Treatment 46 56	rifampicin
+T8	Subject 65 106	patient with suspected Cushing's syndrome
+T9	Speculation_cue 78 87	suspected
+T11	Treat-Disorder 88 106	Cushing's syndrome
+T12	Drug 46 56	rifampicin
+T5	Adverse_event 0 8	Abnormal
+E1	Adverse_event:T5 
+A1	Speculated E1

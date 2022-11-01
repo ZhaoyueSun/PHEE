@@ -1,0 +1,7 @@
+T5	Subject 28 36	children
+T7	Treatment 0 11	Imidazoline
+T8	Effect 0 24	Imidazoline intoxication
+T9	Age 28 36	children
+T10	Drug 0 11	Imidazoline
+T6	Adverse_event 12 24	intoxication
+E1	Adverse_event:T6

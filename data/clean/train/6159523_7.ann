@@ -1,0 +1,9 @@
+T4	Treatment 37 70	higher concentrations of dextrose
+T5	Effect 78 122	increased histamine release from blood cells
+T6	Drug 62 70	dextrose
+T7	Sub-Disorder 167 175	diabetic
+T8	Dosage 37 58	higher concentrations
+T9	Subject 167 224	diabetic, and particularly diabetic-allergic, individuals
+T3	Adverse_event 71 77	induce
+E1	Adverse_event:T3 
+T1	Sub-Disorder 194 211	diabetic-allergic

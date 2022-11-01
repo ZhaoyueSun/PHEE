@@ -1,0 +1,12 @@
+T8	Effect 63 156	difficulty walking because of marked pain in the lower extremities and loss of proprioception
+T9	Treatment 157 213	25 days after treatment with weekly taxol (80 mg/m(2)x3)
+T10	Subject 12 48	a case of advanced ovarian carcinoma
+T12	Severity_cue 93 99	marked
+T13	Time_elapsed 157 164	25 days
+T14	Drug 193 198	taxol
+T15	Freq 186 192	weekly
+T16	Dosage 200 212	80 mg/m(2)x3
+T17	Treat-Disorder 22 48	advanced ovarian carcinoma
+T7	Adverse_event 53 62	developed
+E1	Adverse_event:T7 
+A1	Severity E1 High

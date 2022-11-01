@@ -1,0 +1,8 @@
+T6	Effect 34 53	serious interaction
+T7	Treatment 60 81	frequently used drugs
+T8	Treat-Disorder 86 98	chronic pain
+T10	Severity_cue 34 41	serious
+T11	Freq 60 70	frequently
+T12	Drug 76 81	drugs
+T9	Adverse_event 54 59	among
+E1	Adverse_event:T9

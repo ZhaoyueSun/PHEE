@@ -1,0 +1,13 @@
+T4	Subject 0 17	A 51-year-old man
+T6	Effect 28 52	type 1 diabetes mellitus
+T7	Treatment 63 139	24 weeks of treatment with recombinant alpha-2b peginterferon plus ribavirin
+T9	Age 2 13	51-year-old
+T10	Gender 14 17	man
+T8	Time_elapsed 63 71	24 weeks
+T11	Drug 90 124	recombinant alpha-2b peginterferon
+T12	Drug 130 139	ribavirin
+T14	Treat-Disorder 144 163	chronic hepatitis C
+T5	Adverse_event 18 27	developed
+T13	Combination 125 129	plus
+E1	Adverse_event:T5 
+E2	Combination:T13 arg:T11 arg2:T12

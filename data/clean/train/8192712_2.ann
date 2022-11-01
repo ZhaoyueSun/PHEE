@@ -1,0 +1,5 @@
+T5	Effect 0 14	Hyperammonemia
+T7	Treatment 55 76	valproic acid therapy
+T8	Drug 55 68	valproic acid
+T6	Adverse_event 39 51	complication
+E1	Adverse_event:T6

@@ -1,0 +1,9 @@
+T4	Effect 11 30	colonic perforation
+T5	Treatment 68 97;102 110	calcium polystyrene sulfonate sorbitol
+T8	Drug 68 97	calcium polystyrene sulfonate
+T9	Drug 102 110	sorbitol
+T11	Route 46 64	the administration
+T6	Adverse_event 36 42	result
+T10	Combination 98 101	and
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T8 arg2:T9

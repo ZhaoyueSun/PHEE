@@ -1,0 +1,9 @@
+T5	Treatment 0 39	High-dose intravenous mannitol infusion
+T7	Effect 83 102	acute renal failure
+T8	Drug 22 30	mannitol
+T9	Speculation_cue 69 72	may
+T10	Route 10 21;31 39	intravenous infusion
+T11	Dosage 0 9	High-dose
+T6	Adverse_event 73 79	result
+E1	Adverse_event:T6 
+A1	Speculated E1

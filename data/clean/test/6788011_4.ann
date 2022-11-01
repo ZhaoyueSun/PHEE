@@ -1,0 +1,7 @@
+T3	Effect 4 22	nephrotic syndrome
+T5	Subject 36 45	a patient
+T6	Treat-Disorder 78 98	rheumatoid arthritis
+T7	Treatment 56 73	therapy with gold
+T8	Drug 69 73	gold
+T4	Adverse_event 23 32	developed
+E1	Adverse_event:T4

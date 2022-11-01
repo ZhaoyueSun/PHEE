@@ -1,0 +1,5 @@
+T7	Effect 0 64	Pneumonitis with pleural and pericardial effusion and neuropathy
+T9	Treatment 72 90	amiodarone therapy
+T10	Drug 72 82	amiodarone
+T8	Adverse_event 65 71	during
+E1	Adverse_event:T8

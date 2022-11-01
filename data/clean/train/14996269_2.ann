@@ -1,0 +1,12 @@
+T6	Treatment 69 79	Kayexalate
+T3	Subject 12 54	two ELBW infants affected by hyperkalaemia
+T5	Effect 95 117	serious hypernatraemia
+T7	Population 12 15	two
+T8	Treat-Disorder 41 54	hyperkalaemia
+T9	Age 21 28	infants
+T10	Sub-Disorder 16 20	ELBW
+T11	Drug 69 79	Kayexalate
+T12	Severity_cue 95 102	serious
+T4	Adverse_event 85 94	developed
+E1	Adverse_event:T4 
+A1	Severity E1 High

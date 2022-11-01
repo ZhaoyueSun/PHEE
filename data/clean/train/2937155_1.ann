@@ -1,0 +1,8 @@
+T13	Treatment 20 30	vancomycin
+T16	Effect 74 242	a lupus-like syndrome characterized by a malar rash, pain and erythema of the cartilage of both ears, and tender erythematous and hemorrhagic lesions of the finger tips
+T18	Drug 20 30	vancomycin
+T19	Treat-Disorder 37 69	serious staphylococcal infection
+T20	Severity_cue 37 44	serious
+T17	Adverse_event 70 73	had
+E1	Adverse_event:T17 
+A1	Severity E1 High

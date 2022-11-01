@@ -1,0 +1,10 @@
+T4	Effect 0 41	Brugada type electrocardiographic changes
+T6	Treatment 53 95	concomitant use of lithium and propafenone
+T7	Subject 99 142	patient with Wolff-Parkinson-White syndrome
+T8	Treat-Disorder 112 142	Wolff-Parkinson-White syndrome
+T9	Drug 72 79	lithium
+T10	Drug 84 95	propafenone
+T5	Adverse_event 42 49	induced
+T11	Combination 53 64	concomitant
+E1	Adverse_event:T5 
+E2	Combination:T11 arg:T9 arg2:T10

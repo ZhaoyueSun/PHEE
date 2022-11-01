@@ -1,0 +1,6 @@
+T5	Effect 10 30	basilar invagination
+T6	Treatment 107 116	phenytoin
+T8	Drug 107 116	phenytoin
+T9	Route 82 94	intrauterine
+T7	Adverse_event 95 103	exposure
+E1	Adverse_event:T7

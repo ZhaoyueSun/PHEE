@@ -1,0 +1,13 @@
+T3	Treat-Disorder 30 65	human immunodeficiency virus type 1
+T7	Effect 180 196	Cushing syndrome
+T8	Drug 240 253	triamcinolone
+T9	Drug 155 164	ritonavir
+T10	Route 231 239;254 264	epidural injections
+T5	Treatment 104 164;231 264	combination antiretroviral therapy, which included ritonavir epidural triamcinolone injections
+T11	Severity_cue 180 187	Cushing
+T4	Subject 28 93	a human immunodeficiency virus type 1 (HIV-1)-infected individual
+T6	Adverse_event 170 179	developed
+T12	Combination 104 115	combination
+E1	Adverse_event:T6 
+E2	Combination:T12 arg:T9 arg2:T8
+A1	Severity E1 High

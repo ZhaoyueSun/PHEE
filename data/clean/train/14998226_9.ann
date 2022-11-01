@@ -1,0 +1,10 @@
+T6	Treatment 49 96	simvastatin and the anticoagulant acenocoumarol
+T8	Effect 119 131	elevated INR
+T9	Subject 0 8	One case
+T10	Population 0 3	One
+T11	Drug 49 60	simvastatin
+T12	Drug 69 96	anticoagulant acenocoumarol
+T7	Adverse_event 104 112	resulted
+T13	Combination 61 64	and
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T11 arg2:T12

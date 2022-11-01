@@ -1,0 +1,5 @@
+T4	Treatment 23 33	amiodarone
+T5	Drug 23 33	amiodarone
+T7	Effect 42 60	acute pancreatitis
+T6	Adverse_event 34 41	induced
+E1	Adverse_event:T6

@@ -1,0 +1,9 @@
+T3	Treat-Disorder 15 41	advanced ovarian carcinoma
+T4	Effect 56 74	difficulty walking
+T7	Time_elapsed 75 82	25 days
+T8	Freq 104 110	weekly
+T9	Drug 111 121	paclitaxel
+T6	Treatment 75 121	25 days after treatment with weekly paclitaxel
+T10	Subject 0 41	A rare case of advanced ovarian carcinoma
+T5	Adverse_event 46 55	developed
+E1	Adverse_event:T5 

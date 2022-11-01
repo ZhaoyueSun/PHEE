@@ -1,0 +1,7 @@
+T3	Subject 12 25	a case of EGE
+T4	Sub-Disorder 22 25	EGE
+T5	Treatment 54 65	gemfibrozil
+T7	Effect 43 50	allergy
+T8	Drug 54 65	gemfibrozil
+T6	Adverse_event 26 36	manifested
+E1	Adverse_event:T6 

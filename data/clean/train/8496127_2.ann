@@ -1,0 +1,15 @@
+T5	Subject 24 50	6.9-year-old autistic male
+T6	Effect 65 110	repeated episodes of acute dystonic reactions
+T8	Treatment 127 303	pimozide administration at the doses of 0.096 mg/kg/day and 0.032 mg/kg/day and 32 hours following pimozide withdrawal, as well as during subsequent thioridazine administration
+T9	Age 24 36	6.9-year-old
+T10	Sub-Disorder 37 45	autistic
+T11	Gender 46 50	male
+T12	Drug 127 135	pimozide
+T13	Dosage 167 178	0.096 mg/kg
+T14	Freq 179 182	day
+T15	Dosage 187 198	0.032 mg/kg
+T16	Freq 199 202	day
+T17	Drug 226 234	pimozide
+T18	Drug 276 288	thioridazine
+T7	Adverse_event 111 121	associated
+E1	Adverse_event:T7 

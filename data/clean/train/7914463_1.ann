@@ -1,0 +1,13 @@
+T8	Effect 46 54	sedation
+T9	Subject 59 96	a patient with severe pre-ECT anxiety
+T10	Sub-Disorder 74 96	severe pre-ECT anxiety
+T11	Treatment 23 37	benzodiazepine
+T13	Drug 23 37	benzodiazepine
+T14	Treat-Disorder 23 54	benzodiazepine-induced sedation
+T16	Drug 0 10	Flumazenil
+T17	Treatment 0 10	Flumazenil
+T7	Adverse_event 38 45	induced
+T15	Potential_therapeutic_event 11 19	reversal
+E1	Adverse_event:T7 arg:T11 arg2:T8 arg3:T9
+E2	Potential_therapeutic_event:T15 arg:T17 arg2:T9
+R1	has Arg1:T17 Arg2:T14

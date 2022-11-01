@@ -1,0 +1,11 @@
+T11	Drug 127 140	antiepileptic
+T12	Drug 145 161	chemotherapeutic
+T13	Drug 171 220	epidermal growth factor receptor (EGFR) inhibitor
+T15	Treatment 97 220	concomitant administration of antiepileptic and chemotherapeutic drugs or epidermal growth factor receptor (EGFR) inhibitor
+T16	Subject 43 92	patients with advanced non-small cell lung cancer
+T17	Sub-Disorder 57 92	advanced non-small cell lung cancer
+T18	Treat-Disorder 0 16	Brain metastases
+T14	Combination 141 144	and
+T9	Potential_therapeutic_event 224 233	necessary
+E1	Combination:T14 arg:T11 arg2:T12
+E2	Potential_therapeutic_event:T9 

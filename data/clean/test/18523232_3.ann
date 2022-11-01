@@ -1,0 +1,10 @@
+T4	Treatment 22 60	long-term pulse itraconazole treatment
+T5	Effect 0 15	Fatal hepatitis
+T6	Drug 38 50	itraconazole
+T7	Duration 22 31	long-term
+T8	Dosage 32 37	pulse
+T9	Treat-Disorder 65 78	onychomycosis
+T10	Severity_cue 0 5	Fatal
+T3	Adverse_event 16 21	after
+E1	Adverse_event:T3 
+A1	Severity E1 High

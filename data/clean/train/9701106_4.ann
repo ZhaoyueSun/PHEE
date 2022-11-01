@@ -1,0 +1,7 @@
+T5	Effect 20 72	theophylline levels had increased to the toxic range
+T6	Treatment 137 148	zafirlukast
+T8	Subject 10 13	her
+T9	Gender 10 13	her
+T10	Drug 137 148	zafirlukast
+T7	Adverse_event 115 120	after
+E1	Adverse_event:T7

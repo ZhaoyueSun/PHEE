@@ -1,0 +1,11 @@
+T5	Subject 0 30	A 53 year old Greenlandic male
+T8	Treatment 127 169	ingestion of 10 g and 4 g of carbamazepine
+T6	Effect 31 120	was admitted twice over a period of 4 years with a new complete right bundle branch block
+T9	Age 2 13	53 year old
+T10	Race 14 25	Greenlandic
+T11	Gender 26 30	male
+T12	Route 127 136	ingestion
+T13	Dosage 140 152	10 g and 4 g
+T14	Drug 156 169	carbamazepine
+T7	Adverse_event 121 126	after
+E1	Adverse_event:T7

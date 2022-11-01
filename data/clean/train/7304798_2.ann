@@ -1,0 +1,8 @@
+T7	Subject 48 100	a woman with a history of bipolar affective disorder
+T8	Treatment 110 116	L-dopa
+T9	Effect 117 160	shortened the manic-depressive cycle length
+T10	Gender 50 55	woman
+T11	Sub-Disorder 74 100	bipolar affective disorder
+T12	Drug 110 116	L-dopa
+T6	Adverse_event 117 126	shortened
+E1	Adverse_event:T6 

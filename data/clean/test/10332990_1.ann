@@ -1,0 +1,7 @@
+T7	Treatment 23 53	acute infusion of epoprostenol
+T8	Subject 57 118	a patient with pulmonary hypertension and limited scleroderma
+T13	Drug 41 53	epoprostenol
+T14	Route 23 37	acute infusion
+T15	Treat-Disorder 72 118	pulmonary hypertension and limited scleroderma
+T11	Adverse_event 16 22	during
+E1	Adverse_event:T11

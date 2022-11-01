@@ -1,0 +1,8 @@
+T3	Treat-Disorder 115 147	a variety of pediatric neoplasms
+T4	Effect 0 12	Pancreatitis
+T5	Subject 49 69	in 2-16% of patients
+T8	Population 52 57	2-16%
+T9	Drug 96 110	L-asparaginase
+T6	Treatment 96 147	L-asparaginase for a variety of pediatric neoplasms
+T7	Adverse_event 36 48	complication
+E1	Adverse_event:T7

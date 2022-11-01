@@ -1,0 +1,5 @@
+T3	Treatment 0 17	Diphenylhydantoin
+T4	Effect 29 128	adversely affected both the clinical and biochemical parameters of the acute intermittent porphyria
+T6	Drug 0 17	Diphenylhydantoin
+T5	Adverse_event 39 47	affected
+E1	Adverse_event:T5

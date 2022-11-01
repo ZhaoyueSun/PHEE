@@ -1,0 +1,12 @@
+T4	Effect 121 137	severe hepatitis
+T6	Subject 24 106	20-year-old woman originally from Cameroon who was infected by the L. loa parasite
+T5	Treatment 150 191	1 month after a single dose of ivermectin
+T7	Age 24 35	20-year-old
+T8	Gender 36 41	woman
+T9	Race 58 66	Cameroon
+T10	Treat-Disorder 75 106	infected by the L. loa parasite
+T12	Time_elapsed 150 157	1 month
+T13	Dosage 166 177	single dose
+T14	Drug 181 191	ivermectin
+T3	Adverse_event 111 120	developed
+E1	Adverse_event:T3 

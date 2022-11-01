@@ -1,0 +1,12 @@
+T4	Effect 28 39	neutropenia
+T5	Subject 69 92	a schizophrenia patient
+T6	Treatment 103 126	olanzapine and thiazide
+T8	Treat-Disorder 71 84	schizophrenia
+T9	Drug 103 113	olanzapine
+T10	Drug 118 126	thiazide
+T12	Severity_cue 60 65	fatal
+T7	Adverse_event 93 102	receiving
+T11	Combination 114 117	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10
+A1	Severity E1 High

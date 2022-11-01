@@ -1,0 +1,7 @@
+T5	Treatment 0 13	Sulfasalazine
+T7	Effect 39 105	bronchopulmonary complications of inflammatory bowel disease (IBD)
+T8	Subject 109 115	adults
+T9	Age 109 115	adults
+T10	Drug 0 13	Sulfasalazine
+T6	Adverse_event 23 33	associated
+E1	Adverse_event:T6

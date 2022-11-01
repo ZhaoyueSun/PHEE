@@ -1,0 +1,8 @@
+T9	Treatment 103 110	Pentasa
+T11	Effect 13 49	fever, nausea, diarrhea, and malaise
+T12	Subject 0 2	He
+T13	Gender 0 2	He
+T14	Drug 103 110	Pentasa
+T15	Time_elapsed 76 85	third day
+T10	Adverse_event 3 12	developed
+E1	Adverse_event:T10

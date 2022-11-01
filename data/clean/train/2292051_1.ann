@@ -1,0 +1,6 @@
+T3	Effect 0 21	Acute coronary events
+T5	Treatment 32 60	cisplatin-based chemotherapy
+T6	Drug 32 41	cisplatin
+T7	Route 48 60	chemotherapy
+T4	Adverse_event 22 31	following
+E1	Adverse_event:T4

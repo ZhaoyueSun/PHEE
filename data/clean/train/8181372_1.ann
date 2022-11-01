@@ -1,0 +1,7 @@
+T4	Effect 7 39	diffuse interstitial pneumonitis
+T6	Treatment 51 68	carmustine (BCNU)
+T7	Drug 51 61	carmustine
+T8	Severity_cue 0 6	Severe
+T5	Adverse_event 40 47	induced
+E1	Adverse_event:T5 
+A1	Severity E1 High

@@ -1,0 +1,9 @@
+T3	Treatment 104 114	sertraline
+T5	Effect 130 144	rhabdomyolysis
+T6	Drug 104 114	sertraline
+T7	Negation_cue 55 58	not
+T8	Speculation_cue 77 85	possible
+T4	Adverse_event 124 129	cause
+E1	Adverse_event:T4 
+A1	Negated E1
+A2	Speculated E1

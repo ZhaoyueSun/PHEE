@@ -1,0 +1,7 @@
+T3	Effect 0 34	Acute unilateral total visual loss
+T5	Treatment 41 72	retrogasserian phenol injection
+T7	Route 63 72	injection
+T8	Drug 41 62	retrogasserian phenol
+T9	Treat-Disorder 94 114	trigeminal neuralgia
+T4	Adverse_event 35 40	after
+E1	Adverse_event:T4

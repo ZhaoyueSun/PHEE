@@ -1,0 +1,5 @@
+T5	Effect 24 83	seizures as singular expression of central nervous toxicity
+T7	Treatment 0 14	L-asparaginase
+T8	Drug 0 14	L-asparaginase
+T6	Adverse_event 15 23	provoked
+E1	Adverse_event:T6

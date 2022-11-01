@@ -1,0 +1,10 @@
+T14	Treatment 28 75	Pyrethrins, Phenobarbital and related compounds
+T15	Effect 99 150	liver and thyroid gland tumour formation in rodents
+T16	Drug 28 38	Pyrethrins
+T17	Drug 40 53	Phenobarbital
+T18	Drug 58 75	related compounds
+T20	Negation_cue 218 230	do not occur
+T13	Adverse_event 15 24	induction
+T19	Combination 54 57	and
+E1	Adverse_event:T13 
+E2	Combination:T19 arg:T18 arg2:T17 arg3:T16

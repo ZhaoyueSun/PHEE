@@ -1,0 +1,6 @@
+T3	Effect 65 80	general malaise
+T4	Treatment 38 57;0 24	taking pantoprazole After 5 weeks of therapy
+T6	Time_elapsed 6 13	5 weeks
+T7	Drug 45 57	pantoprazole
+T5	Adverse_event 58 64	due to
+E1	Adverse_event:T5

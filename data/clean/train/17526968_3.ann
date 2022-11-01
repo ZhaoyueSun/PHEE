@@ -1,0 +1,13 @@
+T9	Subject 10 37	a child with yolk sac tumor
+T10	Effect 52 74	localized pigmentation
+T11	Treatment 81 170	the first course of chemotherapy regimen that included cisplatin, etoposide and bleomycin
+T13	Age 12 17	child
+T15	Duration 81 97	the first course
+T17	Drug 136 145	cisplatin
+T18	Drug 147 156	etoposide
+T19	Drug 161 170	bleomycin
+T20	Treat-Disorder 23 37	yolk sac tumor
+T12	Adverse_event 75 80	after
+T16	Combination 127 135	included
+E1	Adverse_event:T12 
+E2	Combination:T16 arg:T17 arg2:T18 arg3:T19

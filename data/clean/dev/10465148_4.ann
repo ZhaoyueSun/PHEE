@@ -1,0 +1,11 @@
+T6	Subject 13 27	three children
+T8	Treatment 72 96	intrathecal methotrexate
+T11	Population 13 18	three
+T12	Age 19 27	children
+T13	Drug 84 96	methotrexate
+T14	Route 72 83	intrathecal
+T7	Effect 54 65	paraparesis
+T15	Severity_cue 42 53	progressive
+T9	Adverse_event 32 41	developed
+E1	Adverse_event:T9 
+A1	Severity E1 High

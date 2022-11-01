@@ -1,0 +1,6 @@
+T5	Treatment 0 7	Quinine
+T7	Drug 0 7	Quinine
+T8	Speculation_cue 11 22	universally
+T9	Treat-Disorder 59 75	night leg cramps
+T6	Potential_therapeutic_event 23 27	used
+E1	Potential_therapeutic_event:T6

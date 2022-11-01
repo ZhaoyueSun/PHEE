@@ -1,0 +1,8 @@
+T3	Treatment 13 24	Anastrozole
+T4	Subject 56 64	patients
+T5	Effect 70 99	sclerosing glomerulonephritis
+T7	Drug 13 24	Anastrozole
+T8	Speculation_cue 25 28	may
+T6	Adverse_event 36 45	causative
+E1	Adverse_event:T6 
+A1	Speculated E1

@@ -1,0 +1,7 @@
+T3	Subject 29 38	a patient
+T4	Effect 44 52	priapism
+T5	Treatment 59 117	oral intake of the phenothiazine prothipendylhydrochloride
+T7	Drug 92 117	prothipendylhydrochloride
+T8	Route 59 63	oral
+T6	Adverse_event 53 58	after
+E1	Adverse_event:T6

@@ -1,0 +1,8 @@
+T3	Treatment 249 252	MTX
+T6	Effect 16 75;261 272;97 152	a lymphocyte alveolitis with a predominance of CD4+ T cells pneumonitis CD8+ T cells with a concomitant increase in neutrophils
+T5	Population 79 80	3
+T7	Treat-Disorder 81 83	RA
+T8	Subject 79 92	3 RA patients
+T9	Drug 249 252	MTX
+T4	Adverse_event 253 260	induced
+E1	Adverse_event:T4 

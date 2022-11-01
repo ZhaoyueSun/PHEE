@@ -1,0 +1,6 @@
+T3	Effect 88 115	antithrombin III deficiency
+T5	Treatment 67 79	asparaginase
+T6	Speculation_cue 13 21	presumed
+T7	Drug 67 79	asparaginase
+T4	Adverse_event 80 87	induced
+E1	Adverse_event:T4

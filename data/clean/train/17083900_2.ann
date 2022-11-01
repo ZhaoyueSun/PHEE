@@ -1,0 +1,9 @@
+T5	Effect 20 69	acute generalized exanthematous pustulosis (AGEP)
+T6	Subject 73 92	a 50-year-old woman
+T7	Treatment 120 143	ingestion of nimesulide
+T9	Age 75 86	50-year-old
+T10	Gender 87 92	woman
+T11	Drug 133 143	nimesulide
+T12	Route 120 129	ingestion
+T8	Adverse_event 102 112	attributed
+E1	Adverse_event:T8

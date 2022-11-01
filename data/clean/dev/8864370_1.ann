@@ -1,0 +1,8 @@
+T10	Treatment 12 30	Methotrexate (MTX)
+T12	Effect 42 115	liver damage, which in some psoriatics will lead to fibrosis or cirrhosis
+T13	Drug 12 24	Methotrexate
+T14	Treat-Disorder 70 80	psoriatics
+T15	Speculation_cue 31 34	may
+T11	Adverse_event 35 41	induce
+E1	Adverse_event:T11 
+A1	Speculated E1

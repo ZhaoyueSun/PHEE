@@ -1,0 +1,5 @@
+T3	Treatment 90 102	theophylline
+T4	Effect 47 59	gynecomastia
+T6	Drug 90 102	theophylline
+T5	Adverse_event 33 38	cause
+E1	Adverse_event:T5

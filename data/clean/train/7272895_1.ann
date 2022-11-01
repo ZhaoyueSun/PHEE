@@ -1,0 +1,11 @@
+T3	Subject 0 47	A 73-year-old woman with non-Hodgkin's lymphoma
+T4	Effect 52 114	two episodes of severe, bilateral, sensori-neural hearing loss
+T6	Treatment 121 140	vincristine therapy
+T7	Age 2 13	73-year-old
+T8	Gender 14 19	woman
+T10	Severity_cue 68 74	severe
+T11	Drug 121 132	vincristine
+T12	Treat-Disorder 25 47	non-Hodgkin's lymphoma
+T5	Adverse_event 115 120	after
+E1	Adverse_event:T5 
+A1	Severity E1 High

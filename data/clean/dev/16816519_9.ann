@@ -1,0 +1,8 @@
+T8	Treatment 55 94	pyridoxine and pyridostigmine treatment
+T10	Time_elapsed 45 51	7 days
+T11	Drug 55 65	pyridoxine
+T12	Drug 70 84	pyridostigmine
+T9	Potential_therapeutic_event 30 38	improved
+T13	Combination 66 69	and
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T13 arg:T11 arg2:T12

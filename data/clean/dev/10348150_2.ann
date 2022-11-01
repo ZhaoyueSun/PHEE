@@ -1,0 +1,5 @@
+T3	Treatment 78 89	hydroxyurea
+T4	Effect 38 62	interstitial pneumonitis
+T6	Drug 78 89	hydroxyurea
+T5	Adverse_event 67 74	induced
+E1	Adverse_event:T5

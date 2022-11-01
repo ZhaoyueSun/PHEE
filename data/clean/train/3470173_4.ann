@@ -1,0 +1,7 @@
+T3	Effect 4 17	neurotoxicity
+T4	Treatment 28 34	HDARAC
+T6	Subject 77 107	60 percent of treated patients
+T7	Population 77 87	60 percent
+T8	Drug 28 34	HDARAC
+T5	Adverse_event 43 50	related
+E1	Adverse_event:T5

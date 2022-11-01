@@ -1,0 +1,9 @@
+T9	Treat-Disorder 30 34	H1N1
+T10	Treatment 40 51	oseltamivir
+T12	Subject 55 80	renal allograft recipient
+T14	Sub-Disorder 55 70	renal allograft
+T11	Drug 40 51	oseltamivir
+T13	Potential_therapeutic_event 0 25	Post-exposure prophylaxis
+E1	Potential_therapeutic_event:T13 
+A1	Negated E1
+T1	Effect 82 146	safe and effective without any immunosuppresive drug interaction

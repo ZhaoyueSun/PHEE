@@ -1,0 +1,5 @@
+T4	Treatment 36 46	disulfiram
+T5	Effect 0 19	Fulminant hepatitis
+T6	Drug 36 46	disulfiram
+T3	Adverse_event 20 30	associated
+E1	Adverse_event:T3

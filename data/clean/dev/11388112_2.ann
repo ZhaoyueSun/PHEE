@@ -1,0 +1,7 @@
+T3	Effect 28 87;189 200	polymorphic ventricular tachycardia with normal QT interval arrhythmias
+T5	Treatment 108 132	oral use of levofloxacin
+T7	Subject 10 24	the first case
+T6	Route 108 112	oral
+T8	Drug 121 132	evofloxacin
+T4	Adverse_event 88 98	associated
+E1	Adverse_event:T4

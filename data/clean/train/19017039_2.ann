@@ -1,0 +1,11 @@
+T4	Effect 0 39	Syringotropic hypersensitivity reaction
+T6	Treatment 56 102	infliximab and leflunomide combination therapy
+T7	Subject 106 138	a child with psoriatic arthritis
+T8	Age 108 113	child
+T10	Drug 56 66	infliximab
+T11	Drug 71 82	leflunomide
+T13	Treat-Disorder 119 138	psoriatic arthritis
+T5	Adverse_event 40 50	associated
+T12	Combination 83 94	combination
+E1	Adverse_event:T5 
+E2	Combination:T12 arg:T11 arg2:T10

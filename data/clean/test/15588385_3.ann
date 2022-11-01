@@ -1,0 +1,14 @@
+T3	Subject 59 120	a patient with propylthiouracil-induced acute hepatic failure
+T4	Treat-Disorder 24 39	hyperthyroidism
+T5	Treatment 45 55	amiodarone
+T7	Sub-Disorder 74 120	propylthiouracil-induced acute hepatic failure
+T8	Drug 45 55	amiodarone
+T11	Treatment 74 90	propylthiouracil
+T12	Drug 74 90	propylthiouracil
+T13	Effect 99 120	acute hepatic failure
+T6	Potential_therapeutic_event 11 20	treatment
+T10	Adverse_event 91 98	induced
+E1	Potential_therapeutic_event:T6 arg:T5 arg2:T3
+E2	Adverse_event:T10 arg:T11 arg2:T13
+R1	has Arg1:T5 Arg2:T4
+R2	has Arg1:T3 Arg2:T7	

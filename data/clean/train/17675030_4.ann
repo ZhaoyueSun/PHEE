@@ -1,0 +1,8 @@
+T4	Treatment 124 137	oxcarbazepine
+T5	Effect 91 101	angioedema
+T6	Subject 53 74	a 4(1/2)-year-old boy
+T7	Age 55 70	4(1/2)-year-old
+T8	Gender 71 74	boy
+T9	Drug 124 137	oxcarbazepine
+T3	Adverse_event 109 118	treatment
+E1	Adverse_event:T3

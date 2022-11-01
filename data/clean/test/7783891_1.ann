@@ -1,0 +1,5 @@
+T3	Treatment 8 19	sumatriptan
+T5	Effect 30 55	coronary artery vasospasm
+T6	Drug 8 19	sumatriptan
+T4	Adverse_event 24 29	cause
+E1	Adverse_event:T4

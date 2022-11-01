@@ -1,0 +1,12 @@
+T10	Subject 24 82	lung cancer patient with bronquiloalveolar carcinoma (BAC)
+T11	Effect 154 239;99 103	producing severe respiratory insufficiency, and simulating a progression of the tumor BOOP
+T12	Treatment 110 153	chemotherapy with docetaxel and gemcitabine
+T15	Treat-Disorder 24 35	lung cancer
+T16	Drug 128 137	docetaxel
+T17	Drug 142 153	gemcitabine
+T19	Treat-Disorder 49 82	bronquiloalveolar carcinoma (BAC)
+T14	Adverse_event 104 109	after
+T18	Combination 138 141	and
+E1	Adverse_event:T14 
+E2	Combination:T18 arg:T16 arg2:T17
+T1	Route 110 122	chemotherapy

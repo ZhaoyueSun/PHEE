@@ -1,0 +1,7 @@
+T6	Subject 21 48	patients with schizophrenia
+T7	Treatment 53 115	pregabalin has been suggested as an off-label add-on treatment
+T10	Sub-Disorder 35 48	schizophrenia
+T11	Drug 53 63	pregabalin
+T12	Treat-Disorder 0 7	Anxiety
+T8	Potential_therapeutic_event 106 115	treatment
+E1	Potential_therapeutic_event:T8 

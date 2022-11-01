@@ -1,0 +1,16 @@
+T5	Effect 31 68	significant hepatic and renal failure
+T6	Treatment 85 95	argatroban
+T7	Subject 99 204	a patient with heparin-induced thrombocytopenia (HIT) requiring continuous veno-veno hemodialysis (CVVHD)
+T9	Sub-Disorder 114 152	heparin-induced thrombocytopenia (HIT)
+T10	Drug 85 95	argatroban
+T11	Severity_cue 31 42	significant
+T8	Adverse_event 78 81	use
+E1	Adverse_event:T8 arg:T5 arg2:T6 arg3:T7
+A1	Severity E1 High
+T1	Adverse_event 122 129	induced
+E2	Adverse_event:T1 arg:T2 arg2:T4
+T2	Treatment 114 121	heparin
+T3	Drug 114 121	heparin
+T4	Effect 130 146	thrombocytopenia
+R1	has Arg1:T7 Arg2:T9	
+R2	has Arg1:T2 Arg2:T3	

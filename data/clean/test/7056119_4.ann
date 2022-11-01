@@ -1,0 +1,16 @@
+T7	Effect 123 139	AVT with syncope
+T9	Treatment 59 106	the dose of the drug was increased to 1.4 g/day
+T10	Sub-Disorder 27 57	paroxysmal atrial fibrillation
+T11	Drug 176 184	atropine
+T12	Dosage 97 106	1.4 g/day
+T14	Time_elapsed 108 116	24 hours
+T16	Subject 27 57	paroxysmal atrial fibrillation
+T17	Drug 71 79	the drug
+T19	Treat-Disorder 123 139	AVT with syncope
+T20	Treatment 176 184	atropine
+T8	Adverse_event 140 149	developed
+T18	Potential_therapeutic_event 154 163	responded
+E1	Adverse_event:T8 arg:T16 arg2:T9 arg3:T7
+E2	Potential_therapeutic_event:T18 arg:T20
+R1	has Arg1:T9 Arg2:T14	
+R2	has Arg1:T20 Arg2:T19

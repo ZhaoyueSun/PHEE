@@ -1,0 +1,5 @@
+T4	Subject 18 30	the youngest
+T6	Treatment 44 55	risperidone
+T7	Drug 44 55	risperidone
+T5	Potential_therapeutic_event 32 40	did well
+E1	Potential_therapeutic_event:T5

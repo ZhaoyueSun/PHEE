@@ -1,0 +1,8 @@
+T6	Effect 147 189	swelling of the face and legs and pruritus
+T5	Treatment 53 71	phenytoin 1 g i.v.
+T8	Treat-Disorder 86 108	a tonic-clonic seizure
+T10	Drug 53 62	phenytoin
+T11	Dosage 63 66	1 g
+T12	Route 67 71	i.v.
+T7	Adverse_event 190 199	developed
+E1	Adverse_event:T7

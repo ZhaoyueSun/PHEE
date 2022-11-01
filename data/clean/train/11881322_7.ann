@@ -1,0 +1,7 @@
+T3	Treatment 16 28	itraconazole
+T5	Effect 96 137	drug-induced vanishing bile duct syndrome
+T6	Drug 16 28	itraconazole
+T7	Speculation_cue 71 74	may
+T4	Adverse_event 78 89	responsible
+E1	Adverse_event:T4 
+A1	Speculated E1

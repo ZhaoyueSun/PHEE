@@ -1,0 +1,8 @@
+T11	Treatment 54 69;86 120	after 38 months recombinant human interferon gamma
+T12	Effect 19 47	systemic lupus erythematosus
+T9	Subject 150 186	a patient with rheumatoid arthritis.
+T14	Time_elapsed 54 69	after 38 months
+T15	Drug 86 120	recombinant human interferon gamma
+T16	Treat-Disorder 165 186	rheumatoid arthritis.
+T13	Adverse_event 4 15	development
+E1	Adverse_event:T13

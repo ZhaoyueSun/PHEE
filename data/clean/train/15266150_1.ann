@@ -1,0 +1,7 @@
+T3	Subject 0 44	A patient with monocular open-angle glaucoma
+T4	Effect 49 59	trichiasis
+T6	Treatment 100 122	a prostaglandin analog
+T7	Treat-Disorder 15 44	monocular open-angle glaucoma
+T8	Drug 102 122	prostaglandin analog
+T5	Adverse_event 45 48	had
+E1	Adverse_event:T5 

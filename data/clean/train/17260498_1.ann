@@ -1,0 +1,9 @@
+T7	Effect 0 30	Fatal interstitial pneumonitis
+T8	Treatment 47 56	docetaxel
+T9	Subject 75 124	a patient with hormone-refractory prostate cancer
+T11	Severity_cue 0 5	Fatal
+T12	Drug 47 56	docetaxel
+T13	Treat-Disorder 90 124	hormone-refractory prostate cancer
+T6	Adverse_event 31 41	associated
+E1	Adverse_event:T6 
+A1	Severity E1 High

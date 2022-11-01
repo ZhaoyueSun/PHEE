@@ -1,0 +1,5 @@
+T5	Effect 86 114;121 155	massive cytokines liberation destruction of CD20 positive cells
+T6	Treatment 159 168	rituximab
+T8	Drug 159 168	rituximab
+T7	Adverse_event 74 77	act
+E1	Adverse_event:T7

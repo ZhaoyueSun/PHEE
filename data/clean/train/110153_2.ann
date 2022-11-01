@@ -1,0 +1,7 @@
+T7	Treatment 173 180	lithium
+T9	Effect 9 92	acute manic state is characterized by marked psychotic symptoms and intense anxiety
+T10	Drug 173 180	lithium
+T11	Speculation_cue 97 100	may
+T8	Adverse_event 104 119	associated with
+E1	Adverse_event:T8 
+A1	Speculated E1

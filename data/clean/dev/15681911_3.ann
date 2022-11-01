@@ -1,0 +1,8 @@
+T5	Subject 9 23	Three patients
+T7	Effect 38 82	symptoms of inflammatory bowel disease (IBD)
+T8	Treatment 90 108	rofecoxib exposure
+T9	Population 9 14	Three
+T10	Drug 90 99	rofecoxib
+T11	Route 100 108	exposure
+T6	Adverse_event 28 37	developed
+E1	Adverse_event:T6

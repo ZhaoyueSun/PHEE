@@ -1,0 +1,9 @@
+T6	Treatment 25 74	therapeutic doses of venlafaxine and trimipramine
+T7	Effect 0 8	Seizures
+T8	Drug 46 57	venlafaxine
+T9	Dosage 25 42	therapeutic doses
+T10	Drug 62 74	trimipramine
+T5	Adverse_event 9 19	associated
+T11	Combination 58 61	and
+E1	Adverse_event:T5 
+E2	Combination:T11 arg:T8 arg2:T10

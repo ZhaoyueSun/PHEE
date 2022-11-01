@@ -1,0 +1,7 @@
+T4	Treatment 18 27	tamoxifen
+T6	Effect 47 59	pathogenesis
+T7	Drug 18 27	tamoxifen
+T8	Speculation_cue 5 12	suggest
+T5	Adverse_event 31 39	involved
+E1	Adverse_event:T5 
+A1	Speculated E1

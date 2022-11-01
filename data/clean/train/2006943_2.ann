@@ -1,0 +1,7 @@
+T8	Treatment 20 49	intravenous ritodrine therapy
+T9	Effect 81 111	an episode of acute chest pain
+T10	Subject 0 9	A patient
+T11	Route 20 31	intravenous
+T12	Drug 32 41	ritodrine
+T7	Adverse_event 17 19	on
+E1	Adverse_event:T7

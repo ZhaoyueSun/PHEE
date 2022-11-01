@@ -1,0 +1,11 @@
+T7	Treatment 127 138	cloxacillin
+T8	Effect 163 190	enhanced warfarin activity.
+T9	Effect 95 108	increased INR
+T10	Subject 17 21	case
+T6	Drug 127 138	cloxacillin
+T12	Drug 172 180	warfarin
+T14	Speculation_cue 109 117	suggests
+T11	Adverse_event 61 75	administration
+T13	Combination 143 154	responsible
+E1	Adverse_event:T11 
+E2	Combination:T13 arg:T12 arg2:T6

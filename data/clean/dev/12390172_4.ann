@@ -1,0 +1,5 @@
+T3	Treatment 169 178	rifabutin
+T4	Effect 128 146	visual disturbance
+T6	Drug 169 178	rifabutin
+T5	Adverse_event 147 153	during
+E1	Adverse_event:T5

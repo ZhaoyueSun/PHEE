@@ -1,0 +1,7 @@
+T3	Subject 12 21	a patient
+T4	Treatment 61 71	pregabalin
+T7	Effect 118 136	negative myoclonus
+T8	Treat-Disorder 83 99	neuropathic pain
+T9	Drug 61 71	pregabalin
+T6	Adverse_event 101 110	presented
+E1	Adverse_event:T6

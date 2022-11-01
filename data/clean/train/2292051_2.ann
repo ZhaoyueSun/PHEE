@@ -1,0 +1,8 @@
+T7	Treatment 145 208	cis-diamine-dichloroplatinum II (cisplatin) -based chemotherapy
+T9	Subject 0 85	Six patients with no previous signs or symptoms suggestive of coronary artery disease
+T10	Effect 96 130	acute coronary ischemia/infarction
+T11	Population 0 3	Six
+T12	Drug 145 176	cis-diamine-dichloroplatinum II
+T13	Route 196 208	chemotherapy
+T8	Adverse_event 86 95	developed
+E1	Adverse_event:T8

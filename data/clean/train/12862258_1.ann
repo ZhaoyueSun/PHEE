@@ -1,0 +1,9 @@
+T3	Treatment 23 30	dapsone
+T5	Effect 39 54	agranulocytosis
+T6	Subject 58 98	an Indian mid-borderline leprosy patient
+T7	Race 61 67	Indian
+T8	Sub-Disorder 68 90	mid-borderline leprosy
+T9	Severity_cue 17 22	fatal
+T10	Drug 23 30	dapsone
+T4	Adverse_event 31 38	induced
+E1	Adverse_event:T4 

@@ -1,0 +1,8 @@
+T6	Subject 34 37	she
+T7	Effect 57 73	lithium toxicity
+T8	Gender 34 37	she
+T9	Treatment 0 33	Six days after starting acyclovir
+T5	Time_elapsed 0 8	Six days
+T10	Drug 24 33	acyclovir
+T4	Adverse_event 9 14	after
+E1	Adverse_event:T4

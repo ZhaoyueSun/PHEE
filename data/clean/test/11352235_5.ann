@@ -1,0 +1,7 @@
+T3	Subject 9 28	Five of 70 patients
+T4	Treatment 43 54	leflunomide
+T5	Effect 67 90	significant weight loss
+T7	Population 9 19	Five of 70
+T8	Drug 43 54	leflunomide
+T6	Adverse_event 63 66	had
+E1	Adverse_event:T6 

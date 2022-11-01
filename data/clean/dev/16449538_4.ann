@@ -1,0 +1,7 @@
+T3	Effect 0 4	NCSE
+T4	Treatment 134 144	ifosfamide
+T6	Subject 113 123	4 patients
+T7	Population 113 114	4
+T8	Drug 134 144	ifosfamide
+T5	Adverse_event 124 133	receiving
+E1	Adverse_event:T5

@@ -1,0 +1,8 @@
+T3	Effect 0 14	Bone formation
+T5	Subject 26 35	an infant
+T6	Treatment 39 79	systemic prostaglandin-E2 administration
+T7	Age 29 35	infant
+T8	Drug 48 64	prostaglandin-E2
+T9	Route 39 47;65 79	systemic administration
+T4	Potential_therapeutic_event 15 22	induced
+E1	Potential_therapeutic_event:T4

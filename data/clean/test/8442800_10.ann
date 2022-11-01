@@ -1,0 +1,9 @@
+T6	Age 65 72	fetuses
+T7	Treatment 84 94	disulfiram
+T8	Effect 30 44	poor prognosis
+T10	Speculation_cue 118 121	may
+T11	Negation_cue 122 125	not
+T12	Drug 84 94	disulfiram
+T13	Subject 65 72	fetuses
+T9	Adverse_event 73 80	exposed
+E1	Adverse_event:T9

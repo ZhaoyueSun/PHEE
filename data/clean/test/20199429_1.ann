@@ -1,0 +1,11 @@
+T5	Subject 123 187	three more cases of children with recalcitrant atopic dermatitis
+T6	Effect 202 239	potential allergic contact dermatitis
+T7	Treatment 243 291	bisabolol- a component of the Aquaphor emollient
+T3	Population 123 128	three
+T4	Age 143 151	children
+T10	Treat-Disorder 157 187	recalcitrant atopic dermatitis
+T11	Speculation_cue 202 211	potential
+T12	Drug 243 252	bisabolol
+T9	Adverse_event 197 201	have
+E1	Adverse_event:T9 
+A1	Speculated E1

@@ -1,0 +1,11 @@
+T5	Subject 22 34	two patients
+T7	Effect 49 74	acute myelocytic leukemia
+T8	Treatment 86 165	exposure to cyclophosphamide, methotrexate, and 5-fluorouracil adjuvant therapy
+T9	Population 22 25	two
+T10	Drug 98 114	cyclophosphamide
+T11	Drug 116 128	methotrexate
+T12	Drug 134 148	5-fluorouracil
+T6	Adverse_event 39 48	developed
+T13	Combination 130 133	and
+E1	Adverse_event:T6 
+E2	Combination:T13 arg:T12 arg2:T10 arg3:T11

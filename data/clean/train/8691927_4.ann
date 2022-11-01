@@ -1,0 +1,6 @@
+T5	Treatment 21 57	high doses of fluticasone propionate
+T6	Effect 68 114	growth may be retarded and adrenal suppression
+T8	Dosage 21 31	high doses
+T9	Drug 35 57	fluticasone propionate
+T7	Adverse_event 119 124	occur
+E1	Adverse_event:T7

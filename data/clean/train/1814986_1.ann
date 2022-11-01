@@ -1,0 +1,5 @@
+T4	Treatment 30 43	acetazolamide
+T5	Effect 0 18	Metabolic acidosis
+T6	Drug 30 43	acetazolamide
+T3	Adverse_event 19 26	induced
+E1	Adverse_event:T3

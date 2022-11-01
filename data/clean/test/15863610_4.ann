@@ -1,0 +1,7 @@
+T7	Subject 20 27	a women
+T8	Effect 36 70	a malignant mixed mesodermal tumor
+T9	Treatment 85 116	while she was taking raloxifene
+T10	Gender 22 27	women
+T11	Drug 106 116	raloxifene
+T6	Adverse_event 75 84	diagnosed
+E1	Adverse_event:T6

@@ -1,0 +1,5 @@
+T3	Treatment 31 44	ciprofloxacin
+T5	Effect 53 62	psychosis
+T6	Drug 31 44	ciprofloxacin
+T4	Adverse_event 45 52	induced
+E1	Adverse_event:T4

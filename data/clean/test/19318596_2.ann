@@ -1,0 +1,6 @@
+T4	Treatment 65 77	cyclosporine
+T5	Effect 14 18	CIPS
+T6	Speculation_cue 40 48	probably
+T7	Drug 65 77	cyclosporine
+T3	Adverse_event 49 59	associated
+E1	Adverse_event:T3

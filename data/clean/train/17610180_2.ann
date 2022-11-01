@@ -1,0 +1,6 @@
+T4	Treatment 139 161	prolonged PGE1 therapy
+T5	Effect 96 131	gastric mucosa foveolar hyperplasia
+T6	Drug 149 153	PGE1
+T7	Duration 139 148	prolonged
+T3	Adverse_event 132 135	due
+E1	Adverse_event:T3

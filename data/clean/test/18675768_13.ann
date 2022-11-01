@@ -1,0 +1,10 @@
+T10	Speculation_cue 30 38	possible
+T12	Effect 100 187	propafenone adverse effects (eg, dizziness, falls) and mimicked coronary artery disease
+T13	Treatment 59 85;100 111	propafenone and citalopram propafenone
+T15	Drug 59 70	propafenone
+T16	Drug 75 85	citalopram
+T18	Drug 100 111	propafenone
+T11	Adverse_event 93 99	caused
+T17	Combination 71 74	and
+E1	Adverse_event:T11 
+E2	Combination:T17 arg:T15 arg2:T16

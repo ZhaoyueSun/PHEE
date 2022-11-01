@@ -1,0 +1,5 @@
+T6	Treat-Disorder 60 95	diseases mediated by type I allergy
+T8	Treatment 0 9	Oxatomide
+T9	Drug 0 9	Oxatomide
+T7	Potential_therapeutic_event 34 38	used
+E1	Potential_therapeutic_event:T7

@@ -1,0 +1,6 @@
+T3	Treatment 35 74	long-term treatment with nitrofurantoin
+T5	Effect 109 140	irreversible pulmonary fibrosis
+T6	Dosage 35 54	long-term treatment
+T7	Drug 60 74	nitrofurantoin
+T4	Adverse_event 102 108	causes
+E1	Adverse_event:T4

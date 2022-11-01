@@ -1,0 +1,5 @@
+T6	Treatment 0 14	5-fluorouracil
+T8	Effect 33 54	peripheral neuropathy
+T9	Drug 0 14	5-fluorouracil
+T7	Adverse_event 22 32	associated
+E1	Adverse_event:T7

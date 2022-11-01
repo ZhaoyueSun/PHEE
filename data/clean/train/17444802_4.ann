@@ -1,0 +1,9 @@
+T8	Treatment 87 100	anticoagulant
+T9	Effect 141 184	an ocular surface neoplasia on his left eye
+T11	Age 12 23	81-year-old
+T12	Gender 24 27	man
+T13	Drug 87 100	anticoagulant
+T6	Subject 9 82	An 81-year-old man with a history of neoplasies of the colon and prostate
+T7	Treat-Disorder 46 82	neoplasies of the colon and prostate
+T10	Adverse_event 115 123	referred
+E1	Adverse_event:T10

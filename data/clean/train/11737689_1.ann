@@ -1,0 +1,8 @@
+T3	Subject 0 70	A boy with chronic neutropenia and recurrent inflammatory skin lesions
+T5	Effect 81 110	multiple erythematous nodules
+T6	Treatment 139 144	G-CSF
+T7	Gender 2 5	boy
+T9	Treat-Disorder 11 70	chronic neutropenia and recurrent inflammatory skin lesions
+T10	Drug 139 144	G-CSF
+T4	Adverse_event 71 80	developed
+E1	Adverse_event:T4 

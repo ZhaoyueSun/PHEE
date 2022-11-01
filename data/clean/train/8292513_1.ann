@@ -1,0 +1,8 @@
+T7	Effect 0 29;83 128	Cerebrovascular complications aphasia and other neuropsychological deficits
+T8	Treatment 33 47	L-asparaginase
+T9	Subject 59 81	children with leukemia
+T11	Age 59 67	children
+T13	Drug 33 47	L-asparaginase
+T14	Treat-Disorder 73 81	leukemia
+T10	Adverse_event 16 29	complications
+E1	Adverse_event:T10

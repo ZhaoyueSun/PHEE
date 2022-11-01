@@ -1,0 +1,5 @@
+T5	Treatment 0 27	Isonicotinic acid hydrazide
+T7	Effect 36 86	anagen effluvium and associated lichenoid eruption
+T8	Drug 0 27	Isonicotinic acid hydrazide
+T6	Adverse_event 28 35	induced
+E1	Adverse_event:T6

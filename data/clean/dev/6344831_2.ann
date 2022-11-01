@@ -1,0 +1,8 @@
+T4	Treatment 113 122	captopril
+T6	Effect 52 83	nonoliguric acute renal failure
+T8	Gender 100 103	she
+T5	Subject 3 50	a patient with severe renovascular hypertension
+T9	Treat-Disorder 25 50	renovascular hypertension
+T10	Drug 113 122	captopril
+T3	Adverse_event 94 99	after
+E1	Adverse_event:T3

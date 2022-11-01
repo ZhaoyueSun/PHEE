@@ -1,0 +1,5 @@
+T3	Treatment 9 32	cyclosporine dependency
+T5	Effect 64 78	nephrotoxicity
+T6	Drug 9 21	cyclosporine
+T4	Adverse_event 36 46	associated
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T4	Treatment 95 114	chemotherapy agents
+T5	Effect 5 45	complex pattern of nail and skin changes
+T7	Drug 95 114	chemotherapy agents
+T6	Adverse_event 62 91	synergy or an additive effect
+E1	Adverse_event:T6

@@ -1,0 +1,5 @@
+T4	Effect 0 33	Alveolar-interstitial pneumopathy
+T5	Treatment 40 75	gold-salts compounds administration
+T6	Drug 40 60	gold-salts compounds
+T3	Adverse_event 34 39	after
+E1	Adverse_event:T3

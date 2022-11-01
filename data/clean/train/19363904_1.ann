@@ -1,0 +1,5 @@
+T4	Treatment 25 44	bacitracin ointment
+T5	Effect 0 12	Anaphylactic
+T6	Drug 25 35	bacitracin
+T3	Adverse_event 13 21	reaction
+E1	Adverse_event:T3

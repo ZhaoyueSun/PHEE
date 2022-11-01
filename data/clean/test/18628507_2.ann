@@ -1,0 +1,5 @@
+T3	Effect 0 12	Angio-oedema
+T4	Treatment 52 64	voriconazole
+T6	Drug 52 64	voriconazole
+T5	Adverse_event 13 15	as
+E1	Adverse_event:T5

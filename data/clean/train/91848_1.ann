@@ -1,0 +1,18 @@
+T5	Effect 53 73	hepatic angiosarcoma
+T6	Treatment 211 262	vinyl chloride, 'Thorotrast', and inorganic arsenic
+T9	Drug 211 225	vinyl chloride
+T10	Drug 228 238	Thorotrast
+T11	Drug 245 262	inorganic arsenic
+T13	Drug 320 348	androgenic-anabolic steroids
+T8	Subject 156 164	37 (22%)
+T15	Population 156 158	37
+T16	Subject 268 276	4 (3.1%)
+T17	Population 268 269	4
+T18	Treatment 320 348	androgenic-anabolic steroids
+T7	Adverse_event 170 180	associated
+T12	Combination 241 244	and
+T19	Adverse_event 304 308	with
+E1	Adverse_event:T7 arg:T8 arg2:T5 arg3:T6
+E2	Combination:T12 arg:T9 arg2:T10 arg3:T11
+E3	Adverse_event:T19 arg:T5 arg2:T16 arg3:T18
+R1	has_child Arg1:E1 Arg2:E2

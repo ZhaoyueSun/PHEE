@@ -1,0 +1,12 @@
+T5	Effect 60 75	increase of INR
+T6	Subject 79 97	an elderly patient
+T7	Treatment 137 156;182 190	levamisole and 5-FU warfarin
+T9	Age 82 89	elderly
+T11	Severity_cue 48 59	significant
+T12	Drug 137 147	levamisole
+T14	Drug 152 156	5-FU
+T15	Drug 182 190	warfarin
+T8	Adverse_event 76 78	in
+T13	Combination 148 151	and
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T12 arg2:T14 arg3:T15

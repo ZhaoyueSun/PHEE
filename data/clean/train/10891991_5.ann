@@ -1,0 +1,7 @@
+T3	Subject 10 24	Three patients
+T5	Effect 37 68	reproductive endocrine disorder
+T6	Treatment 91 100	valproate
+T7	Population 10 15	Three
+T8	Drug 91 100	valproate
+T9	Adverse_event 25 34	developed
+E2	Adverse_event:T9

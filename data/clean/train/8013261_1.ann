@@ -1,0 +1,6 @@
+T3	Treatment 17 28	IFN therapy
+T5	Effect 81 122	IDDM as well as other autoimmune diseases
+T6	Drug 17 28	IFN therapy
+T7	Time_elapsed 0 16	During and after
+T4	Adverse_event 67 77	occurrence
+E1	Adverse_event:T4

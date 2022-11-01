@@ -1,0 +1,8 @@
+T4	Subject 10 16	a girl
+T7	Treatment 89 115	calcium hopantenate (HOPA)
+T8	Gender 12 16	girl
+T9	Effect 26 39;48 68	Rett syndrome acute encephalopathy
+T10	Speculation_cue 69 77	probably
+T11	Drug 89 108	calcium hopantenate
+T6	Adverse_event 78 85	induced
+E1	Adverse_event:T6 

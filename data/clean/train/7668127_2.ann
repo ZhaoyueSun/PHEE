@@ -1,0 +1,6 @@
+T6	Effect 10 34	acute subdural haematoma
+T7	Subject 66 104	an angiomatous meningioma in a patient
+T8	Treatment 128 135	aspirin
+T10	Drug 128 135	aspirin
+T9	Adverse_event 147 156	presented
+E1	Adverse_event:T9

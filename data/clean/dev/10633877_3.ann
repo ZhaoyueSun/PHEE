@@ -1,0 +1,7 @@
+T3	Subject 61 68	a child
+T4	Treatment 0 12	Theophylline
+T5	Effect 0 25	Theophylline intoxication
+T7	Age 63 68	child
+T9	Drug 0 12	Theophylline
+T6	Adverse_event 58 60	in
+E1	Adverse_event:T6

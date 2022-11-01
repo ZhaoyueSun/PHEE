@@ -1,0 +1,6 @@
+T8	Treatment 87 104	a second DSF dose
+T9	Drug 62 73	protoxicant
+T11	Drug 96 99	DSF
+T12	Dosage 87 104	a second DSF dose
+T10	Potential_therapeutic_event 124 126	to
+E1	Potential_therapeutic_event:T10

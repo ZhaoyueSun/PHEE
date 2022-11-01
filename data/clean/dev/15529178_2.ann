@@ -1,0 +1,8 @@
+T3	Treatment 206 239	institution of etanercept therapy
+T5	Effect 102 179	developed new onset of pulmonary signs and symptoms with alveolar infiltrates
+T6	Subject 57 96	four patients with rheumatoid arthritis
+T7	Population 57 61	four
+T9	Drug 221 231	etanercept
+T10	Treat-Disorder 76 96	rheumatoid arthritis
+T4	Adverse_event 191 201	related to
+E1	Adverse_event:T4

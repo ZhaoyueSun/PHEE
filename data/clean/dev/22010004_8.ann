@@ -1,0 +1,8 @@
+T6	Treatment 17 23	niacin
+T8	Effect 32 44	coagulopathy
+T9	Drug 17 23	niacin
+T10	Drug 170 193	extended-release niacin
+T11	Speculation_cue 111 131	limited data suggest
+T7	Adverse_event 24 31	induced
+E1	Adverse_event:T7 
+A1	Speculated E1

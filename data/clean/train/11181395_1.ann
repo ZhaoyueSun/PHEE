@@ -1,0 +1,5 @@
+T5	Effect 0 65	Restoration of vancomycin susceptibility in Enterococcus faecalis
+T7	Treatment 69 109	antiresistance determinant gene transfer
+T8	Drug 15 25	vancomycin
+T6	Potential_therapeutic_event 66 68	by
+E1	Potential_therapeutic_event:T6

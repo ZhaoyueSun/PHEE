@@ -1,0 +1,8 @@
+T5	Subject 0 8	Children
+T6	Treatment 19 29	zonisamide
+T8	Effect 54 67	oligohidrosis
+T9	Effect 76 123	development of neurological symptoms associated
+T10	Age 0 8	Children
+T11	Drug 19 29	zonisamide
+T7	Adverse_event 40 49	monitored
+E1	Adverse_event:T7

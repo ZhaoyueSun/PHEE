@@ -1,0 +1,7 @@
+T3	Treatment 87 97	amiodarone
+T5	Effect 106 120	thyrotoxicosis
+T6	Drug 87 97	amiodarone
+T7	Speculation_cue 2 11	potential
+T4	Adverse_event 98 105	induced
+E1	Adverse_event:T4 
+A1	Speculated E1

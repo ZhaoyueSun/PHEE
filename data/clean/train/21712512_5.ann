@@ -1,0 +1,14 @@
+T9	Effect 71 90	vaginal candidiasis
+T10	Treatment 0 55	Seven weeks after the initiation of inhaled fluticasone
+T11	Route 36 43	inhaled
+T12	Drug 44 55	fluticasone
+T13	Drug 110 121	fluconazole
+T14	Dosage 122 132	100 mg/day
+T18	Time_elapsed 0 11	Seven weeks
+T19	Treat-Disorder 71 90	vaginal candidiasis
+T21	Treatment 110 152	fluconazole 100 mg/day, a CYP3A4 inhibitor
+T8	Adverse_event 61 70	developed
+T20	Potential_therapeutic_event 99 109	prescribed
+E1	Adverse_event:T8 arg:T10 arg2:T9
+E2	Potential_therapeutic_event:T20 arg:T21
+R1	has Arg1:T21 Arg2:T19

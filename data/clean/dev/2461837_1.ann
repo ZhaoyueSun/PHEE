@@ -1,0 +1,8 @@
+T4	Treatment 172 181	bleomycin
+T7	Subject 211 226	an AIDS patient
+T9	Speculation_cue 127 143	to our knowledge
+T10	Drug 172 181	bleomycin
+T11	Treat-Disorder 214 218	AIDS
+T6	Effect 190 207	hyperpigmentation
+T5	Adverse_event 182 189	induced
+E1	Adverse_event:T5

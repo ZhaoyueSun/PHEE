@@ -1,0 +1,5 @@
+T4	Effect 28 47	tuberculous uveitis
+T6	Treatment 55 65	etanercept
+T7	Drug 55 65	etanercept
+T5	Adverse_event 48 54	due to
+E1	Adverse_event:T5

@@ -1,0 +1,10 @@
+T3	Subject 14 39	A 58-year-old white woman
+T4	Effect 50 73	fulminant liver failure
+T8	Age 16 27	58-year-old
+T9	Race 28 33	white
+T10	Gender 34 39	woman
+T11	Treat-Disorder 143 152	pneumonia
+T7	Drug 124 138	clarithromycin
+T6	Treatment 103 152	macrolide antibiotic clarithromycin for pneumonia
+T5	Adverse_event 40 49	developed
+E1	Adverse_event:T5

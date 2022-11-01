@@ -1,0 +1,15 @@
+T4	Treatment 21 36	ethylenediamine
+T6	Effect 45 78	delayed hypersensitivity reaction
+T7	Subject 82 101	a 46-year-old woman
+T8	Treat-Disorder 147 172	acute asthma exacerbation
+T9	Age 84 95	46-year-old
+T10	Gender 96 101	woman
+T11	Drug 21 36	ethylenediamine
+T14	Treatment 115 139	parenteral aminophylline
+T15	Route 115 125	parenteral
+T16	Drug 126 139	aminophylline
+T5	Adverse_event 37 44	induced
+T13	Potential_therapeutic_event 106 114	received
+E1	Adverse_event:T5 arg:T4 arg2:T6 arg3:T7
+E2	Potential_therapeutic_event:T13 arg:T14 arg2:T7
+R1	has Arg1:T14 Arg2:T8

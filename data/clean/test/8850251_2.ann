@@ -1,0 +1,6 @@
+T5	Effect 13 45	an immediate erythematous macule
+T7	Treatment 90 128	mequitazine directly after UV exposure
+T8	Drug 90 101	mequitazine
+T9	Route 117 128	UV exposure
+T6	Adverse_event 50 58	observed
+E1	Adverse_event:T6

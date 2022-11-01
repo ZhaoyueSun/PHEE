@@ -1,0 +1,5 @@
+T3	Treatment 36 51	chloramphenicol
+T4	Effect 52 68	hypersensitivity
+T6	Drug 36 51	chloramphenicol
+T5	Adverse_event 33 35	of
+E1	Adverse_event:T5

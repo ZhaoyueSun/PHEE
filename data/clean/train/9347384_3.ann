@@ -1,0 +1,7 @@
+T9	Treatment 33 47;90 103;140 153	clarithromycin carbamazepine carbamazepine
+T11	Speculation_cue 126 129	may
+T12	Effect 73 118;140 163	increased plasma carbamazepine concentrations carbamazepine toxicity.
+T14	Drug 33 47	clarithromycin
+T15	Subject 90 103	carbamazepine
+T10	Adverse_event 65 72	induces
+E1	Adverse_event:T10

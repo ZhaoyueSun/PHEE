@@ -1,0 +1,10 @@
+T8	Effect 0 7	Caution
+T11	Subject 70 91	HIV-infected patients
+T13	Drug 44 55	enfuvirtide
+T14	Drug 60 66	niacin
+T10	Treatment 28 66	coadministering enfuvirtide and niacin
+T9	Adverse_event 18 22	used
+T15	Combination 28 43	coadministering
+E1	Adverse_event:T9 
+E2	Combination:T15 arg:T13 arg2:T14
+T1	Treat-Disorder 70 73	HIV

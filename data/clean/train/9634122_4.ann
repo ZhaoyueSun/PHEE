@@ -1,0 +1,7 @@
+T3	Subject 12 63	a patient with androgen-independent prostate cancer
+T4	Effect 72 123	PSA continued to decrease for a period of 15 months
+T5	Treatment 130 150	flutamide withdrawal
+T8	Drug 130 139	flutamide
+T9	Treat-Disorder 27 63	androgen-independent prostate cancer
+T6	Adverse_event 124 129	after
+E1	Adverse_event:T6

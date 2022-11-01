@@ -1,0 +1,8 @@
+T5	Effect 37 50	hypoglycaemia
+T7	Treatment 62 119	mefloquine and some other anti-malarial quinine analogues
+T8	Drug 62 72	mefloquine
+T10	Drug 102 119	quinine analogues
+T6	Adverse_event 51 58	induced
+T9	Combination 73 76	and
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T8 arg2:T10

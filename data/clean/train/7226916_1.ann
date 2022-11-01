@@ -1,0 +1,10 @@
+T7	Subject 0 94	A 57-year-old woman with right bundle branch block +LPH and ventricular premature contractions
+T9	Effect 105 131	complete heart block (CHB)
+T10	Treatment 160 192	disopyramide phosphate (Norpace)
+T11	Age 2 13	57-year-old
+T12	Gender 14 19	woman
+T13	Sub-Disorder 25 55	right bundle branch block +LPH
+T14	Sub-Disorder 60 94	ventricular premature contractions
+T15	Drug 160 182	disopyramide phosphate
+T8	Adverse_event 95 104	developed
+E1	Adverse_event:T8 

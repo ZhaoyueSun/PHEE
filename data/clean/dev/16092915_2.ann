@@ -1,0 +1,11 @@
+T4	Treatment 225 236	risperidone
+T5	Subject 72 135	an adolescent girl with a mitochondrial disorder and depression
+T6	Effect 155 202	new-onset psychotic and increased mood symptoms
+T7	Age 75 85	adolescent
+T8	Gender 86 90	girl
+T11	Speculation_cue 11 27	To our knowledge
+T12	Drug 225 236	risperidone
+T13	Treat-Disorder 98 120	mitochondrial disorder
+T14	Treat-Disorder 125 135	depression
+T3	Adverse_event 203 209	during
+E1	Adverse_event:T3

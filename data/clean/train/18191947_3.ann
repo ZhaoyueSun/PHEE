@@ -1,0 +1,16 @@
+T3	Effect 12 89	longitudinal diffusion-weighted MRI findings of sub-acute leukoencephalopathy
+T5	Treatment 100 112	methotrexate
+T6	Subject 124 141	a 24-year-old man
+T7	Age 126 137	24-year-old
+T8	Gender 138 141	man
+T9	Treat-Disorder 157 202	pre-B-cell acute lymphoblastic leukemia (ALL)
+T10	Drug 100 112	methotrexate
+T4	Adverse_event 90 99	following
+E1	Adverse_event:T4 arg:T3 arg2:T5 arg3:T6
+R1	has Arg1:T5 Arg2:T9	
+T1	Adverse_event 254 259	after
+E2	Adverse_event:T1 arg:T6 arg2:T2 arg3:T11
+T2	Treatment 260 337	second consolidation with intrathecal triple-drug therapy given intrathecally
+T11	Effect 204 253	presenting with right-sided paralysis and aphasia
+T12	Route 324 337	intrathecally
+R2	has Arg1:T2 Arg2:T9	

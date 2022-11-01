@@ -1,0 +1,5 @@
+T6	Effect 0 39	Abdominal wall ulceration and mucinosis
+T7	Treatment 53 89	recombinant human interferon-beta-1b
+T8	Drug 53 89	recombinant human interferon-beta-1b
+T5	Adverse_event 40 49	secondary
+E1	Adverse_event:T5

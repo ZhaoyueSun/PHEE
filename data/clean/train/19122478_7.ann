@@ -1,0 +1,5 @@
+T6	Treatment 69 77	steroids
+T4	Effect 4 22	condition improved
+T7	Drug 69 77	steroids
+T5	Adverse_event 36 44	stopping
+E1	Adverse_event:T5

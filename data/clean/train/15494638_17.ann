@@ -1,0 +1,8 @@
+T5	Effect 0 13	Neurotoxicity
+T6	Treatment 37 108	intermittent high dose 5-FU as bolus injection or 24- to 48-h infusions
+T8	Dosage 50 59	high dose
+T9	Drug 60 64	5-FU
+T10	Route 74 83	injection
+T11	Route 99 108	infusions
+T4	Adverse_event 14 20	occurs
+E1	Adverse_event:T4

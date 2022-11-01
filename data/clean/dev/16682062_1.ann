@@ -1,0 +1,5 @@
+T4	Treatment 14 24	ivermectin
+T5	Effect 33 50	severe hepatitis.
+T6	Drug 14 24	ivermectin
+T3	Adverse_event 25 32	induced
+E1	Adverse_event:T3

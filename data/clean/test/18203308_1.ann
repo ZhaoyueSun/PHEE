@@ -1,0 +1,5 @@
+T5	Effect 13 15;40 62	CD immune-mediated injury
+T6	Treatment 74 84	etanercept
+T8	Drug 74 84	etanercept
+T7	Adverse_event 63 70	induced
+E1	Adverse_event:T7

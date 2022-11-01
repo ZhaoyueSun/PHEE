@@ -1,0 +1,7 @@
+T5	Effect 18 43	hypoxemia and hypotension
+T7	Treatment 55 65	nimodipine
+T8	Drug 55 65	nimodipine
+T9	Severity_cue 0 17	Easily reversible
+T6	Adverse_event 44 51	induced
+E1	Adverse_event:T6 
+A1	Severity E1 Low

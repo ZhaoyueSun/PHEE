@@ -1,0 +1,7 @@
+T4	Treatment 70 81	melarsoprol
+T5	Subject 50 58	patients
+T6	Effect 17 20	ARE
+T8	Drug 70 81	melarsoprol
+T9	Duration 89 119	August 1992 and September 1993
+T7	Adverse_event 67 69	by
+E1	Adverse_event:T7

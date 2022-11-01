@@ -1,0 +1,8 @@
+T6	Subject 40 56	myeloma patients
+T8	Treatment 25 36;67 78	doxorubicin thalidomide
+T7	Effect 0 21	Thrombogenic activity
+T10	Treat-Disorder 40 47	myeloma
+T11	Drug 25 36	doxorubicin
+T12	Drug 67 78	thalidomide
+T9	Adverse_event 57 66	receiving
+E1	Adverse_event:T9 

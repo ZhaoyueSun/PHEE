@@ -1,0 +1,13 @@
+T9	Subject 26 34	patients
+T10	Effect 49 73	a hematologic malignancy
+T13	Treatment 74 119;150 194	several years after intravesical chemotherapy with etoglucid, doxorubicin, and mitomycin C
+T14	Drug 155 164	etoglucid
+T15	Drug 166 177	doxorubicin
+T16	Drug 183 194	mitomycin C
+T19	Treat-Disorder 123 149	superficial bladder cancer
+T20	Time_elapsed 74 93	several years after
+T17	Route 94 106	intravesical
+T11	Adverse_event 39 48	developed
+T18	Combination 179 182	and
+E1	Adverse_event:T11 
+E2	Combination:T18 arg:T16 arg2:T15 arg3:T14

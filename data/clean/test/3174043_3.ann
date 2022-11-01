@@ -1,0 +1,8 @@
+T3	Treatment 48 73	high doses of oral niacin
+T5	Effect 100 115	visual symptoms
+T6	Subject 32 40	patients
+T7	Dosage 48 58	high doses
+T8	Route 62 66	oral
+T9	Drug 67 73	niacin
+T4	Adverse_event 41 47	taking
+E1	Adverse_event:T4

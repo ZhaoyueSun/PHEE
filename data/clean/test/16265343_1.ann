@@ -1,0 +1,5 @@
+T3	Treatment 11 30	Interferon alpha-2b
+T5	Effect 39 53	cardiomyopathy
+T6	Drug 11 30	Interferon alpha-2b
+T4	Adverse_event 31 38	induced
+E1	Adverse_event:T4

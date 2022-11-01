@@ -1,0 +1,5 @@
+T6	Treatment 0 32	Quinine and its isomer quinidine
+T9	Effect 58 118	iatrogenic hypoglycaemia, due to excessive insulin secretion
+T10	Drug 0 7	Quinine
+T8	Adverse_event 48 54	causes
+E1	Adverse_event:T8

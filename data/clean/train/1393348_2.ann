@@ -1,0 +1,6 @@
+T5	Effect 122 125	SLE
+T7	Treatment 170 183	carbamazepine
+T8	Speculation_cue 126 131	could
+T9	Drug 170 183	carbamazepine
+T6	Adverse_event 135 145	considered
+E1	Adverse_event:T6

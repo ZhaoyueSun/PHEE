@@ -1,0 +1,5 @@
+T4	Effect 6 24	serotonin syndrome
+T5	Treatment 130 135	SSIRs
+T7	Drug 130 135	SSIRs
+T6	Adverse_event 118 126	toxicity
+E1	Adverse_event:T6

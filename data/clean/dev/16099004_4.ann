@@ -1,0 +1,10 @@
+T10	Speculation_cue 99 102	may
+T11	Treatment 89 98;130 137	phenytoin quinine
+T13	Treat-Disorder 158 165	malaria
+T12	Effect 118 137	efficacy of quinine
+T16	Drug 89 98	phenytoin
+T17	Drug 130 137	quinine
+T9	Adverse_event 103 113	compromise
+T19	Combination 72 83	interaction
+E1	Adverse_event:T9 
+E2	Combination:T19 arg2:T16 arg:T17

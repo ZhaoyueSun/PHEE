@@ -1,0 +1,10 @@
+T3	Subject 0 25	The two middle aged women
+T4	Effect 41 61	respiratory symptoms
+T6	Treatment 68 107	prolonged treatment with nitrofurantoin
+T7	Population 4 7	two
+T8	Age 8 19	middle aged
+T9	Gender 20 25	women
+T10	Freq 68 87	prolonged treatment
+T11	Drug 93 107	nitrofurantoin
+T5	Adverse_event 26 35	presented
+E1	Adverse_event:T5

@@ -1,0 +1,5 @@
+T5	Effect 0 48	Vanishing bile duct and Stevens-Johnson syndrome
+T7	Treatment 65 78	ciprofloxacin
+T8	Drug 65 78	ciprofloxacin
+T6	Adverse_event 49 59	associated
+E1	Adverse_event:T6

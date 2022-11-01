@@ -1,0 +1,5 @@
+T3	Treatment 0 6	Taxane
+T5	Effect 15 23	glaucoma
+T6	Drug 0 6	Taxane
+T4	Adverse_event 7 14	induced
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T5	Effect 0 36	Agranulocytosis and granulocytopenia
+T7	Treatment 53 63	quetiapine
+T8	Drug 53 63	quetiapine
+T6	Adverse_event 37 47	associated
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T3	Subject 13 27	three patients
+T4	Effect 42 60	acute liver damage
+T5	Treatment 81 93	itraconazole
+T7	Population 13 18	three
+T8	Drug 81 93	itraconazole
+T6	Adverse_event 32 41	developed
+E1	Adverse_event:T6

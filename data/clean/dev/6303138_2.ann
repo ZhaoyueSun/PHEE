@@ -1,0 +1,7 @@
+T7	Subject 2 15	young patient
+T8	Effect 35 52	sinus tachycardia
+T9	Treatment 112 125	nortriptyline
+T11	Age 2 7	young
+T12	Drug 112 125	nortriptyline
+T10	Adverse_event 16 27	experienced
+E1	Adverse_event:T10

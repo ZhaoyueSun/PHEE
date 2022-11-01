@@ -1,0 +1,7 @@
+T3	Subject 0 49	A patient with the Wolff-Parkinson-White syndrome
+T4	Effect 65 115	incessant orthodromic atrioventricular tachycardia
+T5	Treatment 126 160	initiation of procainamide therapy
+T7	Treat-Disorder 19 49	Wolff-Parkinson-White syndrome
+T8	Drug 140 152	procainamide
+T6	Adverse_event 116 125	following
+E1	Adverse_event:T6 

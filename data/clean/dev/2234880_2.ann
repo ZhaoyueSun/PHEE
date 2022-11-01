@@ -1,0 +1,5 @@
+T3	Treatment 0 62	Nitrendipine is an experimental calcium channel blocking agent
+T5	Effect 122 142	gingival hyperplasia
+T6	Drug 0 12	Nitrendipine
+T4	Adverse_event 84 89	cause
+E1	Adverse_event:T4

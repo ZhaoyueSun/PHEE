@@ -1,0 +1,7 @@
+T5	Treatment 113 129	injected insulin
+T6	Effect 37 88;148 210	local hyperproduction of TNF-alpha from macrophages dedifferentiation of the adipocytes of the subcutaneous tissue
+T8	Route 113 121	injected
+T9	Drug 122 129	insulin
+T10	Subject 20 33	reported case
+T7	Adverse_event 98 105	induced
+E1	Adverse_event:T7

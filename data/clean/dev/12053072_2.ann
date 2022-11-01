@@ -1,0 +1,8 @@
+T3	Subject 12 21	a patient
+T5	Effect 36 39	HUS
+T6	Treatment 61 95	mitomycin C (total dose 144 mg/m2)
+T7	Drug 61 72	mitomycin C
+T8	Dosage 85 94	144 mg/m2
+T9	Treat-Disorder 105 137	carcinoma of the ascending colon
+T4	Adverse_event 26 35	developed
+E1	Adverse_event:T4

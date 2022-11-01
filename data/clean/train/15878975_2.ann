@@ -1,0 +1,7 @@
+T7	Treatment 104 140	Rh(0)(D) immune globulin intravenous
+T9	Effect 0 93	Disseminated intravascular coagulation associated with acute hemoglobinemia or hemoglobinuria
+T11	Drug 104 128	Rh(0)(D) immune globulin
+T12	Route 129 140	intravenous
+T13	Treat-Disorder 160 191	immune thrombocytopenic purpura
+T8	Adverse_event 94 103	following
+E1	Adverse_event:T8

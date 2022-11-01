@@ -1,0 +1,8 @@
+T5	Subject 104 126	a pseudophakic patient
+T6	Treatment 127 159	from latanoprost to bimatoprost.
+T7	Effect 21 77	case of angiographically documented cystoid macula edema
+T9	Drug 132 143	latanoprost
+T10	Drug 147 158	bimatoprost
+T11	Treat-Disorder 106 118	pseudophakic
+T4	Adverse_event 94 103	switching
+E1	Adverse_event:T4

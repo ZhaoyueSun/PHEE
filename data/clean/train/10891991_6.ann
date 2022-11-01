@@ -1,0 +1,8 @@
+T3	Treatment 9 45	Replacing valproate with lamotrigine
+T5	Effect 58 105	a decrease in serum testosterone concentrations
+T6	Subject 109 120	all 3 women
+T7	Population 113 114	3
+T8	Gender 115 120	women
+T9	Drug 34 45	lamotrigine
+T4	Adverse_event 46 54	resulted
+E1	Adverse_event:T4

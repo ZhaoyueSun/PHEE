@@ -1,0 +1,8 @@
+T5	Treatment 81 161	carbimazole with recombinant human granulocyte colony stimulating factor (G-CSF)
+T7	Effect 29 67	agranulocytosis and neutropenic sepsis
+T6	Drug 81 92	carbimazole
+T9	Drug 98 153	recombinant human granulocyte colony stimulating factor
+T8	Adverse_event 68 77	secondary
+T10	Combination 93 97	with
+E2	Adverse_event:T8 
+E1	Combination:T10 arg:T9 arg2:T6

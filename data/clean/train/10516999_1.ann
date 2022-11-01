@@ -1,0 +1,8 @@
+T3	Effect 0 23	Acute hyperphosphatemia
+T5	Treatment 34 56	sodium phosphate enema
+T6	Subject 60 118	a patient with liver dysfunction and chronic renal failure
+T8	Drug 34 50	sodium phosphate
+T9	Sub-Disorder 75 118	liver dysfunction and chronic renal failure
+T10	Route 51 56	enema
+T4	Adverse_event 24 30	caused
+E1	Adverse_event:T4 

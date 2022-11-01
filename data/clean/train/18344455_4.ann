@@ -1,0 +1,6 @@
+T5	Treat-Disorder 74 82	seizures
+T7	Treatment 119 128	lorazepam
+T9	Drug 119 128	lorazepam
+T6	Potential_therapeutic_event 88 95	managed
+E1	Potential_therapeutic_event:T6 arg:T7
+R1	has Arg1:T7 Arg2:T5

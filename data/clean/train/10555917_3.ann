@@ -1,0 +1,7 @@
+T3	Subject 40 73	a patient with systemic sclerosis
+T4	Effect 3 36	vitro inhibition of hematopoiesis
+T5	Treatment 87 102	D-penicillamine
+T8	Treat-Disorder 55 73	systemic sclerosis
+T9	Drug 87 102	D-penicillamine
+T6	Adverse_event 9 19	inhibition
+E1	Adverse_event:T6

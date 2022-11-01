@@ -1,0 +1,5 @@
+T5	Treatment 0 13	Sulfasalazine
+T7	Effect 22 75	hypersensitivity syndrome and hemophagocytic syndrome
+T8	Drug 0 13	Sulfasalazine
+T6	Adverse_event 14 21	induced
+E1	Adverse_event:T6

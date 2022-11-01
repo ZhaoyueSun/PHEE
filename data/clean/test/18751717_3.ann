@@ -1,0 +1,6 @@
+T4	Effect 71 76	ASPPC
+T5	Treatment 83 97	IVTA injection
+T6	Drug 83 87	IVTA
+T7	Route 88 97	injection
+T3	Adverse_event 77 82	after
+E1	Adverse_event:T3

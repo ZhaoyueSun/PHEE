@@ -1,0 +1,6 @@
+T3	Treatment 0 23	Intranasal desmopressin
+T5	Effect 32 44	hyponatremia
+T6	Route 0 10	Intranasal
+T7	Drug 11 23	desmopressin
+T4	Adverse_event 24 31	induced
+E1	Adverse_event:T4

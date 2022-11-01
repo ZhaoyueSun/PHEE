@@ -1,0 +1,6 @@
+T3	Effect 26 40	macular lesion
+T4	Treatment 71 81	gentamicin
+T6	Speculation_cue 7 16	concerned
+T7	Drug 71 81	gentamicin
+T5	Adverse_event 68 70	of
+E1	Adverse_event:T5

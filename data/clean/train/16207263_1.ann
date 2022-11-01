@@ -1,0 +1,5 @@
+T3	Treatment 0 9	Linezolid
+T5	Effect 18 35	dyserythropoiesis
+T6	Drug 0 9	Linezolid
+T4	Adverse_event 10 17	induced
+E1	Adverse_event:T4

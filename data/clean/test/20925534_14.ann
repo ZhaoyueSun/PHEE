@@ -1,0 +1,10 @@
+T7	Treatment 72 75	PPI
+T8	Effect 76 127	reduced the rate of upper gastrointestinal bleeding
+T10	Subject 6 48	patients receiving aspirin and clopidogrel
+T12	Drug 25 32	aspirin
+T13	Drug 37 48	clopidogrel
+T15	Drug 72 75	PPI
+T9	Potential_therapeutic_event 50 66	prophylactic use
+T14	Combination 33 36	and
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T14 arg:T12 arg2:T13 arg3:T15

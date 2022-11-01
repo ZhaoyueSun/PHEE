@@ -1,0 +1,11 @@
+T10	Effect 16 37	infectious toxicities
+T12	Subject 57 94	first two patients in our institution
+T13	Treatment 95 236	treated with dexamethasone (10 mg/m(2)/day for 4 weeks with gradual tapering) during induction according to the dexamethasone arm of BFM 2000
+T14	Age 63 66	two
+T15	Drug 108 121	dexamethasone
+T16	Dosage 123 130	10 mg/m
+T17	Freq 134 137	day
+T18	Time_elapsed 142 149	4 weeks
+T19	Drug 207 220	dexamethasone
+T11	Adverse_event 38 52	experienced by
+E1	Adverse_event:T11

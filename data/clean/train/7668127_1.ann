@@ -1,0 +1,6 @@
+T5	Effect 0 42	Intracranial haemorrhage from a meningioma
+T6	Subject 46 55	a patient
+T7	Drug 66 73	aspirin
+T9	Treatment 66 73	aspirin
+T8	Adverse_event 43 45	in
+E1	Adverse_event:T8

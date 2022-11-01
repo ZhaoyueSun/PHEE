@@ -1,0 +1,6 @@
+T3	Treatment 0 9	Acyclovir
+T5	Effect 18 31	neurotoxicity
+T6	Drug 0 9	Acyclovir
+T7	Dosage 85 93	overdose
+T4	Adverse_event 10 17	induced
+E1	Adverse_event:T4

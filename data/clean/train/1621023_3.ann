@@ -1,0 +1,8 @@
+T5	Effect 0 73	Prominent eye movements during NREM sleep and REM sleep behavior disorder
+T7	Treatment 90 110	fluoxetine treatment
+T8	Subject 114 158	depression and obsessive-compulsive disorder
+T11	Drug 90 100	fluoxetine
+T12	Treat-Disorder 114 124	depression
+T13	Treat-Disorder 129 158	obsessive-compulsive disorder
+T6	Adverse_event 74 84	associated
+E1	Adverse_event:T6

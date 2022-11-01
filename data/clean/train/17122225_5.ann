@@ -1,0 +1,8 @@
+T6	Effect 15 69	symptoms of autonomic instability and severe agitation
+T7	Treatment 78 123	within hours of initiation of cyclobenzaprine
+T9	Drug 108 123	cyclobenzaprine
+T10	Time_elapsed 78 104	within hours of initiation
+T12	Severity_cue 53 59	severe
+T8	Adverse_event 70 77	started
+E1	Adverse_event:T8 
+A1	Severity E1 High

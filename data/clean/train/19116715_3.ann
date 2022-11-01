@@ -1,0 +1,7 @@
+T3	Treatment 28 39	gemcitabine
+T5	Effect 48 73	hemolytic uremic syndrome
+T6	Subject 79 128	patient with metastatic pancreatic adenocarcinoma
+T8	Drug 28 39	gemcitabine
+T9	Treat-Disorder 92 128	metastatic pancreatic adenocarcinoma
+T4	Adverse_event 40 47	induced
+E1	Adverse_event:T4

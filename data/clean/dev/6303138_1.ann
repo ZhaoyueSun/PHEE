@@ -1,0 +1,8 @@
+T6	Effect 0 24	Marked sinus tachycardia
+T8	Treatment 67 94	marijuana and nortriptyline
+T9	Drug 67 76	marijuana
+T10	Drug 81 94	nortriptyline
+T7	Adverse_event 25 34	resulting
+T11	Combination 77 80	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

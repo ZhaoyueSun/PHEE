@@ -1,0 +1,8 @@
+T5	Subject 0 12	Two patients
+T6	Treatment 22 54	receiving Tolazoline by infusion
+T8	Effect 65 122	duodenal ulceration and subsequent intestinal perforation
+T9	Population 0 3	Two
+T10	Drug 32 42	Tolazoline
+T11	Route 46 54	infusion
+T7	Adverse_event 55 64	developed
+E1	Adverse_event:T7

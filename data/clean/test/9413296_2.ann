@@ -1,0 +1,5 @@
+T3	Treatment 0 12	Methysergide
+T5	Effect 21 45	retroperitoneal fibrosis
+T6	Drug 0 12	Methysergide
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4

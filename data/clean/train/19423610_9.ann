@@ -1,0 +1,6 @@
+T5	Treatment 0 14	Methylene blue
+T8	Treat-Disorder 102 119	hypotensive shock
+T7	Drug 0 14	Methylene blue
+T9	Treat-Disorder 124 142	methemoglobinaemia
+T6	Potential_therapeutic_event 72 81	treatment
+E1	Potential_therapeutic_event:T6

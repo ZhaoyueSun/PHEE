@@ -1,0 +1,7 @@
+T3	Subject 0 9	Patient 1
+T5	Effect 20 37	bilateral ballism
+T6	Treatment 51 79	intravenous heroin injection
+T7	Route 51 62;70 79	intravenous injection
+T8	Drug 63 69	heroin
+T4	Adverse_event 10 19	presented
+E1	Adverse_event:T4

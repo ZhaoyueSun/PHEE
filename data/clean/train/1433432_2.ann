@@ -1,0 +1,9 @@
+T8	Effect 20 68	hyponatremia associated with a grand mal seizure
+T9	Subject 72 92	a 28 month-old child
+T10	Treatment 99 138	intra-nasal desmopressin administration
+T11	Treat-Disorder 143 184	high fluid intake with nocturnal enuresis
+T15	Drug 111 123	desmopressin
+T16	Route 99 110	intra-nasal
+T13	Age 74 92	28 month-old child
+T12	Adverse_event 93 98	after
+E1	Adverse_event:T12

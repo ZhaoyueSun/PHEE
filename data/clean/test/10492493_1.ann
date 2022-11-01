@@ -1,0 +1,6 @@
+T3	Treatment 37 45	losartan
+T5	Effect 57 78	late-onset angioedema
+T6	Subject 82 117	patients with normal renal function
+T8	Drug 37 45	losartan
+T4	Adverse_event 50 56	induce
+E1	Adverse_event:T4 

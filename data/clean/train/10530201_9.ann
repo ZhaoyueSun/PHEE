@@ -1,0 +1,5 @@
+T6	Treatment 44 61	diphenylhydantoin
+T7	Effect 70 90;96 138	gingival hyperplasia the angiomatous enlargement of the gingiva
+T8	Drug 44 61	diphenylhydantoin
+T5	Adverse_event 62 69	induced
+E1	Adverse_event:T5

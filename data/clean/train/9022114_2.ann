@@ -1,0 +1,9 @@
+T3	Effect 75 102	delay corneal wound healing
+T4	Treatment 60 70	colchicine
+T5	Subject 34 46	two patients
+T7	Population 34 37	two
+T8	Drug 60 70	colchicine
+T9	Speculation_cue 71 74	may
+T10	Treat-Disorder 81 94	corneal wound
+T6	Adverse_event 75 80	delay
+E1	Adverse_event:T6

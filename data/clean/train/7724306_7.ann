@@ -1,0 +1,7 @@
+T3	Treatment 61 64	INH
+T4	Effect 65 78	neurotoxicity
+T6	Subject 32 40	children
+T8	Age 32 40	children
+T9	Drug 61 64	INH
+T5	Adverse_event 41 54	appeared with
+E1	Adverse_event:T5

@@ -1,0 +1,5 @@
+T10	Treatment 103 113	colchicine
+T7	Effect 23 79;122 130	variation in muscle fiber size and few vacuolated fibers myopathy
+T11	Drug 103 113	colchicine
+T9	Adverse_event 114 121	induced
+E2	Adverse_event:T9

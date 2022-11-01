@@ -1,0 +1,7 @@
+T5	Subject 23 30	a woman
+T7	Treatment 57 70	acenocoumarol
+T8	Gender 25 30	woman
+T10	Drug 57 70	acenocoumarol
+T6	Potential_therapeutic_event 42 51	treatment
+E1	Potential_therapeutic_event:T6 
+T1	Treat-Disorder 75 95	deep vein thrombosis

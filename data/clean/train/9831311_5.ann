@@ -1,0 +1,9 @@
+T3	Effect 21 49	decrease in plasma potassium
+T5	Treatment 61 80	phosphate treatment
+T6	Subject 101 263	a 24-year-old hypertensive patient with hypophosphatemic osteomalacia, who was the youngest of four patients, belonging to a 23 number kindred of five generations
+T7	Age 103 114	24-year-old
+T8	Sub-Disorder 115 127	hypertensive
+T10	Drug 61 70	phosphate
+T11	Treat-Disorder 141 170	hypophosphatemic osteomalacia
+T4	Adverse_event 50 57	induced
+E1	Adverse_event:T4 

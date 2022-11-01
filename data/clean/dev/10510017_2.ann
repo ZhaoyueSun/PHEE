@@ -1,0 +1,13 @@
+T4	Treatment 60 80	Danaparoid (orgaran)
+T5	Treat-Disorder 10 42	heparin-induced thrombocytopenia
+T6	Drug 60 70	Danaparoid
+T9	Treatment 10 17	heparin
+T10	Drug 10 17	heparin
+T11	Subject 0 9	Pediatric
+T12	Age 0 9	Pediatric
+T13	Effect 26 42	thrombocytopenia
+T3	Potential_therapeutic_event 44 54	management
+T8	Adverse_event 18 25	induced
+E1	Potential_therapeutic_event:T3 arg:T4 arg2:T11
+E2	Adverse_event:T8 arg:T11 arg2:T9 arg3:T13
+R1	has Arg1:T4 Arg2:T5

@@ -1,0 +1,7 @@
+T5	Treatment 139 151	desmopressin
+T6	Subject 43 46	she
+T8	Effect 29 41;70 116	hyponatremia syndrome of inappropriate antidiuretic hormone
+T9	Gender 43 46	she
+T10	Drug 139 151	desmopressin
+T7	Adverse_event 51 60	diagnosed
+E1	Adverse_event:T7

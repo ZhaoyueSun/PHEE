@@ -1,0 +1,6 @@
+T5	Treatment 161 164	MTX
+T7	Effect 228 239	HIV disease
+T8	Drug 11 29	methotrexate (MTX)
+T9	Drug 161 164	MTX
+T6	Adverse_event 217 227	accelerate
+E1	Adverse_event:T6

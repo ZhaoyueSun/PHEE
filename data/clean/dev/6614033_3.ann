@@ -1,0 +1,7 @@
+T3	Subject 16 29	five patients
+T4	Effect 38 61	impaired renal function
+T6	Treatment 85 107	amphotericin B therapy
+T7	Population 16 20	five
+T8	Drug 85 99	amphotericin B
+T5	Adverse_event 62 71	developed
+E1	Adverse_event:T5

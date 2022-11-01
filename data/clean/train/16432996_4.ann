@@ -1,0 +1,9 @@
+T9	Treat-Disorder 22 47	chronic hepatitis C (CHC)
+T11	Effect 62 73	sarcoidosis
+T12	Treatment 84 127	treatment by interferon alpha and ribavirin
+T13	Drug 97 113	interferon alpha
+T14	Drug 118 127	ribavirin
+T10	Adverse_event 52 61	developed
+T15	Combination 114 117	and
+E1	Adverse_event:T10 
+E2	Combination:T15 arg:T13 arg2:T14

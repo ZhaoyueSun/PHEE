@@ -1,0 +1,9 @@
+T3	Subject 0 25	A 22-year-old drug-abuser
+T4	Treatment 26 108	injected flunitrazepam tablets dissolved in tap water into her left femoral artery
+T6	Effect 146 177	acute ischaemia of the left leg
+T7	Age 2 13	22-year-old
+T8	Sub-Disorder 14 25	drug-abuser
+T9	Drug 35 48	flunitrazepam
+T10	Route 26 34;49 79	injected tablets dissolved in tap water
+T5	Adverse_event 113 122	presented
+E1	Adverse_event:T5 

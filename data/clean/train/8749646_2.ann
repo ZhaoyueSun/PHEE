@@ -1,0 +1,5 @@
+T3	Effect 0 8	Seizures
+T5	Treatment 25 34	ofloxacin
+T6	Drug 25 34	ofloxacin
+T4	Adverse_event 9 19	associated
+E1	Adverse_event:T4

@@ -1,0 +1,12 @@
+T3	Subject 0 65	A 56-year-old white woman with a diagnosis of reactive depression
+T4	Effect 76 85	severe UI
+T5	Treatment 94 140	30 days' treatment with venlafaxine 75 mg/day.
+T7	Age 2 13	56-year-old
+T8	Race 14 19	white
+T9	Gender 20 25	woman
+T10	Treat-Disorder 46 65	reactive depression
+T12	Time_elapsed 94 101	30 days
+T13	Drug 118 129	venlafaxine
+T14	Dosage 130 139	75 mg/day
+T6	Adverse_event 86 91	after
+E1	Adverse_event:T6 

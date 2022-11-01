@@ -1,0 +1,7 @@
+T5	Effect 70 99	dyspnea and sinus bradycardia
+T6	Subject 60 67	patient
+T8	Speculation_cue 100 105	could
+T9	Treatment 120 159	a recent increase in his timolol dosage
+T11	Drug 145 152	timolol
+T7	Adverse_event 109 116	related
+E1	Adverse_event:T7

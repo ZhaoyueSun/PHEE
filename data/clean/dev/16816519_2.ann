@@ -1,0 +1,11 @@
+T9	Subject 12 29	a 5-year-old girl
+T10	Effect 37 91	recovery of vincristine induced cranial polyneuropathy
+T12	Treatment 97 136	pyridoxine and pyridostigmine treatment
+T13	Age 14 24	5-year-old
+T14	Gender 25 29	girl
+T15	Drug 97 107	pyridoxine
+T16	Drug 112 126	pyridostigmine
+T11	Potential_therapeutic_event 92 96	with
+T17	Combination 108 111	and
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T17 arg:T16 arg2:T15

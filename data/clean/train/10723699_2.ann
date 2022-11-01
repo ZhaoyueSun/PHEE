@@ -1,0 +1,8 @@
+T9	Treatment 103 114	minocycline
+T7	Subject 13 31	a young adolescent
+T11	Effect 37 69	benign intracranial hypertension
+T12	Age 15 31	young adolescent
+T13	Drug 103 114	minocycline
+T14	Treat-Disorder 119 123	acne
+T8	Adverse_event 79 88	attribute
+E1	Adverse_event:T8 

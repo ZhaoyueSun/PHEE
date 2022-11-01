@@ -1,0 +1,11 @@
+T9	Subject 10 20;58 83;114 195	four cases children aged 10-15 years myxopapillary ependymoma, Crohn's disease and recurrent giant aphthous ulceration
+T10	Effect 24 54	sensorimotor axonal neuropathy
+T12	Treatment 98 109	thalidomide
+T16	Population 10 14	four
+T17	Drug 98 109	thalidomide
+T18	Treat-Disorder 114 138	myxopapillary ependymoma
+T19	Treat-Disorder 140 155	Crohn's disease
+T20	Treat-Disorder 161 195	ecurrent giant aphthous ulceration
+T21	Age 72 83	10-15 years
+T11	Adverse_event 85 92	treated
+E1	Adverse_event:T11

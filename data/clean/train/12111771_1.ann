@@ -1,0 +1,10 @@
+T5	Subject 0 19	A 73-year-old woman
+T6	Effect 35 50	fever and cough
+T8	Treat-Disorder 111 145	chronic lymphocytic leukemia (CLL)
+T10	Age 2 13	73-year-old
+T11	Gender 14 19	woman
+T12	Time_elapsed 51 58	2 weeks
+T13	Drug 95 106	fludarabine
+T7	Treatment 51 145	2 weeks after completing the third cycle of fludarabine for chronic lymphocytic leukemia (CLL)
+T9	Adverse_event 20 29	presented
+E1	Adverse_event:T9

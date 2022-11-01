@@ -1,0 +1,11 @@
+T6	Subject 0 29	Adult and adolescent patients
+T7	Treatment 86 111	oral steroid (prednisone)
+T9	Effect 122 128	asthma
+T10	Age 0 19	Adult and adolescen
+T11	Route 86 90	oral
+T12	Drug 91 98	steroid
+T13	Drug 100 110	prednisone
+T14	Severity_cue 66 85	severe, persistent,
+T8	Adverse_event 112 121	dependent
+E1	Adverse_event:T8 
+A1	Severity E1 High

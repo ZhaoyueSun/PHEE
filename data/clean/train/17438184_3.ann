@@ -1,0 +1,13 @@
+T9	Subject 14 33	A 48-year-old woman
+T10	Effect 49 73	disfiguring facial edema
+T11	Treatment 74 82;99 157	10 weeks antiviral therapy with peginterferon alfa-2a and ribavirin
+T12	Treat-Disorder 162 191	chronic hepatitis C infection
+T13	Age 16 27	48-year-old
+T14	Gender 28 33	woman
+T15	Time_elapsed 74 82	10 weeks
+T17	Drug 122 143	peginterferon alfa-2a
+T18	Drug 148 157	ribavirin
+T8	Adverse_event 83 88	after
+T16	Combination 144 147	and
+E1	Adverse_event:T8 
+E2	Combination:T16 arg:T17 arg2:T18

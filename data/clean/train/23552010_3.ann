@@ -1,0 +1,10 @@
+T7	Effect 38 49	anaphylaxis
+T8	Treatment 61 65;105 145	5-FU angiotensin converting enzyme inhibitors
+T10	Drug 61 65	5-FU
+T11	Drug 105 145	angiotensin converting enzyme inhibitors
+T13	Speculation_cue 23 34	possibility
+T9	Adverse_event 50 52	to
+T12	Combination 88 99	interaction
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T11 arg2:T10
+A1	Speculated E1

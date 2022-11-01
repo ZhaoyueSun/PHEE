@@ -1,0 +1,5 @@
+T3	Treatment 0 7	Quinine
+T5	Effect 16 28	hearing loss
+T6	Drug 0 7	Quinine
+T4	Adverse_event 8 15	induced
+E1	Adverse_event:T4

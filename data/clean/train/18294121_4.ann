@@ -1,0 +1,7 @@
+T3	Treatment 0 12	Temozolomide
+T5	Effect 21 43	desquamative skin rash
+T6	Subject 47 81	a patient with metastatic melanoma
+T8	Drug 0 12	Temozolomide
+T9	Treat-Disorder 62 81	metastatic melanoma
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4

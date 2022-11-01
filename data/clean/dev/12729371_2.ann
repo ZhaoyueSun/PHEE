@@ -1,0 +1,9 @@
+T8	Treatment 133 159	doxycycline administration
+T10	Effect 69 122	generalized pruritic maculopapular eruption and fever
+T7	Subject 10 47	a case of AILD in an 80-year-old male
+T11	Sub-Disorder 20 24	AILD
+T12	Age 31 42	80-year-old
+T13	Gender 43 47	male
+T14	Drug 133 144	doxycycline
+T9	Adverse_event 52 61	presented
+E1	Adverse_event:T9 

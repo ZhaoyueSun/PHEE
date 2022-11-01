@@ -1,0 +1,6 @@
+T3	Treatment 0 11	Allopurinol
+T5	Effect 23 48	hand and foot deformities
+T7	Drug 0 11	Allopurinol
+T8	Treat-Disorder 52 75	chronic tophaceous gout
+T4	Adverse_event 12 22	associated
+E1	Adverse_event:T4

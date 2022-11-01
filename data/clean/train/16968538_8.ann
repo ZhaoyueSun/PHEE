@@ -1,0 +1,7 @@
+T6	Effect 16 41	hemolytic-uremic syndrome
+T8	Treatment 72 102	oxaliplatin-based chemotherapy
+T9	Speculation_cue 42 45	may
+T10	Drug 72 83	oxaliplatin
+T11	Route 90 102	chemotherapy
+T7	Adverse_event 56 68	complication
+E1	Adverse_event:T7

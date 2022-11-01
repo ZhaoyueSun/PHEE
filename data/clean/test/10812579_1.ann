@@ -1,0 +1,12 @@
+T3	Subject 0 47	A 77-year-old woman with no history of epilepsy
+T5	Treatment 118 149	continuous intravenous morphine
+T6	Effect 58 101	a probable nonconvulsive status epilepticus
+T7	Age 2 13	77-year-old
+T8	Gender 14 19	woman
+T9	Sub-Disorder 25 47	no history of epilepsy
+T10	Drug 141 149	morphine
+T11	Route 129 140	intravenous
+T12	Freq 118 128	continuous
+T14	Treat-Disorder 154 220	back pain relating to vertebral metastasis of a malignant lymphoma
+T4	Adverse_event 108 117	receiving
+E1	Adverse_event:T4 

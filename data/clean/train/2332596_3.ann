@@ -1,0 +1,7 @@
+T5	Effect 0 9;57 79	Skin rash hepatocellular failure
+T7	Treatment 104 117	phenobarbital
+T8	Time_elapsed 90 97	3 weeks
+T9	Time_elapsed 22 29	2 weeks
+T10	Drug 104 117	phenobarbital
+T6	Adverse_event 80 89	developed
+E1	Adverse_event:T6

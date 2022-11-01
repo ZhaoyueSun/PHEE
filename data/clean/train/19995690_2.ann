@@ -1,0 +1,5 @@
+T6	Treatment 0 13	Acetaminophen
+T8	Effect 56 75	acute liver failure
+T9	Drug 0 13	Acetaminophen
+T7	Adverse_event 50 55	cause
+E1	Adverse_event:T7

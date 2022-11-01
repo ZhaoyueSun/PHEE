@@ -1,0 +1,7 @@
+T4	Effect 34 48	hepatotoxicity
+T6	Treatment 65 77	troglitazone
+T7	Drug 65 77	troglitazone
+T8	Speculation_cue 22 29	whether
+T5	Adverse_event 49 59	associated
+E1	Adverse_event:T5 
+A1	Speculated E1

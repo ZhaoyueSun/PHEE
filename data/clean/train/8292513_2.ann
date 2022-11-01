@@ -1,0 +1,8 @@
+T7	Treatment 63 77	L-asparaginase
+T8	Subject 0 48	Children with acute lymphoblastic leukemia (ALL)
+T10	Effect 94 127;139 171	cerebral thrombosis or hemorrhage coagulation protein deficiencies
+T11	Age 0 8	Children
+T13	Drug 63 77	L-asparaginase
+T14	Treat-Disorder 14 48	acute lymphoblastic leukemia (ALL)
+T9	Adverse_event 85 89	risk
+E1	Adverse_event:T9

@@ -1,0 +1,7 @@
+T5	Subject 0 11	The patient
+T7	Effect 22 40	occipital infarcts
+T8	Treatment 63 95	extremely elevated levels of PPA
+T10	Drug 92 95	PPA
+T6	Adverse_event 12 21	developed
+E1	Adverse_event:T6 
+A1	Severity E1 High

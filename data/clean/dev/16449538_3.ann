@@ -1,0 +1,7 @@
+T3	Subject 161 170	a patient
+T6	Effect 56 69;98 102;133 157	neurotoxicity NCSE changes in consciousness
+T7	Treatment 45 55	ifosfamide
+T8	Drug 45 55	ifosfamide
+T5	Speculation_cue 108 116	possible
+T4	Adverse_event 171 180	receiving
+E1	Adverse_event:T4

@@ -1,0 +1,10 @@
+T8	Treatment 71 105	sitagliptin-lovastatin interaction
+T10	Effect 127 141	rhabdomyolysis
+T12	Drug 71 82	sitagliptin
+T13	Drug 83 93	lovastatin
+T14	Speculation_cue 111 114	may
+T9	Adverse_event 120 126	caused
+T11	Combination 94 105	interaction
+E1	Adverse_event:T9 
+E2	Combination:T11 arg:T13 arg2:T12
+A1	Speculated E1

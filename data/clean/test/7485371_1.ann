@@ -1,0 +1,5 @@
+T3	Treatment 12 22	Atovaquone
+T5	Effect 69 120	vortex keratopathy involving the corneal epithelium
+T6	Drug 12 22	Atovaquone
+T4	Adverse_event 61 68	causing
+E1	Adverse_event:T4

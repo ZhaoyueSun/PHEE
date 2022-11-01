@@ -1,0 +1,9 @@
+T7	Subject 30 32;124 138	he bladder cancer
+T5	Treatment 46 102	the third of six serial weekly BCG bladder instillations
+T8	Gender 30 32	he
+T9	Route 81 102	bladder instillations
+T10	Treat-Disorder 124 138	bladder cancer
+T11	Drug 77 80	BCG
+T12	Freq 70 76	weekly
+T4	Potential_therapeutic_event 37 45	received
+E1	Potential_therapeutic_event:T4

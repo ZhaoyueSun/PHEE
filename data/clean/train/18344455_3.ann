@@ -1,0 +1,12 @@
+T11	Subject 22 45	a 3(1/2)-year-old child
+T12	Treatment 49 90	valproic acid, lamotrigine, and phenytoin
+T14	Effect 105 157	simultaneous hepatotoxicity and bone marrow toxicity
+T15	Age 24 39	3(1/2)-year-old
+T16	Age 40 45	child
+T17	Drug 49 62	valproic acid
+T18	Drug 64 75	lamotrigine
+T20	Drug 81 90	phenytoin
+T13	Adverse_event 95 104	developed
+T19	Combination 77 80	and
+E1	Adverse_event:T13 
+E2	Combination:T19 arg:T20 arg2:T18 arg3:T17

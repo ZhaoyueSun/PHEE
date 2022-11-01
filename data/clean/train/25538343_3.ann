@@ -1,0 +1,5 @@
+T4	Treatment 18 36	thiazide diuretics
+T6	Effect 64 76	hyponatremia
+T7	Drug 18 36	thiazide diuretics
+T5	Adverse_event 55 60	cause
+E1	Adverse_event:T5

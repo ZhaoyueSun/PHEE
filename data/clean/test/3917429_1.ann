@@ -1,0 +1,5 @@
+T6	Effect 27 41;95 122	nephrotoxicity evaluation of renal failure
+T7	Treatment 45 52	lithium
+T9	Drug 45 52	lithium
+T8	Adverse_event 42 44	of
+E1	Adverse_event:T8

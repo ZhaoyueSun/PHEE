@@ -1,0 +1,6 @@
+T3	Treatment 70 80	mesalamine
+T5	Effect 89 101	pancreatitis
+T6	Subject 28 41	both patients
+T7	Drug 70 80	mesalamine
+T4	Adverse_event 81 88	induced
+E1	Adverse_event:T4

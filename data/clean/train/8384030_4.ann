@@ -1,0 +1,7 @@
+T5	Subject 21 27	a case
+T6	Speculation_cue 31 39	possible
+T7	Treatment 40 49	foscarnet
+T9	Effect 58 111	severe hypomagnesemia and other electrolyte disorders
+T13	Drug 40 49	foscarnet
+T8	Adverse_event 50 57	induced
+E1	Adverse_event:T8

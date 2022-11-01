@@ -1,0 +1,11 @@
+T13	Treatment 177 203	methimazole and propranolo
+T10	Effect 0 102	An infant girl with choanal atresia, athelia, minor anomalies, and mild to moderate mental retardation
+T16	Drug 177 188	methimazole
+T17	Treat-Disorder 135 150	hyperthyroidism
+T18	Drug 193 204	propranolol
+T12	Adverse_event 172 176	with
+T19	Combination 189 192	and
+E1	Adverse_event:T12 
+E2	Combination:T19 arg:T16 arg2:T18
+T1	Subject 115 122	a woman
+T2	Gender 117 122	woman

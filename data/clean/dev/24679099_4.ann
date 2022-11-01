@@ -1,0 +1,9 @@
+T7	Effect 22 57	severe liver toxicity with jaundice
+T8	Treatment 88 100;132 164	temozolomide a popular Chinese herbal formula
+T9	Treat-Disorder 183 195	glioblastoma
+T11	Drug 88 100	temozolomide
+T12	Drug 142 164	Chinese herbal formula
+T10	Adverse_event 108 111	due
+T13	Combination 115 126	interaction
+E1	Adverse_event:T10 
+E2	Combination:T13 arg:T11 arg2:T12

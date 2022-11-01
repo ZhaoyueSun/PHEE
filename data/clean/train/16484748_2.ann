@@ -1,0 +1,9 @@
+T3	Treatment 26 33	TMP-SMX
+T5	Effect 42 67;88 128	hypersensitivity syndrome reactivation of a latent viral infection
+T6	Subject 12 22	first case
+T7	Drug 26 29	TMP
+T8	Drug 30 33	SMX
+T4	Adverse_event 34 41	induced
+T9	Combination 29 30	-
+E1	Adverse_event:T4 
+E2	Combination:T9 arg:T8 arg2:T7

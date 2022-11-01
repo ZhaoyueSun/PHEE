@@ -1,0 +1,6 @@
+T4	Treatment 45 78	intraarterial vasopressin therapy
+T5	Effect 0 33	Spontaneous bacterial peritonitis
+T6	Drug 59 70	vasopressin
+T7	Route 45 58	intraarterial
+T3	Adverse_event 34 41	induced
+E1	Adverse_event:T3

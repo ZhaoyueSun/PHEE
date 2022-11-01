@@ -1,0 +1,10 @@
+T9	Subject 20 54	hepatitis C virus infected patient
+T11	Treatment 68 94	telaprevir and simvastatin
+T12	Effect 0 14	Rhabdomyolysis
+T14	Drug 68 78	telaprevir
+T15	Drug 83 94	simvastatin
+T17	Treat-Disorder 20 37	hepatitis C virus
+T13	Adverse_event 55 62	treated
+T16	Combination 79 82	and
+E1	Adverse_event:T13 
+E2	Combination:T16 arg:T14 arg2:T15

@@ -1,0 +1,9 @@
+T3	Effect 157 188	blood levels in the toxic range
+T4	Treatment 124 133	phenytoin
+T6	Subject 0 62;138 152	Seventy-four per cent of patients with epileptogenic disorders 11.6% of these
+T7	Population 0 21	Seventy-four per cent
+T9	Population 138 143	11.6%
+T10	Drug 124 133	phenytoin
+T12	Treat-Disorder 39 52	epileptogenic
+T5	Adverse_event 153 156	had
+E1	Adverse_event:T5

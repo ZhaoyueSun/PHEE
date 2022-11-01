@@ -1,0 +1,13 @@
+T4	Subject 11 55	two children with acute lymphocytic leukemia
+T6	Effect 70 89	leukoencephalopathy
+T7	Treatment 100 218	administration of a combination of intravenous ara = C and methotrexate during the consolidation phase of chemotherapy
+T8	Population 11 14	two
+T9	Age 15 23	children
+T10	Treat-Disorder 29 55	acute lymphocytic leukemia
+T12	Route 135 146	intravenous
+T13	Drug 147 154	ara = C
+T14	Drug 159 171	methotrexate
+T5	Adverse_event 60 69	developed
+T11	Combination 120 131	combination
+E1	Adverse_event:T5 
+E2	Combination:T11 arg:T13 arg2:T14

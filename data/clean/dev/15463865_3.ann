@@ -1,0 +1,11 @@
+T8	Treat-Disorder 34 49	cystic fibrosis
+T10	Effect 69 94	acute renal insufficiency
+T11	Treatment 101 140	2-3 weeks of oral ciprofloxacin therapy
+T12	Population 10 13	two
+T13	Age 14 19	young
+T7	Subject 10 49	two young patients with cystic fibrosis
+T14	Time_elapsed 101 110	2-3 weeks
+T15	Drug 119 132	ciprofloxacin
+T16	Route 114 118	oral
+T9	Adverse_event 54 63	presented
+E1	Adverse_event:T9 

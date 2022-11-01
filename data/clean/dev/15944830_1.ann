@@ -1,0 +1,5 @@
+T10	Treatment 12 28	Interferon (IFN)
+T12	Effect 40 147	retinopathy is typically characterized by retinal hemorrhages and cotton wool spots at the posterior fundus
+T13	Drug 12 22	Interferon
+T11	Adverse_event 29 39	associated
+E1	Adverse_event:T11

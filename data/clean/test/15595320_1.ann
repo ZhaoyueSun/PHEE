@@ -1,0 +1,8 @@
+T4	Effect 0 58	Epstein-Barr virus-associated lymphoproliferative disorder
+T5	Subject 62 97	a patient with rheumatoid arthritis
+T6	Treatment 101 127	methotrexate and rofecoxib
+T8	Treat-Disorder 77 97	rheumatoid arthritis
+T9	Drug 101 113	methotrexate
+T10	Drug 118 127	rofecoxib
+T7	Adverse_event 59 61	in
+E1	Adverse_event:T7 

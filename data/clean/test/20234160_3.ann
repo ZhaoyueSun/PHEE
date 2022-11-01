@@ -1,0 +1,9 @@
+T3	Subject 20 37	a 23-year-old man
+T5	Treatment 54 64	vancomycin
+T6	Effect 52 94	a vancomycin-induced anaphylactic reaction
+T8	Age 22 33	23-year-old
+T9	Gender 34 37	man
+T10	Drug 54 64	vancomycin
+T11	Treat-Disorder 115 168	methicillin-resistant Staphylococcus aureus infection
+T4	Adverse_event 42 51	developed
+E1	Adverse_event:T4

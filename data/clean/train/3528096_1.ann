@@ -1,0 +1,7 @@
+T5	Treatment 0 35	Administration of excessive insulin
+T7	Effect 44 56;90 111	hypoglycemia rebound hyperglycemia
+T8	Drug 28 35	insulin
+T9	Dosage 18 27	excessive
+T10	Duration 64 76	4 to 8 hours
+T6	Adverse_event 36 43	induced
+E1	Adverse_event:T6

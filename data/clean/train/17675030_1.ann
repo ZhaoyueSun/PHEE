@@ -1,0 +1,8 @@
+T3	Treatment 117 130	oxcarbazepine
+T5	Effect 142 152	angioedema
+T6	Subject 156 200	pediatric patients aged 16 years and younger
+T7	Age 180 200	16 years and younger
+T8	Drug 117 130	oxcarbazepine
+T4	Adverse_event 131 141	associated
+E1	Adverse_event:T4 
+T1	Sub-Disorder 156 165	pediatric

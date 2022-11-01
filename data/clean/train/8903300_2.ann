@@ -1,0 +1,9 @@
+T3	Effect 0 6	Tetany
+T4	Subject 10 27	a child with AIDS
+T6	Treatment 38 60	intravenous tobramycin
+T7	Age 12 17	child
+T8	Sub-Disorder 23 27	AIDS
+T9	Drug 50 60	tobramycin
+T10	Route 38 49	intravenous
+T5	Adverse_event 7 9	in
+E1	Adverse_event:T5 

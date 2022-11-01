@@ -1,0 +1,8 @@
+T4	Effect 19 59	serum lithium level had increased 4-fold
+T6	Treatment 67 76	acyclovir
+T7	Drug 67 76	acyclovir
+T8	Drug 25 32	lithium
+T5	Adverse_event 60 66	during
+T9	Combination 60 66	during
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T8 arg2:T7

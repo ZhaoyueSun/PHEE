@@ -1,0 +1,6 @@
+T3	Subject 15 21	a case
+T4	Effect 25 28	TEN
+T5	Treatment 53 66	ciprofloxacin
+T7	Drug 53 66	ciprofloxacin
+T6	Adverse_event 35 49	administration
+E1	Adverse_event:T6

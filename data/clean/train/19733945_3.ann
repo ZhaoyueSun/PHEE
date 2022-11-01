@@ -1,0 +1,5 @@
+T10	Effect 34 153	acute interstitial nephritis within the context of a drug rash with eosinophilia and systemic symptoms (DRESS) syndrome
+T15	Drug 13 22	linezolid
+T13	Adverse_event 23 33	associated
+E1	Adverse_event:T13 
+T1	Treatment 13 22	linezolid

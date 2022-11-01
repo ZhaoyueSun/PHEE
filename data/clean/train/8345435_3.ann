@@ -1,0 +1,9 @@
+T5	Treatment 32 41	valproate
+T7	Effect 50 69	hepatotoxic effects
+T8	Subject 13 20	a child
+T9	Age 15 20	child
+T10	Drug 32 41	valproate
+T11	Severity_cue 26 31	fatal
+T6	Adverse_event 42 49	related
+E1	Adverse_event:T6 
+A1	Severity E1 High

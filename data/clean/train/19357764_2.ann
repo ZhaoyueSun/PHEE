@@ -1,0 +1,7 @@
+T3	Effect 83 106	hyperlactatemia relapse
+T5	Subject 12 21	This case
+T6	Speculation_cue 57 68	potentially
+T7	Treatment 46 56	zidovudine
+T9	Drug 46 56	zidovudine
+T4	Adverse_event 73 77	lead
+E1	Adverse_event:T4

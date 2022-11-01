@@ -1,0 +1,9 @@
+T11	Treatment 89 178	prolonged and repeated i.v.-infusions of Fab fragments of anti-digitalis antibodies (FAB)
+T9	Subject 0 73	A massive digitoxin (DGTX) intoxication in a 36-year-old man (35 mg DGTX)
+T12	Treat-Disorder 2 39	massive digitoxin (DGTX) intoxication
+T13	Age 45 56	36-year-old
+T14	Gender 57 60	man
+T15	Route 112 126	i.v.-infusions
+T16	Drug 147 172	anti-digitalis antibodies
+T10	Potential_therapeutic_event 78 85	treated
+E1	Potential_therapeutic_event:T10 

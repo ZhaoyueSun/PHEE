@@ -1,0 +1,9 @@
+T10	Treatment 39 98	hypophosphatemic osteomalacia with phosphate and calcitriol
+T12	Effect 103 175	secondary hyperparathyroidism and vitamin D intoxication, potassium loss
+T13	Drug 74 83	phosphate
+T14	Drug 88 98	calcitriol
+T15	Treat-Disorder 39 68	hypophosphatemic osteomalacia
+T11	Adverse_event 9 22	major hazards
+T16	Combination 84 87	and
+E1	Adverse_event:T11 
+E2	Combination:T16 arg:T13 arg2:T14

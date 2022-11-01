@@ -1,0 +1,7 @@
+T8	Subject 22 43	an HIV-positive woman
+T10	Effect 83 106	two ectopic pregnancies
+T11	Treatment 0 18;44 69	Implanon   failure on antiretroviral therapy
+T12	Treat-Disorder 25 37	HIV-positive
+T13	Gender 38 43	woman
+T9	Adverse_event 70 79	resulting
+E1	Adverse_event:T9 

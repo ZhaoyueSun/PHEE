@@ -1,0 +1,8 @@
+T5	Treatment 186 237	chemotherapy with piritrexim, a methotrexate analog
+T6	Subject 12 74	a patient with transitional cell carcinoma of the renal pelvis
+T7	Effect 89 176	respiratory dysfunction and an abnormal chest x-ray with diffuse interstitial opacities
+T9	Treat-Disorder 27 74	transitional cell carcinoma of the renal pelvis
+T10	Drug 204 214	piritrexim
+T8	Adverse_event 79 88	developed
+E1	Adverse_event:T8 
+T1	Route 186 198	chemotherapy

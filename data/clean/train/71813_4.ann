@@ -1,0 +1,6 @@
+T3	Treatment 31 35	gold
+T5	Effect 92 206	wide range of skin disturbances, which in many cases do not break out until long after the drug has been withdrawn
+T6	Subject 52 72	in the same patient,
+T7	Drug 31 35	gold
+T4	Adverse_event 77 86	give rise
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T7	Treatment 25 37	chemotherapy
+T8	Subject 43 50	patient
+T10	Effect 75 198	a complex association of Beau's lines, transverse melanonychia, Muehrcke's lines, and diffuse hyperpigmentation of the skin
+T11	Route 25 37	chemotherapy
+T9	Adverse_event 65 74	developed
+E1	Adverse_event:T9

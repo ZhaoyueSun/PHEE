@@ -1,0 +1,18 @@
+T6	Subject 194 222	a 46-year-old female patient
+T7	Effect 45 65;115 189	subcutaneous changes presented as localized panniculitis in the area around the injection sites
+T8	Treatment 76 113	repeated glatiramer acetate injection
+T10	Age 196 207	46-year-old
+T11	Gender 208 214	female
+T12	Drug 85 103	glatiramer acetate
+T13	Route 104 113	injection
+T14	Time_elapsed 267 277	18 months.
+T15	Drug 244 262	glatiramer acetate
+T18	Treatment 244 276	glatiramer acetate for 18 months
+T9	Adverse_event 66 75	following
+T17	Potential_therapeutic_event 231 238	treated
+E1	Adverse_event:T9 arg:T7 arg2:T8 arg3:T6
+E2	Potential_therapeutic_event:T17 arg:T18 arg2:T6
+R1	has Arg1:T8 Arg2:T12	
+R2	has Arg1:T8 Arg2:T13	
+R3	has Arg1:T18 Arg2:T15	
+R4	has Arg1:T18 Arg2:T14

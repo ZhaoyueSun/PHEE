@@ -1,0 +1,5 @@
+T5	Effect 0 48	Interstitial pneumonitis and alveolar hemorrhage
+T7	Drug 69 78	rituximab
+T8	Treatment 69 78	rituximab
+T6	Adverse_event 49 61	complicating
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T8	Effect 54 85	neuropsychological side effects
+T9	Treatment 99 107	morphine
+T11	Drug 99 107	morphine
+T12	Negation_cue 34 38	free
+T10	Adverse_event 86 93	noticed
+E1	Adverse_event:T10 
+A1	Negated E1

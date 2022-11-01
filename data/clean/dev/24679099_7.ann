@@ -1,0 +1,10 @@
+T7	Treatment 56 82	bevacizumab and irinotecan
+T9	Effect 108 122	liver toxicity
+T10	Drug 56 67	bevacizumab
+T11	Drug 72 82	irinotecan
+T13	Negation_cue 105 107	no
+T8	Adverse_event 127 135	observed
+T12	Combination 68 71	and
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T10 arg2:T11
+A1	Negated E1

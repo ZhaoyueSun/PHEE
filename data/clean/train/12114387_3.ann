@@ -1,0 +1,9 @@
+T11	Treatment 116 155	2 months of treatment with epoprostenol
+T13	Effect 172 241	rapidly progressive erythema, scaling, nausea and vomiting, and fever
+T14	Subject 20 104	a patient with pulmonary hypertension and undifferentiated connective tissue disease
+T17	Drug 143 155	epoprostenol
+T18	Time_elapsed 110 124	after 2 months
+T19	Treat-Disorder 35 57	pulmonary hypertension
+T20	Treat-Disorder 62 104	undifferentiated connective tissue disease
+T12	Adverse_event 157 166	presented
+E1	Adverse_event:T12

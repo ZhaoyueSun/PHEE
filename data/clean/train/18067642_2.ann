@@ -1,0 +1,5 @@
+T3	Treatment 0 10	Amiodarone
+T5	Effect 108 146	potential to cause thyroid dysfunction
+T6	Drug 0 10	Amiodarone
+T4	Adverse_event 19 29	recognized
+E1	Adverse_event:T4

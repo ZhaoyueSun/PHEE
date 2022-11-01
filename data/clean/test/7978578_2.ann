@@ -1,0 +1,7 @@
+T6	Subject 28 68	a patient in a promethazine-induced coma
+T8	Treatment 83 108	treatment with flumazenil
+T10	Drug 98 108	flumazenil
+T11	Drug 43 55	promethazine
+T12	Treat-Disorder 64 68	coma
+T7	Potential_therapeutic_event 69 82	responding to
+E1	Potential_therapeutic_event:T7 

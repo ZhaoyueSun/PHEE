@@ -1,0 +1,11 @@
+T5	Treatment 0 10	Amiodarone
+T6	Treatment 74 117	200 mg/day six days per week for six months
+T7	Effect 40 43	AVT
+T8	Subject 52 59;61 64	patient she
+T9	Gender 61 64	she
+T10	Drug 0 10	Amiodarone
+T11	Dosage 74 84	200 mg/day
+T13	Freq 85 102	six days per week
+T14	Freq 107 117	six months
+T4	Adverse_event 33 39	induce
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T6	Treatment 43 54	pamidronate
+T5	Treat-Disorder 71 84	hypercalcemia
+T8	Drug 104 113	vitamin D
+T9	Drug 43 54	pamidronate
+T10	Subject 22 28	a case
+T7	Potential_therapeutic_event 55 58	for
+E1	Potential_therapeutic_event:T7

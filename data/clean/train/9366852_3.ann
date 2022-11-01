@@ -1,0 +1,5 @@
+T5	Treatment 32 39	heparin
+T7	Effect 51 91	thrombocytopenia and thrombosis syndrome
+T8	Drug 32 39	heparin
+T6	Adverse_event 40 50	associated
+E1	Adverse_event:T6

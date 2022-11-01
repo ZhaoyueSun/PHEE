@@ -1,0 +1,6 @@
+T4	Treatment 51 88	discontinuation of hydroxychloroquine
+T7	Route 51 66	discontinuation
+T8	Drug 70 88	hydroxychloroquine
+T9	Effect 26 35	nephrosis
+T5	Potential_therapeutic_event 36 44	occurred
+E1	Potential_therapeutic_event:T5

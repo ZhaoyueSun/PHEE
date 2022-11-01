@@ -1,0 +1,11 @@
+T5	Subject 5 45	female with acute lymphoblastic leukemia
+T8	Effect 107 186	severe, life-threatening, acute encephalopathy with high-pressure hydrocephalus
+T10	Gender 5 11	female
+T11	Treatment 47 99	inadvertent doxorubicin administration intrathecally
+T12	Drug 59 70	doxorubicin
+T13	Treat-Disorder 17 45	acute lymphoblastic leukemia
+T14	Route 86 99	intrathecally
+T15	Severity_cue 107 138	severe, life-threatening, acute
+T7	Adverse_event 100 106	caused
+E1	Adverse_event:T7 
+A1	Severity E1 High

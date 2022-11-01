@@ -1,0 +1,9 @@
+T3	Subject 28 55	a 54-year-old Turkish woman
+T4	Treatment 75 86	ceftriaxone
+T6	Effect 95 98	FDE
+T7	Age 30 41	54-year-old
+T8	Race 42 49	Turkish
+T9	Gender 50 55	woman
+T10	Drug 75 86	ceftriaxone
+T5	Adverse_event 87 94	induced
+E1	Adverse_event:T5

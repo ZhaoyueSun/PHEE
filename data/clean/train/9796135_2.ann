@@ -1,0 +1,7 @@
+T5	Subject 0 16	Elderly patients
+T6	Treatment 26 33	nitrate
+T7	Effect 92 103;116 131	hypotension unconsciousness
+T9	Age 0 7	Elderly
+T10	Drug 26 33	nitrate
+T8	Adverse_event 78 88	occurrence
+E1	Adverse_event:T8

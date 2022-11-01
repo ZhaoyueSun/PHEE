@@ -1,0 +1,7 @@
+T3	Effect 0 19	A 15-kg weight gain
+T5	Subject 33 42	a patient
+T6	Treatment 68 77	ibuprofen
+T7	Drug 68 77	ibuprofen
+T8	Time_elapsed 50 64	the third week
+T4	Adverse_event 20 29	developed
+E1	Adverse_event:T4

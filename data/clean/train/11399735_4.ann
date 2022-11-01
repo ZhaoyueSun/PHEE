@@ -1,0 +1,6 @@
+T5	Effect 20 50;79 98	interstitial pulmonary disease lymphocytic colitis
+T7	Treatment 121 132	ticlopidine
+T8	Drug 121 132	ticlopidine
+T9	Subject 10 16	a case
+T6	Adverse_event 99 105	during
+E1	Adverse_event:T6

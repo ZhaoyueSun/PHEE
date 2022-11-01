@@ -1,0 +1,15 @@
+T5	Treat-Disorder 0 18	ADH hypersecretion
+T6	Treatment 68 88	mizoribin withdrawal
+T7	Sub-Disorder 34 51	plasma osmolality
+T9	Drug 68 77	mizoribin
+T11	Speculation_cue 115 120	might
+T12	Treatment 106 114	bredinin
+T13	Drug 106 114	bredinin
+T14	Effect 121 143	adversely induce SIADH
+T16	Subject 34 51	plasma osmolality
+T8	Potential_therapeutic_event 56 64	reversed
+T15	Adverse_event 131 137	induce
+E1	Potential_therapeutic_event:T8 arg2:T6 arg3:T16
+E2	Adverse_event:T15 arg:T12 arg2:T14
+R1	has_cue Arg1:E2 Arg2:T11
+R2	has Arg1:T6 Arg2:T5	

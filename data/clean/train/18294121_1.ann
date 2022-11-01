@@ -1,0 +1,6 @@
+T3	Speculation_cue 158 166	probable
+T4	Treatment 86 98	temozolomide
+T5	Effect 148 153	fever
+T8	Drug 86 98	temozolomide
+T6	Adverse_event 123 144	adverse drug reaction
+E1	Adverse_event:T6

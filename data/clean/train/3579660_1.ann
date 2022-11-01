@@ -1,0 +1,9 @@
+T4	Treatment 62 110	six weeks and 11 months of penicillamine therapy
+T6	Effect 141 158	new brain lesions
+T7	Duration 62 85	six weeks and 11 months
+T8	Drug 89 102	penicillamine
+T10	Effect 227 256	excellent hepatic decoppering
+T5	Adverse_event 126 137	development
+T9	Potential_therapeutic_event 261 269	occurred
+E1	Adverse_event:T5 arg:T6 arg2:T4
+E2	Potential_therapeutic_event:T9 arg:T4 arg2:T10

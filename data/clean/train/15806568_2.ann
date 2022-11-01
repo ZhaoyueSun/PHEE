@@ -1,0 +1,5 @@
+T3	Treatment 76 81	BTX-B
+T5	Effect 40 59	visual disturbances
+T8	Drug 76 81	BTX-B
+T6	Adverse_event 60 70	associated
+E1	Adverse_event:T6

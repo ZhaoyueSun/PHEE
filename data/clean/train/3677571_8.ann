@@ -1,0 +1,5 @@
+T5	Treatment 27 35	diazepam
+T6	Treat-Disorder 0 8	Seizures
+T7	Drug 27 35	diazepam
+T4	Potential_therapeutic_event 14 21	treated
+E1	Potential_therapeutic_event:T4

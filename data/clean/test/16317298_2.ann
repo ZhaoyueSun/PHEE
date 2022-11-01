@@ -1,0 +1,5 @@
+T3	Treatment 0 11	Gemcitabine
+T5	Effect 64 80	radiation recall
+T6	Drug 0 11	Gemcitabine
+T4	Adverse_event 58 63	cause
+E1	Adverse_event:T4

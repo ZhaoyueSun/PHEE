@@ -1,0 +1,5 @@
+T5	Treatment 154 164	ethambutol
+T6	Effect 165 183	damages the retina
+T8	Drug 154 164	ethambutol
+T7	Adverse_event 140 148	evidence
+E1	Adverse_event:T7

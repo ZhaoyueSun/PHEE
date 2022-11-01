@@ -1,0 +1,9 @@
+T8	Treatment 22 32;89 116	flecainide interaction with paroxetine
+T9	Effect 41 49	delirium
+T10	Subject 12 18	a case
+T11	Drug 22 32	flecainide
+T12	Drug 106 116	paroxetine
+T7	Adverse_event 33 40	induced
+T13	Combination 89 100	interaction
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T12 arg2:T11

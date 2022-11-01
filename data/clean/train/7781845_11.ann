@@ -1,0 +1,10 @@
+T10	Subject 22 40;61 86	cachectic patients with protracted diarrhoea
+T12	Treatment 104 144	anti-malarial drugs including mefloquine
+T14	Effect 177 197	severe hypoglycaemia
+T16	Speculation_cue 169 173	risk
+T17	Severity_cue 177 183	severe
+T18	Drug 134 144	mefloquine
+T19	Treat-Disorder 22 31	cachectic
+T20	Treat-Disorder 66 86	protracted diarrhoea
+T13	Adverse_event 169 173	risk
+E1	Adverse_event:T13

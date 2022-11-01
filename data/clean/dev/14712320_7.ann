@@ -1,0 +1,9 @@
+T7	Effect 38 76	rhabdomyolysis and acute renal failure
+T9	Treatment 94 137	interaction between danazol and simvastatin
+T10	Severity_cue 57 62	acute
+T12	Drug 114 121	danazol
+T13	Drug 126 137	simvastatin
+T8	Adverse_event 77 86	secondary
+T11	Combination 94 105	interaction
+E1	Adverse_event:T8 
+E2	Combination:T11 arg:T12 arg2:T13

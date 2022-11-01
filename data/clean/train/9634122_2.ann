@@ -1,0 +1,5 @@
+T5	Treatment 48 57	flutamide
+T6	Effect 0 44	Prolonged prostate-specific antigen response
+T8	Drug 48 57	flutamide
+T7	Adverse_event 45 47	in
+E1	Adverse_event:T7

@@ -1,0 +1,9 @@
+T3	Effect 0 19	Acute renal failure
+T5	Treatment 75 84	captopril
+T6	Subject 88 120	chronically hypoperfused kidneys
+T7	Sub-Disorder 88 120	chronically hypoperfused kidneys
+T8	Speculation_cue 20 31	most likely
+T9	Drug 75 84	captopril
+T4	Adverse_event 53 71	nephrotoxic effect
+E1	Adverse_event:T4 
+A1	Speculated E1

@@ -1,0 +1,5 @@
+T3	Treatment 54 63	captopril
+T4	Effect 23 50	delated cutaneous reactions
+T6	Drug 54 63	captopril
+T5	Adverse_event 81 89	reported
+E1	Adverse_event:T5

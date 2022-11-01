@@ -1,0 +1,5 @@
+T5	Treatment 23 40	clozapine therapy
+T3	Effect 0 15	Agranulocytosis
+T6	Drug 23 32	clozapine
+T4	Adverse_event 16 22	during
+E2	Adverse_event:T4

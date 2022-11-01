@@ -1,0 +1,6 @@
+T3	Effect 0 50	Acute syphilitic posterior placoid chorioretinitis
+T5	Treatment 61 107	intravitreal triamcinolone acetonide injection
+T6	Route 61 73;98 107	intravitreal injection
+T7	Drug 74 97	triamcinolone acetonide
+T4	Adverse_event 51 60	following
+E1	Adverse_event:T4

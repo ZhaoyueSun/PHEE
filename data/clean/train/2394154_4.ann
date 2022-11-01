@@ -1,0 +1,6 @@
+T7	Effect 34 84	fever, pulmonary infiltrates, and pleural effusion
+T9	Treatment 102 111	acyclovir
+T10	Negation_cue 116 119	not
+T11	Drug 102 111	acyclovir
+T8	Adverse_event 85 94	following
+E1	Adverse_event:T8

@@ -1,0 +1,9 @@
+T3	Subject 0 21	A 21-year-old patient
+T5	Effect 32 46	rhabdomyolysis
+T6	Treatment 47 101	during his nineteenth week of treatment with clozapine
+T7	Treat-Disorder 106 134	drug-resistant schizophrenia
+T8	Age 2 13	21-year-old
+T9	Drug 92 101	clozapine
+T10	Time_elapsed 47 73	during his nineteenth week
+T4	Adverse_event 22 31	developed
+E1	Adverse_event:T4

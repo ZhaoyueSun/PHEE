@@ -1,0 +1,5 @@
+T11	Treatment 40 47	insulin
+T13	Effect 57 109	anti-natriuresis and increased vascular permeability
+T14	Drug 40 47	insulin
+T12	Adverse_event 24 36	side effects
+E1	Adverse_event:T12

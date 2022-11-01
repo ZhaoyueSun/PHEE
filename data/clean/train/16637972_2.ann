@@ -1,0 +1,6 @@
+T3	Effect 27 65	spontaneous sub-conjunctival haematoma
+T4	Subject 69 78	a patient
+T5	Treatment 89 97	warfarin
+T7	Drug 89 97	warfarin
+T6	Adverse_event 66 68	in
+E1	Adverse_event:T6

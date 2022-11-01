@@ -1,0 +1,6 @@
+T4	Treatment 46 80	chloroquine and hydroxychloroquine
+T5	Effect 81 92	maculopathy
+T7	Drug 46 57	chloroquine
+T8	Drug 62 80	hydroxychloroquine
+T6	Adverse_event 25 34	identical
+E1	Adverse_event:T6

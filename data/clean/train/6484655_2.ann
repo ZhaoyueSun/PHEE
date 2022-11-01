@@ -1,0 +1,5 @@
+T4	Treatment 0 10	Ampicillin
+T5	Effect 22 30	seizures
+T6	Drug 0 10	Ampicillin
+T3	Adverse_event 11 21	associated
+E1	Adverse_event:T3

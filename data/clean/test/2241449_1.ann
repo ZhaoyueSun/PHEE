@@ -1,0 +1,6 @@
+T3	Treatment 74 85	sulfonamide
+T5	Effect 94 121	injury to the urinary tract
+T6	Drug 74 85	sulfonamide
+T7	Speculation_cue 54 63	potential
+T4	Adverse_event 86 93	induced
+E1	Adverse_event:T4

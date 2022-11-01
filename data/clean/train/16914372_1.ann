@@ -1,0 +1,9 @@
+T3	Subject 13 26	two instances
+T4	Effect 30 56;74 96	systemic allergic reaction potential side effects
+T6	Treatment 106 115	aprotinin
+T7	Population 13 16	two
+T8	Speculation_cue 74 83	potential
+T9	Drug 106 115	aprotinin
+T10	Route 116 126	injections
+T5	Adverse_event 97 99	of
+E1	Adverse_event:T5

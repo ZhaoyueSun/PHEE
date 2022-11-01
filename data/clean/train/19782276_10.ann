@@ -1,0 +1,7 @@
+T7	Treatment 30 40	cytarabine
+T9	Effect 65 79	liver function
+T10	Drug 30 40	cytarabine
+T11	Speculation_cue 41 46	might
+T8	Adverse_event 52 60	affected
+E1	Adverse_event:T8 
+A1	Speculated E1

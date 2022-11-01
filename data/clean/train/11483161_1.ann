@@ -1,0 +1,9 @@
+T3	Subject 61 88	an HIV-infected hemophiliac
+T4	Treatment 20 30	amprenavir
+T5	Effect 36 57	intracranial bleeding
+T8	Speculation_cue 0 8	Possible
+T9	Drug 20 30	amprenavir
+T10	Treat-Disorder 64 67	HIV
+T6	Adverse_event 9 16	linkage
+E1	Adverse_event:T6 
+A1	Speculated E1

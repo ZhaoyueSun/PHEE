@@ -1,0 +1,5 @@
+T4	Effect 7 25	serotonin syndrome
+T6	Treatment 56 100	ingestion of more than one serotonergic drug
+T7	Drug 83 100	serotonergic drug
+T5	Adverse_event 40 55	associated with
+E1	Adverse_event:T5

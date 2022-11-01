@@ -1,0 +1,8 @@
+T6	Subject 0 34	A patient with Parkinson's disease
+T7	Treatment 36 106	initially treated with bromocriptine and subsequently with cabergoline
+T5	Effect 118 185	progressive pleuropulmonary abnormalities during the latter therapy
+T8	Treat-Disorder 15 34	Parkinson's disease
+T9	Drug 59 72	bromocriptine
+T10	Drug 95 106	cabergoline
+T4	Adverse_event 108 117	developed
+E1	Adverse_event:T4 

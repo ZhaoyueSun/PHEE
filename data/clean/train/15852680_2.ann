@@ -1,0 +1,10 @@
+T4	Effect 20 44	interstitial pneumonitis
+T7	Treat-Disorder 117 132	prostate cancer
+T8	Subject 10 16	a case
+T9	Drug 56 68	bicalutamide
+T11	Drug 76 95	leuprorelin acetate
+T6	Treatment 56 132	bicalutamide and/or leuprorelin acetate given as therapy for prostate cancer
+T5	Adverse_event 45 52	induced
+T10	Combination 69 72	and
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T9 arg2:T11

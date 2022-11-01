@@ -1,0 +1,5 @@
+T3	Effect 0 34	Fixed drug eruption of the scrotum
+T5	Treatment 42 57	methylphenidate
+T6	Drug 42 57	methylphenidate
+T4	Adverse_event 35 38	due
+E1	Adverse_event:T4

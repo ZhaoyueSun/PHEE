@@ -1,0 +1,5 @@
+T4	Treatment 0 16	Propylthiouracil
+T6	Effect 25 45	cutaneous vasculitis
+T7	Drug 0 16	Propylthiouracil
+T5	Adverse_event 17 24	induced
+E1	Adverse_event:T5

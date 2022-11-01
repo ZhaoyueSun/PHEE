@@ -1,0 +1,6 @@
+T4	Effect 0 9	Ectropion
+T5	Treatment 23 56	bolus injection of 5-fluorouracil
+T6	Route 23 38	bolus injection
+T7	Drug 42 56	5-fluorouracil
+T3	Adverse_event 10 19	secondary
+E1	Adverse_event:T3

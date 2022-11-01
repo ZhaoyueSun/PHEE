@@ -1,0 +1,5 @@
+T8	Effect 139 156	venous thrombosis
+T9	Treatment 104 114	infliximab
+T10	Drug 104 114	infliximab
+T7	Adverse_event 122 131	causation
+E1	Adverse_event:T7

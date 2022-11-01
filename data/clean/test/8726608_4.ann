@@ -1,0 +1,9 @@
+T4	Treatment 40 103	intravenous acyclovir is administered concurrently with lithium
+T5	Effect 159 175	lithium toxicity
+T7	Drug 52 61	acyclovir
+T8	Drug 96 103	lithium
+T9	Route 40 51	intravenous
+T6	Adverse_event 150 155	signs
+T10	Combination 78 90	concurrently
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T8 arg2:T7

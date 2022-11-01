@@ -1,0 +1,8 @@
+T7	Treatment 28 90	the concomitant administration of clarithromycin and sirolimus
+T9	Effect 228 262	acute impairment of renal function
+T10	Drug 62 76	clarithromycin
+T11	Drug 81 90	sirolimus
+T8	Adverse_event 209 219	associated
+T12	Combination 32 43	concomitant
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T10 arg2:T11

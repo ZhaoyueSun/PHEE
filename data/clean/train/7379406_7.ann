@@ -1,0 +1,7 @@
+T6	Effect 67 76	fluorosis
+T7	Subject 53 66	the patient's
+T9	Treatment 91 119	chronic use of niflumic acid
+T10	Drug 106 119	niflumic acid
+T11	Duration 91 98	chronic
+T8	Adverse_event 81 90	linked to
+E1	Adverse_event:T8

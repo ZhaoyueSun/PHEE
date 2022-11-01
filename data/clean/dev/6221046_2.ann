@@ -1,0 +1,5 @@
+T12	Treatment 26 42	propylthiouracil
+T13	Effect 54 143	granulocytopenia, eosinophilia, skin reaction and hepatitis with lymphocyte sensitization
+T14	Drug 26 42	propylthiouracil
+T11	Adverse_event 9 22	complications
+E1	Adverse_event:T11

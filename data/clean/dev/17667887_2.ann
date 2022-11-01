@@ -1,0 +1,11 @@
+T9	Effect 23 41	serotonin syndrome
+T10	Subject 45 61	elderly patients
+T11	Treat-Disorder 82 102	psychotic depression
+T12	Treatment 108 151	atypical antipsychotics and antidepressants
+T14	Age 45 52	elderly
+T16	Drug 108 131	atypical antipsychotics
+T17	Drug 136 151	antidepressants
+T13	Adverse_event 62 68	during
+T15	Combination 132 135	and
+E1	Adverse_event:T13 
+E2	Combination:T15 arg:T16 arg2:T17

@@ -1,0 +1,7 @@
+T3	Subject 10 20	2 patients
+T5	Effect 35 55	polyarteritis nodosa
+T6	Treatment 66 97	vaccination against hepatitis B
+T7	Population 10 11	2
+T8	Drug 66 97	vaccination against hepatitis B
+T4	Adverse_event 25 34	developed
+E1	Adverse_event:T4 

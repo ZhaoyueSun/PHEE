@@ -1,0 +1,5 @@
+T5	Effect 48 64	adverse bleeding
+T6	Drug 32 40	warfarin
+T4	Treatment 32 40	warfarin
+T3	Adverse_event 41 44	use
+E1	Adverse_event:T3

@@ -1,0 +1,12 @@
+T8	Treatment 113 131	infliximab therapy
+T10	Effect 152 173	peripheral neuropathy
+T13	Drug 113 123	infliximab
+T9	Adverse_event 136 146	associated
+E1	Adverse_event:T9 arg:T8 arg2:T10 arg3:T2
+T1	Treat-Disorder 181 203	necrotizing vasculitis
+T2	Subject 207 218	one patient
+R1	has Arg1:T8 Arg2:T1	
+E2	Adverse_event:T9 arg:T8 arg2:T5 arg3:T4
+T3	Sub-Disorder 241 275	preexisting mononeuritis multiplex
+T4	Subject 241 288	preexisting mononeuritis multiplex in the other
+T5	Effect 152 173	peripheral neuropathy

@@ -1,0 +1,7 @@
+T7	Effect 0 19	Lupus-like syndrome
+T8	Treatment 30 51	5-aminosalicylic acid
+T9	Subject 55 95	patients with inflammatory bowel disease
+T10	Treat-Disorder 69 95	inflammatory bowel disease
+T12	Drug 30 51	5-aminosalicylic acid
+T6	Adverse_event 20 26	caused
+E1	Adverse_event:T6 

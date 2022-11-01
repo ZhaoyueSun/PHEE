@@ -1,0 +1,9 @@
+T5	Subject 44 139	three premature infants (mean gestational age 27 weeks) cared for in the intensive care nursery
+T6	Effect 148 236	clinically significant septal hypertrophy and left ventricular outflow tract obstruction
+T8	Treatment 247 308	during dexamethasone treatment for bronchopulmonary dysplasia
+T9	Population 44 49	three
+T10	Age 50 99	premature infants (mean gestational age 27 weeks)
+T11	Drug 254 267	dexamethasone
+T12	Treat-Disorder 282 309	bronchopulmonary dysplasia.
+T7	Adverse_event 237 246	developed
+E1	Adverse_event:T7

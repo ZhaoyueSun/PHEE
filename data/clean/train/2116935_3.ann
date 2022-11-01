@@ -1,0 +1,10 @@
+T7	Effect 23 60	severe splenic hemorrhage and rupture
+T9	Treatment 77 113	3 h after completion of tPA infusion
+T10	Treat-Disorder 118 155	suspected acute myocardial infarction
+T11	Severity_cue 23 29	severe
+T12	Time_elapsed 77 80	3 h
+T13	Drug 101 104	tPA
+T14	Route 105 113	infusion
+T8	Adverse_event 67 76	developed
+E1	Adverse_event:T8 
+A1	Severity E1 High

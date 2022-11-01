@@ -1,0 +1,5 @@
+T3	Effect 49 57	seizures
+T5	Treatment 72 96	a complication of CBZ OD
+T6	Drug 90 96	CBZ OD
+T4	Adverse_event 63 68	occur
+E1	Adverse_event:T4 

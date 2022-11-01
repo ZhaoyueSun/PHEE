@@ -1,0 +1,11 @@
+T3	Subject 20 26	a case
+T4	Effect 30 40	anuric ARF
+T5	Treatment 47 74	high-dose mannitol infusion
+T8	Drug 57 65	mannitol
+T9	Route 66 74	infusion
+T10	Dosage 47 56	high-dose
+T11	Treat-Disorder 92 113	narrow-angle glaucoma
+T12	Speculation_cue 119 126	readily
+T7	Adverse_event 41 46	after
+E1	Adverse_event:T7 
+A1	Speculated E1

@@ -1,0 +1,7 @@
+T3	Treatment 84 94	MG with MM
+T5	Speculation_cue 95 101	may be
+T7	Effect 118 155	increased risk of lymphoproliferative
+T9	Treat-Disorder 84 86	MG
+T4	Drug 92 94	MM
+T6	Adverse_event 102 112	associated
+E1	Adverse_event:T6

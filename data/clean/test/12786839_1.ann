@@ -1,0 +1,7 @@
+T9	Effect 15 82	high fever, skin rash, liver dysfunction and atypical lymphocytosis
+T11	Treatment 133 137	SASP
+T12	Subject 0 13	In both cases
+T13	Population 3 7	both
+T14	Drug 133 137	SASP
+T10	Adverse_event 83 92	developed
+E1	Adverse_event:T10

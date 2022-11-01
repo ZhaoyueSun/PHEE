@@ -1,0 +1,8 @@
+T5	Treatment 96 147	curariform muscle relaxant was given simultaneously
+T4	Effect 71 90	neuromuscular block
+T6	Drug 53 62	magnesium
+T7	Drug 96 122	curariform muscle relaxant
+T3	Adverse_event 63 70	induced
+T8	Combination 133 147	simultaneously
+E1	Adverse_event:T3 
+E2	Combination:T8 arg:T6 arg2:T7

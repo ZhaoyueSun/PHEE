@@ -1,0 +1,7 @@
+T3	Effect 0 13	Hypercalcemia
+T4	Subject 17 32	an AIDS patient
+T5	Treatment 46 60	growth hormone
+T7	Treat-Disorder 20 24	AIDS
+T8	Drug 46 60	growth hormone
+T6	Adverse_event 41 45	with
+E1	Adverse_event:T6 

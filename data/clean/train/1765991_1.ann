@@ -1,0 +1,7 @@
+T8	Treatment 45 61	interferon-gamma
+T9	Effect 13 41	systemic lupus erythematosus
+T6	Subject 65 100	a patient with rheumatoid arthritis
+T11	Drug 45 61	interferon-gamma
+T12	Treat-Disorder 80 101	rheumatoid arthritis.
+T10	Adverse_event 42 44	by
+E1	Adverse_event:T10

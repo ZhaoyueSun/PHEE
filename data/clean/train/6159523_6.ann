@@ -1,0 +1,9 @@
+T13	Treatment 52 76	50% solution of dextrose
+T15	Subject 131 227	diabetic individuals who are either allergic or are receiving beta-adrenoreceptor blocking drugs
+T16	Effect 96 121	a significant risk factor
+T17	Sub-Disorder 131 139	diabetic
+T18	Treat-Disorder 33 46	hypoglycaemia
+T12	Drug 68 76	dextrose
+T19	Route 52 64	50% solution
+T14	Adverse_event 80 90	associated
+E1	Adverse_event:T14 

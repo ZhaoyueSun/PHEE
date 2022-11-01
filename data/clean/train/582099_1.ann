@@ -1,0 +1,8 @@
+T6	Treatment 56 97	intrathecally administered amphotericin B
+T7	Effect 103 149	an acute toxic delirium with EEG abnormalities
+T8	Subject 0 38	A patient with coccidioidal meningitis
+T9	Treat-Disorder 15 38	coccidioidal meningitis
+T10	Drug 83 97	amphotericin B
+T11	Route 56 69	intrathecally
+T5	Adverse_event 43 55	treated with
+E1	Adverse_event:T5 

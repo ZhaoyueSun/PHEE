@@ -1,0 +1,8 @@
+T4	Treatment 92 106	oral methadone
+T5	Effect 54 66	prolonged QT
+T6	Subject 28 37	a patient
+T7	Drug 97 106	methadone
+T8	Route 92 96	oral
+T9	Treat-Disorder 113 134	chronic pain syndrome
+T3	Adverse_event 79 86	treated
+E1	Adverse_event:T3

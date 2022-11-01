@@ -1,0 +1,7 @@
+T3	Effect 46 76	fluctuation of the QT interval
+T5	Subject 26 38	this patient
+T6	Treatment 80 106	a stable dose of methadone
+T7	Drug 97 106	methadone
+T8	Dosage 80 93	a stable dose
+T4	Adverse_event 77 79	at
+E1	Adverse_event:T4

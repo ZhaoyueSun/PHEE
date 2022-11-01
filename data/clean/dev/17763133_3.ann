@@ -1,0 +1,9 @@
+T4	Treatment 45 67;0 11	cyclosporine treatment Simvastatin
+T6	Effect 20 34	rhabdomyolysis
+T8	Drug 0 11	Simvastatin
+T9	Drug 45 57	cyclosporine
+T10	Treat-Disorder 72 79	uveitis
+T5	Adverse_event 12 19	induced
+T11	Combination 35 44	following
+E1	Adverse_event:T5 
+E2	Combination:T11 arg:T9 arg2:T8

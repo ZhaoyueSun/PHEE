@@ -1,0 +1,11 @@
+T8	Effect 97 102;113 126	edema in both labia
+T7	Treatment 0 95	On the fifth day of tocolysis with magnesium sulfate, nifedipine, terbutaline and betamethasone
+T9	Duration 3 16	the fifth day
+T10	Drug 35 52	magnesium sulfate
+T11	Drug 54 64	nifedipine
+T12	Drug 66 77	terbutaline
+T13	Drug 82 95	betamethasone
+T6	Adverse_event 103 112	developed
+T14	Combination 78 81	and
+E1	Adverse_event:T6 
+E2	Combination:T14 arg:T10 arg2:T11 arg3:T12 arg4:T13

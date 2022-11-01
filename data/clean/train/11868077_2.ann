@@ -1,0 +1,8 @@
+T3	Effect 22 45	subcutaneous metastasis
+T4	Treatment 75 111	percutaneous ethanol injection (PEI)
+T7	Subject 12 18	a case
+T8	Drug 88 95	ethanol
+T9	Route 96 105	injection
+T10	Treat-Disorder 129 153	hepatocellular carcinoma
+T6	Adverse_event 69 74	after
+E1	Adverse_event:T6

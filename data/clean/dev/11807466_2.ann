@@ -1,0 +1,7 @@
+T3	Subject 10 19	a patient
+T6	Treatment 55 85	starting carbamazepine therapy
+T4	Effect 24 48	experienced LABD shortly
+T7	Drug 64 77	carbamazepine
+T8	Route 55 63	starting
+T5	Adverse_event 49 54	after
+E1	Adverse_event:T5

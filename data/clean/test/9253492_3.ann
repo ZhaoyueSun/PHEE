@@ -1,0 +1,7 @@
+T3	Effect 0 24	Heat stroke-like episode
+T5	Treatment 46 56	zonisamide
+T6	Subject 28 35	a child
+T7	Age 30 35	child
+T8	Drug 46 56	zonisamide
+T4	Adverse_event 36 42	caused
+E1	Adverse_event:T4

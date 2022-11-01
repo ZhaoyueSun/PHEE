@@ -1,0 +1,6 @@
+T3	Treatment 30 42	procainamide
+T5	Effect 4 26	pro-arrhythmic effects
+T6	Speculation_cue 43 46	may
+T7	Drug 30 42	procainamide
+T4	Adverse_event 27 29	of
+E1	Adverse_event:T4

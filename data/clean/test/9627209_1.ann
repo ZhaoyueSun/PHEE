@@ -1,0 +1,7 @@
+T11	Treatment 11 49	a total daily dose of 25 mg sertraline
+T12	Subject 0 9	In case 1
+T14	Effect 133 198	doubling of the lamotrigine blood level with symptoms of toxicity
+T15	Dosage 19 38	daily dose of 25 mg
+T16	Drug 39 49	sertraline
+T13	Adverse_event 119 127	resulted
+E1	Adverse_event:T13

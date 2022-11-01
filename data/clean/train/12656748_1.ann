@@ -1,0 +1,10 @@
+T5	Subject 0 61	A 58-yr-old male patient with essential thrombocythaemia (ET)
+T7	Effect 72 103	chronic myeloid leukaemia (CML)
+T8	Treatment 110 168	continuous uneventful treatment with hydroxyurea for 18 yr
+T9	Age 2 11	58-yr-old
+T10	Gender 12 16	male
+T11	Treat-Disorder 30 61	essential thrombocythaemia (ET)
+T12	Drug 147 158	hydroxyurea
+T13	Duration 163 168	18 yr
+T6	Adverse_event 62 71	developed
+E1	Adverse_event:T6 

@@ -1,0 +1,6 @@
+T7	Subject 95 113	alcoholic patients
+T8	Effect 121 140	hepatotoxic effects
+T9	Treatment 144 155	paracetamol
+T5	Drug 144 155	paracetamol
+T10	Adverse_event 159 167	remarked
+E2	Adverse_event:T10

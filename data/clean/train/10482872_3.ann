@@ -1,0 +1,6 @@
+T16	Effect 114 293	growth deficiency, developmental delay, craniosynostosis, blepharophimosis, flat nasal bridge, abnormal ears, and distal limb defects including hypoplastic thumbs and oligodactyly
+T17	Treatment 22 59	in utero exposure to cyclosposphamide
+T18	Subject 105 112	patient
+T19	Drug 43 59	cyclosposphamide
+T15	Adverse_event 60 66	shared
+E1	Adverse_event:T15

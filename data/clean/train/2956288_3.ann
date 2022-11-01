@@ -1,0 +1,6 @@
+T3	Effect 0 16	Optic neuropathy
+T4	Treatment 20 30	ethambutol
+T7	Drug 20 30	ethambutol
+T8	Treat-Disorder 39 57	renal tuberculosis
+T6	Adverse_event 31 38	treated
+E1	Adverse_event:T6

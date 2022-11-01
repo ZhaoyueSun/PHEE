@@ -1,0 +1,8 @@
+T8	Negation_cue 42 45	not
+T9	Effect 57 63	anemia
+T10	Subject 84 92	patients
+T11	Treatment 100 103	MMF
+T14	Treat-Disorder 113 122	pemphigus
+T13	Adverse_event 64 66	is
+E1	Adverse_event:T13 
+A1	Negated E1

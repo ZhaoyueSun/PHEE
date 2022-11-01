@@ -1,0 +1,6 @@
+T5	Treatment 142 151	foscarnet
+T6	Effect 27 84	nephrogenic diabetes insipidus and renal tubular acidosis
+T7	Subject 4 11	patient
+T9	Drug 142 151	foscarnet
+T8	Adverse_event 12 21	developed
+E1	Adverse_event:T8

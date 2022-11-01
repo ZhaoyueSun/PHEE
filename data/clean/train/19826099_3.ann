@@ -1,0 +1,10 @@
+T3	Effect 72 77	apnea
+T5	Treatment 94 128	lamotrigine through breast-feeding
+T6	Subject 129 143	in this infant
+T7	Age 137 143	infant
+T8	Drug 94 105	lamotrigine
+T9	Speculation_cue 42 50	probable
+T10	Route 114 128	breast-feeding
+T4	Adverse_event 40 63	a probable relationship
+E1	Adverse_event:T4 
+A1	Speculated E1

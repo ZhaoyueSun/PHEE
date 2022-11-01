@@ -1,0 +1,8 @@
+T3	Effect 0 14	Rhabdomyolysis
+T5	Treatment 25 68	tocolysis with oral ritodrine hydrochloride
+T6	Subject 72 114	a pregnant patient with myotonic dystrophy
+T7	Sub-Disorder 96 114	myotonic dystrophy
+T8	Route 40 44	oral
+T9	Drug 45 68	ritodrine hydrochloride
+T4	Adverse_event 15 21	caused
+E1	Adverse_event:T4 

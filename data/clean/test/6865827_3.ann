@@ -1,0 +1,9 @@
+T4	Effect 75 90	agranulocytosis
+T6	Treatment 115 152	both propylthiouracil and methimazole
+T7	Subject 156 172	the same patient
+T8	Drug 141 152	methimazole
+T9	Drug 120 136	propylthiouracil
+T5	Adverse_event 91 99	followed
+T10	Combination 137 140	and
+E1	Adverse_event:T5 
+E2	Combination:T10 arg:T9 arg2:T8

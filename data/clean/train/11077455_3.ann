@@ -1,0 +1,5 @@
+T3	Effect 9 46	Symptomatic visual field constriction
+T5	Treatment 77 87	vigabatrin
+T6	Drug 77 87	vigabatrin
+T4	Adverse_event 61 71	associated
+E1	Adverse_event:T4 

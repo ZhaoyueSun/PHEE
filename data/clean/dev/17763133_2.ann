@@ -1,0 +1,7 @@
+T4	Treatment 0 47	Discontinuation of simvastatin and cyclosporine
+T5	Treat-Disorder 74 88	rhabdomyolysis
+T7	Drug 19 30	simvastatin
+T8	Drug 35 47	cyclosporine
+T6	Effect 93 124	normalization of renal function
+T9	Potential_therapeutic_event 48 56	resulted
+E2	Potential_therapeutic_event:T9

@@ -1,0 +1,5 @@
+T4	Effect 78 102	neurologic toxic effects
+T5	Treatment 0 19	Sulindac (Clinoril)
+T10	Drug 0 8	Sulindac
+T8	Adverse_event 69 77	reported
+E2	Adverse_event:T8

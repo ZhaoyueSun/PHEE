@@ -1,0 +1,10 @@
+T4	Subject 44 53	a patient
+T5	Treat-Disorder 103 122	hairy cell leukemia
+T6	Effect 15 40	essential thrombocythemia
+T8	Treatment 67 98	interferon alfa and pentostatin
+T10	Drug 67 82	interferon alfa
+T11	Drug 87 98	pentostatin
+T7	Adverse_event 0 11	Development
+T9	Combination 83 86	and
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T10 arg2:T11

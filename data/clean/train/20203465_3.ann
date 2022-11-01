@@ -1,0 +1,11 @@
+T16	Effect 91 146	nausea, shortness of breath, azotemia, and hyperkalemia
+T17	Treatment 184 210	intravenous immunoglobulin
+T18	Age 25 36	87-year-old
+T19	Race 37 42	white
+T20	Gender 43 48	woman
+T21	Drug 196 210	immunoglobulin
+T13	Subject 22 71	an 87-year-old white woman with myasthenia gravis
+T22	Treat-Disorder 54 71	myasthenia gravis
+T23	Route 184 195	intravenous
+T15	Adverse_event 76 85	presented
+E1	Adverse_event:T15 

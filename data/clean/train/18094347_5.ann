@@ -1,0 +1,6 @@
+T3	Treatment 0 12	Methotrexate
+T5	Effect 21 37	papular eruption
+T6	Treat-Disorder 61 70	psoriasis
+T7	Drug 0 12	Methotrexate
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4

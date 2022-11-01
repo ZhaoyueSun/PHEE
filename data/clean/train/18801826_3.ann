@@ -1,0 +1,8 @@
+T9	Subject 22 40	35-year old female
+T11	Effect 65 152	type II diabetes mellitus with hyperosmolar hyperglycaemic coma and acute renal failure
+T12	Treatment 163 183	treatment with a SGA
+T13	Age 22 33	35-year old
+T14	Gender 34 40	female
+T15	Drug 180 183	SGA
+T10	Adverse_event 45 54	developed
+E1	Adverse_event:T10

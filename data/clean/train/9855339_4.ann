@@ -1,0 +1,7 @@
+T4	Treatment 16 26	nefazodone
+T6	Effect 36 60	metabolism of tacrolimus
+T7	Speculation_cue 3 10	suspect
+T8	Drug 16 26	nefazodone
+T5	Adverse_event 27 35	inhibits
+E1	Adverse_event:T5 
+A1	Speculated E1

@@ -1,0 +1,5 @@
+T5	Treatment 33 47	phenylbutazone
+T7	Effect 56 85	serum sickness-like reactions
+T8	Drug 33 47	phenylbutazone
+T6	Adverse_event 48 55	induced
+E1	Adverse_event:T6

@@ -1,0 +1,9 @@
+T4	Effect 20 55;72 89	Thrombotic Thrombocytopenic Purpura allergic response
+T5	Treatment 93 122	trimethoprim-sulfamethoxazole
+T7	Subject 154 179	Jehovah's Witness patient
+T8	Drug 93 105	trimethoprim
+T9	Drug 106 122	sulfamethoxazole
+T6	Adverse_event 90 92	to
+T10	Combination 105 106	-
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T8 arg2:T9

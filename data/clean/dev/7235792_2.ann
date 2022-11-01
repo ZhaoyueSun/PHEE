@@ -1,0 +1,7 @@
+T3	Subject 7 20	first patient
+T4	Treatment 98 150	close temporal sequence with administering bretylium
+T6	Effect 22 85	two episodes of ventricular tachycardia requiring cardioversion
+T7	Time_elapsed 98 121	close temporal sequence
+T8	Drug 141 150	bretylium
+T5	Adverse_event 86 94	occurred
+E1	Adverse_event:T5

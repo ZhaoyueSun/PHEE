@@ -1,0 +1,12 @@
+T3	Treatment 30 52	high-dose methotrexate
+T6	Drug 40 52	methotrexate
+T7	Dosage 30 39	high-dose
+T8	Treat-Disorder 59 79	systemic anaphylaxis
+T11	Effect 59 80	systemic anaphylaxis.
+T12	Treatment 30 52	high-dose methotrexate
+T4	Effect 0 26	Successful desensitization
+T5	Adverse_event 53 58	after
+T10	Potential_therapeutic_event 27 29	to
+E1	Adverse_event:T5 arg:T3 arg2:T11
+E2	Potential_therapeutic_event:T10 arg:T12 arg2:T4
+R1	has Arg1:T12 Arg2:T8

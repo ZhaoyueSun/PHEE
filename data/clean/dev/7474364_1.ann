@@ -1,0 +1,13 @@
+T3	Subject 0 103	A 71-year-old man with paroxysmal atrial fibrillation who had a previous anterior myocardial infarction
+T4	Treatment 170 218	oral sustained-release procainamide (750 mg/day)
+T6	Effect 114 130	granulocytopenia
+T8	Age 2 13	71-year-old
+T9	Gender 14 17	man
+T10	Time_elapsed 131 137	8 days
+T11	Drug 175 205	sustained-release procainamide
+T12	Route 170 174	oral
+T13	Dosage 207 217	750 mg/day
+T15	Treat-Disorder 23 53	paroxysmal atrial fibrillation
+T16	Sub-Disorder 73 103	anterior myocardial infarction
+T5	Adverse_event 104 113	exhibited
+E1	Adverse_event:T5 

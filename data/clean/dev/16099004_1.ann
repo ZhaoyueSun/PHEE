@@ -1,0 +1,10 @@
+T8	Effect 0 44	Recrudescence of imported falciparum malaria
+T10	Treatment 51 58;100 109	quinine phenytoin
+T11	Drug 51 58	quinine
+T13	Drug 100 109	phenytoin
+T14	Speculation_cue 68 77	potential
+T9	Adverse_event 45 50	after
+T12	Combination 83 94	interaction
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T13 arg2:T11
+A1	Speculated E1

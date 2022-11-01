@@ -1,0 +1,5 @@
+T5	Effect 0 18;43 62	Glomerulonephritis lupus erythematosus
+T6	Treatment 22 34	procainamide
+T8	Drug 22 34	procainamide
+T7	Adverse_event 35 42	induced
+E1	Adverse_event:T7

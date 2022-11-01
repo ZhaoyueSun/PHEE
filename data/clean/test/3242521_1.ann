@@ -1,0 +1,7 @@
+T3	Treatment 17 26	nafcillin
+T5	Effect 0 16;35 43	Intraventricular seizures
+T6	Subject 47 56	a neonate
+T7	Age 49 56	neonate
+T8	Drug 17 26	nafcillin
+T4	Adverse_event 27 34	induced
+E1	Adverse_event:T4

@@ -1,0 +1,14 @@
+T5	Sub-Disorder 31 53	coronary heart disease
+T6	Treat-Disorder 80 92	dyslipidemia
+T7	Treatment 61 105;175 192	niacin therapy for dyslipidemia for 5 months increases in dose
+T9	Effect 117 149	intense dental and gingival pain
+T10	Population 0 3	Two
+T11	Age 4 15	65-year-old
+T12	Race 16 21	white
+T13	Gender 22 25	men
+T4	Subject 0 53	Two 65-year-old white men with coronary heart disease
+T14	Drug 61 67	niacin
+T15	Dosage 176 192	ncreases in dose
+T16	Duration 97 105	5 months
+T8	Adverse_event 107 116	developed
+E1	Adverse_event:T8 

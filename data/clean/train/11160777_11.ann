@@ -1,0 +1,5 @@
+T7	Treatment 89 99	glitazones
+T9	Treat-Disorder 121 191	premature atherosclerotic cardiovascular disease, morbidity, and death
+T10	Drug 89 99	glitazones
+T8	Potential_therapeutic_event 104 111	prevent
+E1	Potential_therapeutic_event:T8

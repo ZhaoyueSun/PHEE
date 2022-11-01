@@ -1,0 +1,8 @@
+T10	Treatment 49 81	sulfonamide class of antibiotics
+T9	Effect 33 40	SJS/TEN
+T12	Drug 49 81	sulfonamide class of antibiotics
+T13	Treat-Disorder 206 245	skin and soft tissue infections (SSTIs)
+T14	Sub-Disorder 132 139	CA-MRSA
+T15	Subject 132 139	CA-MRSA
+T11	Adverse_event 13 24	association
+E1	Adverse_event:T11 

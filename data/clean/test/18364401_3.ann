@@ -1,0 +1,5 @@
+T4	Treatment 55 65	olanzapine
+T5	Effect 0 32	Rapidly developing hyperglycemia
+T6	Drug 55 65	olanzapine
+T3	Adverse_event 33 39	during
+E1	Adverse_event:T3

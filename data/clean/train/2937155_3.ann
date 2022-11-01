@@ -1,0 +1,5 @@
+T3	Treatment 0 10	Vancomycin
+T5	Effect 19 29	vasculitis
+T6	Drug 0 10	Vancomycin
+T4	Adverse_event 11 18	induced
+E1	Adverse_event:T4

@@ -1,0 +1,13 @@
+T4	Effect 14 33	leukoencephalopathy
+T5	Subject 51 71	13-year-old girl who
+T7	Treatment 79 267	standard radiotherapy for a posterior fossa medulloblastoma, received 8 treatments with a protocol containing a 4-hour infusion of 500 mg/m2 methotrexate and 12 mg intrathecal methotrexate
+T8	Age 51 62	13-year-old
+T9	Gender 63 67	girl
+T10	Drug 88 100	radiotherapy
+T11	Route 198 206	infusion
+T12	Dosage 210 219	500 mg/m2
+T13	Drug 220 232	methotrexate
+T14	Dosage 237 242	12 mg
+T15	Drug 243 267	intrathecal methotrexate
+T6	Adverse_event 73 78	after
+E1	Adverse_event:T6

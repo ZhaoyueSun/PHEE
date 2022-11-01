@@ -1,0 +1,15 @@
+T4	Treatment 43 54	fluvoxamine
+T5	Effect 63 72	akathisia
+T6	Drug 43 54	fluvoxamine
+T8	Subject 79 107	obsessive-compulsive patient
+T9	Treat-Disorder 79 99	obsessive-compulsive
+T10	Treat-Disorder 43 72	fluvoxamine-induced akathisia
+T12	Treatment 21 39	low-dose mianserin
+T13	Dosage 21 29	low-dose
+T14	Drug 30 39	mianserin
+T3	Adverse_event 55 62	induced
+T11	Potential_therapeutic_event 0 10	Beneficial
+E1	Adverse_event:T3 arg:T4 arg2:T5 arg3:T8
+E2	Potential_therapeutic_event:T11 arg:T12 arg2:T8
+R1	has Arg1:T12 Arg2:T10
+R2	has Arg1:T4 Arg2:T9	

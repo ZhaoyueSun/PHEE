@@ -1,0 +1,11 @@
+T8	Effect 68 78	hemorrhage
+T9	Treatment 0 26;102 109	High-dose antithrombin III heparin
+T11	Speculation_cue 60 64	risk
+T10	Dosage 0 9	High-dose
+T12	Drug 10 26	antithrombin III
+T14	Drug 102 109	heparin
+T7	Adverse_event 50 59	increased
+T13	Combination 84 96	administered
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T12 arg2:T14
+A1	Speculated E1

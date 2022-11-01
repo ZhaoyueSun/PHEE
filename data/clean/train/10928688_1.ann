@@ -1,0 +1,7 @@
+T5	Subject 41 77	ESRF patients with atenolol toxicity
+T7	Treatment 24 36	hemodialysis
+T4	Sub-Disorder 41 45	ESRF
+T8	Drug 24 36	hemodialysis
+T9	Treat-Disorder 60 77	atenolol toxicity
+T3	Potential_therapeutic_event 37 40	for
+E1	Potential_therapeutic_event:T3 

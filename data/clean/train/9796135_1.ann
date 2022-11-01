@@ -1,0 +1,11 @@
+T3	Treatment 70 121	sublingual ingestion of isosorbide dinitrate (5 mg)
+T4	Effect 56 63	syncope
+T7	Treat-Disorder 25 40	angina pectoris
+T8	Age 2 13	65-year-old
+T9	Gender 14 19	woman
+T6	Subject 0 40	A 65-year-old woman with angina pectoris
+T10	Route 70 90	sublingual ingestion
+T11	Drug 94 114	isosorbide dinitrate
+T12	Dosage 116 120	5 mg
+T5	Adverse_event 41 50	presented
+E1	Adverse_event:T5 

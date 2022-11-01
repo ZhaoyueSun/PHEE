@@ -1,0 +1,8 @@
+T8	Treatment 15 27	itraconazole
+T10	Effect 54 228	paralytic ileus, neurogenic bladder, mild left ptosis, and absence of deep reflexes, with severe paralysis of the lower extremities and mild weakness of the upper extremities
+T11	Drug 15 27	itraconazole
+T12	Severity_cue 144 150	severe
+T13	Severity_cue 190 194	mild
+T14	Severity_cue 91 95	mild
+T9	Adverse_event 44 53	developed
+E1	Adverse_event:T9

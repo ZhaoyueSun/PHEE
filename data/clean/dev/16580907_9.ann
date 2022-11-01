@@ -1,0 +1,9 @@
+T14	Subject 152 185	patients with renal insufficiency
+T15	Sub-Disorder 166 185	renal insufficiency
+T16	Effect 51 62	arrhythmias
+T17	Treatment 9 19	cetirizine
+T20	Speculation_cue 29 38	potential
+T21	Negation_cue 24 28	less
+T22	Drug 9 19	cetirizine
+T19	Adverse_event 43 50	causing
+E1	Adverse_event:T19 

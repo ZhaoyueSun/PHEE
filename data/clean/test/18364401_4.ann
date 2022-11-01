@@ -1,0 +1,14 @@
+T2	Treat-Disorder 27 74	hyperglycemia (fasting blood glucose 138 mg/dL)
+T3	Treatment 94 116	olanzapine was stopped
+T4	Drug 94 104	olanzapine
+T6	Effect 27 40;121 163	hyperglycemia recurred (fasting blood glucose 150 mg/dL)
+T8	Treatment 170 226	2 days of rechallenge with olanzapine 2.5 mg twice daily
+T9	Time_elapsed 170 176	2 days
+T10	Drug 197 207	olanzapine
+T11	Dosage 208 214	2.5 mg
+T12	Freq 215 226	twice daily
+T5	Potential_therapeutic_event 80 88	resolved
+T7	Adverse_event 164 169	after
+E1	Potential_therapeutic_event:T5 arg2:T3
+E2	Adverse_event:T7 arg:T6 arg2:T8
+R1	has Arg1:T3 Arg2:T2

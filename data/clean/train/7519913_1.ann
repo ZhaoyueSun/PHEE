@@ -1,0 +1,7 @@
+T7	Treatment 75 86	methimazole
+T9	Effect 117 140	aplasia cutis congenita
+T10	Speculation_cue 22 31	questions
+T11	Drug 75 92	methimazole (MMI)
+T8	Adverse_event 101 111	associated
+E1	Adverse_event:T8 
+A1	Speculated E1

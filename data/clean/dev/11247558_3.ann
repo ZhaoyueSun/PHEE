@@ -1,0 +1,10 @@
+T3	Subject 12 57;102 116	a patient who presented with bloody diarrhoea osteoarthritis
+T4	Effect 41 57	bloody diarrhoea
+T5	Treatment 64 97	15 mg meloxicam daily for 10 days
+T8	Dosage 64 69	15 mg
+T9	Drug 70 79	meloxicam
+T10	Freq 80 85	daily
+T12	Treat-Disorder 102 116	osteoarthritis
+T11	Duration 90 97	10 days
+T7	Adverse_event 58 63	after
+E1	Adverse_event:T7

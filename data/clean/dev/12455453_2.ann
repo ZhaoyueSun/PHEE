@@ -1,0 +1,6 @@
+T3	Treatment 0 66	Reduction of methylprednisolone dosage rather than insulin therapy
+T6	Drug 13 31	methylprednisolone
+T8	Dosage 0 9	Reduction
+T4	Potential_therapeutic_event 67 75	resulted
+E1	Potential_therapeutic_event:T4 
+T1	Treat-Disorder 97 105	glycemia

@@ -1,0 +1,10 @@
+T3	Subject 0 18	The female patient
+T5	Effect 79 94	agranulocytosis
+T6	Treatment 28 63;95 109	clozapine in a daily dose of 400 mg after 2 months
+T7	Gender 4 10	female
+T8	Duration 101 109	2 months
+T9	Dosage 57 63	400 mg
+T10	Freq 43 48	daily
+T11	Drug 28 37	clozapine
+T4	Adverse_event 71 78	induced
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T9	Treatment 31 67	secondary to ciprofloxacin treatment
+T11	Effect 109 199	minor dizziness or mild headache, although rare occurrences of seizures and hallucinations
+T12	Drug 44 57	ciprofloxacin
+T10	Adverse_event 93 100	consist
+E1	Adverse_event:T10

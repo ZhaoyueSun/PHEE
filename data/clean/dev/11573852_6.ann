@@ -1,0 +1,8 @@
+T3	Effect 31 68	multiple episodes of seizure activity
+T4	Subject 72 86	an AIDS patent
+T6	Treatment 97 120	amphotericin B infusion
+T8	Treat-Disorder 75 79	AIDS
+T9	Drug 97 111	amphotericin B
+T10	Route 112 120	infusion
+T5	Adverse_event 87 96	following
+E1	Adverse_event:T5

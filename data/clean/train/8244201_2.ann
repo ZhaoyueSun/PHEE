@@ -1,0 +1,12 @@
+T8	Treatment 48 110	oral therapy of sulfamethoxazole-trimethoprim (co-trimoxazole)
+T9	Subject 127 179	2 elderly Japanese patients with lymphoid malignancy
+T11	Population 127 128	2
+T12	Age 129 136	elderly
+T13	Race 137 145	Japanese
+T14	Sub-Disorder 160 179	lymphoid malignancy
+T15	Route 48 52	oral
+T16	Drug 64 93	sulfamethoxazole-trimethoprim
+T10	Adverse_event 114 123	described
+E1	Adverse_event:T10 
+T1	Treat-Disorder 195 225	Pneumocystis carinii pneumonia
+T2	Effect 0 44	Hyperkalaemia with renal tubular dysfunction

@@ -1,0 +1,6 @@
+T5	Effect 0 22	Restless legs syndrome
+T6	Effect 27 63	periodic limb movements during sleep
+T9	Treatment 89 99	olanzapine
+T11	Drug 89 99	olanzapine
+T8	Adverse_event 73 83	associated
+E1	Adverse_event:T8

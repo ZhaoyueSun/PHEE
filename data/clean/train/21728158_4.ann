@@ -1,0 +1,6 @@
+T4	Treat-Disorder 0 27	Drug resistant tuberculosis
+T6	Treatment 42 98	complex and longer treatment with alternative substances
+T7	Drug 88 98	substances
+T8	Duration 42 70	complex and longer treatment
+T5	Potential_therapeutic_event 28 36	requires
+E1	Potential_therapeutic_event:T5

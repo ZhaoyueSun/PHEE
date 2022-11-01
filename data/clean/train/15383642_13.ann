@@ -1,0 +1,5 @@
+T5	Effect 0 21	This kind of reaction
+T6	Treatment 62 95	co-administration with tizanidine
+T8	Drug 85 95	tizanidine
+T7	Adverse_event 45 54	occurring
+E1	Adverse_event:T7

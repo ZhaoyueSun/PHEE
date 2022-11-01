@@ -1,0 +1,8 @@
+T3	Effect 10 38	Erythema Multiforme Bullosum
+T4	Subject 42 100	patient of lepromatous leprosy with pulmonary tuberculosis
+T5	Treat-Disorder 78 100	pulmonary tuberculosis
+T7	Treatment 108 118	Rifampicin
+T8	Treat-Disorder 53 72	lepromatous leprosy
+T9	Drug 108 118	Rifampicin
+T6	Adverse_event 101 107	due to
+E1	Adverse_event:T6 

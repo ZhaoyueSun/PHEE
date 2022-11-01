@@ -1,0 +1,6 @@
+T3	Subject 54 61	patient
+T4	Drug 67 79	L-tryptophan
+T5	Effect 88 117	eosinophilia-myalgia syndrome
+T7	Treatment 67 79	L-tryptophan
+T6	Adverse_event 80 87	induced
+E1	Adverse_event:T6

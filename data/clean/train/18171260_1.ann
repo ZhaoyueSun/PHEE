@@ -1,0 +1,8 @@
+T7	Effect 0 18	Serotonin syndrome
+T8	Treatment 25 76	concomitant treatment with linezolid and meperidine
+T9	Drug 52 61	linezolid
+T10	Drug 66 76	meperidine
+T6	Adverse_event 19 24	after
+T11	Combination 25 36	concomitant
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T9 arg2:T10

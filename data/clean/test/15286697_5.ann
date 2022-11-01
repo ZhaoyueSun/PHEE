@@ -1,0 +1,12 @@
+T3	Subject 17 70	26-year-old female with diffuse large B-cell lymphoma
+T6	Treatment 145 171	high-dose BCNU (600 mg/m2)
+T7	Effect 75 108	died of severe pulmonary fibrosis
+T8	Age 17 28	26-year-old
+T9	Gender 29 35	female
+T11	Drug 155 159	BCNU
+T10	Dosage 161 170	600 mg/m2
+T12	Time_elapsed 109 122	81 days after
+T13	Severity_cue 75 79	died
+T14	Treat-Disorder 41 70	diffuse large B-cell lymphoma
+T5	Adverse_event 127 141	administration
+E1	Adverse_event:T5

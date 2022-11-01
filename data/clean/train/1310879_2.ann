@@ -1,0 +1,7 @@
+T6	Effect 257 276	platelet activation
+T7	Treatment 92 243	standard heparin and the LMW heparins Fragmin and Fraxiparin (Sanofi Labaz, Munich, FRG), as well as the enoxaparine Clexane (Nattermann, Cologne, FRG)
+T9	Drug 130 137	Fragmin
+T10	Drug 142 152	Fraxiparin
+T11	Drug 209 216	Clexane
+T8	Adverse_event 249 256	induced
+E1	Adverse_event:T8

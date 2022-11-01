@@ -1,0 +1,7 @@
+T3	Subject 0 2	He
+T4	Effect 10 22	hyperkalemic
+T5	Treatment 43 50	timolol
+T7	Gender 0 2	He
+T8	Drug 43 50	timolol
+T6	Adverse_event 68 77	following
+E1	Adverse_event:T6

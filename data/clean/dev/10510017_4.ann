@@ -1,0 +1,13 @@
+T5	Treatment 38 45	heparin
+T7	Effect 54 111	thrombocytopenia and subsequent hemorrhagic complications
+T8	Subject 131 149	a 2-year-old child
+T9	Age 133 149	2-year-old child
+T10	Drug 38 45	heparin
+T12	Treat-Disorder 38 111	heparin-induced thrombocytopenia and subsequent hemorrhagic complications
+T13	Treatment 155 175	Danaparoid (orgaran)
+T15	Drug 155 165	Danaparoid
+T6	Adverse_event 46 53	induced
+T14	Potential_therapeutic_event 25 34	treatment
+E1	Adverse_event:T6 arg:T5 arg2:T7 arg3:T8
+E2	Potential_therapeutic_event:T14 arg:T8 arg2:T13
+R1	has Arg1:T13 Arg2:T12

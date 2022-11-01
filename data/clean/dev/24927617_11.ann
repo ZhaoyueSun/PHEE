@@ -1,0 +1,8 @@
+T6	Effect 87 102	muscle toxicity
+T7	Subject 0 67	Simvastatin plasma concentration increased 30 times in this patient
+T8	Treatment 72 78	statin
+T10	Drug 72 78	statin
+T15	Sub-Disorder 0 51	Simvastatin plasma concentration increased 30 times
+T9	Adverse_event 79 86	induced
+E1	Adverse_event:T9 arg:T6 arg2:T8 arg3:T7
+R1	has Arg1:T7 Arg2:T15

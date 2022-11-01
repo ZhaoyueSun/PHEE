@@ -1,0 +1,8 @@
+T6	Subject 85 114	a child with Joubert syndrome
+T7	Treatment 70 81	risperidone
+T9	Effect 32 62	neuroleptic malignant syndrome
+T10	Age 87 92	child
+T12	Treat-Disorder 98 114	Joubert syndrome
+T13	Drug 70 81	risperidone
+T8	Adverse_event 63 69	due to
+E1	Adverse_event:T8

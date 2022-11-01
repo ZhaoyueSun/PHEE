@@ -1,0 +1,6 @@
+T3	Treatment 0 10	Didanosine
+T5	Effect 45 53	seizures
+T6	Speculation_cue 22 31	potential
+T8	Drug 0 10	Didanosine
+T4	Adverse_event 36 44	inducing
+E1	Adverse_event:T4

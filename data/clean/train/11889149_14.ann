@@ -1,0 +1,9 @@
+T7	Treatment 0 3	RLX
+T8	Treatment 4 7	ALN
+T12	Drug 0 3	RLX
+T13	Drug 4 7	ALN
+T10	Effect 16 93	bone turnover more than either drug alone, resulting in greater BMD increment
+T9	Potential_therapeutic_event 8 15	reduced
+T11	Combination 3 4	+
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T11 arg:T12 arg2:T13

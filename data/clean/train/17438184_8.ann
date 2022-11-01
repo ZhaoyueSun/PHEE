@@ -1,0 +1,5 @@
+T11	Treatment 0 50	Interferon and other immunostimulatory medications
+T9	Effect 66 129	exacerbation of this preexisting low-grade chronic inflammation
+T13	Drug 0 10	Interferon
+T8	Adverse_event 55 59	lead
+E1	Adverse_event:T8

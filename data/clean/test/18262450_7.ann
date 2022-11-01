@@ -1,0 +1,13 @@
+T8	Subject 0 91	Three hundred and thirty eight patients with moderate to severe painful diabetic neuropathy
+T10	Treatment 142 152;158 251	gabapentin oral prolonged-release oxycodone or placebo tablets added to their therapy for up to 12 weeks
+T11	Population 0 30	Three hundred and thirty eight
+T13	Drug 142 152	gabapentin
+T14	Dosage 116 138	maximum tolerated dose
+T15	Route 158 162	oral
+T16	Drug 163 190	prolonged-release oxycodone
+T17	Drug 194 201	placebo
+T18	Time_elapsed 233 251	for up to 12 weeks
+T19	Treat-Disorder 64 91	painful diabetic neuropathy
+T20	Route 202 209	tablets
+T9	Potential_therapeutic_event 100 109	receiving
+E1	Potential_therapeutic_event:T9

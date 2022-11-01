@@ -1,0 +1,14 @@
+T11	Treatment 41 54;131 173	carbamazepine less than 2.5 grams a day of acetaminophen
+T12	Effect 98 127	acute liver and renal failure
+T13	Subject 20 37	a 34-year-old man
+T14	Age 22 33	34-year-old
+T15	Gender 34 37	man
+T16	Drug 41 54	carbamazepine
+T17	Treat-Disorder 59 83	complex partial seizures
+T18	Dosage 131 150	less than 2.5 grams
+T19	Freq 151 156	a day
+T20	Drug 160 173	acetaminophen
+T10	Adverse_event 38 40	on
+T21	Combination 128 130	on
+E1	Adverse_event:T10 
+E2	Combination:T21 arg:T20 arg2:T16

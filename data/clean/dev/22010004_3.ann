@@ -1,0 +1,18 @@
+T10	Subject 2 26	69-year-old white female
+T13	Effect 186 219	elevated INR of greater than 12.3
+T15	Treatment 33 128;228 325	anticoagulation treatment had been stable for 18 months with warfarin 2.5 mg daily (17.5 mg/wk) dose increase in extended-release niacin (Niaspan) from 500 mg to 1000 mg daily the previous week
+T16	Age 2 13	69-year-old
+T17	Race 14 19	white
+T18	Gender 20 26	female
+T19	Drug 245 268	extended-release niacin
+T21	Dosage 294 301	1000 mg
+T22	Freq 302 307	daily
+T23	Drug 94 102	warfarin
+T24	Dosage 103 109	2.5 mg
+T25	Freq 110 115	daily
+T14	Severity_cue 175 185	critically
+T12	Adverse_event 220 225	after
+T26	Combination 242 244	in
+E1	Adverse_event:T12 
+E2	Combination:T26 arg:T19 arg2:T23
+A1	Severity E1 High

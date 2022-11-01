@@ -1,0 +1,7 @@
+T3	Effect 28 61	spontaneous intracranial bleeding
+T4	Subject 65 140	an human immunodeficiency virus (HIV)-infected adolescent with hemophilia A
+T6	Treatment 159 175	amprenavir (APV)
+T8	Treat-Disorder 74 140	immunodeficiency virus (HIV)-infected adolescent with hemophilia A
+T9	Drug 159 175	amprenavir (APV)
+T5	Adverse_event 14 24	occurrence
+E1	Adverse_event:T5

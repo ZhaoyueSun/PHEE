@@ -1,0 +1,9 @@
+T9	Treatment 18 64	adjuvant Adriamycin (doxorubicin) chemotherapy
+T10	Effect 85 112	died of Adriamycin toxicity
+T11	Subject 0 3	She
+T13	Gender 0 3	She
+T14	Drug 27 37	Adriamycin
+T15	Time_elapsed 70 78	6 months
+T16	Route 52 64	chemotherapy
+T12	Adverse_event 104 112	toxicity
+E1	Adverse_event:T12

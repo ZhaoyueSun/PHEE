@@ -1,0 +1,8 @@
+T8	Effect 40 59;137 173	ocular side effects hypoalbuminemia and thrombocytopenia
+T10	Treatment 63 66	IFN
+T11	Speculation_cue 114 122	possible
+T9	Subject 97 105	patients
+T12	Drug 63 66	IFN
+T7	Adverse_event 27 32	aware
+E1	Adverse_event:T7 
+A1	Speculated E1

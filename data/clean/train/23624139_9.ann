@@ -1,0 +1,8 @@
+T8	Treatment 115 121	NSAIDs
+T10	Effect 40 81	potentially life-threatening side effects
+T11	Drug 115 121	NSAIDs
+T12	Drug 129 134	DDAVP
+T9	Adverse_event 82 97	associated with
+T13	Combination 122 128	during
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T11 arg2:T12

@@ -1,0 +1,5 @@
+T4	Effect 13 55	Hypersensitivity reactions to cyclosporine
+T5	Treatment 67 79	Cremophor EL
+T7	Drug 67 79	Cremophor EL
+T6	Adverse_event 60 63	due
+E1	Adverse_event:T6

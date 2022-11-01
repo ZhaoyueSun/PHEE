@@ -1,0 +1,5 @@
+T4	Treatment 12 20	Accutane
+T5	Treat-Disorder 71 104	severe, recalcitrant nodular acne
+T6	Drug 12 20	Accutane
+T3	Potential_therapeutic_event 65 70	treat
+E1	Potential_therapeutic_event:T3

@@ -1,0 +1,7 @@
+T3	Treatment 54 68	pyridostigmine
+T4	Effect 21 39	rippling phenomena
+T6	Subject 3 16	both patients
+T7	Population 3 7	both
+T8	Drug 54 68	pyridostigmine
+T5	Adverse_event 40 48	worsened
+E1	Adverse_event:T5

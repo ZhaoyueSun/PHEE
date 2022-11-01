@@ -1,0 +1,7 @@
+T4	Treatment 7 14	heparin
+T6	Effect 26 42	thrombocytopenia
+T7	Drug 7 14	heparin
+T8	Severity_cue 0 6	Severe
+T5	Adverse_event 15 25	associated
+E1	Adverse_event:T5 
+A1	Severity E1 High

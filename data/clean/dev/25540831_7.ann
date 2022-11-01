@@ -1,0 +1,7 @@
+T6	Effect 29 47	serotonin syndrome
+T8	Treatment 61 76	antidepressants
+T9	Speculation_cue 81 99	do not think about
+T10	Drug 61 76	antidepressants
+T11	Drug 137 147	analgesics
+T7	Adverse_event 48 57	secondary
+E1	Adverse_event:T7

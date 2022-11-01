@@ -1,0 +1,7 @@
+T3	Subject 11 21	four cases
+T4	Treatment 42 49	heparin
+T6	Effect 70 82	hyperkalemia
+T7	Population 11 15	four
+T8	Drug 42 49	heparin
+T5	Adverse_event 54 64	associated
+E1	Adverse_event:T5

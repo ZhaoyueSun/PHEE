@@ -1,0 +1,13 @@
+T4	Subject 0 62	A 64 year old woman with previous history of coronary stenting
+T5	Effect 116 137	intracranial bleeding
+T6	Treatment 63 79;154 177	five days before aspirin and clopidogrel
+T8	Age 2 13	64 year old
+T9	Gender 14 19	woman
+T11	Drug 166 177	clopidogrel
+T12	Drug 154 161	aspirin
+T14	Treat-Disorder 45 62	coronary stenting
+T15	Time_elapsed 63 72	five days
+T7	Adverse_event 144 153	receiving
+T13	Combination 162 165	and
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T12 arg2:T11

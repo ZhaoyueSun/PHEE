@@ -1,0 +1,11 @@
+T16	Effect 205 243	risk of arterial or venous thrombosis.
+T17	Treatment 0 28	Porcine factor VIII (pFVIII)
+T18	Subject 67 174	patients with congenital or acquired haemophilia who have high-titre neutralizing antibodies to human FVIII
+T21	Treat-Disorder 125 174	high-titre neutralizing antibodies to human FVIII
+T23	Speculation_cue 205 209	risk
+T24	Drug 0 19	Porcine factor VIII
+T22	Negation_cue 179 182	not
+T28	Treat-Disorder 55 63	bleeding
+T19	Treat-Disorder 81 115	congenital or acquired haemophilia
+T15	Adverse_event 192 200	increase
+E1	Adverse_event:T15 

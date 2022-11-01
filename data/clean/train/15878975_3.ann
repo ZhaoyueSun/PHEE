@@ -1,0 +1,8 @@
+T7	Subject 27 35	patients
+T8	Treatment 36 57	receiving anti-D IGIV
+T9	Effect 118 191	hemoglobinemia, particularly disseminated intravascular coagulation (DIC)
+T12	Drug 46 57	anti-D IGIV
+T10	Speculation_cue 91 100	potential
+T11	Adverse_event 101 114	complications
+E1	Adverse_event:T11 
+A1	Speculated E1

@@ -1,0 +1,9 @@
+T7	Treatment 44 124	co-administration of prolonged-release oxycodone and existing gabapentin therapy
+T8	Effect 131 159	clinically meaningful effect
+T9	Treat-Disorder 163 190	painful diabetic neuropathy
+T11	Drug 83 92	oxycodone
+T12	Drug 106 116	gabapentin
+T10	Potential_therapeutic_event 125 128	has
+T13	Combination 44 61	co-administration
+E1	Potential_therapeutic_event:T10 
+E2	Combination:T13 arg:T11 arg2:T12

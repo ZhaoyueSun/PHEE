@@ -1,0 +1,7 @@
+T6	Treatment 19 26	aspirin
+T8	Effect 49 102	enlargement of spontaneous hemorrhage from meningioma
+T9	Drug 19 26	aspirin
+T10	Speculation_cue 27 30	may
+T7	Adverse_event 36 44	promoted
+E1	Adverse_event:T7 
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T8	Treat-Disorder 133 186	stent thrombosis and subsequent myocardial infarction
+T9	Treatment 31 109	aspirin and a P2Y12 receptor antagonist following placement of coronary stents
+T10	Drug 31 38	aspirin
+T12	Drug 45 70	P2Y12 receptor antagonist
+T7	Potential_therapeutic_event 125 132	prevent
+T11	Combination 39 42	and
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T11 arg:T10 arg2:T12

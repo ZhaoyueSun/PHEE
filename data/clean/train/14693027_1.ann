@@ -1,0 +1,8 @@
+T3	Treatment 23 87	phenytoin for variable time periods (range 16-80 days; mean: 40)
+T4	Subject 0 12	All patients
+T5	Effect 124 136	skin lesions
+T7	Drug 23 32	phenytoin
+T8	Duration 66 77	16-80 days;
+T9	Duration 84 86	40
+T6	Adverse_event 143 151	appeared
+E1	Adverse_event:T6

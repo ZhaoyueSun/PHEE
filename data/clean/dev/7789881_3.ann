@@ -1,0 +1,5 @@
+T4	Treatment 99 108	tamoxifen
+T5	Effect 44 82	secretory carcinoma of the endometrium
+T6	Drug 99 108	tamoxifen
+T3	Adverse_event 83 93	associated
+E1	Adverse_event:T3

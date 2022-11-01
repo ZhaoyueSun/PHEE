@@ -1,0 +1,8 @@
+T3	Effect 31 48;165 204	acute lung injury persistent despite halofantrine therapy
+T5	Treatment 79 153;184 204	administration of mefloquine for a low-level Plasmodium falciparum malaria halofantrine therapy
+T6	Time_elapsed 60 72	within hours
+T7	Drug 97 107	mefloquine
+T8	Treat-Disorder 114 153	low-level Plasmodium falciparum malaria
+T9	Drug 184 196	halofantrine
+T4	Adverse_event 73 78	after
+E1	Adverse_event:T4

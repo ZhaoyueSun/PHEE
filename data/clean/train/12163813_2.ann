@@ -1,0 +1,11 @@
+T4	Subject 134 185	a patient with catecholamine-resistant septic shock
+T5	Effect 40 53	skin necrosis
+T6	Treatment 69 130	peripheral intravenous administration of low-dose vasopressin
+T8	Severity_cue 33 39	severe
+T9	Route 69 106	peripheral intravenous administration
+T10	Dosage 110 118	low-dose
+T11	Drug 119 130	vasopressin
+T12	Treat-Disorder 149 185	catecholamine-resistant septic shock
+T3	Adverse_event 54 63	resulting
+E1	Adverse_event:T3 
+A1	Severity E1 High

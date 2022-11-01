@@ -1,0 +1,6 @@
+T5	Effect 4 15;60 73	visual loss neurotoxicity
+T6	Subject 24 31	patient
+T7	Treatment 53 59	phenol
+T9	Drug 53 59	phenol
+T8	Adverse_event 41 47	result
+E1	Adverse_event:T8

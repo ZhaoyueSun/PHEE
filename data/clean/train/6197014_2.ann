@@ -1,0 +1,10 @@
+T3	Subject 0 33	Two children with rheumatic fever
+T4	Effect 44 63	anicteric hepatitis
+T5	Treatment 73 90	high-dose aspirin
+T7	Population 0 3	Two
+T8	Age 4 12	children
+T9	Treat-Disorder 18 33	rheumatic fever
+T10	Drug 83 90	aspirin
+T11	Dosage 73 82	high-dose
+T6	Adverse_event 34 43	developed
+E1	Adverse_event:T6 

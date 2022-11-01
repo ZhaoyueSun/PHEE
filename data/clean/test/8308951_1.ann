@@ -1,0 +1,6 @@
+T4	Treatment 0 49	Cutaneous exposure to warfarin-like anticoagulant
+T6	Effect 58 85	an intracerebral hemorrhage
+T7	Subject 87 93	a case
+T8	Drug 22 49	warfarin-like anticoagulant
+T5	Adverse_event 50 57	causing
+E1	Adverse_event:T5

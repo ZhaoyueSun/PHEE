@@ -1,0 +1,5 @@
+T3	Effect 4 26	harlequin color change
+T5	Treatment 48 64	prostaglandin E1
+T6	Drug 48 64	prostaglandin E1
+T4	Adverse_event 31 42	association
+E1	Adverse_event:T4

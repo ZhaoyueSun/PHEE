@@ -1,0 +1,8 @@
+T4	Subject 28 53	three individual patients
+T5	Treatment 67 72;173 178	BTX-B BTX-B
+T6	Effect 104 152	parasympathetic dysfunction of the visual system
+T8	Population 28 33	three
+T9	Drug 67 72	BTX-B
+T10	Drug 173 178	BTX-B
+T7	Adverse_event 94 103	developed
+E1	Adverse_event:T7

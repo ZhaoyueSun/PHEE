@@ -1,0 +1,10 @@
+T3	Subject 0 18;104 129	An 11-year-old boy graft-versus-host disease
+T5	Effect 31 49	severe enteropathy
+T6	Treatment 78 99	clofazimine treatment
+T8	Age 3 14	11-year-old
+T9	Gender 15 18	boy
+T12	Time_elapsed 50 57	2 years
+T13	Drug 78 89	clofazimine
+T14	Treat-Disorder 104 129	graft-versus-host disease
+T4	Adverse_event 19 28	developed
+E1	Adverse_event:T4

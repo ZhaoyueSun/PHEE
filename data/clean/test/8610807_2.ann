@@ -1,0 +1,7 @@
+T6	Treatment 34 62	tissue plasminogen activator
+T7	Effect 87 113	large extent of hemorrhage
+T8	Speculation_cue 118 138	should be considered
+T9	Drug 34 62	tissue plasminogen activator
+T5	Adverse_event 67 78	responsible
+E1	Adverse_event:T5 
+A1	Speculated E1

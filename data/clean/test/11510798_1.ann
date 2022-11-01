@@ -1,0 +1,9 @@
+T6	Effect 0 17	Acute lung injury
+T8	Treatment 34 88	5-fluorouracil and oxaliplatinum combined chemotherapy
+T10	Drug 53 66	oxaliplatinum
+T11	Drug 34 48	5-fluorouracil
+T12	Route 76 88	chemotherapy
+T7	Adverse_event 18 28	associated
+T9	Combination 67 75	combined
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T11 arg2:T10

@@ -1,0 +1,9 @@
+T3	Treatment 16 56	Copaxone 20 mg/day treatment for 2 years
+T4	Subject 62 65	she
+T6	Effect 82 107	gastrointestinal symptoms
+T7	Gender 62 65	she
+T8	Drug 16 24	Copaxone
+T9	Dosage 25 34	20 mg/day
+T11	Duration 49 56	2 years
+T5	Adverse_event 72 81	exhibited
+E1	Adverse_event:T5

@@ -1,0 +1,7 @@
+T3	Subject 10 21	three cases
+T4	Treatment 25 35	amiodarone
+T6	Effect 44 62	torsades de pointe
+T7	Population 10 15	three
+T8	Drug 25 35	amiodarone
+T5	Adverse_event 36 43	induced
+E1	Adverse_event:T5

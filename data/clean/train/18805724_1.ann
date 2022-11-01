@@ -1,0 +1,5 @@
+T13	Treatment 40 51	leflunomide
+T14	Effect 63 156	diarrhea, nausea, liver enzyme elevation, hypertension, alopecia, and allergic skin reactions
+T16	Drug 40 51	leflunomide
+T15	Adverse_event 29 36	effects
+E1	Adverse_event:T15

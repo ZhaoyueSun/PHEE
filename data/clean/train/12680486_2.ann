@@ -1,0 +1,5 @@
+T9	Treatment 98 116	thiazide diuretics
+T11	Treat-Disorder 137 145;150 180	polyuria nephrogenic diabetes insipidus
+T12	Drug 98 116	thiazide diuretics
+T10	Potential_therapeutic_event 85 97	administered
+E1	Potential_therapeutic_event:T10

@@ -1,0 +1,5 @@
+T3	Effect 0 29	Persisent ocular hypertension
+T5	Treatment 40 64	intravitreal ranibizumab
+T6	Drug 53 64	ranibizumab
+T4	Adverse_event 30 39	following
+E1	Adverse_event:T4

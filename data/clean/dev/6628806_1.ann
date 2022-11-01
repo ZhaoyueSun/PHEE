@@ -1,0 +1,12 @@
+T4	Effect 10 25	toxic hepatitis
+T6	Treatment 36 88	combination therapy with methotrexate and etretinate
+T8	Subject 116 125;142 161	psoriasis a 47-year-old woman
+T9	Age 144 155	47-year-old
+T10	Gender 156 161	woman
+T11	Drug 78 88	etretinate
+T12	Drug 61 73	methotrexate
+T14	Treat-Disorder 109 125	severe psoriasis
+T5	Adverse_event 26 32	caused
+T13	Combination 36 47	combination
+E1	Adverse_event:T5 
+E2	Combination:T13 arg:T12 arg2:T11

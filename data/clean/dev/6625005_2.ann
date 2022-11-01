@@ -1,0 +1,6 @@
+T3	Speculation_cue 88 91	may
+T4	Treatment 78 87	amoxapine
+T5	Effect 14 35	withdrawal dyskinesia
+T9	Drug 78 87	amoxapine
+T6	Adverse_event 0 10	Occurrence
+E1	Adverse_event:T6

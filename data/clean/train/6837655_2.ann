@@ -1,0 +1,8 @@
+T4	Treatment 47 113	antituberculous therapy, particularly in association with rifampin
+T6	Drug 105 113	rifampin
+T3	Effect 0 39	The spectrum of renal lesions occurring
+T7	Drug 47 70	antituberculous therapy
+T5	Adverse_event 40 46	during
+T8	Combination 88 99	association
+E1	Adverse_event:T5 
+E2	Combination:T8 arg:T6 arg2:T7

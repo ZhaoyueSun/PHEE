@@ -1,0 +1,8 @@
+T3	Effect 21 62	bilateral corneal endothelial dysfunction
+T4	Subject 66 98	a patient with Parkinson disease
+T5	Treatment 120 140	long-term amantadine
+T8	Treat-Disorder 81 98	Parkinson disease
+T9	Drug 130 140	amantadine
+T10	Duration 121 129	ong-term
+T6	Adverse_event 63 65	in
+E1	Adverse_event:T6 

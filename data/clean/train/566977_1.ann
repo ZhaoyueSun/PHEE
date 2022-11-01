@@ -1,0 +1,11 @@
+T3	Effect 6 28	acute tubular necrosis
+T4	Subject 41 50	1 patient
+T6	Treatment 59 80	intravesical formalin
+T7	Treat-Disorder 101 154	massive persistent hemorrhage from radiation cystitis
+T8	Population 41 42	1
+T9	Route 59 71	intravesical
+T10	Drug 72 80	formalin
+T12	Severity_cue 0 5	Fatal
+T5	Adverse_event 29 37	occurred
+E1	Adverse_event:T5 
+A1	Severity E1 High

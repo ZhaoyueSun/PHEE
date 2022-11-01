@@ -1,0 +1,10 @@
+T3	Subject 0 30	An obese patient, not diabetic
+T4	Treatment 45 69	metformin for some weeks
+T5	Effect 95 131;148 169	severe inferior digestive hemorrhage Meckel's diverticulum
+T8	Severity_cue 95 101	severe
+T9	Drug 45 54	metformin
+T10	Duration 59 69	some weeks
+T11	Treat-Disorder 3 8	obese
+T6	Adverse_event 133 142	diagnosed
+E1	Adverse_event:T6 
+A1	Severity E1 High

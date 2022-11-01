@@ -1,0 +1,7 @@
+T5	Treatment 4 36	HIV protease inhibitor indinavir
+T7	Effect 47 89	nephrolithiasis and interstitial nephritis
+T8	Drug 27 36	indinavir
+T9	Speculation_cue 37 40	may
+T6	Adverse_event 41 46	cause
+E1	Adverse_event:T6 
+A1	Speculated E1

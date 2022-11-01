@@ -1,0 +1,5 @@
+T5	Treatment 0 11	Risperidone
+T8	Effect 268 286	tardive dyskinesia
+T9	Drug 0 11	Risperidone
+T6	Adverse_event 200 207	results
+E1	Adverse_event:T6

@@ -1,0 +1,5 @@
+T5	Treatment 115 125	filgrastim
+T6	Effect 0 60;146 200	Sweet's syndrome is an acute febrile neutrophilic dermatosis increased neutrophil proliferation and differentiation
+T8	Drug 115 125	filgrastim
+T7	Adverse_event 139 145	causes
+E1	Adverse_event:T7

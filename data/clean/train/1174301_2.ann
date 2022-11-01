@@ -1,0 +1,6 @@
+T3	Treatment 0 16	Triiodothyronine
+T4	Effect 25 39	thyrotoxicosis
+T6	Treat-Disorder 43 60	ophthalmic Graves
+T7	Drug 0 16	Triiodothyronine
+T5	Adverse_event 17 24	induced
+E1	Adverse_event:T5

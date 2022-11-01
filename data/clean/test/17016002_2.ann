@@ -1,0 +1,6 @@
+T3	Treatment 39 112	calcium stearate, an additive agent for an oral antihistaminic medication
+T5	Effect 0 28	Acute eosinophilic pneumonia
+T6	Drug 39 55	calcium stearate
+T7	Route 82 86	oral
+T4	Adverse_event 29 35	caused
+E1	Adverse_event:T4

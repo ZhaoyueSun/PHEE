@@ -1,0 +1,7 @@
+T11	Subject 101 141	a patient with pancreatic adenocarcinoma
+T12	Treatment 259 270	gemcitabine
+T14	Effect 47 97;239 255	myositis developing in the rectus abdominus muscle radiation recall
+T9	Treat-Disorder 116 141	pancreatic adenocarcinoma
+T10	Drug 259 270	gemcitabine
+T13	Adverse_event 229 238	developed
+E2	Adverse_event:T13 

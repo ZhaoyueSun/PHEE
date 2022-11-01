@@ -1,0 +1,5 @@
+T3	Effect 20 31	burn injury
+T4	Treatment 46 82	use of drugs that contain psoralens.
+T6	Drug 72 81	psoralens
+T5	Adverse_event 11 16	cause
+E1	Adverse_event:T5

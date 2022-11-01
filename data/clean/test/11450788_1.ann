@@ -1,0 +1,6 @@
+T5	Treatment 0 14	Antiretroviral
+T7	Effect 23 60	hepatic steatosis and lactic acidosis
+T8	Drug 0 14	Antiretroviral
+T9	Subject 62 66	case
+T6	Adverse_event 15 22	induced
+E1	Adverse_event:T6

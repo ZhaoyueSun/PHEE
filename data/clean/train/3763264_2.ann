@@ -1,0 +1,7 @@
+T12	Subject 0 7	A child
+T13	Treatment 18 31	phenobarbital
+T14	Effect 32 62;73 213	hypersensitivity drug reaction which consisted of fever, a pruritic desquamating erythrodermic rash, alopecia, icterus, protein-losing enteropathy, myositis, and nephritis
+T16	Age 2 7	child
+T17	Drug 18 31	phenobarbital
+T15	Adverse_event 63 72	developed
+E1	Adverse_event:T15

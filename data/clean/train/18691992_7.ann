@@ -1,0 +1,10 @@
+T5	Subject 0 11	The patient
+T6	Treat-Disorder 93 105	skin lesions
+T8	Effect 135 155;203 219	a painful hand ulcer new skin cancers
+T9	Treatment 186 197	hydroxyurea
+T10	Duration 24 32	10-month
+T11	Drug 186 197	hydroxyurea
+T12	Speculation_cue 157 165	possibly
+T7	Adverse_event 166 176	associated
+E1	Adverse_event:T7 
+A1	Speculated E1

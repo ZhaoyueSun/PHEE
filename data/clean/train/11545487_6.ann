@@ -1,0 +1,6 @@
+T3	Treatment 26 35	indinavir
+T5	Effect 47 61	nephrotoxicity
+T6	Speculation_cue 66 75	uncertain
+T7	Drug 26 35	indinavir
+T4	Adverse_event 36 46	associated
+E1	Adverse_event:T4 

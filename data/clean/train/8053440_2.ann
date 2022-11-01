@@ -1,0 +1,9 @@
+T11	Treatment 25 36	clindamycin
+T12	Subject 0 11	One patient
+T15	Population 0 3	One
+T16	Severity_cue 66 72	marked
+T13	Effect 66 158	marked cholestasis, portal inflammation, bile duct injury and bile duct paucity (ductopenia)
+T17	Drug 25 36	clindamycin
+T14	Adverse_event 37 40	had
+E1	Adverse_event:T14 
+A1	Severity E1 High

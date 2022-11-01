@@ -1,0 +1,9 @@
+T7	Treatment 159 186;72 90	heavy betel nut consumption depot neuroleptics
+T9	Treat-Disorder 27 48	chronic schizophrenic
+T10	Drug 72 90	depot neuroleptics
+T11	Population 0 3	Two
+T1	Subject 0 9	Two cases
+T2	Adverse_event 96 105	developed
+E1	Adverse_event:T2 
+T3	Effect 106 136	severe extrapyramidal symptoms
+T4	Drug 165 174	betel nut

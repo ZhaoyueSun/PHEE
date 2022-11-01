@@ -1,0 +1,10 @@
+T3	Effect 7 12	apnea
+T4	Treatment 37 48	lamotrigine
+T5	Subject 16 25	an infant
+T7	Age 19 25	infant
+T8	Drug 37 48	lamotrigine
+T9	Route 52 63	breast milk
+T10	Severity_cue 0 6	Severe
+T6	Adverse_event 13 15	in
+E1	Adverse_event:T6 
+A1	Severity E1 High

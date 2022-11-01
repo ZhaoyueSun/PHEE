@@ -1,0 +1,5 @@
+T7	Treatment 0 10	Disulfiram
+T8	Effect 44 62;11 25	catatonia syndrome encephalopathy
+T6	Drug 0 10	Disulfiram
+T9	Adverse_event 31 36	cause
+E1	Adverse_event:T9

@@ -1,0 +1,8 @@
+T8	Treatment 36 62	terfenadine and astemizole
+T9	Effect 132 241	side effects on the cardiovascular system, such as QT prolongation, ventricular arrhythmia and cardiac arrest
+T11	Drug 36 47	terfenadine
+T12	Drug 52 62	astemizole
+T10	Adverse_event 127 131	show
+T13	Combination 48 51	and
+E1	Adverse_event:T10 
+E2	Combination:T13 arg:T11 arg2:T12

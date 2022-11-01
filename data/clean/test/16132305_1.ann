@@ -1,0 +1,8 @@
+T6	Treatment 0 9	Captopril
+T8	Effect 18 57	pulmonary infiltrates with eosinophilia
+T9	Subject 61 100	an infant with congenital heart disease
+T10	Age 64 70	infant
+T11	Sub-Disorder 76 100	congenital heart disease
+T12	Drug 0 9	Captopril
+T7	Adverse_event 10 17	induced
+E1	Adverse_event:T7 

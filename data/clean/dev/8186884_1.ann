@@ -1,0 +1,10 @@
+T3	Effect 81 96	frequent shocks
+T4	Treatment 97 129	during oral procainamide therapy
+T5	Subject 0 70	A 78-year-old man with a transvenous cardioverter defibrillator system
+T7	Age 2 13	78-year-old
+T8	Gender 14 17	man
+T9	Treat-Disorder 23 70	a transvenous cardioverter defibrillator system
+T10	Route 104 108	oral
+T11	Drug 109 121	procainamide
+T6	Adverse_event 71 80	developed
+E1	Adverse_event:T6 

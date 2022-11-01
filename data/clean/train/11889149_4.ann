@@ -1,0 +1,16 @@
+T9	Subject 0 72	Women (aged < or = 75 yr; > or = 2 yr since their last menstrual period)
+T10	Treatment 91 156	RLX 60 mg/d, ALN 10 mg/d, or RLX 60 mg/d and ALN 10 mg/d combined
+T12	Gender 0 5	Women
+T13	Age 7 37	aged < or = 75 yr; > or = 2 yr
+T14	Dosage 95 102	60 mg/d
+T15	Dosage 108 115	10 mg/d
+T16	Drug 91 94	RLX
+T17	Drug 104 107	ALN
+T18	Drug 120 123	RLX
+T19	Dosage 124 131	60 mg/d
+T20	Drug 136 139	ALN
+T21	Dosage 140 147	10 mg/d
+T11	Potential_therapeutic_event 73 81	received
+T22	Combination 148 156	combined
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T22 arg:T20 arg2:T18

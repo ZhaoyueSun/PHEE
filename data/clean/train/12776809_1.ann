@@ -1,0 +1,8 @@
+T7	Treatment 20 51	coumarin-troxerutin combination
+T8	Effect 62 76	liver function
+T10	Drug 20 28	coumarin
+T11	Drug 29 39	troxerutin
+T9	Adverse_event 0 14	Safety aspects
+T12	Combination 40 51	combination
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T11 arg2:T10

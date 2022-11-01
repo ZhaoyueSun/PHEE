@@ -1,0 +1,9 @@
+T3	Subject 62 77	a black African
+T4	Treatment 10 21	allopurinol
+T5	Effect 22 38	hypersensitivity
+T7	Race 64 77	black African
+T8	Drug 10 21	allopurinol
+T9	Speculation_cue 40 48	possibly
+T6	Adverse_event 7 9	of
+E1	Adverse_event:T6 
+A1	Speculated E1

@@ -1,0 +1,8 @@
+T4	Treatment 111 161	weeks of frequent topical dosing with moxifloxacin
+T5	Effect 44 73	corneal ulcers that persisted
+T6	Subject 9 19	Both cases
+T8	Route 129 136	topical
+T9	Drug 149 161	moxifloxacin
+T7	Freq 120 128	frequent
+T3	Adverse_event 94 103	worsening
+E1	Adverse_event:T3

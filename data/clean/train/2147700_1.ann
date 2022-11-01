@@ -1,0 +1,8 @@
+T3	Subject 0 45	One patient with systemic lupus erythematosus
+T5	Effect 56 75	erythema multiforme
+T6	Treatment 89 101	griseofulvin
+T7	Population 0 3	One
+T8	Sub-Disorder 17 45	systemic lupus erythematosus
+T9	Drug 89 101	griseofulvin
+T4	Adverse_event 76 81	after
+E1	Adverse_event:T4 

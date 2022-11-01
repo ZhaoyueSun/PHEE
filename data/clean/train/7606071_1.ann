@@ -1,0 +1,6 @@
+T3	Treatment 29 54	intraperitoneal cisplatin
+T4	Effect 0 23	Anaphylactoid reactions
+T6	Route 29 44	intraperitoneal
+T7	Drug 45 54	cisplatin
+T5	Adverse_event 24 28	with
+E1	Adverse_event:T5

@@ -1,0 +1,9 @@
+T3	Subject 10 24	three patients
+T5	Effect 90 163	profound reduction in plasma HDL cholesterol and apolipoprotein AI levels
+T6	Treatment 193 214	rosiglitazone therapy
+T8	Population 10 15	three
+T9	Drug 193 206	rosiglitazone
+T10	Time_elapsed 164 174	soon after
+T11	Treat-Disorder 42 75	preexisting diabetic dyslipidemia
+T7	Potential_therapeutic_event 179 189	initiation
+E1	Potential_therapeutic_event:T7

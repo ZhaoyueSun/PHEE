@@ -1,0 +1,5 @@
+T6	Treatment 43 58	diphenhydramine
+T7	Drug 43 58	diphenhydramine
+T4	Treat-Disorder 14 23	movements
+T5	Potential_therapeutic_event 24 32	resolved
+E1	Potential_therapeutic_event:T5

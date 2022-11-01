@@ -1,0 +1,5 @@
+T3	Effect 15 40	hypersensitivity reaction
+T4	Treatment 44 75	one formulation of cyclosporine
+T6	Drug 63 75	cyclosporine
+T5	Adverse_event 41 43	to
+E1	Adverse_event:T5

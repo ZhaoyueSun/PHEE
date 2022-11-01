@@ -1,0 +1,9 @@
+T7	Treatment 19 50	linezolid for more than 28 days
+T8	Subject 0 8	Patients
+T9	Effect 84 115	peripheral and optic neuropathy
+T11	Drug 19 28	linezolid
+T12	Speculation_cue 51 57	should
+T13	Duration 43 50	28 days
+T10	Adverse_event 61 70	monitored
+E1	Adverse_event:T10 
+A1	Speculated E1

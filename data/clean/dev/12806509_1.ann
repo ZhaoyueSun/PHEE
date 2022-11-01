@@ -1,0 +1,6 @@
+T3	Effect 0 37	Early-onset acute transverse myelitis
+T4	Treatment 48 71	hepatitis B vaccination
+T6	Drug 48 71	hepatitis B vaccination
+T7	Subject 99 103	case
+T5	Adverse_event 38 47	following
+E1	Adverse_event:T5

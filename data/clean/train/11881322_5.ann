@@ -1,0 +1,5 @@
+T3	Treatment 52 64	ketoconazole
+T4	Effect 18 33	acute hepatitis
+T6	Drug 52 64	ketoconazole
+T5	Adverse_event 48 51	for
+E1	Adverse_event:T5 

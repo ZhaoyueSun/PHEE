@@ -1,0 +1,10 @@
+T5	Effect 65 80	severe acidosis
+T3	Subject 0 54	An insulin-dependent diabetic patient with nephropathy
+T4	Treat-Disorder 120 128	glaucoma
+T8	Sub-Disorder 21 29	diabetic
+T9	Sub-Disorder 43 54	nephropathy
+T10	Severity_cue 65 71	severe
+T11	Drug 102 115	acetazolamide
+T6	Treatment 102 128	acetazolamide for glaucoma
+T7	Adverse_event 55 64	developed
+E1	Adverse_event:T7 

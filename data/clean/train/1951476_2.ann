@@ -1,0 +1,6 @@
+T4	Treatment 85 116	a second course of flurbiprofen
+T5	Effect 20 68	biopsy-proven acute tubulointerstitial nephritis
+T6	Drug 104 116	flurbiprofen
+T7	Freq 87 100	second course
+T3	Adverse_event 69 79	associated
+E1	Adverse_event:T3

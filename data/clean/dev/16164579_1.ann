@@ -1,0 +1,9 @@
+T5	Subject 0 34	A 51-year old physically fit woman
+T6	Effect 47 81	angio-oedema and hypotensive shock
+T7	Treatment 88 108	irbesartan ingestion
+T9	Age 2 13	51-year old
+T10	Gender 29 34	woman
+T11	Drug 88 98	irbesartan
+T12	Route 99 108	ingestion
+T8	Adverse_event 35 46	experienced
+E1	Adverse_event:T8

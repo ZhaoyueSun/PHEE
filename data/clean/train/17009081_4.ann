@@ -1,0 +1,7 @@
+T5	Effect 7 41	proteinuria and nephrotic syndrome
+T8	Treatment 70 81	IFN-beta-1b
+T9	Subject 111 122	MS patients
+T11	Drug 70 81	IFN-beta-1b
+T12	Treat-Disorder 111 113	MS
+T7	Adverse_event 52 66	adverse effect
+E1	Adverse_event:T7

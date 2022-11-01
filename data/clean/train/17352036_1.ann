@@ -1,0 +1,5 @@
+T9	Treatment 19 29	amiodarone
+T11	Effect 40 123	pulmonary toxicity, hepatotoxicity, aggravation of arrhythmia, and thyroid diseases
+T12	Drug 19 29	amiodarone
+T10	Adverse_event 30 39	including
+E1	Adverse_event:T10

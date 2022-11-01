@@ -1,0 +1,8 @@
+T5	Effect 0 39	Paroxysmal supraventricular tachycardia
+T6	Treatment 62 97	cisplatin and etoposide combination
+T7	Drug 62 71	cisplatin
+T8	Drug 76 85	etoposide
+T4	Adverse_event 40 46	during
+T9	Combination 86 97	combination
+E1	Adverse_event:T4 
+E2	Combination:T9 arg:T8 arg2:T7

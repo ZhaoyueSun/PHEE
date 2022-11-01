@@ -1,0 +1,5 @@
+T3	Treatment 0 9	Ibuprofen
+T4	Effect 92 146	systemic and local side effects in patients with lupus
+T6	Drug 0 9	Ibuprofen
+T5	Adverse_event 78 91	implicated in
+E1	Adverse_event:T5

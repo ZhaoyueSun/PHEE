@@ -1,0 +1,11 @@
+T10	Subject 0 11	MM patients
+T11	Treatment 25 52	thalidomide and doxorubicin
+T12	Effect 58 87	a high risk of developing DVT
+T14	Treat-Disorder 0 2	MM
+T15	Speculation_cue 65 69	risk
+T16	Drug 25 36	thalidomide
+T17	Drug 41 52	doxorubicin
+T13	Adverse_event 53 57	have
+T18	Combination 37 40	and
+E1	Adverse_event:T13 
+E2	Combination:T18 arg:T16 arg2:T17

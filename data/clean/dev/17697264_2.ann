@@ -1,0 +1,5 @@
+T3	Treatment 12 22;54 85	tacrolimus after lung transplantation (LT)
+T5	Effect 31 42	hepatic VOD
+T6	Drug 12 22	tacrolimus
+T4	Adverse_event 23 30	induced
+E1	Adverse_event:T4

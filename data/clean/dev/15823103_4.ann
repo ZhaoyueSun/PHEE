@@ -1,0 +1,16 @@
+T5	Effect 24 60	carboplatin (CBDCA) hypersensitivity
+T6	Treatment 67 159;212 248	weekly low-dose paclitaxel (60 mg/m2)/CBDCA (area under the concentration curve = 2) therapy multiple platinum-based chemotherapy
+T7	Subject 163 201	patients with recurrent ovarian cancer
+T10	Drug 83 93	paclitaxel
+T11	Dosage 74 82;95 103	low-dose 60 mg/m2
+T12	Drug 105 110	CBDCA
+T14	Freq 67 73	weekly
+T15	Treat-Disorder 177 201	recurrent ovarian cancer
+T17	Drug 24 35	carboplatin
+T13	Population 10 14	five
+T18	Drug 221 229	platinum
+T19	Route 236 248	chemotherapy
+T8	Adverse_event 61 66	after
+T16	Combination 104 105	/
+E1	Adverse_event:T8 
+E2	Combination:T16 arg:T10 arg2:T12 arg3:T18

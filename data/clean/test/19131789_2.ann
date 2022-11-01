@@ -1,0 +1,22 @@
+T3	Effect 187 201	renal toxicity
+T4	Treatment 229 282	2 hours after the completion of a 4-hour MTX infusion
+T6	Duration 263 269	4-hour
+T7	Drug 270 273	MTX
+T8	Route 274 282	infusion
+T10	Time_elapsed 229 236	2 hours
+T12	Treat-Disorder 187 201	renal toxicity
+T14	Treatment 54 137	high-dose leucovorin, hemodialysis, charcoal hemoperfusion, and carboxypeptidase G2
+T15	Dosage 54 63	high-dose
+T16	Drug 64 74	leucovorin
+T17	Drug 76 88	hemodialysis
+T18	Drug 90 98	charcoal
+T19	Route 99 112	hemoperfusion
+T20	Drug 118 137	carboxypeptidase G2
+T5	Adverse_event 237 242	after
+T13	Potential_therapeutic_event 28 37	recovered
+T21	Combination 114 117	and
+E1	Adverse_event:T5 arg:T3 arg2:T4
+E2	Potential_therapeutic_event:T13 arg:T14
+E3	Combination:T21 arg:T16 arg2:T17 arg3:T18 arg4:T20
+R1	has Arg1:T14 Arg2:T12	
+R3	has_child Arg1:E2 Arg2:E3

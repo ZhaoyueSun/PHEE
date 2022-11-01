@@ -1,0 +1,18 @@
+{
+    "train_file": "./data/train.json",
+    "dev_file": "./data/dev.json",
+    "test_file": "./data/test.json",
+    "train_batch_size": 32,
+    "eval_batch_size": 32,
+    "eval_per_epoch": 20,
+    "num_train_epochs": 10,
+    "output_dir": "model/biobert_rst/trigger/6/",
+    "model_dir": "",
+    "learning_rate":1e-5,
+    "nth_query": 6,
+    "warmup_proportion": 0.1,
+    "do_train": true,
+    "do_eval": true,
+    "model": "model/biobert_v1.1_pubmed", 
+    "eval_test": true
+}

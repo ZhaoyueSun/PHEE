@@ -1,0 +1,8 @@
+T3	Subject 0 34	An asymptomatic HIV-infected woman
+T4	Effect 47 77	right-sided renal colicky pain
+T6	Treatment 100 109	indinavir
+T8	Gender 29 34	woman
+T9	Drug 100 109	indinavir
+T10	Treat-Disorder 16 19	HIV
+T5	Adverse_event 35 46	experienced
+E1	Adverse_event:T5 

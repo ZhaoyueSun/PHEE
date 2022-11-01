@@ -1,0 +1,8 @@
+T8	Treatment 145 162	magnesium sulfate
+T11	Severity_cue 28 34	severe
+T10	Effect 28 106	severe hypocalcemia, with a low plasma parathyroid hormone (PTH) concentration
+T7	Treat-Disorder 167 187	toxemia of pregnancy
+T12	Drug 145 162	magnesium sulfate
+T9	Adverse_event 108 116	resulted
+E1	Adverse_event:T9 
+A1	Severity E1 High

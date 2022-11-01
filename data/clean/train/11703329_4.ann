@@ -1,0 +1,14 @@
+T3	Subject 10 87	a 31-year-old women with recurrent Hodgkin's lymphoma and unrecognized HMSN-1
+T5	Effect 102 125	severe motor neuropathy
+T6	Treatment 126 198	3 weeks after the first cycle of treatment including 2 mg of vincristine
+T7	Age 12 23	31-year-old
+T8	Gender 24 29	women
+T9	Treat-Disorder 35 63	recurrent Hodgkin's lymphoma
+T10	Severity_cue 102 108	severe
+T11	Time_elapsed 126 133	3 weeks
+T12	Dosage 179 183	2 mg
+T13	Drug 187 198	vincristine
+T4	Adverse_event 92 101	developed
+E1	Adverse_event:T4 
+A1	Severity E1 High
+T1	Sub-Disorder 68 87	unrecognized HMSN-1

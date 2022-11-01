@@ -1,0 +1,9 @@
+T3	Subject 10 118	a patient with advanced colonic carcinoma who was treated with concomitant chemoirradiation with oxaliplatin
+T5	Treatment 192 243	exposed to subsequent chemotherapy with oxaliplatin
+T6	Effect 133 179	a peculiar dermnatitis in the irradiated field
+T8	Treat-Disorder 25 51	advanced colonic carcinoma
+T9	Drug 73 101	concomitant chemoirradiation
+T10	Drug 107 118	oxaliplatin
+T11	Drug 232 243	oxaliplatin
+T4	Adverse_event 123 132	developed
+E1	Adverse_event:T4

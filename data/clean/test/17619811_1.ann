@@ -1,0 +1,14 @@
+T7	Subject 0 133	A 79-year-old man with ischemic heart disease, chronic atrial fibrillation, chronic renal failure, hypothyroidism, and gout arthritis
+T8	Effect 162 196	fatigue, myalgia, and leg weakness
+T10	Treatment 221 246	treatment with colchicine
+T11	Age 2 13	79-year-old
+T12	Gender 14 17	man
+T13	Sub-Disorder 23 45	ischemic heart disease
+T14	Sub-Disorder 47 74	chronic atrial fibrillation
+T15	Sub-Disorder 76 97	chronic renal failure
+T16	Sub-Disorder 99 113	hypothyroidism
+T18	Drug 236 246	colchicine
+T19	Time_elapsed 198 205	shortly
+T20	Treat-Disorder 119 133	gout arthritis
+T9	Adverse_event 206 211	after
+E1	Adverse_event:T9 

@@ -1,0 +1,16 @@
+T6	Effect 110 188	mild reversible hematologic or hepatic toxicity and no further increases in Hb
+T8	Effect 0 19	Prolonged responses
+T10	Treatment 39 54	low doses of HU
+T11	Drug 52 54	HU
+T12	Dosage 39 48	low doses
+T13	Treatment 52 88	HU (3-10 mg/kg/day) and higher doses
+T14	Dosage 76 88	higher doses
+T15	Drug 52 54	HU
+T7	Adverse_event 94 104	associated
+T9	Adverse_event 25 33	achieved
+E1	Adverse_event:T7 arg:T13 arg2:T6
+E2	Adverse_event:T9 arg:T10 arg2:T8
+R1	has Arg1:T10 Arg2:T12	
+R2	has Arg1:T10 Arg2:T11	
+R3	has Arg1:T13 Arg2:T15	
+R4	has Arg1:T13 Arg2:T14

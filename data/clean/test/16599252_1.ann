@@ -1,0 +1,9 @@
+T3	Subject 20 29	a patient
+T4	Treatment 35 42	aspirin
+T6	Effect 51 57	asthma
+T7	Drug 35 42	aspirin
+T8	Drug 71 82	zafirlukast
+T5	Adverse_event 43 50	induced
+T9	Combination 66 70	with
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T8 arg2:T7

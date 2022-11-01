@@ -1,0 +1,8 @@
+T4	Effect 0 14	Hypernatraemia
+T6	Treatment 26 68	sodium polystyrene sulphonate (Kayexalate)
+T7	Subject 72 111	two extremely low birth weight newborns
+T8	Population 72 75	two
+T9	Age 103 111	newborns
+T10	Drug 26 67	sodium polystyrene sulphonate (Kayexalate
+T5	Adverse_event 15 25	induced by
+E1	Adverse_event:T5

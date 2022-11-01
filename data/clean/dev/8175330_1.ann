@@ -1,0 +1,6 @@
+T5	Treatment 0 34	Sodium valproate and carbamazepine
+T6	Effect 106 133	adverse cutaneous reactions
+T8	Drug 21 34	carbamazepine
+T9	Drug 0 16	Sodium valproate
+T4	Adverse_event 65 80	associated with
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T6	Treatment 0 11	L-Thyroxine
+T8	Effect 20 30	leukopenia
+T9	Subject 34 68	a patient with Hashimoto's disease
+T10	Drug 0 11	L-Thyroxine
+T11	Treat-Disorder 49 68	Hashimoto's disease
+T7	Adverse_event 12 19	induced
+E1	Adverse_event:T7 

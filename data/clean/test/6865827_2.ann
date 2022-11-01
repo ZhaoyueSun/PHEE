@@ -1,0 +1,8 @@
+T3	Subject 0 11	The patient
+T4	Treatment 22 33	methimazole
+T5	Effect 83 98	agranulocytosis
+T7	Drug 22 33	methimazole
+T8	Time_elapsed 67 81	10 weeks later
+T9	Drug 45 61	propylthiouracil
+T6	Adverse_event 105 113	occurred
+E2	Adverse_event:T6

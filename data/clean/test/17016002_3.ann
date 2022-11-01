@@ -1,0 +1,6 @@
+T3	Subject 29 43	this patient's
+T4	Effect 44 61	pulmonary disease
+T6	Treatment 76 92;94 132	calcium stearate an additive for an antihistaminic drug
+T7	Drug 76 92	calcium stearate
+T5	Adverse_event 66 72	caused
+E1	Adverse_event:T5

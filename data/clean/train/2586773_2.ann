@@ -1,0 +1,6 @@
+T4	Treatment 20 29	ibuprofen
+T5	Effect 38 48	meningitis
+T6	Subject 52 83	an otherwise healthy individual
+T7	Drug 20 29	ibuprofen
+T3	Adverse_event 30 37	induced
+E1	Adverse_event:T3

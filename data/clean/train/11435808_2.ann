@@ -1,0 +1,8 @@
+T9	Treatment 0 14	Massive CBZ OD
+T11	Effect 29 166	reversible encephalopathy that includes cortical hyperexcitability, a profound burst-suppression EEG pattern, and cranial nerve areflexia
+T12	Dosage 12 14	OD
+T13	Drug 8 11	CBZ
+T14	Speculation_cue 15 18	may
+T10	Adverse_event 19 26	produce
+E1	Adverse_event:T10 
+A1	Speculated E1

@@ -1,0 +1,10 @@
+T6	Treatment 66 78;100 111	levofloxacin tolterodine
+T8	Treat-Disorder 30 41	prostatitis
+T9	Subject 0 11	One patient
+T10	Population 0 3	One
+T11	Drug 66 78	levofloxacin
+T12	Drug 100 111	tolterodine
+T7	Potential_therapeutic_event 53 60	treated
+T13	Combination 91 99	prior to
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T13 arg:T11 arg2:T12

@@ -1,0 +1,6 @@
+T5	Effect 66 104	multiple skin cancers and nail changes
+T6	Treatment 121 132	hydroxyurea
+T8	Subject 28 32	case
+T10	Drug 121 132	hydroxyurea
+T7	Adverse_event 105 115	associated
+E1	Adverse_event:T7

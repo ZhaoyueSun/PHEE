@@ -1,0 +1,5 @@
+T3	Effect 0 14	Hepatotoxicity
+T5	Treatment 26 45	cyproterone acetate
+T6	Drug 26 45	cyproterone acetate
+T4	Adverse_event 15 25	induced by
+E1	Adverse_event:T4

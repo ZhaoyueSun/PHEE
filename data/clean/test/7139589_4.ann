@@ -1,0 +1,11 @@
+T3	Effect 15 41	pseudocyst of the pancreas
+T4	Subject 45 66	two women and one man
+T6	Treatment 113 139	intravenous L-asparaginase
+T7	Population 45 48	two
+T8	Gender 49 54	women
+T9	Population 59 62	one
+T10	Gender 63 66	man
+T11	Drug 125 139	L-asparaginase
+T12	Route 113 124	intravenous
+T5	Adverse_event 88 96	reported
+E1	Adverse_event:T5

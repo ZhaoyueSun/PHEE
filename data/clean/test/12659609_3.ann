@@ -1,0 +1,10 @@
+T5	Subject 14 63	A febrile 36-year-old seaman from Mumbai (Bombay)
+T7	Treatment 79 117	>5 times the usual dose of chloroquine
+T8	Treat-Disorder 122 129	malaria
+T9	Sub-Disorder 16 23	febrile
+T10	Age 24 35	36-year-old
+T11	Race 48 63	Mumbai (Bombay)
+T12	Drug 106 117	chloroquine
+T13	Dosage 79 102	>5 times the usual dose
+T6	Potential_therapeutic_event 68 78	prescribed
+E1	Potential_therapeutic_event:T6 

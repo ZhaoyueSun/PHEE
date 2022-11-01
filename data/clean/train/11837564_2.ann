@@ -1,0 +1,5 @@
+T3	Treatment 0 8	Warfarin
+T5	Effect 20 52	bleeding complication saved life
+T6	Drug 0 8	Warfarin
+T4	Adverse_event 9 19	associated
+E1	Adverse_event:T4 

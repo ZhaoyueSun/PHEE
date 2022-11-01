@@ -1,0 +1,12 @@
+T7	Subject 70 107	four patients with spinal cord injury
+T8	Treatment 119 153	oral trimethoprim-sulfamethoxazole
+T9	Effect 0 56	Antibiotic-associated colitis (pseudomembranous colitis)
+T11	Population 70 74	four
+T13	Drug 137 153	sulfamethoxazole
+T14	Drug 124 136	trimethoprim
+T16	Route 119 123	oral
+T17	Treat-Disorder 89 107	spinal cord injury
+T10	Adverse_event 57 66	developed
+T15	Combination 136 137	-
+E1	Adverse_event:T10 
+E2	Combination:T15 arg:T14 arg2:T13

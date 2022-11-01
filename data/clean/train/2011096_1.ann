@@ -1,0 +1,9 @@
+T7	Subject 90 112	children with leukemia
+T8	Effect 0 29	Bulbar and pseudobulbar palsy
+T9	Treatment 56 86	high-dose cytosine arabinoside
+T11	Age 90 98	children
+T13	Drug 66 86	cytosine arabinoside
+T14	Dosage 56 65	high-dose
+T15	Treat-Disorder 104 112	leukemia
+T10	Adverse_event 30 42	complicating
+E1	Adverse_event:T10 

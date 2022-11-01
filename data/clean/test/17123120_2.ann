@@ -1,0 +1,6 @@
+T5	Treatment 6 16	tacrolimus
+T7	Effect 25 28	HUS
+T8	Drug 6 16	tacrolimus
+T9	Treat-Disorder 55 73	nephrotic syndrome
+T6	Adverse_event 17 24	induced
+E1	Adverse_event:T6

@@ -1,0 +1,8 @@
+T4	Treatment 65 95	high dose colchicine treatment
+T5	Effect 55 57	PD
+T6	Subject 25 38	two patients,
+T7	Population 25 28	two
+T8	Dosage 65 74	high dose
+T9	Drug 75 85	colchicine
+T3	Adverse_event 58 64	during
+E1	Adverse_event:T3

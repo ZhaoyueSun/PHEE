@@ -1,0 +1,6 @@
+T5	Treatment 12 48	Oxaliplatin is a platinum derivative
+T8	Drug 12 23	Oxaliplatin
+T9	Drug 29 48	platinum derivative
+T10	Treat-Disorder 84 101	colorectal cancer
+T7	Potential_therapeutic_event 71 80	treatment
+E1	Potential_therapeutic_event:T7

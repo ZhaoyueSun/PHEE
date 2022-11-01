@@ -1,0 +1,7 @@
+T3	Effect 0 54	Reversible sclerotic changes of lumbar spine and femur
+T4	Treatment 62 89	long-term oral isotretinoin
+T6	Drug 77 89	isotretinoin
+T7	Route 72 76	oral
+T8	Duration 63 71	ong-term
+T5	Adverse_event 55 58	due
+E1	Adverse_event:T5

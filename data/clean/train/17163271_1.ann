@@ -1,0 +1,7 @@
+T5	Subject 61 89	a renal transplant recipient
+T6	Treatment 103 114	cyclosporin
+T7	Effect 0 57	Cholelithiasis and thrombosis of the central retinal vein
+T9	Sub-Disorder 63 79	renal transplant
+T10	Drug 103 114	cyclosporin
+T8	Adverse_event 58 60	in
+E1	Adverse_event:T8 

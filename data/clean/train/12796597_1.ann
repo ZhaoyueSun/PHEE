@@ -1,0 +1,5 @@
+T6	Effect 111 128	renal dysfunction
+T4	Treatment 53 80	interferon alpha (IFNalpha)
+T7	Drug 53 69	interferon alpha
+T5	Adverse_event 95 105	associated
+E1	Adverse_event:T5 

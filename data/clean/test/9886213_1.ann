@@ -1,0 +1,5 @@
+T5	Effect 0 49	Disseminated muscular cysticercosis with myositis
+T7	Treatment 61 81	praziquantel therapy
+T8	Drug 61 73	praziquantel
+T6	Adverse_event 50 57	induced
+E1	Adverse_event:T6

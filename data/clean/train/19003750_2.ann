@@ -1,0 +1,6 @@
+T3	Effect 0 26	Acute ischaemia of the leg
+T5	Treatment 48 107	intra-arterial injection of dissolved flunitrazepam tablets
+T6	Route 63 72	injection
+T7	Drug 86 99	flunitrazepam
+T4	Adverse_event 27 36	following
+E1	Adverse_event:T4

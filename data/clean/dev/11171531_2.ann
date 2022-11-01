@@ -1,0 +1,8 @@
+T7	Effect 139 151	hypertension
+T6	Treatment 91 104	lead exposure
+T8	Speculation_cue 64 71	whether
+T9	Drug 91 95	lead
+T10	Route 96 104	exposure
+T5	Adverse_event 105 116	contributes
+E1	Adverse_event:T5 
+A1	Speculated E1

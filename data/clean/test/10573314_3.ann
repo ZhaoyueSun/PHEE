@@ -1,0 +1,13 @@
+T11	Subject 0 12	Two patients
+T15	Population 0 3	Two
+T16	Treat-Disorder 42 48	stroke
+T12	Drug 160 171	tolterodine
+T17	Drug 29 37	warfarin
+T14	Treatment 19 108;136 193	receiving warfarin for stroke prophylaxis in association with chronic atrial fibrillation after the initiation of tolterodine for urinary disorders
+T19	Treat-Disorder 176 193	urinary disorders
+T20	Effect 120 135	adverse effects
+T13	Adverse_event 110 119	developed
+T18	Combination 136 141	after
+E1	Adverse_event:T13 
+E2	Combination:T18 arg:T12 arg2:T17
+T1	Sub-Disorder 81 108	chronic atrial fibrillation

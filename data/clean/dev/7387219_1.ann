@@ -1,0 +1,6 @@
+T4	Effect 0 14	Hepatotoxicity
+T5	Treatment 38 53	D-penicillamine
+T6	Treat-Disorder 57 77	rheumatoid arthritis
+T7	Drug 38 53	D-penicillamine
+T3	Adverse_event 15 25	associated
+E1	Adverse_event:T3

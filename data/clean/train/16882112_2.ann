@@ -1,0 +1,4 @@
+T5	Effect 0 19	Serotonin syndrome,
+T7	Treatment 146 174	serotonin-active medications
+T6	Adverse_event 26 32	occurs
+E1	Adverse_event:T6

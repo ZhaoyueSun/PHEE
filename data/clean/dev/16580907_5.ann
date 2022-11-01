@@ -1,0 +1,8 @@
+T9	Effect 258 266	fainting
+T13	Drug 157 169	pilsicainide
+T14	Drug 207 217	cetirizine
+T16	Treatment 157 169;207 217	pilsicainide cetirizine
+T10	Adverse_event 271 278	induced
+T11	Combination 307 318	interaction
+E1	Adverse_event:T10 
+E2	Combination:T11 arg:T13 arg2:T14

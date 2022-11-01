@@ -1,0 +1,13 @@
+T7	Subject 15 61	a male patient with psoriasis and hypertension
+T9	Treatment 97 129	tacalcitol ointment and thiazide
+T11	Effect 158 190	hypercalciuria and hypercalcemia
+T12	Gender 17 21	male
+T14	Treat-Disorder 35 44	psoriasis
+T15	Treat-Disorder 49 61	hypertension
+T17	Drug 97 107	tacalcitol
+T18	Drug 121 129	thiazide
+T19	Route 108 116	ointment
+T10	Adverse_event 145 154	resulting
+T16	Combination 117 120	and
+E1	Adverse_event:T10 
+E2	Combination:T16 arg:T17 arg2:T18

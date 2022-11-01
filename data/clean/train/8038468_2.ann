@@ -1,0 +1,8 @@
+T4	Effect 9 62	prolongation of 5-FU half-life and an increase in INR
+T6	Treatment 87 126	the concurrent use of 5-FU and warfarin
+T7	Drug 118 126	warfarin
+T8	Drug 109 113	5-FU
+T5	Adverse_event 73 81	reported
+T9	Combination 91 101	concurrent
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T8 arg2:T7

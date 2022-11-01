@@ -1,0 +1,13 @@
+T5	Subject 0 20	A 31-year-old female
+T7	Effect 31 70	multiple episodes of grand mal seizures
+T8	Treatment 77 143	combination chemotherapy with cisplatin, vinblastine and bleomycin
+T9	Age 2 13	31-year-old
+T10	Gender 14 20	female
+T11	Treat-Disorder 148 181	germ cell ovarian cancer stage Ic
+T12	Drug 134 143	bleomycin
+T13	Drug 118 129	vinblastine
+T14	Drug 107 116	cisplatin
+T6	Adverse_event 21 30	developed
+T15	Combination 77 88	combination
+E1	Adverse_event:T6 
+E2	Combination:T15 arg:T14 arg2:T13 arg3:T12

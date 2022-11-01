@@ -1,0 +1,6 @@
+T3	Effect 108 126	acute pancreatitis
+T4	Treatment 66 77	tigecycline
+T5	Speculation_cue 86 94	probable
+T8	Drug 66 77	tigecycline
+T6	Adverse_event 95 100	cause
+E1	Adverse_event:T6

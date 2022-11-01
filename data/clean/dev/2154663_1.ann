@@ -1,0 +1,5 @@
+T3	Treatment 0 67	Aminoglutethimide was discontinued until completion of radiotherapy
+T5	Effect 73 90	the rash resolved
+T6	Drug 0 17	Aminoglutethimide
+T4	Potential_therapeutic_event 69 72	and
+E1	Potential_therapeutic_event:T4

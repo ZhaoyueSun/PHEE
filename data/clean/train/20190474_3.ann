@@ -1,0 +1,8 @@
+T15	Effect 105 280	widespread skin rash, acute kidney injury, high-grade fever, eosinophilia, liver dysfunction, lymphadenopathy and an increase in antihuman herpesvirus-6 immunoglobulin G titer
+T16	Subject 29 34	a man
+T18	Treat-Disorder 69 77	epilepsy
+T21	Gender 31 34	man
+T22	Drug 54 64	zonisamide
+T17	Treatment 54 77	zonisamide for epilepsy
+T19	Adverse_event 95 104	developed
+E1	Adverse_event:T19

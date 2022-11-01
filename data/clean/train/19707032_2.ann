@@ -1,0 +1,7 @@
+T7	Effect 0 17	Acute vision loss
+T10	Effect 88 112	ocular ischemic syndrome
+T9	Treatment 24 71	intravitreal injection of bevacizumab (avastin)
+T11	Route 24 46	intravitreal injection
+T12	Drug 50 61	bevacizumab
+T8	Adverse_event 18 23	after
+E1	Adverse_event:T8

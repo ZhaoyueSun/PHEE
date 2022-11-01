@@ -1,0 +1,7 @@
+T4	Speculation_cue 53 61	believed
+T5	Treatment 89 98	mizoribin
+T6	Effect 47 52	SIADH
+T7	Subject 29 43	the first case
+T10	Drug 89 98	mizoribin
+T8	Adverse_event 71 85	adverse effect
+E1	Adverse_event:T8

@@ -1,0 +1,7 @@
+T3	Treatment 22 41	phenylpropanolamine
+T4	Effect 60 84	intracerebral hemorrhage
+T5	Subject 88 109	a patient with an AVM
+T7	Sub-Disorder 106 109	AVM
+T8	Drug 22 41	phenylpropanolamine
+T6	Adverse_event 16 21	links
+E1	Adverse_event:T6 

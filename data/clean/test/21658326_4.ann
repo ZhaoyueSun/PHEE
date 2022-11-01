@@ -1,0 +1,12 @@
+T13	Treat-Disorder 68 72;146 155	NMSC psoriasis
+T14	Treatment 88 141	imiquimod in the context of infliximab administration
+T11	Effect 32 45	atypical ASRs
+T15	Drug 68 72	NMSC
+T16	Drug 88 97	imiquimod
+T17	Drug 116 126	infliximab
+T19	Severity_cue 24 30	severe
+T12	Adverse_event 52 60	occurred
+T18	Combination 98 115	in the context of
+E1	Adverse_event:T12 
+E2	Combination:T18 arg:T16 arg2:T17
+A1	Severity E1 High

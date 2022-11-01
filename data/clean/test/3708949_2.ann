@@ -1,0 +1,6 @@
+T6	Treatment 62 98	parenteral amiodarone administration
+T4	Effect 15 55	acute changes suggesting acute hepatitis
+T3	Subject 0 9	A patient
+T8	Drug 73 83	amiodarone
+T5	Adverse_event 56 61	after
+E1	Adverse_event:T5 

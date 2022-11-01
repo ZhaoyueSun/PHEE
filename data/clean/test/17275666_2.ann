@@ -1,0 +1,8 @@
+T5	Treatment 0 13	Valproic acid
+T8	Drug 0 13	Valproic acid
+T9	Treat-Disorder 67 100	idiopathic generalized epilepsies
+T10	Treat-Disorder 112 137	juvenile absence epilepsy
+T11	Speculation_cue 17 25	commonly
+T6	Potential_therapeutic_event 42 46	used
+E1	Potential_therapeutic_event:T6 
+A1	Speculated E1

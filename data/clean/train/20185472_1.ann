@@ -1,0 +1,6 @@
+T4	Effect 33 39	tremor
+T5	Treatment 51 72	itraconazole therapy,
+T7	Drug 51 63	itraconazole
+T8	Time_elapsed 88 106	within 1-12 months
+T6	Adverse_event 40 47	related
+E1	Adverse_event:T6

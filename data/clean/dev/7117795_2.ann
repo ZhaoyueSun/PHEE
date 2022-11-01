@@ -1,0 +1,5 @@
+T9	Treatment 32 43	flucytosine
+T11	Effect 55 197	ulcerating enteritis in which the small bowel x-ray demonstrated severe luminal narrowing, ulceration, and marked separation of loops of bowel
+T12	Drug 32 43	flucytosine
+T10	Adverse_event 44 54	associated
+E1	Adverse_event:T10

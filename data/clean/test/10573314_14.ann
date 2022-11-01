@@ -1,0 +1,10 @@
+T8	Treatment 101 120	tolterodine therapy
+T10	Effect 70 95	possible drug interaction
+T9	Subject 137 146	a patient
+T11	Speculation_cue 70 78	possible
+T12	Drug 101 112	tolterodine
+T13	Drug 161 169	warfarin
+T7	Adverse_event 124 133	initiated
+T14	Combination 84 95	interaction
+E1	Adverse_event:T7 
+E2	Combination:T14 arg:T12 arg2:T13

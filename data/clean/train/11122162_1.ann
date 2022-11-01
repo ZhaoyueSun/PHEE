@@ -1,0 +1,9 @@
+T3	Effect 0 2	MI
+T5	Treatment 25 57;191 228	activated and non-activated PCCs large cumulative doses of concentrate
+T6	Subject 80 158	young patients who often have no preceding history of, or risk factors for, MI
+T7	Age 80 85	young
+T8	Drug 39 57	non-activated PCCs
+T9	Dosage 191 213	large cumulative doses
+T10	Drug 25 34;53 57	activated PCCs
+T4	Adverse_event 3 10	related
+E1	Adverse_event:T4

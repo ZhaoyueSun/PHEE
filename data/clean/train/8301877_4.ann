@@ -1,0 +1,7 @@
+T5	Treatment 31 37	L-dopa
+T7	Effect 46 68	myoclonus and seizures
+T9	Subject 74 94	case of parkinsonism
+T10	Drug 31 37	L-dopa
+T11	Treat-Disorder 82 94	parkinsonism
+T6	Adverse_event 38 45	induced
+E1	Adverse_event:T6

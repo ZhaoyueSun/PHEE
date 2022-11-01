@@ -1,0 +1,11 @@
+T5	Effect 56 89	significant morbidity immediately
+T3	Subject 12 42	2 children with cerebral palsy
+T4	Treatment 96 128	treatment with hyperbaric oxygen
+T6	Population 12 13	2
+T8	Age 14 22	children
+T9	Treat-Disorder 28 42	cerebral palsy
+T10	Drug 111 128	hyperbaric oxygen
+T11	Severity_cue 56 67	significant
+T7	Adverse_event 47 55	suffered
+E1	Adverse_event:T7 
+A1	Severity E1 High

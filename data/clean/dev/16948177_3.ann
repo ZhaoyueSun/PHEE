@@ -1,0 +1,5 @@
+T4	Effect 35 39	BOOP
+T6	Treatment 56 78	single-agent rituximab
+T7	Drug 69 78	rituximab
+T5	Adverse_event 40 50	associated
+E1	Adverse_event:T5

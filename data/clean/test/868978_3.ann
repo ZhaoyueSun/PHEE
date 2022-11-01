@@ -1,0 +1,8 @@
+T10	Treatment 26 47	5-fluorouracil (5-FU)
+T11	Treat-Disorder 52 92	disseminated adenocarcinoma of the colon
+T12	Subject 0 12	Two patients
+T13	Effect 103 125	cerebellar dysfunction
+T14	Population 0 3	Two
+T15	Drug 26 40	5-fluorouracil
+T9	Adverse_event 13 20	treated
+E1	Adverse_event:T9

@@ -1,0 +1,8 @@
+T3	Effect 0 10	Leukopenia
+T5	Subject 18 61	parvovirus B19 in a Crohn's disease patient
+T6	Treatment 68 80	azathioprine
+T7	Treat-Disorder 38 53	Crohn's disease
+T8	Drug 68 80	azathioprine
+T4	Adverse_event 11 14	due
+E1	Adverse_event:T4 
+T1	Sub-Disorder 18 32	parvovirus B19

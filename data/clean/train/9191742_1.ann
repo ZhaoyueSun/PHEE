@@ -1,0 +1,13 @@
+T4	Effect 81 163	reduce the gastrointestinal absorption of orally administered levothyroxine sodium
+T5	Treatment 61 76;123 163	ferrous sulfate orally administered levothyroxine sodium
+T6	Subject 167 203	patients with primary hypothyroidism
+T7	Sub-Disorder 181 203	primary hypothyroidism
+T8	Speculation_cue 77 80	may
+T9	Drug 61 76	ferrous sulfate
+T11	Route 123 129	orally
+T12	Drug 143 163	levothyroxine sodium
+T3	Adverse_event 81 87	reduce
+E1	Adverse_event:T3 
+A1	Speculated E1
+T1	Combination 130 142	administered
+E2	Combination:T1 arg:T9 arg2:T12

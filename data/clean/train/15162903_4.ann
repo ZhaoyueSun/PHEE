@@ -1,0 +1,6 @@
+T5	Treatment 0 41	The day after methotrexate administration
+T7	Effect 69 107	severe back pain and urinary retention
+T8	Drug 14 26	methotrexate
+T9	Time_elapsed 0 13	The day after
+T6	Adverse_event 55 65	complained
+E1	Adverse_event:T6

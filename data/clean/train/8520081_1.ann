@@ -1,0 +1,4 @@
+T3	Treatment 0 23	Intravenous haloperidol
+T4	Effect 57 90	multiform ventricular tachycardia
+T5	Adverse_event 100 108	reported
+E1	Adverse_event:T5

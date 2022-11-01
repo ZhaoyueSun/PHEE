@@ -1,0 +1,9 @@
+T4	Subject 0 65	A patient with a large hydatid cyst of the left lobe of the liver
+T6	Effect 76 94	metabolic acidosis
+T7	Treatment 105 181	rather liberal use of cetrimide-chlorhexidine solution as a scolicidal agent
+T8	Sub-Disorder 15 65	a large hydatid cyst of the left lobe of the liver
+T9	Drug 127 150	cetrimide-chlorhexidine
+T5	Adverse_event 66 75	developed
+E1	Adverse_event:T5 
+T1	Dosage 105 123	rather liberal use
+T2	Route 163 181	a scolicidal agent

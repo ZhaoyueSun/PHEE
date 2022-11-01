@@ -1,0 +1,10 @@
+T8	Subject 43 51	patients
+T9	Treatment 114 122	fentanyl
+T11	Effect 198 220	respiratory depression
+T12	Drug 66 78	voriconazole
+T13	Drug 82 93	fluconazole
+T15	Drug 163 171	fentanyl
+T10	Adverse_event 190 194	lead
+T14	Combination 94 100	during
+E1	Adverse_event:T10 
+E2	Combination:T14 arg:T12 arg2:T13

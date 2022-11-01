@@ -1,0 +1,5 @@
+T3	Effect 12 35	Anaphylactoid reactions
+T4	Treatment 72 81	cisplatin
+T6	Drug 72 81	cisplatin
+T5	Adverse_event 67 71	with
+E1	Adverse_event:T5

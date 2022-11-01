@@ -1,0 +1,8 @@
+T3	Effect 0 42	Apparent central nervous system depression
+T4	Subject 46 53	infants
+T5	Treatment 71 90	topical brimonidine
+T7	Drug 79 90	brimonidine
+T8	Route 71 78	topical
+T9	Age 46 53	infants
+T6	Adverse_event 54 59	after
+E1	Adverse_event:T6

@@ -1,0 +1,10 @@
+T9	Treatment 9 98	high-dose cytarabine during interval therapy of a Berlin-Frankfurt-Munster-based protocol
+T10	Subject 102 186	increased-risk children with acute lymphoblastic leukemia and lymphoblastic lymphoma
+T11	Age 117 125	children
+T12	Treat-Disorder 131 159	acute lymphoblastic leukemia
+T13	Treat-Disorder 164 186	lymphoblastic lymphoma
+T14	Speculation_cue 112 116	risk
+T15	Drug 19 29	cytarabine
+T16	Dosage 9 18	high-dose
+T1	Potential_therapeutic_event 0 5	Value
+E1	Potential_therapeutic_event:T1 

@@ -1,0 +1,16 @@
+T5	Effect 219 247	peripheral edema within 8 hr
+T8	Population 96 101	three
+T9	Population 158 161	two
+T10	Age 109 114	young
+T11	Age 162 167	young
+T12	Gender 115 121	female
+T13	Gender 168 174	female
+T4	Subject 96 132	three of six young female volunteers
+T6	Treatment 143 153;253 366	omeprazole high doses of the proton pump inhibitors were applied by continuous infusion together with large volumes of fluid
+T16	Drug 143 153	omeprazole
+T17	Subject 158 185	two young female volunteers
+T18	Drug 196 208	pantoprazole
+T19	Treatment 196 208;253 366	pantoprazole high doses of the proton pump inhibitors were applied by continuous infusion together with large volumes of fluid
+T15	Adverse_event 209 218	developed
+E2	Adverse_event:T15 arg2:T4 arg3:T6 arg:T5
+E1	Adverse_event:T15 arg:T19 arg2:T5 arg3:T17

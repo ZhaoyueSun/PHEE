@@ -1,0 +1,6 @@
+T5	Effect 5 19;57 69	vague symptoms hyponatremia
+T6	Treatment 35 47	desmopressin
+T8	Speculation_cue 70 88	must be considered
+T9	Drug 35 47	desmopressin
+T7	Adverse_event 28 34	during
+E1	Adverse_event:T7

@@ -1,0 +1,10 @@
+T4	Effect 0 76	Normalization of generalized retinal function and progression of maculopathy
+T5	Treatment 83 103;124 142	cessation of therapy hydroxychloroquine
+T6	Subject 107 154	a case of severe hydroxychloroquine retinopathy
+T8	Drug 124 142	hydroxychloroquine
+T9	Treat-Disorder 124 154	hydroxychloroquine retinopathy
+T10	Severity_cue 117 123	severe
+T11	Time_elapsed 160 168	19 years
+T3	Potential_therapeutic_event 77 82	after
+E1	Potential_therapeutic_event:T3 
+A1	Severity E1 High

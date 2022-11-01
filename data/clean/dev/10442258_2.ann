@@ -1,0 +1,5 @@
+T7	Treatment 48 66	psychotropic drugs
+T8	Effect 0 22	Alopecia and hair loss
+T10	Drug 48 60	psychotropic
+T6	Adverse_event 32 44	side effects
+E1	Adverse_event:T6

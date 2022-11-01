@@ -1,0 +1,8 @@
+T6	Effect 67 83	bilateral ptosis
+T8	Subject 48 51	she
+T7	Treatment 0 46	Five days after the fourth dose of vincristine
+T9	Gender 48 51	she
+T10	Time_elapsed 0 9	Five days
+T11	Drug 35 46	vincristine
+T5	Adverse_event 52 61	presented
+E1	Adverse_event:T5

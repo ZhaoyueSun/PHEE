@@ -1,0 +1,8 @@
+T6	Effect 0 14	Rhabdomyolysis
+T8	Treatment 48 57;31 43	diltiazem atorvastatin
+T10	Drug 31 43	atorvastatin
+T11	Drug 48 57	diltiazem
+T7	Adverse_event 15 19	with
+T9	Combination 20 30	concurrent
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T10 arg2:T11

@@ -1,0 +1,8 @@
+T4	Effect 72 98	sensorineural hearing loss
+T7	Treatment 5 25	PAN and methotrexate
+T8	Drug 5 8	PAN
+T10	Drug 13 25	methotrexate
+T5	Adverse_event 66 71	cause
+T9	Combination 9 12	and
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T8 arg2:T10

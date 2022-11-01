@@ -1,0 +1,8 @@
+T8	Treatment 0 12	Itraconazole
+T10	Speculation_cue 29 39	attractive
+T11	Subject 66 81	cancer patients
+T12	Treat-Disorder 43 49	fungal
+T13	Sub-Disorder 66 72	cancer
+T15	Drug 0 12	Itraconazole
+T9	Potential_therapeutic_event 50 61	prophylaxis
+E1	Potential_therapeutic_event:T9 

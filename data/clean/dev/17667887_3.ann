@@ -1,0 +1,12 @@
+T9	Subject 18 82	a 69-year-old man who was admitted for depression with psychosis
+T12	Treatment 100 138	trazodone, risperidone, and sertraline
+T13	Age 20 31	69-year-old
+T14	Gender 32 35	man
+T15	Drug 100 109	trazodone
+T16	Drug 111 122	risperidone
+T17	Drug 128 138	sertraline
+T19	Treat-Disorder 57 82	depression with psychosis
+T11	Potential_therapeutic_event 87 94	treated
+T18	Combination 124 127	and
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T18 arg:T16 arg2:T17 arg3:T15

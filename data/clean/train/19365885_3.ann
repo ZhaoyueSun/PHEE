@@ -1,0 +1,6 @@
+T3	Subject 3 17	these patients
+T4	Treatment 19 41	long-acting octreotide
+T6	Effect 54 74	serious hypoglycemia
+T8	Drug 31 41	octreotide
+T5	Adverse_event 46 53	trigger
+E1	Adverse_event:T5

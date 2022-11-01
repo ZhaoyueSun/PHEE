@@ -1,0 +1,13 @@
+T9	Subject 2 38	49-year-old man with Crohn's disease
+T11	Effect 96 137	worsening respiratory distress and fever.
+T12	Treatment 52 85	prednisone and mesalamine (5-ASA)
+T13	Age 2 13	49-year-old
+T14	Gender 14 17	man
+T16	Treat-Disorder 23 38	Crohn's disease
+T17	Severity_cue 96 105	worsening
+T19	Drug 67 77	mesalamine
+T20	Drug 52 62	prednisone
+T10	Adverse_event 86 95	developed
+T18	Combination 63 66	and
+E1	Adverse_event:T10 
+E2	Combination:T18 arg:T20 arg2:T19

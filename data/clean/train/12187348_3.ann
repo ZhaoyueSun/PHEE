@@ -1,0 +1,7 @@
+T4	Treatment 37 48	bucillamine
+T6	Effect 57 82	giant mammary hyperplasia
+T7	Speculation_cue 23 28	first
+T8	Drug 37 48	bucillamine
+T5	Adverse_event 49 56	induced
+E1	Adverse_event:T5 
+A1	Speculated E1

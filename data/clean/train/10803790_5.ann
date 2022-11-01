@@ -1,0 +1,7 @@
+T5	Subject 15 30	some abstainers
+T6	Treatment 35 67	take cyanamide for several years
+T7	Effect 69 164	thin septum-like liver fibrosis progresses along with the emergence of ground-glass hepatocytes
+T9	Drug 40 49	cyanamide
+T10	Freq 54 67	several years
+T8	Adverse_event 12 14	In
+E1	Adverse_event:T8 

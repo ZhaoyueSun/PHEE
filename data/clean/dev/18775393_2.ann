@@ -1,0 +1,8 @@
+T4	Effect 0 17	Laryngeal dyspnea
+T5	Treatment 56 69;74 98	acenocoumarol topical econazole lotion
+T7	Drug 56 69	acenocoumarol
+T8	Drug 74 91	topical econazole
+T6	Adverse_event 21 29	relation
+T9	Combination 70 73	and
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T7 arg2:T8

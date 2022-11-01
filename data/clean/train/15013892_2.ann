@@ -1,0 +1,14 @@
+T5	Subject 171 188	certain patients.
+T7	Treatment 13 67	Low dosages of quinacrine used for malaria prophylaxis
+T8	Effect 91 120	a delayed, severe maculopathy
+T9	Severity_cue 102 108	severe
+T10	Time_elapsed 93 100	delayed
+T12	Dosage 13 24	Low dosages
+T13	Drug 28 38	quinacrine
+T14	Treat-Disorder 48 67	malaria prophylaxis
+T15	Effect 144 167	chloroquine maculopathy
+T6	Adverse_event 75 85	associated
+E1	Adverse_event:T6 arg:T8 arg2:T7
+E2	Adverse_event:T6 arg:T7 arg2:T15 arg3:T5
+R1	has_cue Arg1:E1 Arg2:T9	
+R2	has Arg1:T7 Arg2:T10

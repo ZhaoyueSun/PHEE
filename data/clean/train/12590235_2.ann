@@ -1,0 +1,6 @@
+T3	Effect 0 14	Hepatotoxicity
+T4	Treatment 31 44	6-thioguanine
+T7	Drug 31 44	6-thioguanine
+T8	Treat-Disorder 57 72	Crohn's disease
+T6	Adverse_event 15 25	associated
+E1	Adverse_event:T6

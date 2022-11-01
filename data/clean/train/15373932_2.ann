@@ -1,0 +1,8 @@
+T7	Sub-Disorder 63 80	diabetes mellitus
+T6	Subject 49 80	patients with diabetes mellitus
+T8	Treatment 86 98	ketoconazole
+T9	Effect 128 183	a number of drug interactions with coadministered drugs
+T11	Drug 86 98	ketoconazole
+T15	Treat-Disorder 0 16	Fungal infection
+T10	Adverse_event 121 127	causes
+E1	Adverse_event:T10 

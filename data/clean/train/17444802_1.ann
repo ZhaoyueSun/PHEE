@@ -1,0 +1,9 @@
+T6	Effect 0 21	Tumor-volume increase
+T7	Treatment 38 92	primary treatment with topical interferon alpha 2-beta
+T8	Subject 96 150	a case of conjunctiva-cornea intraepithelial neoplasia
+T11	Drug 69 92	interferon alpha 2-beta
+T12	Route 61 68	topical
+T13	Time_elapsed 25 34	beginning
+T14	Treat-Disorder 106 150	conjunctiva-cornea intraepithelial neoplasia
+T9	Adverse_event 13 21	increase
+E1	Adverse_event:T9

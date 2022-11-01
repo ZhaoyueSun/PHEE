@@ -1,0 +1,6 @@
+T3	Treatment 49 58	cisplatin
+T5	Effect 69 89	C. difficile colitis
+T6	Speculation_cue 59 62	may
+T7	Drug 49 58	cisplatin
+T4	Adverse_event 63 68	cause
+E1	Adverse_event:T4

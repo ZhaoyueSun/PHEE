@@ -1,0 +1,6 @@
+T7	Treatment 0 18	Ibuprofen overdose
+T9	Effect 47 85	GI upset, dizziness, and mild sedation
+T10	Drug 0 9	Ibuprofen
+T11	Dosage 10 18	overdose
+T8	Adverse_event 30 43	characterized
+E1	Adverse_event:T8 

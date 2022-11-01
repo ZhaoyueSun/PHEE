@@ -1,0 +1,7 @@
+T6	Treatment 132 152	pegylated interferon
+T7	Subject 110 118	patients
+T8	Effect 56 94	irreversible decrease of visual acuity
+T9	Speculation_cue 95 106	may develop
+T10	Drug 132 152	pegylated interferon
+T5	Adverse_event 119 126	treated
+E1	Adverse_event:T5

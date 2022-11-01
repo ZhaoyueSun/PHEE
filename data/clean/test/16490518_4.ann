@@ -1,0 +1,5 @@
+T5	Effect 42 60;111 119	severe vision loss glaucoma
+T6	Treatment 88 102	corticosteroid
+T10	Drug 88 102	corticosteroid
+T7	Adverse_event 103 110	induced
+E1	Adverse_event:T7

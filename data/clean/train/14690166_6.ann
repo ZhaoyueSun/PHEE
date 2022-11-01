@@ -1,0 +1,16 @@
+T14	Treat-Disorder 96 99	MCD
+T15	Treatment 49 54	2-CdA
+T16	Drug 49 54	2-CdA
+T17	Speculation_cue 55 58	can
+T19	Effect 66 92	durable complete remission
+T21	Speculation_cue 162 173	possibility
+T22	Treatment 179 184	2-CdA
+T23	Drug 179 184	2-CdA
+T24	Effect 200 232	the transformation of MCD to NHL
+T18	Potential_therapeutic_event 59 65	induce
+T20	Adverse_event 189 199	accelerate
+E1	Potential_therapeutic_event:T18 arg:T19 arg2:T15
+E2	Adverse_event:T20 arg:T22 arg2:T24
+R1	has Arg1:T15 Arg2:T14	
+R2	has_cue Arg1:E1 Arg2:T17	
+R3	has_cue Arg1:E2 Arg2:T21

@@ -1,0 +1,10 @@
+T5	Subject 0 17	46-year-old woman
+T7	Effect 28 100	painful ulcers over her lower abdomen in the form of reticulate erythema
+T10	Age 0 11	46-year-old
+T11	Gender 12 17	woman
+T12	Drug 117 135	interferon beta-1b
+T13	Route 107 116	injecting
+T8	Treatment 107 150	injecting interferon beta-1b subcutaneously
+T14	Treat-Disorder 155 173	multiple sclerosis
+T6	Adverse_event 18 27	developed
+E1	Adverse_event:T6

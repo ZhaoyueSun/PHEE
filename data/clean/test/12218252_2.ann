@@ -1,0 +1,9 @@
+T5	Subject 10 113	a 50-year-old male patient with a 15-year history of psoriasis including mutilating psoriatic arthritis
+T6	Treatment 123 154	the withdrawal of cyclosporin A
+T8	Effect 163 239	a generalised pustular exacerbation and a aggravation of the joint condition
+T9	Age 12 23	50-year-old
+T10	Gender 24 28	male
+T11	Sub-Disorder 63 113	psoriasis including mutilating psoriatic arthritis
+T12	Drug 141 154	cyclosporin A
+T7	Adverse_event 155 162	induced
+E1	Adverse_event:T7 

@@ -1,0 +1,6 @@
+T8	Treatment 68 87	antiepileptic drugs
+T10	Effect 113 158	new seizure types or exacerbate existing ones
+T11	Drug 11 31	antiarrhythmic drugs
+T12	Drug 68 87	antiepileptic drugs
+T9	Adverse_event 106 112	induce
+E1	Adverse_event:T9

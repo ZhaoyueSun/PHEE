@@ -1,0 +1,8 @@
+T8	Subject 63 84	two melanoma patients
+T9	Treatment 35 59	interferon alpha therapy
+T10	Effect 0 18	Livedo reticularis
+T13	Population 63 66	two
+T15	Treat-Disorder 67 75	melanoma
+T14	Drug 35 51	interferon alpha
+T11	Adverse_event 19 29	associated
+E1	Adverse_event:T11

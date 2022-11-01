@@ -1,0 +1,6 @@
+T3	Treatment 70 79	captopril
+T5	Effect 88 97	pemphigus
+T6	Subject 57 64	patient
+T7	Drug 70 79	captopril
+T4	Adverse_event 80 87	induced
+E1	Adverse_event:T4

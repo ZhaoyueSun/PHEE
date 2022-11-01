@@ -1,0 +1,7 @@
+T3	Effect 61 83	extramedullary relapse
+T4	Subject 87 95	patients
+T5	Treatment 117 121	ATRA
+T8	Speculation_cue 10 18	suggests
+T9	Drug 117 121	ATRA
+T6	Adverse_event 104 111	treated
+E1	Adverse_event:T6

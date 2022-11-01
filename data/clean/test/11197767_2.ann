@@ -1,0 +1,11 @@
+T10	Effect 4 12	toxicity
+T11	Treatment 16 109	cadmium, zinc and cadmium/zinc mixtures at concentrations ranging from 1000 to 50000 microg/l
+T12	Drug 16 23	cadmium
+T13	Drug 25 29	zinc
+T15	Dosage 87 109	1000 to 50000 microg/l
+T16	Drug 34 41	cadmium
+T17	Drug 42 46	zinc
+T9	Adverse_event 128 135	against
+T14	Combination 47 55	mixtures
+E1	Adverse_event:T9 
+E2	Combination:T14 arg:T16 arg2:T17

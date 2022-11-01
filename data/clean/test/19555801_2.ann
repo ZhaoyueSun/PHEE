@@ -1,0 +1,7 @@
+T3	Subject 10 57	a patient of organic bipolar affective disorder
+T4	Effect 72 79	hiccups
+T5	Treatment 85 124	the atypical antipsychotic aripiprazole
+T7	Treat-Disorder 23 57	organic bipolar affective disorder
+T8	Drug 112 124	aripiprazole
+T6	Adverse_event 62 71	developed
+E1	Adverse_event:T6 

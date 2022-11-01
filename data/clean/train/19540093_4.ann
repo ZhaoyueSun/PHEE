@@ -1,0 +1,5 @@
+T4	Effect 20 38	acute pancreatitis
+T5	Treatment 0 11	Tigecycline
+T6	Drug 0 11	Tigecycline
+T3	Adverse_event 12 19	induced
+E1	Adverse_event:T3

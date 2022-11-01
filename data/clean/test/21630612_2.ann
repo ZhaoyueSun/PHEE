@@ -1,0 +1,5 @@
+T6	Effect 0 34	Myopathy, including rhabdomyolysis
+T8	Treatment 81 87	statin
+T9	Drug 81 87	statin
+T7	Adverse_event 65 77	complication
+E1	Adverse_event:T7

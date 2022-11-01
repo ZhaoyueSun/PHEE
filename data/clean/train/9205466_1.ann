@@ -1,0 +1,5 @@
+T3	Treatment 35 44	tamoxifen
+T4	Effect 59 112	incidence of proliferative lesions of the endometrium
+T6	Drug 35 44	tamoxifen
+T5	Adverse_event 45 54	increases
+E1	Adverse_event:T5

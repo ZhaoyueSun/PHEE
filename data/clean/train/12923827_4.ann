@@ -1,0 +1,8 @@
+T3	Treatment 27 38	fluvoxamine
+T5	Effect 55 87	Schneiderian first-rank symptoms
+T6	Subject 91 116	some susceptible patients
+T7	Drug 27 38	fluvoxamine
+T8	Speculation_cue 13 21	suggests
+T4	Adverse_event 43 54	precipitate
+E1	Adverse_event:T4 
+A1	Speculated E1

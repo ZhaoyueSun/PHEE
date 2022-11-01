@@ -1,0 +1,6 @@
+T5	Effect 26 103	neutropenia, with a WBC count of 2.8 x 10(3)/mm3 and ANC of 0.448 x 10(3)/mm3
+T3	Treatment 114 150	11 days after teicoplanin initiation
+T4	Time_elapsed 114 121	11 days
+T7	Drug 128 139	teicoplanin
+T6	Adverse_event 105 113	occurred
+E2	Adverse_event:T6

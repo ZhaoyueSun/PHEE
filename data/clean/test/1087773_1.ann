@@ -1,0 +1,13 @@
+T9	Treatment 6 40;68 98	seven months' continuous treatment with rifampicin and ethambutol
+T10	Subject 99 118	a nine-year-old boy
+T13	Effect 129 241	polyarthritis, rash and hepatitis in association with anti-native DNA antibodies and positive antinuclear factor
+T14	Age 101 114	nine-year-old
+T15	Gender 115 118	boy
+T16	Drug 73 83	rifampicin
+T17	Drug 88 98	ethambutol
+T19	Treat-Disorder 55 67	tuberculosis
+T20	Time_elapsed 6 18	seven months
+T12	Adverse_event 119 128	developed
+T18	Combination 84 87	and
+E1	Adverse_event:T12 
+E2	Combination:T18 arg:T17 arg2:T16

@@ -1,0 +1,5 @@
+T4	Treatment 110 115	FK506
+T5	Effect 18 44;74 77	acidosis and hyperkalaemia RTA
+T3	Drug 110 115	FK506
+T6	Adverse_event 107 109	of
+E1	Adverse_event:T6

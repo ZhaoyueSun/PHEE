@@ -1,0 +1,9 @@
+T3	Effect 77 138	diffuse pruritic papular eruption located mainly on the limbs
+T4	Subject 51 62	the patient
+T6	Treatment 0 49	Ten hours after the second methotrexate injection
+T7	Drug 27 39	methotrexate
+T8	Route 40 49	injection
+T9	Time_elapsed 0 9	Ten hours
+T10	Time_elapsed 20 26	second
+T5	Adverse_event 63 74	experienced
+E1	Adverse_event:T5

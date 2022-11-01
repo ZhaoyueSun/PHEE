@@ -1,0 +1,5 @@
+T5	Effect 68 84	thrombocytopenia
+T3	Drug 52 59	heparin
+T6	Treatment 52 59	heparin
+T4	Adverse_event 60 67	induced
+E1	Adverse_event:T4

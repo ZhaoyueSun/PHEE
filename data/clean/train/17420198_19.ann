@@ -1,0 +1,7 @@
+T9	Effect 93 96	EPS
+T11	Treatment 107 133	initiation of aripiprazole
+T8	Subject 0 82	A patient with developmental disabilities who had no history of movement disorders
+T13	Drug 121 133	aripiprazole
+T10	Adverse_event 97 106	following
+E1	Adverse_event:T10 
+T1	Sub-Disorder 15 41	developmental disabilities

@@ -1,0 +1,17 @@
+T11	Treatment 121 150	first dose of methylphenidate
+T12	Treat-Disorder 180 220	attention-deficit/hyperactivity disorder
+T13	Effect 81 110	orofacial and limb dyskinesia
+T14	Age 38 48	7-year-old
+T15	Gender 49 53	male
+T16	Time_elapsed 121 131	first dose
+T17	Drug 135 150	methylphenidate
+T19	Treat-Disorder 275 283	epilepsy
+T9	Subject 36 61	a 7-year-old male patient
+T20	Treatment 244 260	sodium valproate
+T21	Drug 244 260	sodium valproate
+T10	Adverse_event 111 116	after
+T22	Potential_therapeutic_event 234 243	receiving
+E1	Adverse_event:T10 arg:T9 arg2:T13 arg3:T11
+E2	Potential_therapeutic_event:T22 arg:T9 arg2:T20
+R1	has Arg1:T11 Arg2:T12	
+R2	has Arg1:T20 Arg2:T19

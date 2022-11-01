@@ -1,0 +1,8 @@
+T9	Subject 52 60	patients
+T10	Treat-Disorder 66 82	renal impairment
+T11	Treatment 33 48	alum irrigation
+T13	Effect 134 170	excessive accumulation and toxicity.
+T14	Drug 33 37	alum
+T15	Route 38 48	irrigation
+T12	Adverse_event 123 125	to
+E1	Adverse_event:T12

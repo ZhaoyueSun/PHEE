@@ -1,0 +1,8 @@
+T7	Treatment 11 33	amiodarone and digoxin
+T9	Effect 44 68	permanent visual changes
+T10	Drug 11 21	amiodarone
+T11	Drug 26 33	digoxin
+T8	Adverse_event 38 43	cause
+T12	Combination 22 25	and
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T10 arg2:T11

@@ -1,0 +1,6 @@
+T5	Treatment 33 44	zafirlukast
+T6	Effect 89 159	impaired clearance of  S-warfarin and enhanced anti-thrombotic effects
+T8	Speculation_cue 48 58	consistent
+T9	Drug 33 44	zafirlukast
+T7	Potential_therapeutic_event 81 88	showing
+E1	Potential_therapeutic_event:T7

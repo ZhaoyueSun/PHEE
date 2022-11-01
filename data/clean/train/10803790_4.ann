@@ -1,0 +1,10 @@
+T5	Effect 120 152	elevation of serum transaminases
+T6	Subject 10 70	61-year-old male alcoholic who remained completely abstinent
+T4	Treatment 84 105	cyanamide for 3 years
+T7	Age 10 21	61-year-old
+T8	Gender 22 26	male
+T11	Drug 84 93	cyanamide
+T12	Duration 98 105	3 years
+T3	Adverse_event 77 83	taking
+E1	Adverse_event:T3 
+T1	Treat-Disorder 27 36	alcoholic

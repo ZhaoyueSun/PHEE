@@ -1,0 +1,5 @@
+T6	Drug 39 46	insulin
+T7	Treatment 39 46	insulin
+T3	Effect 47 63;0 17	hypersensitivity Protamine allergy
+T5	Adverse_event 23 35	complication
+E1	Adverse_event:T5

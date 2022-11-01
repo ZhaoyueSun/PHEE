@@ -1,0 +1,7 @@
+T3	Treatment 38 56;78 87	25 UI of Miacalcic immediate
+T4	Effect 88 109	anaphylactic reaction
+T6	Drug 47 56	Miacalcic
+T7	Dosage 38 43	25 UI
+T8	Time_elapsed 78 87	immediate
+T5	Adverse_event 101 109	reaction
+E1	Adverse_event:T5

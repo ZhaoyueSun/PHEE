@@ -1,0 +1,7 @@
+T3	Effect 0 17	Myasthenia gravis
+T7	Dosage 25 33	low-dose
+T8	Drug 34 43	IFN-alpha
+T9	Treat-Disorder 56 75	chronic hepatitis C
+T4	Treatment 25 51	low-dose IFN-alpha therapy
+T5	Adverse_event 18 24	during
+E1	Adverse_event:T5

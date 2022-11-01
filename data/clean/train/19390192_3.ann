@@ -1,0 +1,9 @@
+T3	Subject 26 55	adult Crohn's disease patient
+T5	Treatment 110 131	long-term AZA therapy
+T6	Effect 61 102	a parvovirus B19 infection and leukopenia
+T7	Age 26 31	adult
+T9	Treat-Disorder 32 47	Crohn's disease
+T10	Drug 120 123	AZA
+T11	Duration 110 119	long-term
+T4	Adverse_event 103 109	during
+E1	Adverse_event:T4

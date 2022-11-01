@@ -1,0 +1,8 @@
+T3	Treatment 18 28	pyridoxine
+T4	Subject 32 41	an infant
+T6	Effect 93 108	acute hypotonia
+T8	Age 35 41	infant
+T9	Drug 18 28	pyridoxine
+T10	Treat-Disorder 65 76	convulsions
+T5	Adverse_event 81 89	followed
+E1	Adverse_event:T5

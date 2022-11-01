@@ -1,0 +1,11 @@
+T3	Effect 20 60	fulminant neuroleptic malignant syndrome
+T4	Subject 64 77	a man aged 70
+T6	Treatment 117 154	six-hourly intravenous metoclopramide
+T7	Gender 66 69	man
+T8	Age 70 77	aged 70
+T9	Time_elapsed 89 104	within 12 hours
+T10	Route 128 139	intravenous
+T11	Drug 140 154	metoclopramide
+T12	Freq 117 127	six-hourly
+T5	Adverse_event 78 88	developing
+E1	Adverse_event:T5

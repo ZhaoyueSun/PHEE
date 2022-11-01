@@ -1,0 +1,6 @@
+T3	Effect 0 38	Paradoxical pulmonary vasoconstriction
+T5	Treatment 50 63	nitroglycerin
+T6	Drug 50 63	nitroglycerin
+T7	Treat-Disorder 67 100	idiopathic pulmonary hypertension
+T4	Adverse_event 39 46	induced
+E1	Adverse_event:T4

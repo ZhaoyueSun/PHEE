@@ -1,0 +1,6 @@
+T6	Treatment 54 83;0 9	doses 4 times a moderate dose Clozapine
+T7	Effect 45 50	toxic
+T5	Dosage 60 83	4 times a moderate dose
+T9	Drug 0 9	Clozapine
+T8	Adverse_event 42 44	be
+E1	Adverse_event:T8

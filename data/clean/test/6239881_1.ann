@@ -1,0 +1,5 @@
+T3	Effect 0 27	Allergic contact dermatitis
+T4	Treatment 31 59	compound tincture of benzoin
+T6	Drug 52 59	benzoin
+T5	Adverse_event 28 30	to
+E1	Adverse_event:T5

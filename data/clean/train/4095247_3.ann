@@ -1,0 +1,7 @@
+T3	Subject 0 21	Two of these patients
+T4	Treatment 45 73	anti-emetic prochlorperazine
+T5	Effect 75 130	lost consciousness for 48-72 h and then fully recovered
+T7	Population 0 3	Two
+T8	Drug 57 73	prochlorperazine
+T6	Adverse_event 75 79	lost
+E1	Adverse_event:T6

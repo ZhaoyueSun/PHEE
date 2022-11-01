@@ -1,0 +1,7 @@
+T4	Subject 32 41	a patient
+T5	Treatment 63 81	topical 5-FU cream
+T7	Effect 109 136	a severe case of angioedema
+T8	Route 63 70	topical
+T9	Drug 71 75	5-FU
+T6	Adverse_event 99 108	developed
+E1	Adverse_event:T6

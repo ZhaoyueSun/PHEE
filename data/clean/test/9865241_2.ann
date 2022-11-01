@@ -1,0 +1,11 @@
+T5	Effect 58 71	hypercalcemia
+T7	Treatment 91 100	vitamin D
+T9	Drug 91 100	vitamin D
+T10	Treatment 0 11	Pamidronate
+T11	Drug 0 11	Pamidronate
+T12	Treat-Disorder 58 71	hypercalcemia
+T6	Adverse_event 72 81	secondary
+T13	Potential_therapeutic_event 12 19	therapy
+E1	Adverse_event:T6 arg:T5 arg2:T7
+E2	Potential_therapeutic_event:T13 arg:T10
+R1	has Arg1:T10 Arg2:T12

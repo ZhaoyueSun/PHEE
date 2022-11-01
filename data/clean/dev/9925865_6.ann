@@ -1,0 +1,6 @@
+T5	Treatment 137 168	stopping the use of mineral oil
+T6	Effect 63 116	symptoms and roentgenographic abnormalities resolving
+T8	Drug 157 168	mineral oil
+T9	Treat-Disorder 13 16	ELP
+T7	Potential_therapeutic_event 131 136	after
+E1	Potential_therapeutic_event:T7

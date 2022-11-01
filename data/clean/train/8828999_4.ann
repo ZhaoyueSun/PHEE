@@ -1,0 +1,8 @@
+T6	Treatment 17 24;137 171	lithium "therapeutic" lithium serum levels
+T7	Effect 33 59	Creutzfeldt-Jakob syndrome
+T8	Age 105 112	elderly
+T4	Subject 105 121	elderly patients
+T9	Drug 17 24	lithium
+T10	Drug 151 158	lithium
+T5	Adverse_event 25 32	induced
+E1	Adverse_event:T5

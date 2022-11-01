@@ -1,0 +1,5 @@
+T4	Effect 0 28	Acute interstitial pneumonia
+T6	Treatment 40 61	ONO-1078 (pranlukast)
+T7	Drug 40 48	ONO-1078
+T5	Adverse_event 29 36	induced
+E1	Adverse_event:T5

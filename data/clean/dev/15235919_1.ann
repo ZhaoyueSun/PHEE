@@ -1,0 +1,5 @@
+T5	Treatment 64 73	clozapine
+T7	Effect 0 56	Sudden cardiac death due to hypersensitivity myocarditis
+T8	Drug 64 73	clozapine
+T6	Adverse_event 57 63	during
+E1	Adverse_event:T6

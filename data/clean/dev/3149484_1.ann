@@ -1,0 +1,10 @@
+T5	Treatment 61 82	intravenous lorazepam
+T6	Treat-Disorder 87 119	atypical absence status seizures
+T7	Sub-Disorder 24 47	Lennox-Gastaut syndrome
+T8	Age 2 13	10-year-old
+T9	Gender 14 18	girl
+T3	Subject 0 47	A 10-year-old girl with Lennox-Gastaut syndrome
+T10	Route 61 72	intravenous
+T11	Drug 73 82	lorazepam
+T4	Potential_therapeutic_event 83 86	for
+E1	Potential_therapeutic_event:T4 

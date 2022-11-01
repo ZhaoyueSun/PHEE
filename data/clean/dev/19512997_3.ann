@@ -1,0 +1,5 @@
+T3	Treatment 0 22	Withdrawal of Depakote
+T5	Effect 35 61	resolution of the effusion
+T6	Drug 14 22	Depakote
+T4	Adverse_event 23 31	resulted
+E1	Adverse_event:T4

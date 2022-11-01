@@ -1,0 +1,5 @@
+T3	Effect 0 24	Dental and gingival pain
+T5	Treatment 44 50	niacin
+T6	Drug 44 50	niacin
+T4	Adverse_event 28 40	side effects
+E1	Adverse_event:T4

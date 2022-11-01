@@ -1,0 +1,8 @@
+T3	Effect 23 52	amiodarone pulmonary toxicity
+T5	Treatment 63 77	corticosteroid
+T6	Drug 23 33	amiodarone
+T7	Drug 63 77	corticosteroid
+T8	Speculation_cue 0 8	Possible
+T4	Adverse_event 53 62	following
+E1	Adverse_event:T4 
+A1	Speculated E1

@@ -1,0 +1,5 @@
+T6	Treatment 63 79	cytotoxic agents
+T7	Effect 0 16;27 49	Radiation recall inflammatory reactions
+T8	Drug 63 72	cytotoxic
+T5	Adverse_event 50 59	triggered
+E1	Adverse_event:T5

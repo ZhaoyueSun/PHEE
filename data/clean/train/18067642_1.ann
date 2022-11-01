@@ -1,0 +1,8 @@
+T4	Treatment 175 185	amiodarone
+T5	Effect 194 208	hypothyroidism
+T6	Subject 88 101	a single case
+T7	Population 90 96	single
+T8	Drug 175 185	amiodarone
+T9	Drug 61 71	amiodarone
+T3	Adverse_event 186 193	induced
+E1	Adverse_event:T3

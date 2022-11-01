@@ -1,0 +1,5 @@
+T3	Effect 0 14	Thrombocytosis
+T5	Treatment 26 36	enoxaparin
+T6	Drug 26 36	enoxaparin
+T4	Adverse_event 15 22	induced
+E1	Adverse_event:T4

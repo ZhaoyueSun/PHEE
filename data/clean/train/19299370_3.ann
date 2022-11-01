@@ -1,0 +1,5 @@
+T3	Treatment 9 19	enoxaparin
+T5	Effect 28 42	hepatotoxicity
+T6	Drug 9 19	enoxaparin
+T4	Adverse_event 20 27	induced
+E1	Adverse_event:T4

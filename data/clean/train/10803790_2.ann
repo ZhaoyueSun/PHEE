@@ -1,0 +1,10 @@
+T3	Subject 8 36	A 43-year-old male alcoholic
+T4	Treatment 46 103	completely abstinent with cyanamide treatment for 5 years
+T6	Effect 122 137	general fatigue
+T7	Age 10 21	43-year-old
+T8	Gender 22 26	male
+T9	Treat-Disorder 27 36	alcoholic
+T10	Drug 72 81	cyanamide
+T11	Duration 96 103	5 years
+T5	Adverse_event 108 118	complained
+E1	Adverse_event:T5 

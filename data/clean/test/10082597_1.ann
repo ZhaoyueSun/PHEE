@@ -1,0 +1,10 @@
+T4	Subject 19 28	two cases
+T5	Effect 32 47	pseudoporphyria
+T7	Treatment 58 80	naproxen and oxaprozin
+T8	Population 19 22	two
+T10	Drug 58 66	naproxen
+T11	Drug 71 80	oxaprozin
+T6	Adverse_event 48 54	caused
+T9	Combination 67 70	and
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T11 arg2:T10

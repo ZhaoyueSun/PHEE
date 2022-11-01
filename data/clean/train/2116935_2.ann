@@ -1,0 +1,8 @@
+T10	Treatment 26 54	tissue plasminogen activator
+T11	Treat-Disorder 65 92	acute myocardial infarction
+T13	Speculation_cue 93 96	may
+T14	Effect 144 185	gastrointestinal or intracranial bleeding
+T15	Drug 26 54	tissue plasminogen activator
+T12	Adverse_event 97 103	result
+E1	Adverse_event:T12 
+A1	Speculated E1

@@ -1,0 +1,5 @@
+T4	Treatment 28 31	MMF
+T5	Effect 54 65	neutropenia
+T6	Drug 28 31	MMF
+T3	Adverse_event 39 50	development
+E1	Adverse_event:T3

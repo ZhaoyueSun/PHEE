@@ -1,0 +1,5 @@
+T3	Treatment 0 10	Olanzapine
+T5	Effect 22 52	neuroleptic malignant syndrome
+T6	Drug 0 10	Olanzapine
+T4	Adverse_event 11 21	associated
+E1	Adverse_event:T4

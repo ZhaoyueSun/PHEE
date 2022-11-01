@@ -1,0 +1,5 @@
+T3	Treatment 46 53	insulin
+T5	Effect 62 77	lipohypertrophy
+T6	Drug 46 53	insulin
+T4	Adverse_event 54 61	induced
+E1	Adverse_event:T4

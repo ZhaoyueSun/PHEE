@@ -1,0 +1,9 @@
+T6	Treatment 36 46	amiodarone
+T8	Subject 73 151	a patient with pre-excitation and rate-dependent bilateral bundle branch block
+T5	Effect 55 69	hypothyroidism
+T9	Sub-Disorder 88 102	pre-excitation
+T10	Drug 36 46	amiodarone
+T7	Adverse_event 47 54	induced
+E1	Adverse_event:T7 
+T1	Sub-Disorder 107 151	rate-dependent bilateral bundle branch block
+T2	Sub-Disorder 0 22	Atrioventricular block

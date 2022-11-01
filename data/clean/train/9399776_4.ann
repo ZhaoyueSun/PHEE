@@ -1,0 +1,6 @@
+T3	Treatment 41 62	5-aminosalicylic acid
+T5	Effect 74 92	acute pancreatitis
+T6	Drug 41 62	5-aminosalicylic acid
+T7	Duration 99 108	long term
+T4	Adverse_event 67 73	induce
+E1	Adverse_event:T4

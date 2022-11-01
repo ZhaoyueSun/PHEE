@@ -1,0 +1,12 @@
+T9	Effect 12 30	serotonin syndrome
+T10	Treatment 37 80	concomitant use of linezolid and meperidine
+T11	Subject 84 121	a 27-year-old man with acute leukemia
+T12	Sub-Disorder 107 121	acute leukemia
+T14	Age 86 97	27-year-old
+T15	Gender 98 101	man
+T16	Drug 56 65	linezolid
+T17	Drug 70 80	meperidine
+T13	Adverse_event 31 36	after
+T18	Combination 66 69	and
+E1	Adverse_event:T13 
+E2	Combination:T18 arg:T16 arg2:T17

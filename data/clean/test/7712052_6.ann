@@ -1,0 +1,6 @@
+T5	Treatment 59 66	lithium
+T8	Subject 111 129	patients with PTSD
+T10	Drug 59 66	lithium
+T11	Treat-Disorder 125 129	PTSD
+T6	Potential_therapeutic_event 74 83	treatment
+E1	Potential_therapeutic_event:T6

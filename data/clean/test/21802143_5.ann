@@ -1,0 +1,11 @@
+T7	Subject 0 81	An 18-year-old Japanese man weighing 53 kg with an anaplastic large cell lymphoma
+T9	Treatment 82 126;213 257	received continuous IV administration of TAC allogeneic bone marrow transplantation (BMT)
+T10	Effect 171 203	graft-versus-host disease (GVHD)
+T11	Race 15 23	Japanese
+T12	Age 3 14	18-year-old
+T13	Gender 24 27	man
+T14	Treat-Disorder 68 81	cell lymphoma
+T15	Drug 123 126	TAC
+T16	Route 102 119	IV administration
+T17	Potential_therapeutic_event 151 162	prophylaxis
+E2	Potential_therapeutic_event:T17 

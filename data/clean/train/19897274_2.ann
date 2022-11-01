@@ -1,0 +1,6 @@
+T4	Treatment 48 68	sorafenib treatment:
+T5	Effect 0 22	Interstitial pneumonia
+T6	Speculation_cue 23 31	probably
+T7	Drug 48 57	sorafenib
+T3	Adverse_event 32 42	associated
+E1	Adverse_event:T3

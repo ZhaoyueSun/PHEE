@@ -1,0 +1,11 @@
+T6	Subject 20 62	a previously healthy, postmenopausal woman
+T8	Effect 77 117	anticonvulsant hypersensitivity syndrome
+T9	Treatment 131 192	Bellamine S (belladonna alkaloids; ergotamine; phenobarbital)
+T11	Gender 57 62	woman
+T12	Treat-Disorder 197 208	hot flashes
+T13	Drug 131 142	Bellamine S
+T14	Drug 144 164	belladonna alkaloids
+T15	Drug 166 176	ergotamine
+T16	Drug 178 191	phenobarbital
+T7	Adverse_event 67 76	developed
+E1	Adverse_event:T7

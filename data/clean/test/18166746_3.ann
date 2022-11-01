@@ -1,0 +1,7 @@
+T4	Subject 35 108	a 58-yr-old woman undergoing a parathyroidectomy under general anesthesia
+T5	Treatment 0 14	Methylene blue
+T7	Age 37 46	58-yr-old
+T8	Gender 47 52	woman
+T10	Drug 0 14	Methylene blue
+T6	Potential_therapeutic_event 19 34	administered to
+E1	Potential_therapeutic_event:T6 

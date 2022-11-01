@@ -1,0 +1,9 @@
+T3	Subject 0 30	Up to four percent of patients
+T4	Treatment 44 52	imatinib
+T5	Effect 65 79	hepatotoxicity
+T7	Population 0 18	Up to four percent
+T8	Drug 44 52	imatinib
+T9	Speculation_cue 53 56	may
+T6	Adverse_event 57 64	develop
+E1	Adverse_event:T6 
+A1	Speculated E1

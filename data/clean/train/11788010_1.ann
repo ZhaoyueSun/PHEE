@@ -1,0 +1,7 @@
+T3	Treatment 39 75	octreotide or its long-acting analog
+T5	Effect 113 137	intrahepatic bile stasis
+T4	Subject 79 87	patients
+T7	Drug 39 49	octreotide
+T8	Drug 57 75	long-acting analog
+T6	Adverse_event 98 109	predisposed
+E1	Adverse_event:T6

@@ -1,0 +1,12 @@
+T3	Treatment 135 144;178 208	phenytoin together with antituberculosis
+T4	Subject 0 16	Slow acetylators
+T5	Effect 98 153	clinical and biochemical features of phenytoin toxicity
+T7	Speculation_cue 80 86	likely
+T8	Sub-Disorder 0 16	Slow acetylators
+T10	Drug 192 208	antituberculosis
+T11	Drug 135 144	phenytoin
+T6	Adverse_event 90 97	develop
+T9	Combination 178 186	together
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T11 arg2:T10
+A1	Speculated E1

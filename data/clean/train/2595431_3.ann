@@ -1,0 +1,6 @@
+T4	Treatment 31 72	discontinuation of metoclopramide therapy
+T6	Subject 0 18	Their parkinsonism
+T7	Drug 50 64	metoclopramide
+T8	Treat-Disorder 6 18	parkinsonism
+T5	Potential_therapeutic_event 19 27	improved
+E1	Potential_therapeutic_event:T5

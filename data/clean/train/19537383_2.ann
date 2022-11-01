@@ -1,0 +1,6 @@
+T6	Treatment 0 9;11 43	Sorafenib a multitargeted kinase inhibitor
+T9	Drug 0 9	Sorafenib
+T10	Treat-Disorder 70 107	unresectable hepatocellular carcinoma
+T11	Treat-Disorder 112 142	advanced renal cell carcinomas
+T7	Potential_therapeutic_event 57 66	treatment
+E1	Potential_therapeutic_event:T7

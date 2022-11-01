@@ -1,0 +1,5 @@
+T5	Treatment 150 166	cyclophosphamide
+T7	Effect 206 218	lung disease
+T8	Drug 150 166	cyclophosphamide
+T6	Adverse_event 186 197	responsible
+E1	Adverse_event:T6

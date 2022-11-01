@@ -1,0 +1,7 @@
+T3	Subject 50 85	a patient with diabetic nephropathy
+T4	Sub-Disorder 65 85	diabetic nephropathy
+T5	Treatment 0 24	Para-aminosalicylic acid
+T7	Effect 33 46	hypoglycaemia
+T8	Drug 0 24	Para-aminosalicylic acid
+T6	Adverse_event 25 32	induced
+E1	Adverse_event:T6 

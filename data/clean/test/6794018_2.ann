@@ -1,0 +1,5 @@
+T5	Effect 0 45	Intrahepatic cholestasis and cutaneous bullae
+T7	Treatment 62 83	glibenclamide therapy
+T8	Drug 62 75	glibenclamide
+T6	Adverse_event 46 56	associated
+E1	Adverse_event:T6

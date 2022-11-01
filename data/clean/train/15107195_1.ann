@@ -1,0 +1,9 @@
+T3	Effect 10 20	heatstroke
+T7	Age 38 49	32-year-old
+T8	Gender 50 53	man
+T6	Treatment 90 111	clozapine monotherapy
+T10	Drug 90 99	clozapine
+T4	Subject 36 82	a 32-year-old man diagnosed with schizophrenia
+T5	Treat-Disorder 69 82	schizophrenia
+T11	Adverse_event 24 32	reported
+E2	Adverse_event:T11

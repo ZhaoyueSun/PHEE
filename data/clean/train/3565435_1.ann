@@ -1,0 +1,11 @@
+T5	Effect 67 92	hypersensitivity reaction
+T6	Treatment 105 114	ibuprofen
+T3	Age 2 13	23-year-old
+T8	Gender 14 19	woman
+T9	Subject 0 53	A 23-year-old woman with systemic lupus erythematosus
+T10	Treat-Disorder 25 53	systemic lupus erythematosus
+T11	Drug 105 114	ibuprofen
+T12	Severity_cue 60 66	severe
+T7	Adverse_event 54 57	had
+E1	Adverse_event:T7 
+A1	Severity E1 High

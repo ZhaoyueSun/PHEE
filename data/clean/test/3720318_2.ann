@@ -1,0 +1,7 @@
+T4	Effect 30 60	noncardiogenic pulmonary edema
+T5	Treatment 78 115	intrabiliary infusion of monooctanoin
+T6	Subject 12 21	a patient
+T7	Route 91 99	infusion
+T8	Drug 103 115	monooctanoin
+T3	Adverse_event 61 70	developed
+E1	Adverse_event:T3

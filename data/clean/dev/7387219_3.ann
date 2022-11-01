@@ -1,0 +1,8 @@
+T3	Subject 0 38	Two patients with rheumatoid arthritis
+T6	Effect 61 75	hepatotoxicity
+T7	Treatment 92 107	D-penicillamine
+T8	Population 0 3	Two
+T9	Drug 92 107	D-penicillamine
+T10	Treat-Disorder 18 38	rheumatoid arthritis
+T5	Adverse_event 39 48	developed
+E1	Adverse_event:T5

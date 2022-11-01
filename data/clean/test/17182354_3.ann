@@ -1,0 +1,5 @@
+T7	Treatment 0 25	Methylphenidate (Ritalin)
+T9	Effect 37 58	cataract and glaucoma
+T10	Drug 0 15	Methylphenidate
+T8	Adverse_event 26 36	associated
+E1	Adverse_event:T8

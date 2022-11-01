@@ -1,0 +1,7 @@
+T8	Treatment 51 71	desmopressin (DDAVP)
+T9	Subject 109 156	both polyuric conditions and bleeding disorders
+T13	Drug 51 63	desmopressin
+T14	Treat-Disorder 114 133	polyuric conditions
+T15	Treat-Disorder 138 156	bleeding disorders
+T10	Potential_therapeutic_event 95 104	treatment
+E1	Potential_therapeutic_event:T10

@@ -1,0 +1,10 @@
+T8	Treatment 5 14	triazolam
+T9	Effect 30 39	hazardous
+T10	Subject 43 51	patients
+T12	Speculation_cue 18 29	potentially
+T13	Drug 5 14	triazolam
+T14	Route 0 4	Oral
+T15	Drug 84 96	ketoconazole
+T16	Drug 100 112	itraconazole
+T11	Adverse_event 40 42	to
+E1	Adverse_event:T11

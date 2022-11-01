@@ -1,0 +1,6 @@
+T8	Effect 135 210	carotid insufficiency, coagulopathy and poorly controlled diabetes mellitus
+T9	Treatment 32 70	intravitreal injections of bevacizumab
+T10	Drug 59 70	bevacizumab
+T11	Route 32 55	intravitreal injections
+T7	Adverse_event 114 118	risk
+E1	Adverse_event:T7

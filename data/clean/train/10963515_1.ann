@@ -1,0 +1,5 @@
+T3	Treatment 21 32	gemfibrozil
+T4	Effect 48 76	eosinophilic gastroenteritis
+T6	Drug 21 32	gemfibrozil
+T5	Adverse_event 0 17	Allergic reaction
+E1	Adverse_event:T5 

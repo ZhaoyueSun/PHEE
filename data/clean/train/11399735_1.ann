@@ -1,0 +1,7 @@
+T3	Effect 21 43	pulmonary side effects
+T5	Treatment 54 65	ticlopidine
+T6	Speculation_cue 8 17	few cases
+T7	Drug 54 65	ticlopidine
+T4	Adverse_event 44 50	caused
+E1	Adverse_event:T4 
+A1	Speculated E1

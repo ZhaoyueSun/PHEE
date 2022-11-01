@@ -1,0 +1,9 @@
+T8	Effect 0 15	Agranulocytosis
+T9	Treatment 57 85	prolonged vancomycin therapy
+T10	Subject 129 168	end stage renal disease (ESRD) patients
+T14	Duration 57 66	prolonged
+T15	Drug 67 77	vancomycin
+T16	Severity_cue 94 113	potentially serious
+T13	Treat-Disorder 129 159	end stage renal disease (ESRD)
+T12	Adverse_event 41 51	associated
+E1	Adverse_event:T12

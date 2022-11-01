@@ -1,0 +1,10 @@
+T3	Subject 22 41	a 40 year old woman
+T4	Treat-Disorder 81 103	leptomeningeal disease
+T5	Treatment 55 76	intraventricular IL-2
+T6	Effect 118 151	progressive cognitive dysfunction
+T8	Age 24 35	40 year old
+T9	Gender 36 41	woman
+T10	Drug 72 76	IL-2
+T7	Adverse_event 108 117	developed
+E1	Adverse_event:T7 
+T1	Route 55 71	intraventricular

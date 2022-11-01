@@ -1,0 +1,9 @@
+T3	Subject 21 40	a 20-year-old woman
+T4	Treatment 54 73	900 mg of glyburide
+T5	Effect 82 105	refractory hypoglycemia
+T7	Age 23 34	20-year-old
+T8	Gender 35 40	woman
+T9	Dosage 54 60	900 mg
+T10	Drug 64 73	glyburide
+T6	Adverse_event 45 53	ingested
+E1	Adverse_event:T6

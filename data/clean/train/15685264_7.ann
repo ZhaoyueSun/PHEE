@@ -1,0 +1,11 @@
+T10	Subject 93 96	she
+T11	Treatment 24 91;155 168	Oxybutynin concomitantly with an increase in the dose of Dantrolene Carbamazepine
+T12	Effect 111 181	clinical symptoms and laboratory finding of Carbamazepine intoxication
+T13	Gender 93 96	she
+T14	Drug 155 168	Carbamazepine
+T15	Drug 24 34	Oxybutynin
+T16	Drug 81 91	Dantrolene
+T9	Adverse_event 0 5	After
+T17	Combination 49 53	with
+E1	Adverse_event:T9 
+E2	Combination:T17 arg:T15 arg2:T16

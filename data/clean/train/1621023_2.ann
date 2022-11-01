@@ -1,0 +1,10 @@
+T4	Subject 13 65	a 31-year-old man with obsessive-compulsive disorder
+T6	Effect 76 79;120 191	RBD which persisted at PSG study 19 months after fluoxetine discontinuation
+T7	Treatment 91 118	starting fluoxetine therapy
+T8	Age 15 26	31-year-old
+T9	Gender 27 30	man
+T11	Drug 100 110	fluoxetine
+T12	Time_elapsed 80 99	soon after starting
+T13	Treat-Disorder 36 65	obsessive-compulsive disorder
+T5	Adverse_event 66 75	developed
+E1	Adverse_event:T5

@@ -1,0 +1,5 @@
+T3	Treatment 44 55	doxorubicin
+T4	Effect 77 104	symptomatic cardiac failure
+T6	Drug 44 55	doxorubicin
+T5	Adverse_event 23 35	relationship
+E1	Adverse_event:T5

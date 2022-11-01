@@ -1,0 +1,8 @@
+T6	Treatment 46 73	three albuterol inhalations
+T7	Treat-Disorder 4 10	asthma
+T8	Dosage 46 51	three
+T9	Drug 52 61	albuterol
+T10	Time_elapsed 20 35	within 24 hours
+T4	Route 62 73	inhalations
+T5	Potential_therapeutic_event 11 19	resolved
+E1	Potential_therapeutic_event:T5

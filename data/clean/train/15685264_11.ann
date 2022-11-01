@@ -1,0 +1,10 @@
+T10	Subject 155 164	a patient
+T12	Treatment 126 150	Carbamazepine medication
+T14	Treat-Disorder 170 190	a spinal cord lesion
+T16	Drug 59 69	Dantrolene
+T17	Drug 74 84	Oxybutynin
+T18	Drug 126 139	Carbamazepine
+T15	Potential_therapeutic_event 140 150	medication
+T13	Combination 39 50	interaction
+E2	Potential_therapeutic_event:T15 
+E1	Combination:T13 arg:T16 arg2:T17

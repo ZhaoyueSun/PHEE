@@ -1,0 +1,8 @@
+T7	Subject 0 13	A young woman
+T9	Effect 24 36	galactorrhea
+T10	Treatment 37 106	during treatment with a new dibenzoxazepine antidepressant, amoxapine
+T11	Age 2 7	young
+T12	Gender 8 13	woman
+T13	Drug 97 106	amoxapine
+T8	Adverse_event 14 23	developed
+E1	Adverse_event:T8

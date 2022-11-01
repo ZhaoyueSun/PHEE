@@ -1,0 +1,5 @@
+T5	Treatment 110 134	the L-thyroxine therapy.
+T6	Effect 75 102	acute myocardial infarction
+T7	Drug 114 125	L-thyroxine
+T4	Adverse_event 103 109	due to
+E1	Adverse_event:T4

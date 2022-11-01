@@ -1,0 +1,5 @@
+T4	Treatment 65 76	CyA therapy
+T5	Effect 19 47	staphylococcus aureus sepsis
+T6	Drug 65 68	CyA
+T3	Adverse_event 48 57	developed
+E1	Adverse_event:T3

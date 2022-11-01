@@ -1,0 +1,6 @@
+T6	Effect 93 127	an exacerbation of Crohn's disease
+T7	Treatment 131 152	a TNF-alpha inhibitor
+T8	Subject 153 162	recipient
+T10	Drug 133 152	TNF-alpha inhibitor
+T9	Adverse_event 128 130	in
+E1	Adverse_event:T9

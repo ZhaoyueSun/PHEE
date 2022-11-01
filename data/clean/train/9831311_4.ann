@@ -1,0 +1,5 @@
+T3	Effect 0 23	Progressive hypokalemia
+T5	Treatment 41 50	phosphate
+T6	Drug 41 50	phosphate
+T4	Adverse_event 24 33	developed
+E1	Adverse_event:T4

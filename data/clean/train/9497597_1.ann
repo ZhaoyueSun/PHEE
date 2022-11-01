@@ -1,0 +1,5 @@
+T3	Treatment 0 25	Prothipendylhydrochloride
+T5	Effect 34 42	priapism
+T6	Drug 0 25	Prothipendylhydrochloride
+T4	Adverse_event 26 33	induced
+E1	Adverse_event:T4

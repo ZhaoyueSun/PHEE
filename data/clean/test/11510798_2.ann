@@ -1,0 +1,12 @@
+T10	Subject 88 106	male 60 yrs of age
+T12	Treatment 129 161	oxaliplatinum and 5-fluorouracil
+T13	Effect 0 72	Diarrhoea, T-CD4+ lymphopenia and bilateral patchy pulmonary infiltrates
+T15	Gender 88 92	male
+T16	Age 93 106	60 yrs of age
+T17	Drug 129 142	oxaliplatinum
+T18	Drug 147 161	5-fluorouracil
+T19	Treat-Disorder 166 195	unresectable rectum carcinoma
+T11	Adverse_event 73 82	developed
+T14	Combination 143 146	and
+E1	Adverse_event:T11 
+E2	Combination:T14 arg:T17 arg2:T18

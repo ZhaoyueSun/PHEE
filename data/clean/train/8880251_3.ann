@@ -1,0 +1,7 @@
+T5	Treatment 88 94	cresol
+T4	Effect 118 120	MH
+T6	Drug 88 94	cresol
+T7	Speculation_cue 101 109	possibly
+T3	Adverse_event 110 117	trigger
+E1	Adverse_event:T3 
+A1	Speculated E1

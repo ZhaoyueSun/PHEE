@@ -1,0 +1,5 @@
+T3	Effect 0 23	Lichenoid drug eruption
+T5	Treatment 27 36	salsalate
+T6	Drug 27 36	salsalate
+T4	Adverse_event 15 23	eruption
+E1	Adverse_event:T4 

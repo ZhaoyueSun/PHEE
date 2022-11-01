@@ -1,0 +1,8 @@
+T8	Treatment 18 43	intravenous nitroglycerin
+T9	Subject 47 95	a patient with idiopathic pulmonary hypertension
+T10	Effect 111 260	increase in pulmonary artery pressure associated with a decrease in blood flow that is best explained by an increase in pulmonary vascular resistance
+T11	Treat-Disorder 62 95	idiopathic pulmonary hypertension
+T12	Route 18 29	intravenous
+T13	Drug 30 43	nitroglycerin
+T7	Adverse_event 0 14	Administration
+E1	Adverse_event:T7 

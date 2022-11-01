@@ -1,0 +1,8 @@
+T3	Subject 22 29	a woman
+T5	Effect 44 79	photo-onycholysis on multiple nails
+T6	Treatment 86 106	uptake of olanzapine
+T7	Gender 24 29	woman
+T8	Drug 96 106	olanzapine
+T9	Time_elapsed 80 92	after uptake
+T4	Adverse_event 34 43	developed
+E1	Adverse_event:T4

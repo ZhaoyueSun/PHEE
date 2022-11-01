@@ -1,0 +1,8 @@
+T7	Subject 10 22	two patients
+T9	Treatment 105 160	interferon alpha 2b as an adjuvant therapy for melanoma
+T10	Population 10 13	two
+T11	Effect 37 63	intense livedo reticularis
+T12	Drug 105 124	interferon alpha 2b
+T13	Treat-Disorder 152 160	melanoma
+T8	Adverse_event 72 79	related
+E1	Adverse_event:T8 

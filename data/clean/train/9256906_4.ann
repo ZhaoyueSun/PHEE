@@ -1,0 +1,7 @@
+T4	Treatment 116 123	suramin
+T5	Subject 12 53	a patient with metastatic prostate cancer
+T6	Effect 68 93	nonoliguric renal failure
+T8	Drug 116 123	suramin
+T9	Treat-Disorder 27 53	metastatic prostate cancer
+T3	Adverse_event 94 100	during
+E1	Adverse_event:T3

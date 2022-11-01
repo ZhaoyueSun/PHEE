@@ -1,0 +1,7 @@
+T4	Treatment 0 21	Intravenous valproate
+T5	Effect 38 61	significant hypotension
+T6	Treat-Disorder 82 100	status epilepticus
+T7	Route 0 11	Intravenous
+T8	Drug 12 21	valproate
+T3	Adverse_event 22 32	associated
+E1	Adverse_event:T3

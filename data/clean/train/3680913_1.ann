@@ -1,0 +1,7 @@
+T3	Effect 84 109	fulminant hepatic failure
+T4	Treatment 36 50;153 167	10 weeks after nicotinic acid
+T5	Subject 57 68	the patient
+T7	Time_elapsed 36 50	10 weeks after
+T8	Drug 153 167	nicotinic acid
+T6	Adverse_event 69 78	presented
+E1	Adverse_event:T6

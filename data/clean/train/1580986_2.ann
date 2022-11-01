@@ -1,0 +1,9 @@
+T7	Subject 0 29	Two renal transplant patients
+T9	Effect 40 46	anemia
+T10	Treatment 85 105	enalapril medication
+T11	Treat-Disorder 67 79	hypertension
+T12	Population 0 3	Two
+T13	Sub-Disorder 4 20	renal transplant
+T14	Drug 85 94	enalapril
+T8	Adverse_event 30 39	developed
+E1	Adverse_event:T8 

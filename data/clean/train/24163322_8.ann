@@ -1,0 +1,9 @@
+T4	Treatment 0 58	Within 3 days after starting bismuth subsalicylate therapy
+T5	Subject 60 71	the patient
+T8	Severity_cue 110 115	minor
+T9	Duration 7 13	3 days
+T10	Drug 29 50	bismuth subsalicylate
+T6	Effect 74 171	INR increased from 2.56 to 3.54 and minor bleeding was noted from the patient's tracheostomy site
+T7	Adverse_event 129 134	noted
+E1	Adverse_event:T7 
+A1	Severity E1 Low

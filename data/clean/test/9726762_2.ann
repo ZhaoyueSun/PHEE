@@ -1,0 +1,10 @@
+T7	Subject 24 33	a patient
+T8	Treatment 34 65;120 154	on a stable regimen of warfarin 4 weeks after starting gemfibrozil
+T10	Effect 87 119	hypoprothrombinemia and bleeding
+T11	Drug 57 65	warfarin
+T12	Time_elapsed 120 127	4 weeks
+T13	Drug 143 154	gemfibrozil
+T14	Severity_cue 80 86	severe
+T9	Adverse_event 70 79	developed
+E1	Adverse_event:T9 
+A1	Severity E1 High

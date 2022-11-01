@@ -1,0 +1,7 @@
+T6	Treatment 119 129	adalimumab
+T7	Effect 0 58	Visceral leishmaniasis and macrophagic activation syndrome
+T8	Subject 62 97	a patient with rheumatoid arthritis
+T10	Treat-Disorder 77 97	rheumatoid arthritis
+T11	Drug 119 129	adalimumab
+T5	Adverse_event 98 103	under
+E1	Adverse_event:T5

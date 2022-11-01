@@ -1,0 +1,10 @@
+T8	Subject 34 55	HIV-infected patients
+T9	Treatment 0 30;56 91	Pharmacokinetics of etravirine concomitantly treated with rifampin
+T13	Drug 20 30	etravirine
+T14	Treat-Disorder 34 37	HIV
+T15	Drug 83 91	rifampin
+T10	Treat-Disorder 96 108	tuberculosis
+T11	Potential_therapeutic_event 92 95	for
+T16	Combination 56 69	concomitantly
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T16 arg:T13 arg2:T15

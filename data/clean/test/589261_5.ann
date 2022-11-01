@@ -1,0 +1,7 @@
+T4	Subject 0 11	One patient
+T5	Treatment 15 22	ouabain
+T6	Effect 38 52	cardiomyopathy
+T7	Population 0 3	One
+T8	Drug 15 22	ouabain
+T3	Adverse_event 28 37	developed
+E1	Adverse_event:T3

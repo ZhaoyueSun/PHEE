@@ -1,0 +1,8 @@
+T3	Treatment 82 93	venlafaxine
+T4	Sub-Disorder 47 68	narrow angle glaucoma
+T6	Effect 0 25	Increased ocular pressure
+T8	Population 29 32	two
+T5	Subject 29 68	two patients with narrow angle glaucoma
+T9	Drug 82 93	venlafaxine
+T7	Adverse_event 26 28	in
+E1	Adverse_event:T7 

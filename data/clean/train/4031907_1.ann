@@ -1,0 +1,6 @@
+T3	Subject 3 19	all the patients
+T4	Effect 21 38	pellagra symptoms
+T6	Treatment 55 72	isoniazid therapy
+T7	Drug 55 64	isoniazid
+T5	Adverse_event 39 47	appeared
+E1	Adverse_event:T5

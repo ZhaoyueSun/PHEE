@@ -1,0 +1,6 @@
+T3	Treatment 28 35	lithium
+T5	Effect 46 77	biochemical hyperparathyroidism
+T6	Drug 28 35	lithium
+T4	Adverse_event 36 39	may
+E1	Adverse_event:T4 
+A1	Speculated E1

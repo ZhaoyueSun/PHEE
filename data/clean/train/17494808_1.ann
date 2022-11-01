@@ -1,0 +1,5 @@
+T3	Effect 0 42	Hypersensitivity pneumonitis-like syndrome
+T5	Treatment 70 82	lenalidomide
+T6	Drug 70 82	lenalidomide
+T4	Adverse_event 43 53	associated
+E1	Adverse_event:T4

@@ -1,0 +1,8 @@
+T3	Effect 14 30	arthritis flared
+T4	Subject 4 13	patient's
+T6	Treatment 41 70	second infusion of infliximab
+T8	Drug 60 70	infliximab
+T7	Route 48 56	infusion
+T9	Time_elapsed 41 47	second
+T5	Adverse_event 31 36	after
+E1	Adverse_event:T5

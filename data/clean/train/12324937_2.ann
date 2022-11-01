@@ -1,0 +1,7 @@
+T3	Treatment 52 63	gemcitabine
+T5	Effect 75 78	HUS
+T6	Speculation_cue 29 32	few
+T7	Drug 52 63	gemcitabine
+T4	Adverse_event 64 74	associated
+E1	Adverse_event:T4 
+A1	Speculated E1

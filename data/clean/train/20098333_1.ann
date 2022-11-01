@@ -1,0 +1,8 @@
+T4	Treatment 16 29;67 76	anthracycline with ATRA
+T5	Effect 38 66	early chronic cardiomyopathy
+T7	Drug 16 29	anthracycline
+T8	Drug 72 76	ATRA
+T3	Adverse_event 30 37	induced
+T6	Combination 67 71	with
+E1	Adverse_event:T3 
+E2	Combination:T6 arg:T7 arg2:T8

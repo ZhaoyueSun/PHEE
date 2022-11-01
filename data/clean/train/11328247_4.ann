@@ -1,0 +1,10 @@
+T3	Subject 9 95	The patient, a 27-year-old married Japanese woman with borderline personality disorder
+T6	Effect 110 126	increased libido
+T5	Treatment 136 165	administration of fluvoxamine
+T7	Age 24 35	27-year-old
+T8	Race 44 52	Japanese
+T9	Gender 53 58	woman
+T11	Treat-Disorder 64 95	borderline personality disorder
+T12	Drug 154 165	fluvoxamine
+T4	Adverse_event 97 106	developed
+E1	Adverse_event:T4

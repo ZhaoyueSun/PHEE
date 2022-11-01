@@ -1,0 +1,6 @@
+T4	Treatment 20 33	oxcarbazepine
+T5	Effect 42 61	angioneurotic edema
+T6	Drug 20 33	oxcarbazepine
+T7	Subject 63 67	case
+T3	Adverse_event 34 41	related
+E1	Adverse_event:T3

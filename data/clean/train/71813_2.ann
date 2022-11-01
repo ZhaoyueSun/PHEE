@@ -1,0 +1,5 @@
+T3	Effect 0 4	Acne
+T4	Treatment 17 21	gold
+T6	Drug 17 21	gold
+T5	Adverse_event 5 13	provoked
+E1	Adverse_event:T5

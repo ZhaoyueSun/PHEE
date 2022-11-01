@@ -1,0 +1,8 @@
+T3	Subject 54 95	infants with supraventricular tachycardia
+T4	Effect 0 22	Cardiac decompensation
+T6	Treatment 33 50	verapamil therapy
+T7	Age 54 61	infants
+T8	Treat-Disorder 67 95	supraventricular tachycardia
+T5	Adverse_event 23 32	following
+E1	Adverse_event:T5 
+T1	Drug 33 42	verapamil

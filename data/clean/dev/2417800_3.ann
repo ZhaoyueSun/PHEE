@@ -1,0 +1,6 @@
+T5	Effect 0 21	Bleomycin pneumonitis
+T7	Speculation_cue 22 33	potentiated
+T9	Drug 37 43	oxygen
+T4	Treatment 37 58	oxygen administration
+T3	Adverse_event 34 36	by
+E1	Adverse_event:T3

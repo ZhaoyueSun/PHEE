@@ -1,0 +1,6 @@
+T5	Treatment 0 13;15 58	Rosiglitazone a thiazolidinedione antidiabetic medication
+T8	Drug 0 13	Rosiglitazone
+T9	Drug 17 58	thiazolidinedione antidiabetic medication
+T10	Treat-Disorder 84 108	Type 2 diabetes mellitus
+T6	Potential_therapeutic_event 59 63	used
+E1	Potential_therapeutic_event:T6

@@ -1,0 +1,10 @@
+T3	Subject 12 64	a 63 year old woman with a suppurative mediastinitis
+T5	Treatment 79 103	continuous PI irrigation
+T7	Effect 121 149	acute oliguric renal failure
+T8	Age 14 25	63 year old
+T9	Gender 26 31	woman
+T10	Drug 90 92	PI
+T11	Treat-Disorder 39 64	suppurative mediastinitis
+T12	Route 93 103	irrigation
+T6	Adverse_event 108 117	developed
+E1	Adverse_event:T6

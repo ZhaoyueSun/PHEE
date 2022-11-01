@@ -1,0 +1,5 @@
+T3	Effect 0 21	Cicatricial entropion
+T5	Treatment 38 68	chronic dipivefrin application
+T6	Drug 46 56	dipivefrin
+T4	Adverse_event 22 32	associated
+E1	Adverse_event:T4 

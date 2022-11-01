@@ -1,0 +1,9 @@
+T6	Effect 84 108	subfulminant hepatitis B
+T3	Subject 39 69	a patient with Crohn's disease
+T9	Treat-Disorder 54 69	Crohn's disease
+T10	Time_elapsed 119 125	fourth
+T7	Treatment 119 148	fourth infusion of infliximab
+T11	Drug 138 148	infliximab
+T8	Route 126 134	infusion
+T5	Adverse_event 74 83	developed
+E1	Adverse_event:T5

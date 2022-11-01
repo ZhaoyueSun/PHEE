@@ -1,0 +1,6 @@
+T3	Treatment 19 37	hydroquinone cream
+T5	Effect 0 13	Nail staining
+T6	Drug 19 31	hydroquinone
+T7	Route 32 37	cream
+T4	Adverse_event 14 18	from
+E1	Adverse_event:T4

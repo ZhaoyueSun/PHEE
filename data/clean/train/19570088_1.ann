@@ -1,0 +1,7 @@
+T3	Effect 0 20	Tumor lysis syndrome
+T4	Treatment 27 88	transcatheter arterial infusion of cisplatin and embolization
+T5	Treat-Disorder 101 129	liver metastases of melanoma
+T7	Route 27 58	transcatheter arterial infusion
+T8	Drug 62 71	cisplatin
+T6	Adverse_event 21 26	after
+E1	Adverse_event:T6

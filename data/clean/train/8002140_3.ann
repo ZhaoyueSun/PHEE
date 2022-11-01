@@ -1,0 +1,7 @@
+T3	Effect 23 41	contact dermatitis
+T5	Treatment 49 59	budesonide
+T6	Subject 9 19	Five cases
+T7	Population 9 13	Five
+T8	Drug 49 59	budesonide
+T4	Adverse_event 42 48	due to
+E1	Adverse_event:T4

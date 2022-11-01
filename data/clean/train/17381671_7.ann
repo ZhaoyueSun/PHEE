@@ -1,0 +1,8 @@
+T12	Treatment 0 47	SSRIs and fentanyl are commonly co-administered
+T11	Treat-Disorder 78 103;108 129	chronic or malignant pain underlying depression
+T14	Drug 0 5	SSRIs
+T15	Drug 10 18	fentanyl
+T13	Potential_therapeutic_event 60 62	in
+T16	Combination 6 9	and
+E1	Potential_therapeutic_event:T13 
+E2	Combination:T16 arg:T14 arg2:T15

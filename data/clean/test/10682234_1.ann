@@ -1,0 +1,12 @@
+T7	Treatment 0 38	Intravenous administration of levodopa
+T8	Treat-Disorder 51 106	a refractory akathisia case induced by interferon-alpha
+T10	Route 0 11	Intravenous
+T11	Drug 30 38	levodopa
+T12	Treatment 90 107	interferon-alpha.
+T14	Drug 90 106	interferon-alpha
+T15	Effect 53 73	refractory akathisia
+T6	Potential_therapeutic_event 39 50	ameliorated
+T9	Adverse_event 79 86	induced
+E1	Potential_therapeutic_event:T6 arg:T7
+E2	Adverse_event:T9 arg:T12 arg2:T15
+R1	has Arg1:T7 Arg2:T8

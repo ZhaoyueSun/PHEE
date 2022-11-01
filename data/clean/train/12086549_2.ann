@@ -1,0 +1,6 @@
+T3	Subject 69 78	a patient
+T4	Treatment 92 96	IL-2
+T5	Effect 31 65	cutaneous and hematologic toxicity
+T7	Drug 92 96	IL-2
+T6	Adverse_event 23 27	case
+E1	Adverse_event:T6

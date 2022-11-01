@@ -1,0 +1,5 @@
+T5	Drug 55 68	oxymetazoline
+T7	Treatment 55 68	oxymetazoline
+T8	Effect 77 84	syncope
+T6	Adverse_event 69 76	induced
+E1	Adverse_event:T6

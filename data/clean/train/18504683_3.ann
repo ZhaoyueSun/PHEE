@@ -1,0 +1,9 @@
+T5	Subject 10 63	3 cases of children with acute lymphoblastic leukemia
+T6	Effect 78 108	seizures and altered sensorium
+T7	Treatment 115 129	L-asparaginase
+T9	Population 10 11	3
+T10	Treat-Disorder 35 63	acute lymphoblastic leukemia
+T11	Drug 115 129	L-asparaginase
+T8	Adverse_event 109 114	after
+E1	Adverse_event:T8 
+T1	Age 21 29	children

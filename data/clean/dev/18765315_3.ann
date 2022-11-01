@@ -1,0 +1,6 @@
+T3	Effect 56 80	acute coronary syndromes
+T5	Treatment 95 114	rituximab infusions
+T6	Drug 95 104	rituximab
+T7	Route 105 114	infusions
+T4	Adverse_event 42 52	occurrence
+E1	Adverse_event:T4

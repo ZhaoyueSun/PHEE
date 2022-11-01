@@ -1,0 +1,14 @@
+T3	Subject 13 106	pediatric patient with leukemia and a severe, L-asparaginase-induced necrotizing pancreatitis
+T5	Treatment 134 155	percutaneous drainage
+T6	Effect 164 198	flush the infected necrotic parts.
+T7	Age 13 22	pediatric
+T8	Sub-Disorder 36 44	leukemia
+T11	Treat-Disorder 59 106	L-asparaginase-induced necrotizing pancreatitis
+T13	Effect 82 106	necrotizing pancreatitis
+T14	Treatment 59 73	L-asparaginase
+T15	Drug 59 73	L-asparaginase
+T4	Adverse_event 156 163	used to
+T12	Adverse_event 74 81	induced
+E1	Adverse_event:T4 arg:T3 arg2:T5 arg3:T6
+E2	Adverse_event:T12 arg:T14 arg2:T13
+R1	has Arg1:T5 Arg2:T11

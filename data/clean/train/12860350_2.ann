@@ -1,0 +1,11 @@
+T3	Subject 12 33	a premenopausal woman
+T6	Treatment 52 61	tamoxifen
+T7	Effect 120 133	endometriosis
+T8	Severity_cue 134 151	requiring surgery
+T9	Gender 28 33	woman
+T10	Age 14 27	premenopausal
+T12	Drug 52 61	tamoxifen
+T13	Treat-Disorder 84 108	in situ ductal carcinoma
+T5	Adverse_event 110 119	developed
+E1	Adverse_event:T5 
+A1	Severity E1 Medium

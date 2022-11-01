@@ -1,0 +1,6 @@
+T3	Treatment 22 26	CCNU
+T4	Speculation_cue 69 86	seems very likely
+T5	Effect 34 68	pathogenesis of pulmonary fibrosis
+T8	Drug 22 26	CCNU
+T6	Adverse_event 4 18	responsibility
+E1	Adverse_event:T6

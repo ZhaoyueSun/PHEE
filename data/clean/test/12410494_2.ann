@@ -1,0 +1,11 @@
+T9	Subject 60 69	a patient
+T11	Treatment 83 116	a statin and a protease inhibitor
+T12	Effect 20 56	death associated with rhabdomyolysis
+T13	Drug 85 91	statin
+T14	Drug 98 116	protease inhibitor
+T16	Severity_cue 135 146	significant
+T10	Adverse_event 70 77	treated
+T15	Combination 92 95	and
+E1	Adverse_event:T10 
+E2	Combination:T15 arg:T13 arg2:T14
+A1	Severity E1 High

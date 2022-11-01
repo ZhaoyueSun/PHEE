@@ -1,0 +1,6 @@
+T3	Treatment 31 86	long-term treatment with the dopamine agonist pergolide
+T5	Effect 0 24	Pleuropulmonary fibrosis
+T7	Drug 77 86	pergolide
+T8	Treat-Disorder 91 108	Parkinson Disease
+T6	Adverse_event 25 30	after
+E1	Adverse_event:T6

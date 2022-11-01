@@ -1,0 +1,7 @@
+T3	Effect 0 42	Acute generalized exanthematous pustulosis
+T5	Treatment 54 73	salazosulfapyridine
+T6	Subject 77 110	a patient with ulcerative colitis
+T8	Drug 54 73	salazosulfapyridine
+T9	Treat-Disorder 92 110	ulcerative colitis
+T4	Adverse_event 43 50	induced
+E1	Adverse_event:T4

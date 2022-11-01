@@ -1,0 +1,7 @@
+T6	Treatment 91 103	fusidic acid
+T8	Effect 117 198	an acute severe rise in plasma simvastatin level and extensive myocellular damage
+T5	Speculation_cue 15 32	most likely cause
+T9	Drug 91 103	fusidic acid
+T7	Adverse_event 104 113	resulting
+E2	Adverse_event:T7 
+A1	Speculated E2

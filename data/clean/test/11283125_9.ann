@@ -1,0 +1,8 @@
+T7	Treatment 63 71;81 87	HD Ara-C HD MTX
+T8	Effect 124 199	further decrease the incidence of CNS relapse or to improve the overall DFS
+T11	Drug 63 71	HD Ara-C
+T12	Drug 81 87	HD MTX
+T9	Adverse_event 114 120	failed
+T13	Combination 72 77	added
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T11 arg2:T12

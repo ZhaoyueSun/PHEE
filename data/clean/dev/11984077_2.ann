@@ -1,0 +1,6 @@
+T12	Treatment 45 55	amifostine
+T13	Effect 60 103	nausea, vomiting, hypotension, hypocalcemia
+T14	Effect 108 127	allergic reactions.
+T15	Drug 45 55	amifostine
+T11	Adverse_event 29 39	associated
+E1	Adverse_event:T11

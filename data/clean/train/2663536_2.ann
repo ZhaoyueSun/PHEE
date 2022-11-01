@@ -1,0 +1,5 @@
+T3	Effect 30 44	de novo asthma
+T5	Treatment 70 129	the angiotensin converting enzyme (ACE) inhibitor captopril
+T6	Drug 120 129	captopril
+T4	Adverse_event 55 69	treatment with
+E1	Adverse_event:T4

@@ -1,0 +1,7 @@
+T12	Effect 50 79	systemic adverse events (AEs)
+T13	Treatment 0 26	Oral corticosteroids (OCS)
+T14	Speculation_cue 27 30	may
+T16	Drug 5 20	corticosteroids
+T17	Route 0 4	Oral
+T11	Adverse_event 34 44	associated
+E1	Adverse_event:T11

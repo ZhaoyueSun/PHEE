@@ -1,0 +1,6 @@
+T5	Treatment 118 128	quetiapine
+T6	Effect 77 112	leucocytopenia and thrombocytopenia
+T7	Subject 67 73	a case
+T9	Drug 118 128	quetiapine
+T8	Adverse_event 113 117	with
+E1	Adverse_event:T8

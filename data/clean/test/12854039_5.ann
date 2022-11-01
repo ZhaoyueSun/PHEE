@@ -1,0 +1,5 @@
+T3	Treatment 45 61	alpha interferon
+T4	Effect 0 31	Multiple sclerosis-like disease
+T6	Drug 45 61	alpha interferon
+T5	Adverse_event 32 41	secondary
+E1	Adverse_event:T5 

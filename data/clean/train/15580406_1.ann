@@ -1,0 +1,8 @@
+T4	Effect 28 56	Vogt-Koyanagi-Harada disease
+T6	Treatment 67 111	4 months after the start of interferon alpha
+T7	Subject 18 24	a case
+T8	Speculation_cue 123 131	probably
+T10	Time_elapsed 67 75	4 months
+T11	Drug 95 111	interferon alpha
+T5	Adverse_event 57 66	occurring
+E1	Adverse_event:T5

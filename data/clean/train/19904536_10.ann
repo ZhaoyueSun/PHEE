@@ -1,0 +1,5 @@
+T7	Effect 28 71;99 139;169 177	diffuse and severe interstitial pneumonitis accelerated usual interstitial pneumonia toxicity
+T9	Treatment 156 160	drug
+T10	Drug 156 160	drug
+T6	Adverse_event 161 168	induced
+E1	Adverse_event:T6

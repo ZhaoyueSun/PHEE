@@ -1,0 +1,5 @@
+T5	Effect 0 26	Massive pulmonary embolism
+T7	Treatment 45 52	heparin
+T8	Drug 45 52	heparin
+T6	Adverse_event 27 30	due
+E1	Adverse_event:T6

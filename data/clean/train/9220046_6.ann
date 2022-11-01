@@ -1,0 +1,11 @@
+T5	Subject 23 32;54 62	two cases patients
+T8	Effect 36 50	rhabdomyolysis
+T6	Treatment 70 181	lovastatin that were precipitated by the use of the newer macrolide antibiotics clarithromycin and azithromycin
+T9	Population 23 26	two
+T10	Drug 70 80	lovastatin
+T11	Drug 150 164	clarithromycin
+T12	Drug 169 181	azithromycin
+T7	Adverse_event 63 69	taking
+T13	Combination 165 168	and
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T11 arg2:T12

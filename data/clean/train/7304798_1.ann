@@ -1,0 +1,7 @@
+T8	Effect 13 31	rapid mood cycling
+T9	Treatment 39 45	L-dopa
+T10	Subject 59 76	a bipolar patient
+T12	Drug 39 45	L-dopa
+T13	Treat-Disorder 61 68	bipolar
+T7	Adverse_event 32 38	during
+E1	Adverse_event:T7

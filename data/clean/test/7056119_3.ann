@@ -1,0 +1,6 @@
+T4	Treatment 50 70	quinidine, 1.2 g/day
+T6	Drug 50 59	quinidine
+T8	Dosage 61 70	1.2 g/day
+T10	Duration 97 105	17 years
+T5	Potential_therapeutic_event 41 49	received
+E1	Potential_therapeutic_event:T5

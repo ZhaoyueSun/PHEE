@@ -1,0 +1,5 @@
+T4	Effect 60 91	repeated venous thromboembolism
+T5	Treatment 99 142	treatment with low-molecular-weight heparin
+T6	Drug 114 142	low-molecular-weight heparin
+T3	Adverse_event 92 98	during
+E1	Adverse_event:T3

@@ -1,0 +1,5 @@
+T3	Treatment 49 59	ethambutol
+T5	Effect 68 79	visual loss
+T6	Drug 49 59	ethambutol
+T4	Adverse_event 60 67	induced
+E1	Adverse_event:T4

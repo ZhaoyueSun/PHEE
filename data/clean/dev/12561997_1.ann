@@ -1,0 +1,6 @@
+T6	Treatment 51 63	chemotherapy
+T9	Effect 0 40	Gelatinous transformation of bone marrow
+T10	Route 51 63	chemotherapy
+T11	Treat-Disorder 68 75	myeloma
+T8	Adverse_event 41 50	following
+E1	Adverse_event:T8

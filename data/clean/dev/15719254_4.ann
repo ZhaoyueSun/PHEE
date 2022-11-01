@@ -1,0 +1,8 @@
+T3	Effect 18 22	BMTN
+T4	Subject 26 38	two children
+T5	Treatment 52 54	RA
+T7	Population 26 29	two
+T8	Age 30 38	children
+T9	Drug 52 54	RA
+T6	Potential_therapeutic_event 39 46	treated
+E1	Potential_therapeutic_event:T6

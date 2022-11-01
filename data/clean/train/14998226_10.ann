@@ -1,0 +1,9 @@
+T11	Effect 72 85	increased INR
+T12	Treatment 0 11;91 132	Pravastatin combined with the anticoagulant fluindion
+T13	Negation_cue 17 20	not
+T14	Drug 0 11	Pravastatin
+T15	Drug 109 133	anticoagulant fluindione
+T10	Adverse_event 62 68	caused
+T16	Combination 91 99	combined
+E1	Adverse_event:T10 
+E2	Combination:T16 arg:T14 arg2:T15

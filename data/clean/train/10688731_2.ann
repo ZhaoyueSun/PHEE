@@ -1,0 +1,5 @@
+T3	Treatment 28 31	UFT
+T4	Effect 40 65	scleroderma-like reaction
+T6	Drug 28 31	UFT
+T5	Adverse_event 32 39	induced
+E1	Adverse_event:T5

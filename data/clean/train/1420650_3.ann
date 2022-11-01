@@ -1,0 +1,12 @@
+T9	Treatment 88 125;130 200	even at low or moderate dosage levels certain drugs as lithium or clozapine are used in combination with CBZ
+T10	Effect 12 21	asterixis
+T13	Speculation_cue 78 81	may
+T15	Drug 197 200	CBZ
+T16	Drug 147 154	lithium
+T17	Drug 158 167	clozapine
+T11	Dosage 96 118	low or moderate dosage
+T12	Adverse_event 82 87	occur
+T14	Combination 180 191	combination
+E1	Adverse_event:T12 
+E2	Combination:T14 arg:T15 arg3:T16
+E3	Combination:T14 arg:T15 arg2:T17

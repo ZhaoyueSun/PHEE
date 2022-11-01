@@ -1,0 +1,8 @@
+T7	Treatment 39 47;99 161	rifampin after a four-month lapse in therapy for pulmonary tuberculosis
+T9	Effect 59 75	thrombocytopenia
+T10	Subject 79 98	an indigent patient
+T6	Drug 39 47	rifampin
+T11	Time_elapsed 107 117	four-month
+T12	Treat-Disorder 139 161	pulmonary tuberculosis
+T8	Adverse_event 48 58	associated
+E1	Adverse_event:T8

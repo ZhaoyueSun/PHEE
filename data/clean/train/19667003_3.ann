@@ -1,0 +1,10 @@
+T11	Sub-Disorder 32 48;50 58;64 125	bipolar disorder seizures mild mental retardation secondary to a traumatic brain injury
+T12	Treatment 147 160	carbamazepine
+T14	Age 11 22	26-year-old
+T15	Gender 23 26	man
+T10	Subject 9 125	A 26-year-old man with bipolar disorder, seizures, and mild mental retardation secondary to a traumatic brain injury
+T16	Drug 147 160	carbamazepine
+T17	Treat-Disorder 165 175	aggression
+T18	Treat-Disorder 180 187	seizure
+T13	Potential_therapeutic_event 132 141	treatment
+E1	Potential_therapeutic_event:T13 

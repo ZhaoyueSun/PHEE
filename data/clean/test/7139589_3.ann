@@ -1,0 +1,5 @@
+T3	Treatment 0 14	L-asparaginase
+T5	Effect 23 35	pancreatitis
+T6	Drug 0 14	L-asparaginase
+T4	Adverse_event 15 22	induced
+E1	Adverse_event:T4

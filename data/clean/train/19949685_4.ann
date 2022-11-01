@@ -1,0 +1,10 @@
+T5	Subject 149 164	a 34-yr-old man
+T6	Effect 25 49	colonic mucosal necrosis
+T7	Treatment 60 145	Kalimate (calcium polystryrene sulfonate), an analogue of Kayexalate without sorbitol
+T9	Age 151 160	34-yr-old
+T10	Gender 161 164	man
+T11	Drug 60 68	Kalimate
+T12	Drug 69 101	(calcium polystryrene sulfonate)
+T13	Drug 118 128	Kayexalate
+T8	Adverse_event 50 59	following
+E1	Adverse_event:T8

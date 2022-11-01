@@ -1,0 +1,9 @@
+T4	Effect 0 21	Cystoid macular edema
+T5	Subject 27 43	low-risk patient
+T6	Treatment 50 91	switching from latanoprost to bimatoprost
+T8	Drug 80 91	bimatoprost
+T9	Drug 65 76	latanoprost
+T7	Adverse_event 22 24	in
+T10	Combination 50 59	switching
+E1	Adverse_event:T7 
+E2	Combination:T10 arg:T9 arg2:T8

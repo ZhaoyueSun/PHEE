@@ -1,0 +1,9 @@
+T3	Subject 0 13	An adult male
+T4	Effect 29 46	central blindness
+T6	Treatment 53 71	ingesting methanol
+T7	Age 3 8	adult
+T8	Gender 9 13	male
+T9	Route 53 62	ingesting
+T10	Drug 63 71	methanol
+T5	Adverse_event 14 23	presented
+E1	Adverse_event:T5

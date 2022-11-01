@@ -1,0 +1,8 @@
+T3	Subject 0 12	Two patients
+T4	Treatment 26 36	alprazolam
+T7	Effect 98 131	lithium-responsive manic episodes
+T8	Population 0 3	Two
+T9	Drug 26 36	alprazolam
+T10	Sub-Disorder 65 83	a bipolar disorder
+T6	Adverse_event 88 97	developed
+E1	Adverse_event:T6 

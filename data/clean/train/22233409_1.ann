@@ -1,0 +1,7 @@
+T6	Effect 7 14	anaemia
+T10	Severity_cue 0 6	Severe
+T11	Drug 26 37	oseltamivir
+T8	Treatment 26 77	oseltamivir during treatment of chronic hepatitis C
+T9	Treat-Disorder 58 77	chronic hepatitis C
+T7	Adverse_event 15 22	related
+E1	Adverse_event:T7

@@ -1,0 +1,8 @@
+T3	Subject 11 61	two cases in which both patients suffered with CLS
+T7	Effect 58 61	CLS
+T9	Speculation_cue 72 79	believe
+T6	Treatment 119 156	granulocyte colony-stimulating factor
+T10	Drug 119 155	granulocyte colony-stimulating facto
+T4	Population 11 14	two
+T5	Adverse_event 101 115	administration
+E1	Adverse_event:T5 

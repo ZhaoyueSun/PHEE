@@ -1,0 +1,9 @@
+T3	Treatment 57 96	therapeutic doses of colchicine for FMF
+T5	Subject 3 14;146 188	our patient his renal and hepatic function were normal
+T6	Effect 124 132	myopathy
+T9	Gender 146 149	his
+T10	Drug 78 88	colchicine
+T11	Treat-Disorder 93 96	FMF
+T7	Adverse_event 115 120	cause
+E1	Adverse_event:T7 
+T1	Dosage 57 74	therapeutic doses

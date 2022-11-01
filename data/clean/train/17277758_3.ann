@@ -1,0 +1,12 @@
+T5	Subject 9 21	Two patients
+T7	Treatment 104 141;212 224	intravitreal injection of bevacizumab 2 days later
+T9	Effect 185 211	infectious endophthalmitis
+T10	Population 9 12	Two
+T11	Treat-Disorder 27 69	exudative age-related macular degeneration
+T6	Route 104 126	intravitreal injection
+T12	Drug 130 141	bevacizumab
+T13	Time_elapsed 212 225	2 days later.
+T14	Severity_cue 165 171	severe
+T8	Adverse_event 146 155	developed
+E1	Adverse_event:T8 
+A1	Severity E1 High

@@ -1,0 +1,8 @@
+T4	Subject 0 9	A patient
+T5	Treatment 54 99	many years of overusing an adrenaline inhaler
+T6	Effect 25 47	dilated cardiomyopathy
+T7	Dosage 68 77	overusing
+T8	Drug 81 91	adrenaline
+T9	Route 92 99	inhaler
+T3	Adverse_event 48 53	after
+E1	Adverse_event:T3

@@ -1,0 +1,7 @@
+T5	Treatment 9 22	retinoic acid
+T6	Speculation_cue 90 101	potentially
+T7	Effect 102 120	fatal complication
+T9	Severity_cue 102 107	fatal
+T10	Drug 9 22	retinoic acid
+T8	Adverse_event 108 120	complication
+E1	Adverse_event:T8

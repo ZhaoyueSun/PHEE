@@ -1,0 +1,7 @@
+T3	Subject 0 36	Patients with vitamin B12 deficiency
+T4	Effect 66 90	neurologic deterioration
+T6	Treatment 101 125	nitrous oxide anesthesia
+T7	Sub-Disorder 14 36	vitamin B12 deficiency
+T8	Drug 101 114	nitrous oxide
+T5	Adverse_event 91 100	following
+E1	Adverse_event:T5 

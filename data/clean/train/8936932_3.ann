@@ -1,0 +1,5 @@
+T4	Treatment 21 28	esmolol
+T5	Effect 0 14	Cardiac arrest
+T6	Drug 21 28	esmolol
+T3	Adverse_event 15 20	after
+E1	Adverse_event:T3

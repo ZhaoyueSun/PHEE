@@ -1,0 +1,7 @@
+T3	Effect 56 94	infectious mononucleosis-like syndrome
+T5	Treatment 106 125	salazosulfapyridine
+T6	Drug 106 125	salazosulfapyridine
+T7	Speculation_cue 31 39	possible
+T4	Adverse_event 95 105	induced by
+E1	Adverse_event:T4 
+A1	Speculated E1

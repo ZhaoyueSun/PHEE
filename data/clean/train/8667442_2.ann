@@ -1,0 +1,10 @@
+T5	Treat-Disorder 37 55	hypoparathyroidism
+T6	Treatment 77 109	calcium carbonate and calcitriol
+T8	Effect 123 178	two admissions to the hospital for milk-alkali syndrome
+T4	Subject 22 55	a patient with hypoparathyroidism
+T9	Drug 77 94	calcium carbonate
+T10	Drug 99 109	calcitriol
+T7	Adverse_event 110 119	resulting
+T11	Combination 95 98	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

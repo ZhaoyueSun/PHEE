@@ -1,0 +1,5 @@
+T3	Effect 22 48	unusual paradoxical effect
+T5	Treatment 52 63	brimonidine
+T6	Drug 52 63	brimonidine
+T4	Adverse_event 49 51	of
+E1	Adverse_event:T4 

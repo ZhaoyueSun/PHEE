@@ -1,0 +1,8 @@
+T6	Treatment 80 125	intraventricular administration of vancomycin
+T8	Population 10 13	two
+T9	Effect 23 62	cerebrospinal fluid eosinophilia (CSFE)
+T10	Route 80 96	intraventricular
+T11	Drug 115 125	vancomycin
+T5	Adverse_event 63 72	secondary
+E1	Adverse_event:T5 
+T1	Subject 10 19	two cases

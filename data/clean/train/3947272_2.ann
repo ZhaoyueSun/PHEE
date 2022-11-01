@@ -1,0 +1,7 @@
+T3	Treatment 0 10	Ampicillin
+T5	Effect 51 68	myasthenia gravis
+T6	Drug 0 10	Ampicillin
+T7	Speculation_cue 11 14	may
+T4	Adverse_event 15 24	aggravate
+E1	Adverse_event:T4 
+A1	Speculated E1

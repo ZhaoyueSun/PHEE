@@ -1,0 +1,6 @@
+T3	Negation_cue 131 133	no
+T4	Treatment 145 155	lamivudine
+T6	Effect 164 167	ADR
+T7	Drug 145 155	lamivudine
+T5	Adverse_event 156 163	induced
+E1	Adverse_event:T5

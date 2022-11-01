@@ -1,0 +1,7 @@
+T5	Effect 27 43	provide sedation
+T7	Treatment 0 15	dexmedetomidine
+T8	Subject 48 117	pediatric patients undergoing nonpainful radiological imaging studies
+T9	Age 48 57	pediatric
+T10	Drug 0 15	dexmedetomidine
+T6	Potential_therapeutic_event 19 26	used to
+E1	Potential_therapeutic_event:T6 

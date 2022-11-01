@@ -1,0 +1,15 @@
+T4	Treatment 94 104	amiodarone
+T5	Effect 113 124	thyroiditis
+T6	Drug 94 104	amiodarone
+T9	Negation_cue 0 7	Failure
+T10	Treatment 11 58	plasmapheresis, corticosteroids and thionamides
+T11	Drug 27 42	corticosteroids
+T12	Drug 47 58	thionamides
+T13	Treat-Disorder 94 124	amiodarone-induced thyroiditis
+T3	Adverse_event 105 112	induced
+T8	Potential_therapeutic_event 62 72	ameliorate
+E1	Adverse_event:T3 arg:T4 arg2:T5
+E2	Potential_therapeutic_event:T8 arg:T10
+R1	has_cue Arg1:E2 Arg2:T9	
+R2	has Arg1:T10 Arg2:T13	
+A1	Negated E2

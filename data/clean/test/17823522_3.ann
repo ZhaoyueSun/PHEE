@@ -1,0 +1,11 @@
+T8	Effect 28 86	a generalized lichen nitidus with involvement of the palms
+T9	Subject 90 116	a patient with hepatitis C
+T11	Treatment 123 177	systemic treatment with interferon alpha and ribavirin
+T13	Treat-Disorder 105 116	hepatitis C
+T15	Drug 147 163	interferon alpha
+T16	Drug 168 177	ribavirin
+T17	Route 123 131	systemic
+T10	Adverse_event 117 122	after
+T14	Combination 164 167	and
+E1	Adverse_event:T10 
+E2	Combination:T14 arg:T16 arg2:T15

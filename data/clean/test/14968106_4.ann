@@ -1,0 +1,9 @@
+T4	Treatment 92 134	intrathecal administration of doxorubicin.
+T5	Effect 68 84	toxic myelopathy
+T6	Subject 29 48	a 31-year-old woman
+T7	Age 31 42	31-year-old
+T8	Gender 43 48	woman
+T9	Drug 122 133	doxorubicin
+T10	Route 92 103	intrathecal
+T3	Adverse_event 85 88	due
+E1	Adverse_event:T3

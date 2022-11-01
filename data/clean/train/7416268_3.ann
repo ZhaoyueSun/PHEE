@@ -1,0 +1,6 @@
+T7	Treatment 57 67	disulfiram
+T9	Effect 106 196	a wide spectrum of side effects and untoward medical sequelae, which now include catatonia
+T11	Drug 57 67	disulfiram
+T14	Treat-Disorder 37 55	chronic alcoholism
+T8	Adverse_event 90 100	associated
+E1	Adverse_event:T8

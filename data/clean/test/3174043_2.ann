@@ -1,0 +1,5 @@
+T3	Treatment 0 6	Niacin
+T4	Effect 7 18	maculopathy
+T6	Drug 0 6	Niacin
+T5	Adverse_event 7 18	maculopathy
+E1	Adverse_event:T5

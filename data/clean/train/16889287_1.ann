@@ -1,0 +1,7 @@
+T3	Treatment 81 88	dapsone
+T4	Effect 89 114	hypersensitivity syndrome
+T5	Effect 13 43	a severe adverse drug reaction
+T7	Speculation_cue 3 6	may
+T8	Drug 81 88	dapsone
+T6	Adverse_event 7 12	cause
+E1	Adverse_event:T6

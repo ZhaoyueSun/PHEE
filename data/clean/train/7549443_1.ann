@@ -1,0 +1,16 @@
+T5	Effect 86 92	myopia
+T6	Treatment 49 61	sulphonamide
+T8	Drug 109 122	metronidazole
+T9	Treat-Disorder 137 158	trichomonas vaginalis
+T10	Treat-Disorder 15 29	acute cystitis
+T11	Drug 49 61	sulphonamide
+T14	Treatment 109 132	metronidazole treatment
+T15	Subject 66 75	the third
+T4	Adverse_event 76 85	developed
+T13	Potential_therapeutic_event 38 45	treated
+E1	Adverse_event:T4 arg:T5 arg2:T14 arg3:T15
+E2	Potential_therapeutic_event:T13 arg:T6
+R1	has Arg1:T6 Arg2:T10	
+R2	has Arg1:T6 Arg2:T11	
+R4	has Arg1:T14 Arg2:T8	
+R5	has Arg1:T14 Arg2:T9

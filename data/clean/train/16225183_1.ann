@@ -1,0 +1,7 @@
+T7	Effect 0 18	Nephrotic syndrome
+T9	Subject 22 50	a multiple sclerosis patient
+T10	Treatment 64 82	interferon beta 1a
+T12	Drug 64 82	interferon beta 1a
+T13	Treat-Disorder 24 42	multiple sclerosis
+T11	Adverse_event 51 58	treated
+E1	Adverse_event:T11

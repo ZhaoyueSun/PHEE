@@ -1,0 +1,7 @@
+T3	Effect 0 34	Severe autoimmune hemolytic anemia
+T5	Treatment 45 62	rituximab therapy
+T6	Subject 66 111	a patient with a lymphoproliferative disorder
+T8	Drug 45 54	rituximab
+T9	Treat-Disorder 83 111	lymphoproliferative disorder
+T4	Adverse_event 35 44	following
+E1	Adverse_event:T4

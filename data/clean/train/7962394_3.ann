@@ -1,0 +1,6 @@
+T3	Effect 0 40	Hypo-oestrogenic and anabolic/androgenic
+T4	Treatment 57 64	danazol
+T6	Drug 57 64	danazol
+T8	Treat-Disorder 169 182	endometriosis
+T5	Adverse_event 41 53	side-effects
+E1	Adverse_event:T5

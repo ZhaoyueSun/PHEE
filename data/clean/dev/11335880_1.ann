@@ -1,0 +1,8 @@
+T4	Effect 46 88	clinical appearance of Hashimoto's disease
+T5	Treatment 95 104	IFN-alpha
+T8	Treat-Disorder 117 136	chronic C hepatitis
+T9	Drug 95 104	IFN-alpha
+T6	Adverse_event 89 94	after
+E1	Adverse_event:T6 
+T1	Subject 140 151	our patient
+T2	Sub-Disorder 172 230	a specific genetic predisposition (DR5) for this pathology

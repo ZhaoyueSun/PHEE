@@ -1,0 +1,7 @@
+T3	Treatment 35 54	perhexiline maleate
+T4	Effect 55 67	liver injury
+T6	Drug 35 54	perhexiline maleate
+T7	Severity_cue 29 34	fatal
+T5	Adverse_event 19 28	a case of
+E1	Adverse_event:T5 
+A1	Severity E1 High

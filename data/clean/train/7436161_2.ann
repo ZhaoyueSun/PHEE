@@ -1,0 +1,9 @@
+T9	Subject 0 44	Seven patients with hematologic malignancies
+T10	Treatment 67 77	miconazole
+T13	Effect 137 213	eight episodes of major adverse cardiorespiratory and anaphylactic reactions
+T14	Population 0 5	Seven
+T15	Sub-Disorder 20 44	hematologic malignancies
+T17	Drug 67 77	miconazole
+T18	Treat-Disorder 109 126	fungal infections
+T12	Adverse_event 127 136	developed
+E1	Adverse_event:T12 

@@ -1,0 +1,8 @@
+T6	Treatment 0 23;105 135	Triamcinolone acetonide coadministration of nefazodone
+T8	Effect 32 63	secondary adrenal insufficiency
+T9	Drug 0 23	Triamcinolone acetonide
+T10	Drug 125 135	nefazodone
+T7	Adverse_event 24 31	induced
+T11	Combination 105 121	coadministration
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T10 arg2:T9

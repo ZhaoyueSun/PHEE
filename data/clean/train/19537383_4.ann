@@ -1,0 +1,5 @@
+T5	Treatment 143 160	sorafenib therapy
+T6	Effect 32 126	an atypical localized cutaneous eruption with an unusual course and protracted resolution time
+T7	Drug 143 152	sorafenib
+T4	Adverse_event 127 142	associated with
+E1	Adverse_event:T4

@@ -1,0 +1,9 @@
+T20	Effect 98 197	behaving oddly, started sweating profusely, shivering, and became tremulous, agitated, and confused
+T21	Treatment 4 87	day after clozapine was stopped, while he was still receiving clomipramine 150 mg/d
+T22	Subject 89 91	he
+T23	Gender 89 91	he
+T24	Drug 14 23	clozapine
+T25	Drug 66 78	clomipramine
+T26	Dosage 79 87	150 mg/d
+T19	Adverse_event 28 35	stopped
+E1	Adverse_event:T19 

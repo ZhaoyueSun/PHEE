@@ -1,0 +1,7 @@
+T4	Treatment 44 109	a few minutes after injection of the morphine antagonist naloxone
+T5	Effect 2 34	generalized tonic-clonic seizure
+T6	Time_elapsed 44 57	a few minutes
+T7	Route 64 73	injection
+T8	Drug 101 109	naloxone
+T3	Adverse_event 35 43	occurred
+E1	Adverse_event:T3

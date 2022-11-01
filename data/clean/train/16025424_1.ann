@@ -1,0 +1,7 @@
+T3	Treatment 15 25	quetiapine
+T5	Effect 34 55	diabetic ketoacidosis
+T6	Subject 59 77	an elderly patient
+T7	Age 62 69	elderly
+T8	Drug 15 25	quetiapine
+T4	Adverse_event 26 33	induced
+E1	Adverse_event:T4

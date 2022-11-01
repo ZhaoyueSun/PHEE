@@ -1,0 +1,9 @@
+T3	Subject 10 27	a myeloma patient
+T4	Effect 49 64;98 251	paralytic ileus presented in the context of progressive constipation without other known causes and which regressed promptly with medical management after drug cessation
+T5	Treatment 72 90	bortezomib therapy
+T7	Treat-Disorder 12 19	myeloma
+T8	Drug 72 82	bortezomib
+T9	Severity_cue 42 48	severe
+T6	Adverse_event 32 41	developed
+E1	Adverse_event:T6 
+A1	Severity E1 High

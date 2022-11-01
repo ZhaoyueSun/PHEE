@@ -1,0 +1,5 @@
+T3	Effect 0 30	Indolent aspergillus arthritis
+T5	Treatment 44 55	fludarabine
+T4	Adverse_event 31 43	complicating
+E1	Adverse_event:T4 
+T1	Drug 44 55	fludarabine

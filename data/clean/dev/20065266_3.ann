@@ -1,0 +1,11 @@
+T20	Effect 133 234;244 262	headaches, dizziness, difficulty with speech, weakness, and itching on the trunk of his body and legs maculopapular rash
+T21	Treatment 19 77	trimethoprim-sulfamethoxazole for approximately eight days
+T22	Subject 0 2	He
+T23	Gender 0 2	He
+T24	Drug 19 31	trimethoprim
+T25	Drug 32 48	sulfamethoxazole
+T26	Duration 67 77	eight days
+T19	Adverse_event 12 18	taking
+T27	Combination 31 32	-
+E1	Adverse_event:T19 
+E2	Combination:T27 arg:T24 arg2:T25

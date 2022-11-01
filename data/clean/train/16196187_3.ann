@@ -1,0 +1,12 @@
+T6	Subject 90 150	a young boy with combined variable immunodeficiency syndrome
+T8	Treatment 21 38;193 311	acute epinephrine intravenous immunoglobulin, and was subsequently given epinephrine by mistake intravenously rather than subcutaneously
+T9	Effect 61 86;165 189	acute myocardial ischemia severe allergic reaction
+T10	Age 92 97	young
+T11	Gender 98 101	boy
+T13	Drug 27 38	epinephrine
+T15	Treat-Disorder 107 150	combined variable immunodeficiency syndrome
+T16	Route 271 284	intravenously
+T18	Route 193 204	intravenous
+T19	Drug 205 219	immunoglobulin
+T7	Adverse_event 39 47	toxicity
+E1	Adverse_event:T7

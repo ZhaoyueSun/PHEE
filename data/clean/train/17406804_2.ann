@@ -1,0 +1,7 @@
+T7	Treatment 13 63	received gemcitabine on day 1 of the second course
+T8	Subject 65 76	the patient
+T10	Effect 87 145	dry cough, subfebrile temperatures and dyspnea within 48 h
+T11	Drug 22 33	gemcitabine
+T13	Time_elapsed 134 145	within 48 h
+T9	Adverse_event 77 86	developed
+E1	Adverse_event:T9

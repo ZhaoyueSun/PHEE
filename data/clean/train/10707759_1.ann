@@ -1,0 +1,7 @@
+T5	Subject 68 103	a patient with the LEOPARD syndrome
+T6	Treatment 0 10	Flecainide
+T8	Effect 22 64	pneumonitis with acute respiratory failure
+T10	Drug 0 10	Flecainide
+T11	Treat-Disorder 87 104	LEOPARD syndrome.
+T7	Adverse_event 11 21	associated
+E1	Adverse_event:T7

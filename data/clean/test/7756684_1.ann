@@ -1,0 +1,5 @@
+T5	Effect 41 50	pulmonary
+T6	Drug 30 37	KW-2149
+T4	Treatment 30 37	KW-2149
+T3	Adverse_event 51 59	toxicity
+E1	Adverse_event:T3

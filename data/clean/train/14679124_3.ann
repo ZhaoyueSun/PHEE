@@ -1,0 +1,11 @@
+T8	Treatment 74 145	the concomitant or the sequential addition of tamoxifen to chemotherapy
+T10	Subject 227 250	postmenopausal patients
+T12	Sub-Disorder 227 241	postmenopausal
+T13	Drug 120 129	tamoxifen
+T14	Route 133 145	chemotherapy
+T15	Treat-Disorder 210 223	breast cancer
+T9	Potential_therapeutic_event 146 154	provides
+E1	Potential_therapeutic_event:T9 
+T1	Effect 155 206	improved clinical benefit in the adjuvant treatment
+A1	Speculated E1
+T2	Speculation_cue 59 65	assess

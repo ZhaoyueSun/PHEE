@@ -1,0 +1,8 @@
+T4	Subject 0 13	Four patients
+T3	Effect 70 95	hypersensitivity syndrome
+T5	Treatment 45 69;96 129	antiepileptic drug (AED) during therapy with carbamazepine
+T7	Population 0 4	Four
+T8	Drug 45 69	antiepileptic drug (AED)
+T9	Drug 116 129	carbamazepine
+T6	Adverse_event 29 40	symptoms of
+E1	Adverse_event:T6

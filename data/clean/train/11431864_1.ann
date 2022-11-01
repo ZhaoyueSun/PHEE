@@ -1,0 +1,8 @@
+T4	Treat-Disorder 172 190	psychotic reaction
+T5	Treatment 0 166;203 220	After the dose of methylprednisolone was reduced from 40 mg to 20 mg i.v. q6h and shifted to other anti-asthma treatment by procaterol metered dose inhaler via spacer a few hours later
+T6	Time_elapsed 203 214	a few hours
+T7	Drug 18 36	methylprednisolone
+T8	Dosage 41 77	reduced from 40 mg to 20 mg i.v. q6h
+T9	Route 160 166	spacer
+T3	Potential_therapeutic_event 191 202	disappeared
+E1	Potential_therapeutic_event:T3

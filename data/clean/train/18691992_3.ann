@@ -1,0 +1,6 @@
+T5	Effect 9 64	longitudinal melanonychia and the multiple skin cancers
+T7	Treatment 86 133	approximately 6 months of hydroxyurea treatment
+T8	Duration 100 108	6 months
+T9	Drug 112 123	hydroxyurea
+T6	Adverse_event 71 79	appeared
+E1	Adverse_event:T6

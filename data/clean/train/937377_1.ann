@@ -1,0 +1,8 @@
+T3	Effect 9 84;167 187	reserpine toxicity, in particular central nervous system (CNS) disturbances additive CNS effects
+T5	Treatment 9 18;127 155	reserpine also receiving barbiturates,
+T6	Drug 142 154	barbiturates
+T7	Drug 9 18	reserpine
+T4	Adverse_event 90 98	reported
+T8	Combination 127 131	also
+E1	Adverse_event:T4 
+E2	Combination:T8 arg:T6 arg2:T7

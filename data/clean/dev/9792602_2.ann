@@ -1,0 +1,5 @@
+T3	Effect 0 28	Tubulointerstitial nephritis
+T5	Treatment 76 86	pranlukast
+T6	Drug 76 86	pranlukast
+T4	Adverse_event 29 36	induced
+E1	Adverse_event:T4

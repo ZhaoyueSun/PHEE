@@ -1,0 +1,5 @@
+T4	Treatment 17 28	propafenone
+T5	Effect 0 6	Ataxia
+T6	Drug 17 28	propafenone
+T3	Adverse_event 7 13	caused
+E1	Adverse_event:T3

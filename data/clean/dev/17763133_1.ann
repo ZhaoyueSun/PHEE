@@ -1,0 +1,6 @@
+T5	Treatment 0 60	Cyclosporine is a potent inhibitor of simvastatin metabolism
+T7	Drug 0 12	Cyclosporine
+T6	Speculation_cue 66 69	may
+T4	Adverse_event 80 90	facilitate
+E1	Adverse_event:T4 
+A1	Speculated E1

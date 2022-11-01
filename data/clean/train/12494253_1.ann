@@ -1,0 +1,7 @@
+T3	Subject 41 44	she
+T5	Effect 55 73	severe anaphylaxis
+T6	Treatment 77 86	cisplatin
+T7	Gender 41 44	she
+T8	Drug 77 86	cisplatin
+T4	Adverse_event 45 54	developed
+E1	Adverse_event:T4 

@@ -1,0 +1,7 @@
+T3	Treatment 135 144	rifabutin
+T5	Effect 70 98	corneal endothelial deposits
+T6	Drug 135 144	rifabutin
+T7	Speculation_cue 106 109	may
+T4	Adverse_event 113 120	related
+E1	Adverse_event:T4 
+A1	Speculated E1

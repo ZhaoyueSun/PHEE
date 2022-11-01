@@ -1,0 +1,5 @@
+T3	Treatment 0 10	Zidovudine
+T5	Effect 73 86	birth defects
+T6	Drug 0 10	Zidovudine
+T4	Adverse_event 59 69	occurrence
+E1	Adverse_event:T4

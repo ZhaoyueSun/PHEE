@@ -1,0 +1,5 @@
+T3	Treatment 0 8	Propecia
+T5	Effect 20 38	bilateral cataract
+T6	Drug 0 8	Propecia
+T4	Adverse_event 9 19	associated
+E1	Adverse_event:T4

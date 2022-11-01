@@ -1,0 +1,5 @@
+T5	Treatment 0 64	Pregabalin is an antiepileptic drug with anti-anxiety properties
+T8	Drug 0 10	Pregabalin
+T7	Treat-Disorder 98 126	generalized anxiety disorder
+T6	Potential_therapeutic_event 85 94	treatment
+E1	Potential_therapeutic_event:T6

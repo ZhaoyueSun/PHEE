@@ -1,0 +1,10 @@
+T4	Treatment 97 114	quinapril therapy
+T5	Subject 14 33	A 68-year-old woman
+T6	Effect 44 67	a dry, irritating cough
+T7	Age 16 27	68-year-old
+T8	Gender 28 33	woman
+T9	Time_elapsed 68 84	within one month
+T10	Drug 97 106	quinapril
+T12	Treat-Disorder 136 158	essential hypertension
+T3	Adverse_event 88 96	starting
+E1	Adverse_event:T3

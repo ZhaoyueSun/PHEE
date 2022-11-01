@@ -1,0 +1,8 @@
+T9	Treatment 5 17	pilsicainide
+T11	Sub-Disorder 49 72	coronary artery disease
+T12	Effect 133 161	life-threatening arrhythmias
+T10	Subject 35 94	patients with coronary artery disease or renal dysfunction,
+T14	Drug 5 17	pilsicainide
+T13	Adverse_event 162 165	due
+E1	Adverse_event:T13 
+T1	Sub-Disorder 76 93	renal dysfunction

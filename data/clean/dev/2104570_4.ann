@@ -1,0 +1,8 @@
+T5	Treatment 0 25	Intravesical chemotherapy
+T7	Effect 59 79	secondary malignancy
+T8	Route 0 12	Intravesical
+T9	Drug 13 25	chemotherapy
+T10	Speculation_cue 26 32	may be
+T6	Adverse_event 33 43	associated
+E1	Adverse_event:T6 
+A1	Speculated E1

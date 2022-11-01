@@ -1,0 +1,8 @@
+T6	Effect 60 136	signs of inability to sit still for ten seconds and walked around constantly
+T8	Subject 50 52	he
+T9	Gender 50 52	he
+T7	Treatment 0 48	Eight days after the end of interferon treatment
+T10	Time_elapsed 0 10	Eight days
+T11	Drug 28 38	interferon
+T5	Adverse_event 69 78	inability
+E1	Adverse_event:T5

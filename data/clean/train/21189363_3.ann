@@ -1,0 +1,12 @@
+T7	Subject 0 44	A 53-year-old African American male with HIV
+T9	Treatment 60 91	warfarin 5 mg/day for 12 months
+T11	Age 2 13	53-year-old
+T12	Race 14 30	African American
+T13	Gender 31 35	male
+T14	Sub-Disorder 41 44	HIV
+T15	Drug 60 68	warfarin
+T16	Dosage 69 77	5 mg/day
+T18	Duration 82 91	12 months
+T19	Treat-Disorder 111 173	idiopathic deep vein thrombosis and bilateral pulmonary emboli
+T8	Potential_therapeutic_event 49 59	prescribed
+E1	Potential_therapeutic_event:T8 

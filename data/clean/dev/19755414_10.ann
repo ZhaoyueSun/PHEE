@@ -1,0 +1,6 @@
+T8	Subject 28 90	patients receiving multiple doses of oxycodone for pain relief
+T9	Treatment 11 24	telithromycin
+T11	Effect 116 138	opioid adverse effects
+T12	Drug 11 24	telithromycin
+T10	Adverse_event 95 112	increase the risk
+E1	Adverse_event:T10

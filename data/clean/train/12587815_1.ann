@@ -1,0 +1,11 @@
+T13	Subject 0 17	A 16-year-old boy
+T14	Treatment 162 184	olanzapine and lithium
+T15	Effect 28 130	fever, generalized rigidity, leukocytosis, and increased serum transaminase and creatine kinase levels
+T17	Age 2 13	16-year-old
+T18	Gender 14 17	boy
+T19	Drug 162 172	olanzapine
+T21	Drug 177 184	lithium
+T16	Adverse_event 131 136	while
+T20	Combination 173 176	and
+E1	Adverse_event:T16 
+E2	Combination:T20 arg:T19 arg2:T21

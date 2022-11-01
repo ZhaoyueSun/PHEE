@@ -1,0 +1,7 @@
+T10	Effect 118 148	3-week sulphasalazine syndrome
+T13	Treatment 203 217	sulphasalazine
+T15	Severity_cue 169 174	fatal
+T16	Drug 203 217	sulphasalazine
+T14	Adverse_event 176 199	immunoallergic reaction
+E1	Adverse_event:T14 
+A1	Severity E1 High

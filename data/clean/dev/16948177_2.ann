@@ -1,0 +1,5 @@
+T3	Treatment 70 87	rituximab therapy
+T4	Effect 55 59	BOOP
+T6	Drug 70 79	rituximab
+T5	Adverse_event 60 69	following
+E1	Adverse_event:T5

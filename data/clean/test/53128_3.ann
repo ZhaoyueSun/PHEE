@@ -1,0 +1,8 @@
+T6	Effect 19 52	tracheal compression with stridor
+T7	Treatment 77 84	aspirin
+T10	Drug 77 84	aspirin
+T11	Treat-Disorder 103 112	neck pain
+T12	Subject 59 61	he
+T13	Gender 59 61	he
+T9	Adverse_event 5 15	progressed
+E1	Adverse_event:T9

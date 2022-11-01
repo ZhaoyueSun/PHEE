@@ -1,0 +1,5 @@
+T4	Effect 21 45	bilateral optic neuritis
+T5	Treatment 84 139	recombinant and natural interferon alpha administration
+T6	Drug 84 124	recombinant and natural interferon alpha
+T3	Adverse_event 51 59	occurred
+E1	Adverse_event:T3

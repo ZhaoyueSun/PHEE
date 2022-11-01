@@ -1,0 +1,9 @@
+T5	Effect 0 24	Symptomatic hypoglycemia
+T7	Treatment 40 96	glipizide-trimethoprim/sulfamethoxazole drug interaction
+T8	Drug 40 49	glipizide
+T9	Drug 50 62	trimethoprim
+T10	Drug 63 79	sulfamethoxazole
+T6	Adverse_event 25 37	secondary to
+T11	Combination 85 96	interaction
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T8 arg2:T9 arg3:T10

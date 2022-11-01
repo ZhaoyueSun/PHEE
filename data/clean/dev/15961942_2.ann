@@ -1,0 +1,8 @@
+T6	Treatment 99 114	alfa-interferon
+T3	Subject 142 158	an Asian patient
+T4	Effect 21 78	the late development of immune-mediated diabetes mellitus
+T8	Race 145 150	Asian
+T9	Drug 99 114	alfa-interferon
+T10	Treat-Disorder 127 138	hepatitis C
+T5	Adverse_event 79 84	after
+E1	Adverse_event:T5

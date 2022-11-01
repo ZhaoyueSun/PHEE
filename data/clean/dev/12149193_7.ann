@@ -1,0 +1,7 @@
+T7	Effect 52 81	an increased incidence of DVT
+T8	Treatment 17 39	DT-PACE but not DCEP-T
+T9	Drug 17 24	DT-PACE
+T11	Drug 33 39	DCEP-T
+T12	Subject 5 13	patients
+T6	Adverse_event 40 51	experienced
+E1	Adverse_event:T6

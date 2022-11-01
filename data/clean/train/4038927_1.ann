@@ -1,0 +1,14 @@
+T6	Treatment 35 44	diltiazem
+T7	Effect 0 19	Atrial fibrillation
+T8	Subject 48 60	two patients
+T9	Population 48 51	two
+T11	Drug 35 44	diltiazem
+T12	Subject 94 105	one patient
+T13	Population 94 97	one
+T15	Treatment 65 74	verapamil
+T16	Drug 65 74	verapamil
+T17	Effect 83 90	syncope
+T5	Adverse_event 24 31	induced
+T14	Adverse_event 75 82	induced
+E1	Adverse_event:T5 arg:T6 arg2:T8 arg3:T7
+E2	Adverse_event:T14 arg:T15 arg2:T17 arg3:T12

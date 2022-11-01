@@ -1,0 +1,6 @@
+T6	Treatment 131 142	lamotrigine
+T5	Effect 40 57;151 164	localized purpura drug reaction
+T3	Drug 131 142	lamotrigine
+T4	Duration 64 73	prolonged
+T7	Adverse_event 143 150	induced
+E2	Adverse_event:T7

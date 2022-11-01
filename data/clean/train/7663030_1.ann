@@ -1,0 +1,5 @@
+T5	Treatment 9 20	propafenone
+T7	Effect 29 53	transient global amnesia
+T8	Drug 9 20	propafenone
+T6	Adverse_event 21 28	induced
+E1	Adverse_event:T6

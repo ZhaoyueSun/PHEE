@@ -1,0 +1,6 @@
+T8	Treatment 0 30	glycopyrrolate (5.0 microg/kg)
+T10	Drug 0 14	glycopyrrolate
+T11	Dosage 16 29	5.0 microg/kg
+T9	Effect 53 78;101 151	resolution of bradycardia an exaggerated increase of arterial blood pressure
+T7	Adverse_event 40 49	resulting
+E1	Adverse_event:T7

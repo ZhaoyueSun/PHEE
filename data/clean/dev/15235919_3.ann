@@ -1,0 +1,9 @@
+T3	Subject 38 56	a 29-year-old male
+T4	Treatment 64 73	clozapine
+T5	Effect 22 34	sudden death
+T7	Age 40 51	29-year-old
+T8	Population 52 56	male
+T9	Drug 64 73	clozapine
+T10	Time_elapsed 90 104	2 weeks before
+T6	Adverse_event 57 63	during
+E1	Adverse_event:T6

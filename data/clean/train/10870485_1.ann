@@ -1,0 +1,11 @@
+T3	Effect 36 93	multiple abscesses occurred in the muscles of both thighs
+T4	Subject 100 111	the patient
+T5	Treatment 0 34;130 162	Three months following splenectomy third course of the CHOP regimen
+T7	Duration 0 12	Three months
+T8	Drug 23 34	splenectomy
+T9	Dosage 130 142	third course
+T10	Drug 150 154	CHOP
+T6	Adverse_event 94 99	while
+T11	Combination 116 125	receiving
+E1	Adverse_event:T6 
+E2	Combination:T11 arg:T10 arg2:T8

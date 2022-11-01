@@ -1,0 +1,10 @@
+T6	Effect 0 21	Peculiar nail-changes
+T9	Treatment 111 124	penicillamine
+T11	Age 27 38	70-year-old
+T12	Gender 39 44	woman
+T7	Subject 25 70	a 70-year-old woman with rheumatoid arthritis
+T8	Treat-Disorder 50 70	rheumatoid arthritis
+T13	Time_elapsed 101 107	1 year
+T14	Drug 111 124	penicillamine
+T10	Adverse_event 81 86	after
+E1	Adverse_event:T10 

@@ -1,0 +1,12 @@
+T10	Treatment 65 78;214 247	niflumic acid in addition, with corticosteroids
+T11	Effect 10 28	skeletal fluorosis
+T12	Subject 145 200	a 35-year-old woman suffering from rheumatoid arthritis
+T13	Age 147 158	35-year-old
+T14	Gender 159 164	woman
+T16	Drug 65 78	niflumic acid
+T17	Drug 232 247	corticosteroids
+T19	Treat-Disorder 180 200	rheumatoid arthritis
+T9	Adverse_event 29 36	induced
+T18	Combination 217 225	addition
+E1	Adverse_event:T9 
+E2	Combination:T18 arg:T17 arg2:T16

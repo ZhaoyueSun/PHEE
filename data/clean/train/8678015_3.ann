@@ -1,0 +1,7 @@
+T7	Treatment 32 43	albendazole
+T8	Subject 45 47	he
+T10	Effect 58 106	worsening diarrhea with abdominal pain and fever
+T11	Gender 45 47	he
+T12	Drug 32 43	albendazole
+T9	Adverse_event 48 57	developed
+E1	Adverse_event:T9

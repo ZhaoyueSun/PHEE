@@ -1,0 +1,10 @@
+T9	Effect 45 103	rhabdomyolysis, renal failure, and possibly hepatotoxicity
+T11	Treatment 129 166	an amiodarone-simvastatin interaction
+T12	Speculation_cue 109 117	probably
+T14	Drug 132 142	amiodarone
+T15	Drug 143 154	simvastatin
+T10	Adverse_event 118 125	related
+T13	Combination 155 166	interaction
+E1	Adverse_event:T10 
+E2	Combination:T13 arg:T14 arg2:T15
+A1	Speculated E1

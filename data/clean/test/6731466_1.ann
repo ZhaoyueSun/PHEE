@@ -1,0 +1,5 @@
+T4	Effect 0 29	Focal renal cortical necrosis
+T6	Treatment 46 55	zomepirac
+T7	Drug 46 55	zomepirac
+T5	Adverse_event 30 40	associated
+E1	Adverse_event:T5

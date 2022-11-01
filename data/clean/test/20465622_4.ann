@@ -1,0 +1,12 @@
+T9	Subject 17 62	an 11-year old male with Budd-Chiari syndrome
+T11	Effect 79 124	profound worsening of chronic aphthous ulcers
+T12	Treatment 131 197	immunosuppressive therapy was changed from tacrolimus to sirolimus
+T13	Age 20 31	11-year old
+T14	Gender 32 36	male
+T15	Sub-Disorder 42 62	Budd-Chiari syndrome
+T16	Severity_cue 79 87	profound
+T17	Drug 174 184	tacrolimus
+T18	Drug 188 197	sirolimus
+T10	Adverse_event 67 78	experienced
+E1	Adverse_event:T10 
+A1	Severity E1 High

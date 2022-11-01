@@ -1,0 +1,7 @@
+T5	Effect 29 158	simultaneous transitional cell carcinoma of the renal pelvis and distal ureter without transitional cell carcinoma of the bladder
+T9	Treatment 175 207	chronic cyclophosphamide therapy
+T8	Drug 183 199	cyclophosphamide
+T10	Treat-Disorder 212 233	nonHodgkin's lymphoma
+T11	Duration 175 182	chronic
+T6	Adverse_event 169 174	after
+E1	Adverse_event:T6

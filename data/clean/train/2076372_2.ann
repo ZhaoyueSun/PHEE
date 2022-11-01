@@ -1,0 +1,5 @@
+T4	Treatment 56 77	withdrawal of quinine
+T5	Effect 4 45	photosensitivity is still present 3 years
+T6	Drug 70 77	quinine
+T3	Adverse_event 46 51	after
+E1	Adverse_event:T3

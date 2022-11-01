@@ -1,0 +1,13 @@
+T5	Subject 34 54	five female patients
+T7	Effect 0 17	Pheripheral edema
+T8	Treatment 91 132	omeprazole, lansoprazole, or pantoprazole
+T9	Population 34 38	five
+T10	Gender 39 45	female
+T11	Drug 91 101	omeprazole
+T12	Drug 103 115	lansoprazole
+T13	Drug 120 132	pantoprazole
+T14	Freq 137 146	7-15 days
+T15	Treat-Disorder 151 171	peptic acid diseases
+T16	Dosage 187 202	standard doses.
+T6	Adverse_event 61 67	taking
+E1	Adverse_event:T6

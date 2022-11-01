@@ -1,0 +1,8 @@
+T4	Effect 0 16	Colonic necrosis
+T5	Treatment 81 135	Kayexalate (sodium polystryrene sulfonate) in sorbitol
+T7	Drug 81 91	Kayexalate
+T8	Drug 127 135	sorbitol
+T6	Adverse_event 49 58	following
+T9	Combination 124 126	in
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T8 arg2:T7

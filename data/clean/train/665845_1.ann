@@ -1,0 +1,8 @@
+T3	Subject 18 35	a 15-year-old boy
+T4	Effect 50 83	incapacitating tardive dyskinesia
+T6	Treatment 120 126	deanol
+T7	Age 20 31	15-year-old
+T8	Gender 32 35	boy
+T9	Drug 120 126	deanol
+T5	Potential_therapeutic_event 89 97	resolved
+E1	Potential_therapeutic_event:T5

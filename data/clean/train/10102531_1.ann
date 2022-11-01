@@ -1,0 +1,7 @@
+T3	Treatment 24 103	BH-AC, a derivative of cytosine arabinoside (1-beta-D-arabinofuranosylcytosine)
+T4	Effect 124 158	reversible encephalopathy syndrome
+T6	Subject 0 9	This case
+T7	Drug 24 29	BH-AC
+T8	Speculation_cue 104 112	could be
+T5	Adverse_event 115 120	cause
+E1	Adverse_event:T5

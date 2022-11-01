@@ -1,0 +1,7 @@
+T6	Subject 0 35	Two patients with adrenal carcinoma
+T8	Treatment 49 138	2,2-bis (2-chlorophenyl-4-chlorophenyl)-1,1-dichloroethane (o,p'-DDD) as adjuvant therapy
+T9	Population 0 3	Two
+T11	Drug 49 107	2,2-bis (2-chlorophenyl-4-chlorophenyl)-1,1-dichloroethane
+T12	Treat-Disorder 18 35	adrenal carcinoma
+T7	Potential_therapeutic_event 36 43	treated
+E1	Potential_therapeutic_event:T7 

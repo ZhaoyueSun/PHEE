@@ -1,0 +1,9 @@
+T8	Treatment 175 190	quinine sulfate
+T9	Treat-Disorder 195 205	leg cramps
+T10	Effect 0 115	Total blindness with a transient tonic pupillary response, denervation supersensitivity, and abnormal visual-evoked
+T11	Subject 140 157	a 54-year-old man
+T12	Age 142 153	54-year-old
+T13	Gender 154 157	man
+T14	Drug 175 190	quinine sulfate
+T7	Adverse_event 158 163	after
+E1	Adverse_event:T7

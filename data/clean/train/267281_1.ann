@@ -1,0 +1,8 @@
+T9	Subject 0 40	A patient with chronic myeloid leukaemia
+T11	Treatment 54 77	busulphan for 4-5 years
+T13	Effect 98 187	busulphan toxicity and portal hypertension with ascites, oesophageal varices and jaundice
+T14	Duration 68 77	4-5 years
+T15	Drug 54 63	busulphan
+T16	Treat-Disorder 15 40	chronic myeloid leukaemia
+T12	Adverse_event 79 88	developed
+E1	Adverse_event:T12 

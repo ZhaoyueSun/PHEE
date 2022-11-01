@@ -1,0 +1,5 @@
+T5	Treatment 12 22	Colchicine
+T7	Effect 53 66	wound healing
+T8	Drug 12 22	Colchicine
+T6	Adverse_event 35 49	adverse effect
+E1	Adverse_event:T6

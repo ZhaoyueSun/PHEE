@@ -1,0 +1,8 @@
+T7	Effect 30 50	cardiovascular event
+T8	Drug 82 92	omeprazole
+T9	Drug 107 114	placebo
+T10	Treatment 72 114	4.9% with omeprazole and 5.7% with placebo
+T11	Subject 11 23	109 patients
+T12	Population 11 14	109
+T13	Adverse_event 24 27	had
+E1	Adverse_event:T13

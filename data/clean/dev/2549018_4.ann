@@ -1,0 +1,5 @@
+T4	Treatment 25 35	fluoxetine
+T6	Effect 44 141	akathisia may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission
+T7	Drug 25 35	fluoxetine
+T5	Adverse_event 36 43	induced
+E1	Adverse_event:T5

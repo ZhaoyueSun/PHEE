@@ -1,0 +1,8 @@
+T3	Effect 34 42	myositis
+T4	Treatment 64 118	within 10 days of receiving leuprolide acetate therapy
+T7	Subject 10 16	a case
+T8	Drug 92 110	leuprolide acetate
+T9	Time_elapsed 71 78	10 days
+T10	Treat-Disorder 123 138	prostate cancer
+T5	Adverse_event 49 63	symptoms began
+E1	Adverse_event:T5

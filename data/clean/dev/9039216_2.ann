@@ -1,0 +1,5 @@
+T13	Effect 0 78	Fever, lymphadenopathy, eosinophilia, lymphocytosis, hepatitis, and dermatitis
+T15	Treatment 109 120	minocycline
+T17	Drug 109 120	minocycline
+T14	Adverse_event 89 105	adverse reaction
+E1	Adverse_event:T14

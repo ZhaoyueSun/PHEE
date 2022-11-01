@@ -1,0 +1,6 @@
+T4	Treatment 0 18	Voriconazole (VRC)
+T6	Effect 61 73	angio-oedema
+T8	Drug 0 12	Voriconazole
+T7	Negation_cue 23 26	not
+T5	Adverse_event 55 60	cause
+E1	Adverse_event:T5

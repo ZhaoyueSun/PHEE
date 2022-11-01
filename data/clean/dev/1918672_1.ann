@@ -1,0 +1,6 @@
+T3	Treatment 14 113	discontinuing piroxicam, a nonsteroidal anti-inflammatory drug, and starting a palliative treatment
+T5	Treat-Disorder 146 152	ulcers
+T6	Subject 134 145	a patient's
+T7	Drug 28 37	piroxicam
+T4	Potential_therapeutic_event 126 133	resolve
+E1	Potential_therapeutic_event:T4

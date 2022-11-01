@@ -1,0 +1,6 @@
+T4	Treatment 102 162	discontinuation of risperidone and continuation of clozapine
+T6	Drug 153 162	clozapine
+T7	Drug 121 132	risperidone
+T8	Treat-Disorder 17 28	hypothermia
+T3	Potential_therapeutic_event 84 92	resolved
+E1	Potential_therapeutic_event:T3

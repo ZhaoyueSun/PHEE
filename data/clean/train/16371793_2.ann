@@ -1,0 +1,6 @@
+T4	Treatment 9 64	The intravitreal application of triamcinolone acetonide
+T7	Route 13 25	intravitreal
+T8	Drug 41 64	triamcinolone acetonide
+T9	Treat-Disorder 114 135	cystoid macular edema
+T5	Potential_therapeutic_event 68 77	treatment
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,6 @@
+T3	Treatment 37 82	FK506 administration in liver transplantation
+T5	Subject 10 23	a case of RTA
+T6	Drug 37 42	FK506
+T7	Effect 20 23	RTA
+T4	Adverse_event 24 33	secondary
+E1	Adverse_event:T4

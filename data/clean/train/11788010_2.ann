@@ -1,0 +1,5 @@
+T5	Effect 0 26	Gallstones and bile sludge
+T7	Treatment 54 72	octreotide therapy
+T8	Drug 54 64	octreotide
+T6	Adverse_event 38 53	side effects of
+E1	Adverse_event:T6

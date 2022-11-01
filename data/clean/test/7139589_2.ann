@@ -1,0 +1,7 @@
+T3	Treatment 60 88	intramuscular L-asparaginase
+T5	Effect 0 34	Delayed pseudocyst of the pancreas
+T6	Speculation_cue 35 38	can
+T7	Drug 74 88	L-asparaginase
+T8	Route 60 73	intramuscular
+T4	Adverse_event 35 38	can
+E1	Adverse_event:T4

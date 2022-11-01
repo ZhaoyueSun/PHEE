@@ -1,0 +1,5 @@
+T3	Treatment 42 52	omeprazole
+T5	Effect 61 64	AIN
+T6	Drug 42 52	omeprazole
+T4	Adverse_event 53 60	induced
+E1	Adverse_event:T4

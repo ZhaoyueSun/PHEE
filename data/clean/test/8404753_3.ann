@@ -1,0 +1,9 @@
+T11	Subject 10 34	3 children with epilepsy
+T12	Effect 49 66	facial motor tics
+T13	Population 10 11	3
+T14	Age 12 20	children
+T9	Treat-Disorder 26 34	epilepsy
+T10	Treatment 87 90	CBZ
+T16	Drug 87 90	CBZ
+T8	Adverse_event 67 72	after
+E1	Adverse_event:T8

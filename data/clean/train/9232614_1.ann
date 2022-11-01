@@ -1,0 +1,5 @@
+T3	Effect 0 15	Acute leukaemia
+T4	Treatment 23 40	tamoxifen therapy
+T6	Drug 23 32	tamoxifen
+T5	Adverse_event 16 22	during
+E1	Adverse_event:T5

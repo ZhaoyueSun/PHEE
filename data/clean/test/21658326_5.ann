@@ -1,0 +1,10 @@
+T8	Treatment 53 73;139 148	TNF-alpha inhibitors imiquimod
+T9	Effect 117 133	exaggerated ASRs
+T11	Negation_cue 9 11	no
+T13	Speculation_cue 88 102	susceptibility
+T14	Drug 53 73	TNF-alpha inhibitors
+T15	Drug 139 148	imiquimod
+T7	Adverse_event 106 116	developing
+T16	Combination 134 138	with
+E1	Adverse_event:T7 
+E2	Combination:T16 arg:T14 arg2:T15

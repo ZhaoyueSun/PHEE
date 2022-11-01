@@ -1,0 +1,7 @@
+T4	Treatment 37 49	moxifloxacin
+T5	Effect 54 98	interfere with the healing of corneal ulcers
+T6	Speculation_cue 50 53	may
+T7	Subject 12 23	These cases
+T8	Drug 37 49	moxifloxacin
+T3	Adverse_event 54 63	interfere
+E1	Adverse_event:T3

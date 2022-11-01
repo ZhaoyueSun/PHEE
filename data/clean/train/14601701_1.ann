@@ -1,0 +1,6 @@
+T5	Effect 18 26	toxicity
+T4	Treatment 0 17	Ocular ethambutol
+T7	Route 0 6	Ocular
+T8	Drug 7 17	ethambutol
+T6	Adverse_event 18 26	toxicity
+E1	Adverse_event:T6

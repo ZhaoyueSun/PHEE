@@ -1,0 +1,8 @@
+T5	Effect 0 25	Theophylline intoxication
+T7	Treatment 36 46	viloxazine
+T8	Drug 36 46	viloxazine
+T9	Drug 0 12	Theophylline
+T6	Adverse_event 26 35	following
+T10	Combination 26 35	following
+E1	Adverse_event:T6 
+E2	Combination:T10 arg:T8 arg2:T9

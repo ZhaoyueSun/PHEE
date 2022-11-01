@@ -1,0 +1,9 @@
+T3	Subject 160 170	3 patients
+T5	Effect 193 216	anaphylactoid reactions
+T6	Treatment 71 113	intraperitoneal cisplatin and hyperthermia
+T8	Population 160 161	3
+T9	Drug 87 96	cisplatin
+T10	Route 71 86	intraperitoneal
+T11	Treat-Disorder 134 158	recurrent ovarian cancer
+T4	Adverse_event 185 192	exhibit
+E1	Adverse_event:T4

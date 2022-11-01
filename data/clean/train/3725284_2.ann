@@ -1,0 +1,12 @@
+T4	Subject 22 75	60-year-old woman affected by squamous lung carcinoma
+T7	Effect 91 130	paroxysmal supraventricular tachycardia
+T8	Treatment 138 173	cisplatin and etoposide combination
+T9	Age 22 33	60-year-old
+T10	Gender 34 39	woman
+T11	Drug 138 147	cisplatin
+T12	Drug 152 161	etoposide
+T14	Treat-Disorder 52 76	squamous lung carcinoma,
+T6	Adverse_event 81 90	developed
+T13	Combination 162 173	combination
+E1	Adverse_event:T6 
+E2	Combination:T13 arg:T12 arg2:T11

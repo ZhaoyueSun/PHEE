@@ -1,0 +1,5 @@
+T5	Treatment 54 65	lamotrigine
+T6	Effect 24 27;39 42	TEN SJS
+T8	Drug 54 65	lamotrigine
+T7	Adverse_event 43 50	related
+E1	Adverse_event:T7

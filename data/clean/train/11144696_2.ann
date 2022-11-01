@@ -1,0 +1,10 @@
+T9	Treatment 64 92	venlafaxine and trimipramine
+T10	Effect 40 47	seizure
+T11	Subject 12 19	patient
+T12	Drug 64 75	venlafaxine
+T13	Drug 80 92	trimipramine
+T15	Treat-Disorder 97 107	depression
+T8	Adverse_event 54 63	receiving
+T14	Combination 76 79	and
+E1	Adverse_event:T8 
+E2	Combination:T14 arg:T12 arg2:T13

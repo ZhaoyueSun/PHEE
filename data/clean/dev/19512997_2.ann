@@ -1,0 +1,9 @@
+T4	Subject 10 59	a case of 48-year-old woman with seizure disorder
+T5	Effect 111 118	dyspnea
+T6	Treatment 63 91	divalproex sodium (Depakote)
+T8	Age 20 31	48-year-old
+T9	Gender 32 37	woman
+T10	Treat-Disorder 43 59	seizure disorder
+T11	Drug 63 80	divalproex sodium
+T7	Adverse_event 96 105	presented
+E1	Adverse_event:T7 

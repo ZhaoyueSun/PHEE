@@ -1,0 +1,6 @@
+T3	Effect 0 27	Embolia cutis medicamentosa
+T5	Treatment 38 82	subcutaneous injection of glatiramer acetate
+T6	Drug 64 82	glatiramer acetate
+T7	Route 38 60	subcutaneous injection
+T4	Adverse_event 28 37	following
+E1	Adverse_event:T4

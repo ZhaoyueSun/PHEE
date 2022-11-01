@@ -1,0 +1,8 @@
+T5	Treatment 83 93	clemastine
+T7	Subject 0 61;70 77	The itch spread to the arms, abdomen and legs and the patient himself
+T6	Effect 102 118	itch disappeared
+T10	Gender 70 77	himself
+T11	Drug 83 93	clemastine
+T12	Treat-Disorder 4 8	itch
+T8	Potential_therapeutic_event 107 118	disappeared
+E1	Potential_therapeutic_event:T8

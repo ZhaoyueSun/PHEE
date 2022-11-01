@@ -1,0 +1,11 @@
+T4	Treat-Disorder 32 75	mitomycin-induced hemolytic-uremic syndrome
+T5	Treatment 0 14	Erythropoietin
+T6	Drug 0 14	Erythropoietin
+T9	Treatment 32 41	mitomycin
+T10	Drug 32 41	mitomycin
+T11	Effect 50 75	hemolytic-uremic syndrome
+T3	Potential_therapeutic_event 18 28	beneficial
+T8	Adverse_event 42 49	induced
+E1	Potential_therapeutic_event:T3 arg:T5
+E2	Adverse_event:T8 arg:T9 arg2:T11
+R1	has Arg1:T5 Arg2:T4

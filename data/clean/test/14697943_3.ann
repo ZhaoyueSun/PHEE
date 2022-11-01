@@ -1,0 +1,8 @@
+T4	Effect 29 33	RSDS
+T3	Subject 15 25;37 65	four cases kidney transplant recipients
+T5	Treatment 79 89	tacrolimus
+T7	Sub-Disorder 37 54	kidney transplant
+T8	Drug 79 89	tacrolimus
+T9	Population 15 19	four
+T6	Adverse_event 66 73	treated
+E1	Adverse_event:T6 

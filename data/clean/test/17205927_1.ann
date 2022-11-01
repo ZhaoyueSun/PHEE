@@ -1,0 +1,7 @@
+T5	Treatment 0 9	Quinapril
+T6	Effect 97 167	prolonged hypotension and, less frequently, transient renal impairment
+T9	Drug 0 9	Quinapril
+T10	Dosage 76 84	overdose
+T8	Adverse_event 85 96	can lead to
+E1	Adverse_event:T8 
+A1	Speculated E1

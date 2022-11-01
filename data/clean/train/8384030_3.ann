@@ -1,0 +1,7 @@
+T5	Treatment 0 9	Foscarnet
+T7	Effect 25 71	hypomagnesemia and other electrolyte disorders
+T8	Drug 0 9	Foscarnet
+T9	Severity_cue 18 24	severe
+T6	Adverse_event 10 17	induced
+E1	Adverse_event:T6 
+A1	Severity E1 High

@@ -1,0 +1,15 @@
+T7	Subject 0 17	A 7-year-old girl
+T9	Effect 28 83	diabetes mellitus and exocrine pancreatic insufficiency
+T12	Age 2 12	7-year-old
+T13	Gender 13 17	girl
+T10	Treatment 90 166	3.5 years of almost continuous treatment with azathioprine and/or prednisone
+T11	Drug 136 148	azathioprine
+T14	Drug 156 166	prednisone
+T16	Treat-Disorder 171 212	idiopathic auto-immune haemolytic anaemia
+T17	Drug 136 148	azathioprine
+T18	Drug 156 166	prednisone
+T19	Duration 90 99	3.5 years
+T8	Adverse_event 18 27	developed
+T15	Combination 149 152	and
+E1	Adverse_event:T8 
+E2	Combination:T15 arg:T11 arg2:T14

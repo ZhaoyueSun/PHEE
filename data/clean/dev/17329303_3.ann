@@ -1,0 +1,11 @@
+T7	Subject 21 44	three cases of children
+T9	Effect 66 83	adverse reactions
+T10	Treatment 84 136	during switching from risperidone to methylphenidate
+T11	Population 21 26	three
+T12	Age 36 44	children
+T13	Drug 106 117	risperidone
+T14	Drug 121 136	methylphenidate
+T15	Severity_cue 59 65	severe
+T8	Adverse_event 49 58	developed
+E1	Adverse_event:T8 
+A1	Severity E1 High

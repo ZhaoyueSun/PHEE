@@ -1,0 +1,9 @@
+T7	Treatment 161 179	adjuvant tamoxifen
+T12	Drug 170 179	tamoxifen
+T13	Treat-Disorder 10 95	high-grade endometrial stromal sarcoma, confined into an intrauterine polypoid growth
+T5	Subject 0 139	A case of high-grade endometrial stromal sarcoma, confined into an intrauterine polypoid growth, in a woman with a history of breast cancer
+T6	Gender 102 107	woman
+T9	Sub-Disorder 126 139	breast cancer
+T14	Population 0 1	A
+T8	Potential_therapeutic_event 148 155	treated
+E1	Potential_therapeutic_event:T8 

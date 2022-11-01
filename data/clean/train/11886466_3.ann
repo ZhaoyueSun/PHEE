@@ -1,0 +1,7 @@
+T10	Treatment 165 171	pFVIII
+T7	Subject 31 139	patient with acquired haemophilia who developed a thrombotic left middle cerebral artery distribution stroke
+T8	Treat-Disorder 44 64	acquired haemophilia
+T12	Drug 165 171	pFVIII
+T11	Effect 81 139	thrombotic left middle cerebral artery distribution stroke
+T9	Adverse_event 152 159	treated
+E1	Adverse_event:T9

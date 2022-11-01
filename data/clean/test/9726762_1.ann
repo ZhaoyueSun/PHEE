@@ -1,0 +1,8 @@
+T6	Treatment 0 37	Gemfibrozil-warfarin drug interaction
+T8	Effect 51 79	profound hypoprothrombinemia
+T10	Drug 12 20	warfarin
+T11	Drug 0 11	Gemfibrozil
+T7	Adverse_event 38 47	resulting
+T9	Combination 26 37	interaction
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T11 arg2:T10

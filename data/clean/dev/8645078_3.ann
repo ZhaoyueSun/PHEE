@@ -1,0 +1,5 @@
+T3	Treatment 0 9	Captopril
+T5	Effect 41 97	dermatologic, hematologic, and pulmonary adverse effects
+T6	Drug 0 9	Captopril
+T4	Adverse_event 25 35	associated
+E1	Adverse_event:T4

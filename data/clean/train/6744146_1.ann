@@ -1,0 +1,10 @@
+T3	Subject 0 95	A 65-year-old woman, in the intensive care unit because of septic shock and acute renal failure
+T5	Effect 103 126;143 154	small-bowel obstruction concretions
+T6	Treatment 134 142	Amphojel
+T7	Sub-Disorder 59 71	septic shock
+T8	Age 2 13	65-year-old
+T9	Gender 14 19	woman
+T10	Drug 134 142	Amphojel
+T4	Adverse_event 127 130	due
+E1	Adverse_event:T4 
+T1	Sub-Disorder 76 95	acute renal failure

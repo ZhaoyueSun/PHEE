@@ -1,0 +1,9 @@
+T3	Subject 0 17	A 70-year-old man
+T5	Treatment 79 137	an antihistaminic agent (homochlorcyclizine hydrochloride)
+T6	Effect 58 65	dyspnea
+T7	Age 2 13	70-year-old
+T8	Gender 14 17	man
+T9	Treat-Disorder 142 149	itching
+T10	Drug 104 136	homochlorcyclizine hydrochloride
+T4	Adverse_event 72 78	taking
+E1	Adverse_event:T4

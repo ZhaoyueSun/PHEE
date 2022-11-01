@@ -1,0 +1,6 @@
+T3	Effect 0 49	Nonsustained polymorphous ventricular tachycardia
+T5	Treatment 57 75	amiodarone therapy
+T7	Drug 57 67	amiodarone
+T8	Treat-Disorder 80 127	atrial fibrillation complicating cardiomyopathy
+T4	Adverse_event 50 56	during
+E1	Adverse_event:T4

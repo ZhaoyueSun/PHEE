@@ -1,0 +1,10 @@
+T4	Treatment 52 59	digoxin
+T5	Subject 63 118	a 27-year-old man with mitral leaflet prolapse syndrome
+T6	Effect 0 30	Fatal ventricular fibrillation
+T7	Age 65 76	27-year-old
+T8	Gender 77 80	man
+T10	Severity_cue 0 5	Fatal
+T11	Drug 52 59	digoxin
+T12	Treat-Disorder 86 118	mitral leaflet prolapse syndrome
+T3	Adverse_event 31 36	after
+E1	Adverse_event:T3

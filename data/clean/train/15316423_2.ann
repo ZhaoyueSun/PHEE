@@ -1,0 +1,8 @@
+T11	Subject 17 47	a patient with Crohn's disease
+T13	Treatment 201 220	infliximab infusion
+T12	Effect 64 185	severe infliximab infusion reaction (IIR), complicated 1 day later by severe swelling of the forearm and hand ipsilateral
+T18	Drug 201 211	infliximab
+T19	Route 212 220	infusion
+T20	Treat-Disorder 32 47	Crohn's disease
+T10	Adverse_event 52 61	developed
+E1	Adverse_event:T10

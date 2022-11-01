@@ -1,0 +1,6 @@
+T7	Subject 0 12	All patients
+T8	Treatment 23 50	HMG-CoA reductase inhibitor
+T9	Effect 89 128	the signs and symptoms of muscle injury
+T11	Drug 23 50	HMG-CoA reductase inhibitor
+T10	Adverse_event 79 88	regarding
+E1	Adverse_event:T10

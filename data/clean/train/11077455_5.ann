@@ -1,0 +1,5 @@
+T3	Effect 4 69	field defects and some electrophysiological abnormalities persist
+T4	Treatment 75 106	vigabatrin therapy is withdrawn
+T6	Drug 75 85	vigabatrin
+T5	Adverse_event 62 69	persist
+E1	Adverse_event:T5 

@@ -1,0 +1,7 @@
+T6	Treatment 65 84	mefloquine (Lariam)
+T7	Effect 20 34	adverse effect
+T9	Drug 65 75	mefloquine
+T10	Negation_cue 39 44	never
+T8	Adverse_event 50 59	described
+E1	Adverse_event:T8 
+A1	Negated E1

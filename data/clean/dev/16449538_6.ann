@@ -1,0 +1,6 @@
+T5	Effect 32 71	nonconvulsive status epilepticus (NCSE)
+T6	Treatment 82 104	infusion of ifosfamide
+T8	Route 82 90	infusion
+T9	Drug 94 104	ifosfamide
+T7	Adverse_event 72 81	following
+E1	Adverse_event:T7

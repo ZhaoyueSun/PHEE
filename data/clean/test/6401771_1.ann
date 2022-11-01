@@ -1,0 +1,9 @@
+T4	Effect 0 27	Haemolytic-uraemic syndrome
+T6	Treatment 41 89	long-term mitomycin C and 5-fluorouracil therapy
+T7	Treat-Disorder 94 111	gastric carcinoma
+T8	Drug 51 62	mitomycin C
+T10	Drug 67 81	5-fluorouracil
+T5	Adverse_event 28 40	complicating
+T9	Combination 63 66	and
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T8 arg2:T10

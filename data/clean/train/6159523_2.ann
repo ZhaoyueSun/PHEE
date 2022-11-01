@@ -1,0 +1,10 @@
+T8	Treatment 132 186	intravenous administration of 50% solution of dextrose
+T9	Subject 0 85	Two patients with extrinsic asthma and coexistent insulin-dependent diabetes mellitus
+T10	Effect 99 121	anaphylactoid reaction
+T11	Population 0 3	Two
+T12	Sub-Disorder 18 34	extrinsic asthma
+T13	Sub-Disorder 50 85	insulin-dependent diabetes mellitus
+T14	Route 132 143	intravenous
+T15	Drug 178 186	dextrose
+T7	Adverse_event 122 127	after
+E1	Adverse_event:T7 

@@ -1,0 +1,10 @@
+T3	Subject 12 53	a 10-year-old boy with ulcerative colitis
+T5	Effect 68 86	acute pancreatitis
+T6	Treatment 96 142	long-term treatment with 5-aminosalicylic acid
+T7	Age 14 25	10-year-old
+T8	Gender 26 29	boy
+T10	Freq 96 115	long-term treatment
+T11	Drug 121 142	5-aminosalicylic acid
+T12	Treat-Disorder 35 53	ulcerative colitis
+T4	Adverse_event 58 67	developed
+E1	Adverse_event:T4

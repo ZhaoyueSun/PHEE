@@ -1,0 +1,8 @@
+T3	Subject 43 73	Japanese vivax malaria patient
+T4	Treatment 127 139	halofantrine
+T5	Effect 80 105	QT interval was prolonged
+T7	Race 43 51	Japanese
+T8	Treat-Disorder 52 65	vivax malaria
+T9	Drug 127 139	halofantrine
+T6	Adverse_event 106 111	after
+E1	Adverse_event:T6 

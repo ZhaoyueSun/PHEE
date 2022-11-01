@@ -1,0 +1,11 @@
+T10	Treatment 43 86	interaction between clobazam and etravirine
+T11	Effect 103 204;214 233	increased concentrations of clobazam and its pharmacologically active metabolite, N-desmethylclobazam neurotoxic symptoms
+T14	Drug 76 86	etravirine
+T15	Drug 63 71	clobazam
+T16	Speculation_cue 28 37	potential
+T17	Speculation_cue 87 90	may
+T12	Adverse_event 96 99	led
+T13	Combination 43 54	interaction
+E1	Adverse_event:T12 
+E2	Combination:T13 arg:T15 arg2:T14
+A1	Speculated E1

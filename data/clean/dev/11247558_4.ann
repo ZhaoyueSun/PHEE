@@ -1,0 +1,8 @@
+T3	Treatment 16 25	meloxicam
+T5	Effect 37 61	intestinal toxic effects
+T6	Drug 16 25	meloxicam
+T7	Dosage 76 86	high doses
+T8	Speculation_cue 26 31	might
+T4	Adverse_event 32 36	have
+E1	Adverse_event:T4 
+A1	Speculated E1

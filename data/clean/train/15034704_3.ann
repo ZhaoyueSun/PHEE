@@ -1,0 +1,11 @@
+T7	Subject 0 23	Male volunteers ( n=12)
+T8	Treatment 107 164	multiple doses of 600 mg rifampicin once daily for 7 days
+T10	Effect 168 190	repaglinide metabolism
+T11	Gender 0 4	Male
+T12	Population 18 22	n=12
+T13	Dosage 107 131	multiple doses of 600 mg
+T14	Drug 132 142	rifampicin
+T15	Freq 143 153	once daily
+T16	Duration 158 164	7 days
+T9	Adverse_event 165 167	on
+E1	Adverse_event:T9

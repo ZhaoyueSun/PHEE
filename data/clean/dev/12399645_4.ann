@@ -1,0 +1,10 @@
+T5	Subject 12 60	a 74-year-old man with rheumatoid arthritis (RA)
+T7	Effect 75 142	syndrome of inappropriate secretion of antidiuretic hormone (SIADH)
+T8	Treatment 143 198	1.5 months after commencement of mizoribin prescription
+T9	Age 14 25	74-year-old
+T10	Gender 26 29	man
+T12	Time_elapsed 143 159	1.5 months after
+T13	Drug 176 185	mizoribin
+T14	Treat-Disorder 35 55	rheumatoid arthritis
+T6	Adverse_event 65 74	developed
+E1	Adverse_event:T6

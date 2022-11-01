@@ -1,0 +1,11 @@
+T4	Treatment 141 186	the first dose of pegylated interferon alpha.
+T5	Effect 115 129	acute dystonia
+T6	Treat-Disorder 80 99	chronic hepatitis B
+T8	Subject 68 99	a case with chronic hepatitis B
+T9	Population 68 69	a
+T10	Dosage 145 155	first dose
+T11	Drug 159 185	pegylated interferon alpha
+T12	Severity_cue 115 120	acute
+T3	Adverse_event 135 140	after
+E1	Adverse_event:T3 
+A1	Severity E1 High

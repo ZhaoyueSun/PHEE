@@ -1,0 +1,7 @@
+T5	Treatment 67 78	gemcitabine
+T6	Effect 40 56	radiation recall
+T7	Subject 28 36	12 cases
+T8	Population 28 30	12
+T9	Drug 67 78	gemcitabine
+T4	Adverse_event 57 63	caused
+E1	Adverse_event:T4

@@ -1,0 +1,8 @@
+T3	Effect 0 58	The renal biopsy showed focal segmental glomerulosclerosis
+T5	Subject 103 112	two cases
+T6	Treatment 133 141	IFNalpha
+T7	Population 103 106	two
+T8	Treat-Disorder 116 119	CML
+T9	Drug 133 141	IFNalpha
+T4	Adverse_event 91 99	reported
+E1	Adverse_event:T4 

@@ -1,0 +1,5 @@
+T3	Effect 0 6	Stupor
+T5	Treatment 12 23	lamotrigine
+T6	Drug 12 23	lamotrigine
+T4	Adverse_event 7 11	from
+E1	Adverse_event:T4

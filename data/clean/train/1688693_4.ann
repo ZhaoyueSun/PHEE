@@ -1,0 +1,6 @@
+T6	Treatment 0 57	Esmolol, an ultrashort-acting beta 1-selective antagonist
+T8	Treat-Disorder 74 155	multiple dysrhythmias and symptoms of sympathetic nervous system hyperstimulation
+T9	Subject 70 73	her
+T10	Drug 0 7	Esmolol
+T7	Potential_therapeutic_event 59 69	controlled
+E1	Potential_therapeutic_event:T7

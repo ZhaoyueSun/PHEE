@@ -1,0 +1,5 @@
+T5	Treatment 0 12	Tetracycline
+T6	Effect 21 53	benign intracranial hypertension
+T7	Drug 4 5	a
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4

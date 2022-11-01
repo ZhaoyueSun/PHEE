@@ -1,0 +1,9 @@
+T5	Subject 19 22	she
+T7	Effect 37 48	hepatopathy
+T8	Treatment 69 116	carbamazepine, lynestrenol and sodium valproate
+T9	Gender 19 22	she
+T10	Drug 69 82	carbamazepine
+T11	Drug 84 95	lynestrenol
+T12	Drug 100 116	sodium valproate
+T6	Adverse_event 27 36	developed
+E1	Adverse_event:T6

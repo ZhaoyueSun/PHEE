@@ -1,0 +1,6 @@
+T4	Treatment 93 105	lansoprazole
+T6	Drug 93 105	lansoprazole
+T7	Effect 71 87	thrombocytopenia
+T5	Speculation_cue 47 55	possible
+T3	Adverse_event 56 67	association
+E1	Adverse_event:T3

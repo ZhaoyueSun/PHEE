@@ -1,0 +1,8 @@
+T5	Effect 10 20	ductopenia
+T6	Treatment 57 69	itraconazole
+T8	Treat-Disorder 113 150	prolonged drug-induced cholangiopathy
+T9	Drug 57 69	itraconazole
+T10	Speculation_cue 70 78	might be
+T11	Subject 36 39	two
+T7	Adverse_event 79 90	responsible
+E1	Adverse_event:T7 

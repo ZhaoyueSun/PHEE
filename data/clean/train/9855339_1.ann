@@ -1,0 +1,8 @@
+T7	Effect 59 152	headache, confusion, and "gray areas" in her vision, without abnormal ophthalmologic findings
+T8	Subject 39 46;100 103	patient her
+T9	Treatment 0 34	After 1 week of nefazodone therapy
+T11	Gender 100 103	her
+T12	Time_elapsed 6 12	1 week
+T13	Drug 16 26	nefazodone
+T10	Adverse_event 47 58	experienced
+E1	Adverse_event:T10

@@ -1,0 +1,5 @@
+T3	Effect 0 25	Gastro-oesophageal reflux
+T5	Treatment 42 52	nifedipine
+T6	Drug 42 52	nifedipine
+T4	Adverse_event 26 36	associated
+E1	Adverse_event:T4

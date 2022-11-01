@@ -1,0 +1,7 @@
+T4	Effect 68 131	a balanced translocation, t (1;5) (p36;q31) in 90% of the cells
+T5	Treatment 26 51	40 months on chlorambucil
+T6	Subject 0 6	Case 2
+T8	Drug 39 51	chlorambucil
+T9	Time_elapsed 26 35	40 months
+T7	Adverse_event 56 67	presence of
+E1	Adverse_event:T7

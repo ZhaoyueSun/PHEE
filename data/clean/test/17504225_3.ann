@@ -1,0 +1,12 @@
+T7	Treatment 80 108	clarithromycin and sirolimus
+T8	Subject 112 246	a kidney transplanted woman, suffering from pulmonary infection sustained by a bacterial pathogen, in particular Hemophilus Influenzae
+T11	Sub-Disorder 114 133	kidney transplanted
+T12	Gender 134 139	woman
+T14	Drug 80 94	clarithromycin
+T15	Drug 99 108	sirolimus
+T9	Adverse_event 72 79	between
+T13	Combination 95 98	and
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T14 arg2:T15
+T1	Effect 44 71	pharmacokinetic interaction
+T2	Treat-Disorder 156 175	pulmonary infection

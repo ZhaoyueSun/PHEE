@@ -1,0 +1,13 @@
+T4	Subject 39 64	a 24-year-old black woman
+T5	Effect 0 25	Fulminant hepatic failure
+T7	Treatment 91 123	propylthiouracil and propranolol
+T9	Age 41 52	24-year-old
+T10	Race 53 58	black
+T11	Gender 59 64	woman
+T12	Drug 91 107	propylthiouracil
+T13	Drug 112 123	propranolol
+T15	Treat-Disorder 128 143	hyperthyroidism
+T6	Adverse_event 26 35	developed
+T14	Combination 108 111	and
+E1	Adverse_event:T6 
+E2	Combination:T14 arg:T13 arg2:T12

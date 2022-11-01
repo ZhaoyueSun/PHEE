@@ -1,0 +1,8 @@
+T5	Treatment 0 12	Itraconazole
+T7	Effect 21 56	increased vincristine neurotoxicity
+T8	Drug 0 12	Itraconazole
+T10	Drug 31 42	vincristine
+T6	Adverse_event 13 20	related
+T9	Combination 21 30	increased
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T8 arg2:T10

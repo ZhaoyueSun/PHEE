@@ -1,0 +1,5 @@
+T3	Treatment 52 60	methanol
+T4	Effect 61 70	poisoning
+T6	Drug 52 60	methanol
+T5	Adverse_event 38 48	mechanisms
+E1	Adverse_event:T5

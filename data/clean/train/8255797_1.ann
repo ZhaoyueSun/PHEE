@@ -1,0 +1,9 @@
+T3	Treatment 0 9	Captopril
+T5	Effect 18 41	bone marrow suppression
+T8	Population 45 48	two
+T10	Drug 0 9	Captopril
+T6	Subject 45 81	two cardiac patients with trisomy 21
+T7	Sub-Disorder 49 56	cardiac
+T4	Adverse_event 10 17	induced
+E1	Adverse_event:T4 
+T1	Sub-Disorder 71 81	trisomy 21

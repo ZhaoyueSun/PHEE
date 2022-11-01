@@ -1,0 +1,7 @@
+T7	Subject 0 8	Patients
+T8	Effect 83 110	disseminated histoplasmosis
+T9	Treatment 129 149	long-term prednisone
+T12	Drug 139 149	prednisone
+T13	Treat-Disorder 154 180	graft-versus-host disease.
+T11	Adverse_event 124 128	with
+E1	Adverse_event:T11

@@ -1,0 +1,7 @@
+T13	Treatment 36 44	methanol
+T15	Effect 70 183	diffuse brain involvement, including bilateral putaminal necrosis and cerebral edema with ventricular compression
+T16	Drug 36 44	methanol
+T17	Severity_cue 13 18	fatal
+T14	Adverse_event 59 69	associated
+E1	Adverse_event:T14 
+A1	Severity E1 High

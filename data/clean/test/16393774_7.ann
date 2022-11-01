@@ -1,0 +1,8 @@
+T9	Effect 67 89	inflammatory arthritis
+T10	Treatment 105 123	receiving IFN-beta
+T8	Subject 45 54;90 104	six cases in MS patients
+T12	Population 45 48	six
+T14	Drug 115 123	IFN-beta
+T15	Treat-Disorder 93 95	MS
+T11	Adverse_event 58 63	onset
+E1	Adverse_event:T11

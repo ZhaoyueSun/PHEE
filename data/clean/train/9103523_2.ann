@@ -1,0 +1,6 @@
+T5	Treatment 4 33	volatile anesthetic halothane
+T7	Effect 110 124	hepatotoxicity
+T8	Drug 24 33	halothane
+T9	Route 4 12	volatile
+T6	Adverse_event 102 109	mediate
+E1	Adverse_event:T6

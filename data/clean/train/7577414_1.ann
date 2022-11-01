@@ -1,0 +1,5 @@
+T5	Treatment 65 77	griseofulvin
+T7	Effect 0 58	Nephrotic syndrome related to systemic lupus erythematosus
+T8	Drug 65 77	griseofulvin
+T6	Adverse_event 59 64	after
+E1	Adverse_event:T6

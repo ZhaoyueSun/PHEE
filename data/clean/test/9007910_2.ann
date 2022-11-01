@@ -1,0 +1,9 @@
+T9	Sub-Disorder 64 112	dihydropyrimidine dehydrogenase (DPD) deficiency
+T10	Subject 64 112	dihydropyrimidine dehydrogenase (DPD) deficiency
+T12	Treatment 203 243	5-fluorouracil (5-FU)-based chemotherapy
+T13	Effect 168 192	lethal adverse reactions
+T15	Treat-Disorder 146 152	cancer
+T17	Drug 203 217	5-fluorouracil
+T11	Adverse_event 120 131	predisposes
+E1	Adverse_event:T11 
+T1	Route 231 243	chemotherapy

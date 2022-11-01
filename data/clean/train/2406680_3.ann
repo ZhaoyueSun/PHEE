@@ -1,0 +1,11 @@
+T3	Subject 12 71	a 29-year-old man suffering from falciparum malaria disease
+T5	Effect 82 105	reversible hearing loss
+T6	Treatment 111 118	quinine
+T8	Age 14 25	29-year-old
+T9	Gender 26 29	man
+T10	Severity_cue 82 92	reversible
+T11	Treat-Disorder 45 71	falciparum malaria disease
+T12	Drug 111 118	quinine
+T7	Adverse_event 76 79	got
+E1	Adverse_event:T7 
+A1	Severity E1 Medium

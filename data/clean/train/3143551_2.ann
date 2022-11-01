@@ -1,0 +1,9 @@
+T6	Treatment 156 165	valproate
+T7	Subject 0 69	A mentally retarded 23-year-old woman with myoclonic astatic epilepsy
+T8	Effect 83 148	abnormal posture of extreme forward flexion, called camptocormia,
+T9	Sub-Disorder 2 19	mentally retarded
+T10	Age 20 31	23-year-old
+T12	Drug 156 165	valproate
+T13	Treat-Disorder 43 69	myoclonic astatic epilepsy
+T5	Adverse_event 149 155	during
+E1	Adverse_event:T5 

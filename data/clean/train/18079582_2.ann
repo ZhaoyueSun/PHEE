@@ -1,0 +1,9 @@
+T4	Treatment 50 76	infusional 5-fluorouracil.
+T5	Effect 0 34	Transient asymptomatic bradycardia
+T6	Subject 38 46	patients
+T7	Severity_cue 0 9	Transient
+T8	Route 50 60	infusional
+T9	Drug 61 75	5-fluorouracil
+T3	Adverse_event 47 49	on
+E1	Adverse_event:T3 
+A1	Severity E1 Low

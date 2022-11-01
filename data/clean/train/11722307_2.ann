@@ -1,0 +1,6 @@
+T3	Treatment 142 152	quetiapine
+T4	Effect 114 129	agranulocytosis
+T5	Speculation_cue 99 110	possibility
+T7	Drug 142 152	quetiapine
+T6	Adverse_event 136 141	using
+E1	Adverse_event:T6 

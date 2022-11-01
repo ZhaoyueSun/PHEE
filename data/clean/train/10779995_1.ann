@@ -1,0 +1,12 @@
+T3	Subject 63 72	the child
+T4	Effect 9 18	the t-AML
+T5	Treatment 39 61;97 131	oral etoposide therapy high-dose, multiagent chemotherapy
+T6	Age 67 72	child
+T8	Drug 44 53	etoposide
+T9	Route 39 43	oral
+T11	Drug 119 131	chemotherapy
+T13	Dosage 97 106	high-dose
+T7	Adverse_event 19 28	developed
+T10	Combination 88 96	received
+E2	Adverse_event:T7 
+E1	Combination:T10 arg:T11 arg2:T8

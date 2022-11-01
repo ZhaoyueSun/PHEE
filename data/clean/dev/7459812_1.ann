@@ -1,0 +1,9 @@
+T3	Effect 0 30	Fatal interstitial pneumonitis
+T5	Treatment 41 84	high-dose intermittent chlorambucil therapy
+T7	Dosage 41 50	high-dose
+T8	Drug 64 76	chlorambucil
+T9	Treat-Disorder 89 116	chronic lymphocyte leukemia
+T10	Severity_cue 0 5	Fatal
+T4	Adverse_event 31 40	following
+E1	Adverse_event:T4 
+A1	Severity E1 High

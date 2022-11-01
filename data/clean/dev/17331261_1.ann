@@ -1,0 +1,9 @@
+T5	Subject 29 46;200 229	a patient with CF beginning at 16 months of age
+T6	Effect 61 118	recurrent eosinophilia and severe persistent bronchospasm
+T8	Treatment 129 198	repeated administration of preservative-free tobramycin by inhalation
+T10	Treat-Disorder 44 46	CF
+T11	Age 213 222	16 months
+T12	Drug 174 184	tobramycin
+T13	Route 188 198	inhalation
+T7	Adverse_event 51 60	developed
+E1	Adverse_event:T7 

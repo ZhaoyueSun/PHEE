@@ -1,0 +1,5 @@
+T5	Effect 81 149	multiple squamous cell carcinomas and diffuse nail hyperpigmentation
+T7	Treatment 166 177	hydroxyurea
+T8	Drug 166 177	hydroxyurea
+T6	Adverse_event 150 160	associated
+E1	Adverse_event:T6

@@ -1,0 +1,6 @@
+T3	Treatment 4 12	ketamine
+T4	Treat-Disorder 28 32	pain
+T6	Effect 39 66	damage to the urinary tract
+T7	Drug 4 12	ketamine
+T5	Adverse_event 33 38	cause
+E1	Adverse_event:T5

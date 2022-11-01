@@ -1,0 +1,11 @@
+T5	Subject 23 42	infectious patients
+T6	Treatment 58 107	oral telithromycin 800mg once daily for 5-10 days
+T9	Sub-Disorder 23 33	infectious
+T10	Drug 63 76	telithromycin
+T11	Dosage 77 82	800mg
+T12	Freq 83 93	once daily
+T13	Duration 98 107	5-10 days
+T14	Treat-Disorder 142 205	community-acquired upper and lower respiratory tract infections
+T15	Route 58 62	oral
+T8	Potential_therapeutic_event 129 138	treatment
+E1	Potential_therapeutic_event:T8 

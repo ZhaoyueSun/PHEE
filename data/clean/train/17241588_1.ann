@@ -1,0 +1,5 @@
+T4	Effect 33 52	fixed drug eruption
+T6	Treatment 73 106	PDE5 inhibitor tadalafil (Cialis)
+T7	Drug 88 97	tadalafil
+T5	Adverse_event 53 58	owing
+E1	Adverse_event:T5

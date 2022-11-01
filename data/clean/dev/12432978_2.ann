@@ -1,0 +1,12 @@
+T9	Effect 0 36	Seizures and extrapyramidal symptoms
+T10	Subject 40 119	a patient with Tourette's syndrome, Asperger's syndrome, and multiple sclerosis
+T17	Drug 156 168	clomipramine
+T18	Drug 133 151	interferon beta-1a
+T19	Treat-Disorder 55 74	Tourette's syndrome
+T20	Treat-Disorder 76 95	Asperger's syndrome
+T21	Treat-Disorder 101 119	multiple sclerosis
+T7	Treatment 133 168	interferon beta-1a and clomipramine
+T12	Adverse_event 120 127	treated
+T16	Combination 152 155	and
+E1	Adverse_event:T12 
+E2	Combination:T16 arg:T18 arg2:T17

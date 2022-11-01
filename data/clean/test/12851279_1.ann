@@ -1,0 +1,5 @@
+T5	Treatment 23 78	tifacogin (recombinant tissue factor pathway inhibitor)
+T6	Treat-Disorder 82 95	severe sepsis
+T8	Drug 23 78	tifacogin (recombinant tissue factor pathway inhibitor)
+T7	Potential_therapeutic_event 79 81	in
+E1	Potential_therapeutic_event:T7

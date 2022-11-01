@@ -1,0 +1,7 @@
+T3	Treatment 10 20	fluoxetine
+T4	Effect 29 37	seizures
+T6	Subject 42 69	a person with Down syndrome
+T7	Sub-Disorder 56 69	Down syndrome
+T8	Drug 10 20	fluoxetine
+T5	Adverse_event 21 28	induced
+E1	Adverse_event:T5 

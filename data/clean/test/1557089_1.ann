@@ -1,0 +1,9 @@
+T3	Subject 3 62	a postoperative patient with pre-existent myasthenia gravis
+T5	Treatment 64 78	oral verapamil
+T6	Effect 88 130	marked exacerbation in myasthenic weakness
+T8	Sub-Disorder 32 62	pre-existent myasthenia gravis
+T9	Severity_cue 88 94	marked
+T10	Route 64 68	oral
+T11	Drug 69 78	verapamil
+T7	Adverse_event 79 85	caused
+E1	Adverse_event:T7 

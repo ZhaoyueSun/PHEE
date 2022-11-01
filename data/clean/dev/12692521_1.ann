@@ -1,0 +1,5 @@
+T4	Effect 0 32	Systemic capillary leak syndrome
+T6	Treatment 39 84	granulocyte colony-stimulating factor (G-CSF)
+T7	Drug 39 76	granulocyte colony-stimulating factor
+T5	Adverse_event 33 38	after
+E1	Adverse_event:T5 

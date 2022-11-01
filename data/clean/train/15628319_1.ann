@@ -1,0 +1,5 @@
+T4	Effect 52 75	allergic skin eruptions
+T6	Treatment 81 84	AZA
+T7	Drug 81 84	AZA
+T5	Adverse_event 76 80	from
+E1	Adverse_event:T5

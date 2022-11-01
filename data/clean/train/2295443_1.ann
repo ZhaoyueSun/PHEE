@@ -1,0 +1,6 @@
+T4	Treatment 34 80	intraperitoneal chromic phosphate instillation
+T5	Effect 0 17	Bowel perforation
+T6	Route 34 49;68 80	intraperitoneal instillation
+T7	Drug 50 67	chromic phosphate
+T3	Adverse_event 18 28	associated
+E1	Adverse_event:T3

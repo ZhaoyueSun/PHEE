@@ -1,0 +1,7 @@
+T3	Treatment 90 100	cimetidine
+T5	Treat-Disorder 129 154	gastrointestinal symptoms
+T7	Drug 90 100	cimetidine
+T8	Speculation_cue 101 106	might
+T4	Potential_therapeutic_event 110 120	prescribed
+E1	Potential_therapeutic_event:T4 
+A1	Speculated E1

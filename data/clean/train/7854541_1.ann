@@ -1,0 +1,7 @@
+T4	Treatment 61 93	adjuvant therapy with levamisole
+T5	Subject 44 53	a patient
+T6	Effect 0 30	Cerebral demyelinating disease
+T7	Drug 83 93	levamisole
+T8	Treat-Disorder 98 116	malignant melanoma
+T3	Adverse_event 54 60	during
+E1	Adverse_event:T3

@@ -1,0 +1,6 @@
+T5	Treatment 129 140	propranolol
+T6	Effect 36 72	disorientation and temporary amnesia
+T8	Subject 96 104	patients
+T9	Drug 129 140	propranolol
+T7	Adverse_event 79 92	been reported
+E1	Adverse_event:T7

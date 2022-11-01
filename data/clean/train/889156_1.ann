@@ -1,0 +1,6 @@
+T4	Treatment 11 47	beclomethasone diproprionate inhaler
+T6	Effect 85 116	eosinophilic pneumonia reaction
+T5	Route 40 47	inhaler
+T8	Drug 11 39	beclomethasone diproprionate
+T7	Adverse_event 67 78	development
+E2	Adverse_event:T7

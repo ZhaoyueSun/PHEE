@@ -1,0 +1,8 @@
+T3	Subject 32 105	two patients with histologically confirmed adenocarcinoma of the prostate
+T5	Treatment 142 258	steroidal anti-androgen therapy in the form of cyproterone acetate prior to radical or palliative pelvic irradiation
+T6	Effect 291 323	femoral head avascular necrosis.
+T7	Population 32 35	two
+T8	Treat-Disorder 75 105	adenocarcinoma of the prostate
+T4	Adverse_event 129 136	treated
+E1	Adverse_event:T4 
+T1	Drug 189 208	cyproterone acetate

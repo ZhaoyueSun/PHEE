@@ -1,0 +1,9 @@
+T10	Subject 9 28	A 29-year-old woman
+T11	Treatment 46 56	metaxalone
+T13	Effect 100 223	altered mental status, seizure-like activity, hyperthermia, rigidity in the lower extremities, myoclonus, and hyperreflexia
+T14	Age 11 22	29-year-old
+T15	Gender 23 28	woman
+T16	Drug 46 56	metaxalone
+T17	Dosage 34 42	overdose
+T12	Adverse_event 57 66	presented
+E1	Adverse_event:T12

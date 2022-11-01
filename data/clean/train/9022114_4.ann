@@ -1,0 +1,8 @@
+T3	Subject 22 34	two patients
+T5	Treatment 127 150	oral colchicine therapy
+T6	Effect 40 54	corneal ulcers
+T7	Population 22 25	two
+T8	Drug 132 142	colchicine
+T9	Route 127 131	oral
+T4	Adverse_event 116 126	undergoing
+E1	Adverse_event:T4

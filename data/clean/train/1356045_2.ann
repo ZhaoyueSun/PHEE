@@ -1,0 +1,5 @@
+T3	Effect 0 21	Flaccid quadriparesis
+T4	Treatment 57 67	vecuronium
+T6	Drug 57 67	vecuronium
+T5	Adverse_event 26 31	noted
+E1	Adverse_event:T5

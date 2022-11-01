@@ -1,0 +1,5 @@
+T5	Effect 0 56	Basilar invagination and mid-line skeletal abnormalities
+T7	Treatment 67 94	utero exposure to phenytoin
+T8	Drug 85 94	phenytoin
+T6	Adverse_event 57 60	due
+E1	Adverse_event:T6

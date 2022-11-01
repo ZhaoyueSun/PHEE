@@ -1,0 +1,6 @@
+T3	Effect 0 30	Subacute cholestatic hepatitis
+T5	Treatment 53 65	use of senna
+T7	Drug 60 65	senna
+T8	Treat-Disorder 70 91	chronic constipation.
+T4	Adverse_event 38 48	related to
+E1	Adverse_event:T4

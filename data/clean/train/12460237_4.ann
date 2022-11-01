@@ -1,0 +1,9 @@
+T8	Subject 10 19	a patient
+T11	Treat-Disorder 199 228	acute lymphoblastic leukaemia
+T12	Effect 25 124	recurrent, increasingly severe episodes of PPE, ultimately complicated by a severe bullous eruption
+T13	Severity_cue 101 107	severe
+T14	Dosage 157 166	high-dose
+T15	Drug 167 177	cytarabine
+T10	Treatment 147 228	cycles of high-dose cytarabine for the treatment of acute lymphoblastic leukaemia
+T9	Adverse_event 126 135	following
+E1	Adverse_event:T9

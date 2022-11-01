@@ -1,0 +1,14 @@
+T5	Subject 114 131;218 241	62-year-old woman advanced ovarian cancer
+T7	Treatment 145 213	six cycles of paclitaxel and carboplatin as combination chemotherapy
+T9	Age 114 125	62-year-old
+T10	Gender 126 131	woman
+T8	Dosage 145 155	six cycles
+T12	Drug 159 169	paclitaxel
+T13	Drug 174 185	carboplatin
+T15	Treat-Disorder 218 241	advanced ovarian cancer
+T16	Effect 0 19	Fatal lung fibrosis
+T17	Route 201 213	chemotherapy
+T6	Adverse_event 136 144	received
+T14	Combination 170 173	and
+E1	Adverse_event:T6 
+E2	Combination:T14 arg:T12 arg2:T13

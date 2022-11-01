@@ -1,0 +1,11 @@
+T4	Effect 32 66;83 94	acute compromise of renal function hypotension
+T5	Subject 98 114	a 7-year-old boy
+T6	Treatment 132 177	ACE inhibitor lisinopril and the ARB losartan
+T8	Age 100 110	7-year-old
+T9	Gender 111 114	boy
+T10	Drug 146 156	lisinopril
+T11	Drug 169 177	losartan
+T7	Adverse_event 67 77	associated
+T12	Combination 157 160	and
+E1	Adverse_event:T7 
+E2	Combination:T12 arg:T10 arg2:T11

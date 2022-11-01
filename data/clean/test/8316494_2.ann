@@ -1,0 +1,11 @@
+T7	Subject 12 39	a 41 yr old leprosy patient
+T9	Treatment 52 75	10 yrs with clofazimine
+T10	Effect 105 126	severe abdominal pain
+T11	Age 14 23	41 yr old
+T13	Severity_cue 105 111	severe
+T14	Treat-Disorder 24 31	leprosy
+T15	Duration 52 58	10 yrs
+T16	Drug 64 75	clofazimine
+T8	Adverse_event 101 104	for
+E1	Adverse_event:T8 
+A1	Severity E1 High

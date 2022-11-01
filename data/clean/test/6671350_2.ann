@@ -1,0 +1,7 @@
+T5	Effect 0 12	Coagulopathy
+T6	Treatment 40 79	cephalosporin or moxalactam antibiotics
+T7	Treat-Disorder 83 114	acute and chronic renal failure
+T8	Drug 40 53	cephalosporin
+T9	Drug 57 67	moxalactam
+T4	Adverse_event 13 23	associated
+E1	Adverse_event:T4

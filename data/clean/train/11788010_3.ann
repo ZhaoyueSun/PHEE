@@ -1,0 +1,6 @@
+T3	Effect 0 36	Hepatolithiasis (intrahepatic stone)
+T4	Treatment 44 54	octreotide
+T5	Drug 44 54	octreotide
+T7	Treat-Disorder 67 77	acromegaly
+T6	Adverse_event 37 43	during
+E1	Adverse_event:T6

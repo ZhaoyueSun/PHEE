@@ -1,0 +1,7 @@
+T4	Subject 5 16	the patient
+T5	Treatment 40 51;146 172	fludarabine second course of treatment
+T6	Effect 71 135	the DAT became positive with anti-IgG and anti-C3d antiglobulins
+T7	Drug 40 51	fludarabine
+T8	Time_elapsed 52 69	nine months later
+T3	Adverse_event 21 28	treated
+E1	Adverse_event:T3

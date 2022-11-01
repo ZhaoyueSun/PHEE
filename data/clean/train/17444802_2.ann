@@ -1,0 +1,8 @@
+T7	Subject 140 240	conjunctiva-cornea intraepithelial neoplasia (CIN) of a patient that rejected any surgical procedure
+T8	Treatment 89 126	topical interferon (INF) alpha 2-beta
+T9	Effect 67 85	tumor side effects
+T12	Route 89 96	topical
+T13	Drug 97 107;114 126	interferon alpha 2-beta
+T14	Treat-Disorder 140 184	conjunctiva-cornea intraepithelial neoplasia
+T10	Adverse_event 73 85	side effects
+E1	Adverse_event:T10

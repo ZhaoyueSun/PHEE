@@ -1,0 +1,5 @@
+T5	Treatment 16 28	methotrexate
+T7	Effect 37 66;138 187	papular eruption in psoriasis cutaneous vasculitis in collagen vascular disease
+T8	Drug 16 28	methotrexate
+T6	Adverse_event 29 36	induced
+E1	Adverse_event:T6

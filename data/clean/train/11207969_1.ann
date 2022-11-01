@@ -1,0 +1,5 @@
+T5	Treatment 0 5	ARA-C
+T7	Effect 36 57	dermatologic toxicity
+T8	Drug 0 5	ARA-C
+T6	Adverse_event 20 30	associated
+E1	Adverse_event:T6

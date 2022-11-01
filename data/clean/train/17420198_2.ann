@@ -1,0 +1,8 @@
+T10	Effect 10 39	extrapyramidal symptoms (EPS)
+T12	Treatment 68 80	aripiprazole
+T13	Subject 84 224	a man with developmental disabilities who had never received antipsychotic medications and had no history of movement disorders is presented
+T14	Gender 86 89	man
+T15	Sub-Disorder 95 121	developmental disabilities
+T16	Drug 68 80	aripiprazole
+T11	Adverse_event 40 49	following
+E1	Adverse_event:T11 

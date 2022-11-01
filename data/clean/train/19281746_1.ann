@@ -1,0 +1,5 @@
+T4	Treatment 0 9	Aliskiren
+T5	Effect 21 40	acute renal failure
+T6	Drug 0 9	Aliskiren
+T3	Adverse_event 10 20	associated
+E1	Adverse_event:T3

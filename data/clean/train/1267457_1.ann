@@ -1,0 +1,9 @@
+T3	Subject 0 17	A 71-year-old man
+T4	Treatment 78 89	sulfonamide
+T5	Effect 51 58	bullous
+T7	Age 2 13	71-year-old
+T8	Gender 14 17	man
+T9	Drug 78 89	sulfonamide
+T10	Drug 148 168	sulfacetamide sodium
+T6	Adverse_event 64 72	reaction
+E1	Adverse_event:T6

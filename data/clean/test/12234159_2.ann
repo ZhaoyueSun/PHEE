@@ -1,0 +1,6 @@
+T5	Treatment 0 9	Rofecoxib
+T6	Treat-Disorder 20 32	dysmenorrhea
+T8	Effect 43 196	herpetiform fixed drug eruption predominantly involving the lips with classic clinical and histological findings in a red-brown lesion on the dorsal hand
+T9	Drug 0 9	Rofecoxib
+T7	Adverse_event 34 40	caused
+E1	Adverse_event:T7

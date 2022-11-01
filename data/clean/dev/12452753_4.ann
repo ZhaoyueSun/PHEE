@@ -1,0 +1,7 @@
+T3	Effect 27 44	allergic reaction
+T4	Treatment 71 114	capecitabine or the intermediate metabolite
+T9	Drug 71 83	capecitabine
+T10	Speculation_cue 7 17	postulated
+T5	Adverse_event 61 67	caused
+E1	Adverse_event:T5 
+A1	Speculated E1

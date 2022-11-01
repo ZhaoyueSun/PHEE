@@ -1,0 +1,8 @@
+T5	Treatment 32 64;141 160	centrally acting muscle relaxant metaxalone overdose
+T6	Effect 105 123	serotonin syndrome
+T7	Subject 127 135	patients
+T9	Drug 32 64	centrally acting muscle relaxant
+T10	Drug 141 151	metaxalone
+T11	Dosage 152 160	overdose
+T8	Adverse_event 124 126	in
+E1	Adverse_event:T8

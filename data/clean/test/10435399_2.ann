@@ -1,0 +1,6 @@
+T4	Effect 45 56;121 169	neutropenia diurnal variation of the white blood cells (WBC)
+T5	Treatment 60 69	clozapine
+T6	Subject 21 30	a patient
+T7	Drug 60 69	clozapine
+T3	Adverse_event 35 44	developed
+E1	Adverse_event:T3

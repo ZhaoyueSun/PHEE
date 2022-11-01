@@ -1,0 +1,5 @@
+T5	Treat-Disorder 10 29	depressive symptoms
+T6	Treatment 39 49	sertraline
+T4	Drug 39 49	sertraline
+T7	Potential_therapeutic_event 65 74	initiated
+E1	Potential_therapeutic_event:T7

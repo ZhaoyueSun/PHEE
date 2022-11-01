@@ -1,0 +1,8 @@
+T3	Subject 0 38	Six patients with rheumatoid arthritis
+T5	Effect 51 90	syndrome resembling lupus erythematosus
+T6	Treatment 116 129	penicillamine
+T7	Population 0 3	Six
+T9	Drug 116 129	penicillamine
+T10	Treat-Disorder 18 38	rheumatoid arthritis
+T4	Adverse_event 39 48	developed
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T3	Treatment 0 13	Carbamazepine
+T4	Effect 14 39	hypersensitivity syndrome
+T6	Drug 0 13	Carbamazepine
+T5	Adverse_event 40 42	is
+E1	Adverse_event:T5

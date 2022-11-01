@@ -1,0 +1,5 @@
+T4	Effect 0 8	Priapism
+T3	Treatment 30 37	heparin
+T6	Drug 30 37	heparin
+T5	Adverse_event 14 26	complication
+E1	Adverse_event:T5

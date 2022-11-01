@@ -1,0 +1,11 @@
+T6	Subject 12 23	a rare case
+T7	Treatment 64 91	propafenone and mirtazapine
+T9	Effect 103 123	propafenone toxicity
+T10	Drug 64 75	propafenone
+T11	Drug 80 91	mirtazapine
+T13	Severity_cue 27 33	severe
+T8	Adverse_event 92 99	leading
+T12	Combination 44 55	interaction
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T10 arg2:T11
+A1	Severity E1 High

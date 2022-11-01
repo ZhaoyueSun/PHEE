@@ -1,0 +1,5 @@
+T7	Treatment 52 68	dihydropyridines
+T8	Effect 16 35;96 106	cutaneous eruptions exanthemas
+T9	Drug 52 68	dihydropyridines
+T6	Adverse_event 36 46	associated
+E1	Adverse_event:T6

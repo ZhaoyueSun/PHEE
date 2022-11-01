@@ -1,0 +1,8 @@
+T3	Effect 28 42	acute leukemia
+T4	Treatment 93 103	Treosulfan
+T6	Subject 0 24	Seven of the eight cases
+T7	Population 13 18	eight
+T10	Drug 93 103	Treosulfan
+T11	Treat-Disorder 108 122	ovarian cancer
+T5	Adverse_event 43 51	occurred
+E1	Adverse_event:T5

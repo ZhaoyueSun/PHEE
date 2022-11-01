@@ -1,0 +1,8 @@
+T8	Treatment 138 165	sustained-release verapamil
+T9	Subject 23 84	a patient with asymptomatic bronchial asthma and hypertension
+T10	Effect 102 121	acute asthma attack
+T11	Sub-Disorder 38 67	asymptomatic bronchial asthma
+T13	Treat-Disorder 72 84	hypertension
+T14	Drug 138 165	sustained-release verapamil
+T7	Adverse_event 122 127	after
+E1	Adverse_event:T7 

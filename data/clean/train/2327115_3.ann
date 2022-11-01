@@ -1,0 +1,7 @@
+T3	Treatment 10 23	ciprofloxacin
+T5	Effect 32 54	interstitial nephritis
+T6	Drug 10 23	ciprofloxacin
+T7	Speculation_cue 0 9	Suspected
+T4	Adverse_event 24 31	induced
+E1	Adverse_event:T4 
+A1	Speculated E1

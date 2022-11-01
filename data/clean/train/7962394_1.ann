@@ -1,0 +1,8 @@
+T4	Effect 0 18	Acute pancreatitis
+T5	Treatment 35 52	danazol treatment
+T6	Drug 35 42	danazol
+T7	Treat-Disorder 57 70	endometriosis
+T8	Severity_cue 0 5	Acute
+T3	Adverse_event 19 29	associated
+E1	Adverse_event:T3 
+A1	Severity E1 High

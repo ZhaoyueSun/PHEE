@@ -1,0 +1,5 @@
+T3	Effect 13 18;40 58	death acute intoxication
+T5	Treatment 62 72	olanzapine
+T6	Drug 62 72	olanzapine
+T4	Adverse_event 59 61	by
+E1	Adverse_event:T4

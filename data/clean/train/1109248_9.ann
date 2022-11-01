@@ -1,0 +1,11 @@
+T7	Speculation_cue 54 60	may be
+T8	Treatment 21 53;139 172	chloral hydrate and methaqualone during oral anticoagulant therapy
+T12	Negation_cue 81 88	without
+T13	Drug 21 36	chloral hydrate
+T14	Drug 41 53	methaqualone
+T15	Drug 151 164	anticoagulant
+T16	Route 146 150	oral
+T17	Combination 37 40	and
+T9	Adverse_event 100 107	caution
+E2	Combination:T17 arg:T13 arg2:T14 arg3:T15
+E1	Adverse_event:T9

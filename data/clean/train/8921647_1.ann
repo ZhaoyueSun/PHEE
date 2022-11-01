@@ -1,0 +1,5 @@
+T3	Treatment 21 31	cimetidine
+T5	Effect 43 121	a rapid deterioration with decreased oxygen saturation and arterial PO2 values
+T6	Drug 21 31	cimetidine
+T4	Adverse_event 39 42	was
+E1	Adverse_event:T4

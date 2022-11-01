@@ -1,0 +1,11 @@
+T9	Treatment 97 186	antipsychotics, antidepressants, antiemetics, antihistamines, and psychoactive substances
+T11	Effect 36 45	akathisia
+T12	Drug 97 111	antipsychotics
+T13	Drug 113 128	antidepressants
+T14	Drug 130 141	antiemetics
+T15	Drug 143 157	antihistamines
+T16	Drug 163 187	psychoactive substances.
+T10	Adverse_event 52 65	adverse event
+T17	Combination 159 162	and
+E1	Adverse_event:T10 
+E2	Combination:T17 arg:T12 arg2:T13 arg3:T14 arg4:T15 arg5:T16

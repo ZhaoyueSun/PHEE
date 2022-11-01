@@ -1,0 +1,7 @@
+T3	Effect 34 50	granulocytopenia
+T5	Treatment 79 91	procainamide
+T6	Subject 95 125	patients with tachyarrhythmias
+T8	Drug 79 91	procainamide
+T9	Treat-Disorder 109 125	tachyarrhythmias
+T4	Adverse_event 51 57	caused
+E1	Adverse_event:T4

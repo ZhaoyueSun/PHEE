@@ -1,0 +1,10 @@
+T3	Subject 12 84	a 15-year-old female patient diagnosed with acute lymphoblastic leukemia
+T4	Effect 85 119	presenting with status epilepticus
+T6	Treatment 126 160	receiving intrathecal methotrexate
+T7	Age 14 25	15-year-old
+T8	Gender 26 32	female
+T10	Route 136 147	intrathecal
+T11	Drug 148 160	methotrexate
+T12	Treat-Disorder 56 84	acute lymphoblastic leukemia
+T5	Adverse_event 120 125	after
+E1	Adverse_event:T5

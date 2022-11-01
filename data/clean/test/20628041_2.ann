@@ -1,0 +1,12 @@
+T9	Speculation_cue 14 22	probable
+T11	Subject 127 177	a polytrauma patient with Parkinson's disease (PD)
+T13	Effect 81 123	neuroleptic malignant-like syndrome (NMLS)
+T14	Sub-Disorder 129 139	polytrauma
+T17	Drug 61 69	levodopa
+T19	Drug 43 56	enteral feeds
+T10	Treatment 23 69	interaction between enteral feeds and levodopa
+T20	Treat-Disorder 153 177	Parkinson's disease (PD)
+T12	Adverse_event 70 77	leading
+T18	Combination 23 34	interaction
+E1	Adverse_event:T12 
+E2	Combination:T18 arg:T19 arg2:T17

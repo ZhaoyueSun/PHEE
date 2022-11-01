@@ -1,0 +1,11 @@
+T4	Effect 0 28	Acute asymptomatic hepatitis
+T5	Subject 32 58	a healthy normal volunteer
+T7	Treatment 70 112	2 oral doses of amodiaquine and artesunate
+T8	Route 72 76	oral
+T9	Dosage 70 71	2
+T10	Drug 86 97	amodiaquine
+T11	Drug 102 112	artesunate
+T6	Adverse_event 59 66	exposed
+T12	Combination 98 101	and
+E1	Adverse_event:T6 
+E2	Combination:T12 arg:T11 arg2:T10

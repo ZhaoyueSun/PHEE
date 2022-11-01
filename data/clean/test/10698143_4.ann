@@ -1,0 +1,10 @@
+T3	Subject 22 51	an 11-month-old female infant
+T4	Effect 57 91	a depressed level of consciousness
+T6	Treatment 98 120	ingestion of ibuprofen
+T7	Age 25 37	11-month-old
+T8	Gender 38 44	female
+T9	Age 45 51	infant
+T10	Drug 111 120	ibuprofen
+T11	Route 98 107	ingestion
+T5	Adverse_event 92 97	after
+E1	Adverse_event:T5

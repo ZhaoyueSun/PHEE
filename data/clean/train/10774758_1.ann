@@ -1,0 +1,5 @@
+T3	Effect 0 46	Perinatal vasoconstrictive renal insufficiency
+T5	Treatment 63 86	maternal nimesulide use
+T6	Drug 72 82	nimesulide
+T4	Adverse_event 47 57	associated
+E1	Adverse_event:T4

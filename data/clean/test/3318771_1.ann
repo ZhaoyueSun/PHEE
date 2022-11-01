@@ -1,0 +1,6 @@
+T3	Treatment 27 34	timolol
+T5	Effect 43 60	ocular pemphigoid
+T6	Drug 27 34	timolol
+T7	Subject 17 23	a case
+T4	Adverse_event 35 42	induced
+E1	Adverse_event:T4

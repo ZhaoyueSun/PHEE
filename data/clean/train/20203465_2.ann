@@ -1,0 +1,5 @@
+T3	Effect 104 123	acute renal failure
+T5	Treatment 130 134	IVIG
+T6	Drug 130 134	IVIG
+T4	Adverse_event 124 129	after
+E1	Adverse_event:T4

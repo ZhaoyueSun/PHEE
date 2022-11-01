@@ -1,0 +1,5 @@
+T10	Effect 85 96;115 154	retinopathy macular edema and reduced visual acuity
+T11	Treatment 70 73	IFN
+T13	Drug 70 73	IFN
+T12	Adverse_event 74 84	associated
+E1	Adverse_event:T12

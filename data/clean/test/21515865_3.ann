@@ -1,0 +1,9 @@
+T4	Subject 0 18	An 89-year-old man
+T6	Treatment 29 106	long-term anticoagulation with warfarin sodium (total weekly dosage of 19 mg)
+T7	Age 3 14	89-year-old
+T8	Drug 60 75	warfarin sodium
+T9	Freq 83 89	weekly
+T10	Dosage 100 105	19 mg
+T11	Duration 29 38	long-term
+T5	Potential_therapeutic_event 19 28	receiving
+E1	Potential_therapeutic_event:T5

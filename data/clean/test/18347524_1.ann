@@ -1,0 +1,7 @@
+T7	Effect 0 27	Diffuse alveolar hemorrhage
+T8	Subject 57 92	a patient with rheumatoid arthritis
+T9	Treat-Disorder 72 92	rheumatoid arthritis
+T10	Treatment 34 45	leflunomide
+T12	Drug 34 45	leflunomide
+T11	Adverse_event 28 33	after
+E1	Adverse_event:T11

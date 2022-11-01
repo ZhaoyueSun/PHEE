@@ -1,0 +1,6 @@
+T5	Effect 0 44	Cardiac hypersensitivity and myopericarditis
+T7	Treatment 71 106	long-term treatment with mesalazine
+T8	Duration 71 80	long-term
+T9	Drug 96 106	mesalazine
+T6	Adverse_event 55 63	reported
+E1	Adverse_event:T6

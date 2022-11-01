@@ -1,0 +1,21 @@
+T8	Subject 0 26	A 38-year-old white female
+T11	Treat-Disorder 175 245	methicillin-resistant Staphylococcus aureus (MRSA) pulmonary infection
+T12	Age 2 13	38-year-old
+T13	Race 14 19	white
+T14	Gender 20 26	female
+T15	Treat-Disorder 32 47	cystic fibrosis
+T16	Dosage 73 83	300 mg/day
+T17	Drug 61 72	venlafaxine
+T18	Drug 112 121	linezolid
+T19	Dosage 122 128	600 mg
+T20	Freq 143 157	every 12 hours
+T21	Route 129 142	intravenously
+T9	Potential_therapeutic_event 48 55	treated
+E1	Potential_therapeutic_event:T9 arg:T8 arg2:T1
+T2	Duration 88 96	one year
+T1	Treatment 61 96	venlafaxine 300 mg/day for one year
+R1	has Arg1:T1 Arg2:T15	
+T3	Potential_therapeutic_event 162 171	treatment
+E2	Potential_therapeutic_event:T3 arg:T8 arg2:T4
+T4	Treatment 112 157	linezolid 600 mg intravenously every 12 hours
+R2	has Arg1:T4 Arg2:T11	

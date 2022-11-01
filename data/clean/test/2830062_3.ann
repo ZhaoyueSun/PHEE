@@ -1,0 +1,9 @@
+T7	Subject 0 13	Both patients
+T9	Effect 24 38	hypoadrenalism
+T10	Treatment 48 114	o,p'-DDD and apparently adequate dexamethasone replacement therapy
+T11	Drug 48 56	o,p'-DDD
+T12	Drug 81 94	dexamethasone
+T8	Adverse_event 14 23	developed
+T13	Combination 57 60	and
+E1	Adverse_event:T8 
+E2	Combination:T13 arg:T11 arg2:T12

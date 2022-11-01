@@ -1,0 +1,8 @@
+T3	Subject 76 96	the patient's mother
+T4	Effect 129 148	overwhelming sepsis
+T6	Treatment 165 175	metamizole
+T7	Drug 165 175	metamizole
+T8	Severity_cue 129 141	overwhelming
+T5	Adverse_event 149 159	associated
+E1	Adverse_event:T5 
+A1	Severity E1 High

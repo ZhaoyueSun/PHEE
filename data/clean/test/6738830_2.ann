@@ -1,0 +1,6 @@
+T3	Treat-Disorder 44 56	parkinsonism
+T4	Treatment 30 40	cinepazide
+T6	Effect 0 24	Unique behavioral change
+T7	Drug 30 40	cinepazide
+T5	Adverse_event 25 29	with
+E1	Adverse_event:T5

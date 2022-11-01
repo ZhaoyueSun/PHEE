@@ -1,0 +1,6 @@
+T3	Treatment 79 97	adenosine infusion
+T5	Effect 23 68	sustained monomorphic ventricular tachycardia
+T6	Drug 79 88	adenosine
+T7	Route 89 97	infusion
+T4	Adverse_event 69 78	following
+E1	Adverse_event:T4

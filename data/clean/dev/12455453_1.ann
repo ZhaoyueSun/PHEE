@@ -1,0 +1,9 @@
+T3	Treatment 0 80	After five and six weeks of continuous oral administration of methylprednisolone
+T4	Effect 101 117	steroid diabetes
+T5	Subject 86 90	boys
+T7	Gender 86 90	boys
+T8	Duration 0 24	After five and six weeks
+T9	Route 39 43	oral
+T10	Drug 62 80	methylprednisolone
+T6	Adverse_event 91 100	developed
+E1	Adverse_event:T6

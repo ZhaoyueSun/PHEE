@@ -1,0 +1,7 @@
+T4	Subject 26 39	four patients
+T5	Effect 108 117	asterixis
+T7	Treatment 149 162	carbamazepine
+T8	Population 26 30	four
+T9	Drug 149 162	carbamazepine
+T6	Adverse_event 122 131	triggered
+E1	Adverse_event:T6

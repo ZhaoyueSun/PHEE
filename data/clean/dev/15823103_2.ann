@@ -1,0 +1,9 @@
+T14	Treatment 206 211	CBDCA
+T15	Subject 9 20	one patient
+T16	Effect 31 99	severe hypersensitivity reactions including cardiac arrest and apnea
+T19	Drug 206 211	CBDCA
+T20	Subject 113 126	four patients
+T21	Effect 137 176	eruptions, hypotension, and tachycardia
+T13	Adverse_event 188 202	administration
+E1	Adverse_event:T13 arg:T15 arg2:T16 arg3:T14
+E2	Adverse_event:T13 arg:T20 arg2:T21 arg3:T14

@@ -1,0 +1,8 @@
+T6	Treatment 123 136	carbamazepine
+T7	Subject 18 32	three children
+T8	Effect 41 93	four episodes of dystonia proceeding to opisthotonus
+T9	Population 18 23	three
+T10	Age 24 32	children
+T11	Drug 123 136	carbamazepine
+T5	Adverse_event 94 102	occurred
+E1	Adverse_event:T5

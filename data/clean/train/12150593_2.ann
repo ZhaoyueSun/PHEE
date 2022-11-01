@@ -1,0 +1,11 @@
+T3	Subject 11 43	a neonate with a seizure disorde
+T7	Effect 67 86	pupillary mydriasis
+T8	Treatment 100 118	lidocaine overdose
+T9	Age 13 20	neonate
+T10	Drug 100 109	lidocaine
+T11	Dosage 110 118	overdose
+T12	Treat-Disorder 28 44	seizure disorder
+T5	Severity_cue 49 56	acutely
+T6	Adverse_event 57 66	developed
+E1	Adverse_event:T6 
+A1	Severity E1 High

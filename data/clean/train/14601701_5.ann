@@ -1,0 +1,9 @@
+T11	Treatment 85 95	ethambutol
+T9	Effect 127 151	irreversible vision loss
+T12	Speculation_cue 113 122	potential
+T13	Drug 85 95	ethambutol
+T14	Severity_cue 50 56	severe
+T10	Adverse_event 61 74	unpredictable
+E1	Adverse_event:T10 
+A1	Speculated E1
+A2	Severity E1 High

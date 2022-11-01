@@ -1,0 +1,7 @@
+T8	Effect 9 38;143 208	transient increases in ectopy life-threatening ventricular arrhythmia leading to cardiac arrest
+T9	Treatment 45 54	bretylium
+T5	Speculation_cue 84 94	presumably
+T6	Negation_cue 213 216	not
+T10	Drug 45 54	bretylium
+T7	Adverse_event 39 44	after
+E1	Adverse_event:T7

@@ -1,0 +1,7 @@
+T3	Treatment 44 54	ivermectin
+T5	Effect 63 83	severe liver disease
+T6	Drug 44 54	ivermectin
+T7	Severity_cue 63 69	severe
+T4	Adverse_event 55 62	induced
+E1	Adverse_event:T4 
+A1	Severity E1 High

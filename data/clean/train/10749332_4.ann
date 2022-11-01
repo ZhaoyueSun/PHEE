@@ -1,0 +1,9 @@
+T3	Subject 4 24	three reported cases
+T4	Effect 104 129	irreversible liver injury
+T7	Population 4 9	three
+T6	Treatment 42 54	troglitazone
+T8	Drug 42 54	troglitazone
+T9	Severity_cue 104 116	irreversible
+T5	Adverse_event 96 100	lead
+E1	Adverse_event:T5 
+A1	Severity E1 High

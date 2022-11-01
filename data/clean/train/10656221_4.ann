@@ -1,0 +1,10 @@
+T6	Subject 0 51	A 60-year-old woman with diabetes mellitus (type 2)
+T7	Treatment 102 152	6 weeks after the initiation of gliclazide therapy
+T8	Effect 62 101	an acute icteric hepatitis-like illness
+T10	Age 2 13	60-year-old
+T11	Gender 14 19	woman
+T13	Time_elapsed 102 109	6 weeks
+T14	Drug 134 144	gliclazide
+T15	Treat-Disorder 25 51	diabetes mellitus (type 2)
+T9	Adverse_event 52 61	developed
+E1	Adverse_event:T9 

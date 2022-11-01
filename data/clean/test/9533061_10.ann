@@ -1,0 +1,8 @@
+T9	Speculation_cue 83 91	probable
+T10	Treatment 35 70	clindamycin phosphate vaginal cream
+T11	Drug 35 56	clindamycin phosphate
+T12	Route 57 70	vaginal cream
+T14	Effect 101 105	CDIC
+T13	Adverse_event 92 97	cause
+E1	Adverse_event:T13 
+A1	Speculated E1

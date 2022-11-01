@@ -1,0 +1,8 @@
+T8	Subject 9 11	he
+T10	Treatment 100 109	sorafenib
+T11	Gender 9 11	he
+T12	Drug 100 109	sorafenib
+T9	Effect 22 74	acute renal failure, hyperkalemia, and hyperuricemia
+T13	Time_elapsed 75 79	30 d
+T7	Adverse_event 12 21	developed
+E1	Adverse_event:T7

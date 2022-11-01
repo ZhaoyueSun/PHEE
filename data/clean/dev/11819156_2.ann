@@ -1,0 +1,8 @@
+T7	Subject 0 49	A patient suffering from a rare enzyme deficiency
+T8	Effect 62 92	malignant neuroleptic syndrome
+T10	Treatment 124 154	one single dose of haloperidol
+T12	Drug 143 154	haloperidol
+T13	Dosage 124 139	one single dose
+T14	Treat-Disorder 32 49	enzyme deficiency
+T9	Adverse_event 111 118	treated
+E1	Adverse_event:T9

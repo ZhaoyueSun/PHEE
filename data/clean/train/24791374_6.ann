@@ -1,0 +1,5 @@
+T6	Treat-Disorder 93 112	atrial fibrillation
+T7	Treatment 0 11	Propafenone
+T8	Drug 0 11	Propafenone
+T5	Potential_therapeutic_event 80 89	treatment
+E1	Potential_therapeutic_event:T5

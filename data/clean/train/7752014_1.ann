@@ -1,0 +1,5 @@
+T4	Treatment 0 10	Furosemide
+T6	Effect 22 27	fever
+T7	Drug 0 10	Furosemide
+T5	Adverse_event 11 21	associated
+E1	Adverse_event:T5

@@ -1,0 +1,8 @@
+T3	Subject 20 38	an 11-year-old boy
+T4	Effect 55 79	an anaphylactic reaction
+T6	Treatment 80 123	after administration of bacitracin ointment
+T7	Age 23 34	11-year-old
+T8	Gender 35 38	boy
+T9	Drug 104 114	bacitracin
+T5	Adverse_event 43 54	experienced
+E1	Adverse_event:T5

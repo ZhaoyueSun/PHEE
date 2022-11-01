@@ -1,0 +1,8 @@
+T4	Effect 13 27	hypothyroidism
+T6	Treatment 78 106	recombinant alpha interferon
+T5	Subject 0 9	Two cases
+T8	Population 0 3	Two
+T9	Drug 78 106	recombinant alpha interferon
+T10	Treat-Disorder 45 64	chronic hepatitis C
+T3	Adverse_event 65 72	treated
+E1	Adverse_event:T3

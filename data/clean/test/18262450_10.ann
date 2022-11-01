@@ -1,0 +1,8 @@
+T10	Treat-Disorder 49 53	pain
+T8	Treatment 0 20	Oxycodone-gabapentin
+T12	Drug 0 9	Oxycodone
+T13	Drug 10 20	gabapentin
+T9	Potential_therapeutic_event 40 48	improved
+T11	Combination 9 10	-
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T11 arg:T12 arg2:T13

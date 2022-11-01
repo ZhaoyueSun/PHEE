@@ -1,0 +1,9 @@
+T3	Treatment 0 8	Naproxen
+T5	Effect 134 163	erythropoietic protoporphyria
+T6	Subject 171 191	pediatric population
+T7	Age 171 180	pediatric
+T8	Speculation_cue 19 25	common
+T9	Drug 0 8	Naproxen
+T4	Adverse_event 45 55	associated
+E1	Adverse_event:T4 
+A1	Speculated E1

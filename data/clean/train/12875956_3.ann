@@ -1,0 +1,6 @@
+T3	Treat-Disorder 4 22	psychotic behavior
+T4	Treatment 58 90	discontinuation of levetiracetam
+T6	Time_elapsed 43 53	soon after
+T7	Drug 77 90	levetiracetam
+T5	Potential_therapeutic_event 23 31	resolved
+E1	Potential_therapeutic_event:T5 

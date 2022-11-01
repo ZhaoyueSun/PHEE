@@ -1,0 +1,5 @@
+T8	Treatment 171 181	ampicillin
+T9	Effect 31 129	rapid onset of renal failure, presence of eosinophilia, skin rash, and characteristic renal biopsy
+T10	Drug 171 181	ampicillin
+T7	Adverse_event 139 148	following
+E1	Adverse_event:T7

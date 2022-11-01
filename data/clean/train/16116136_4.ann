@@ -1,0 +1,5 @@
+T3	Treatment 34 50	withdrawal of MM
+T4	Effect 0 20	Primary CNS lymphoma
+T6	Drug 48 50	MM
+T5	Potential_therapeutic_event 21 30	regressed
+E1	Potential_therapeutic_event:T5

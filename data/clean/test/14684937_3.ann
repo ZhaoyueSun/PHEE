@@ -1,0 +1,10 @@
+T5	Effect 40 53	hypercalcemia
+T6	Treatment 65 112	vitamin D3 ointment and thiazide simultaneously
+T7	Subject 0 16	The present case
+T8	Drug 65 75	vitamin D3
+T9	Drug 89 97	thiazide
+T11	Route 76 84	ointment
+T4	Adverse_event 54 61	induced
+T10	Combination 85 88	and
+E1	Adverse_event:T4 
+E2	Combination:T10 arg:T8 arg2:T9

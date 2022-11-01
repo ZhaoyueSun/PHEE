@@ -1,0 +1,7 @@
+T3	Treatment 37 46	rifabutin
+T5	Effect 96 127	side-effect on retinal function
+T6	Drug 37 46	rifabutin
+T7	Speculation_cue 47 50	may
+T4	Adverse_event 51 55	have
+E1	Adverse_event:T4 
+A1	Speculated E1

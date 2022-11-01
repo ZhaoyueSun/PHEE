@@ -1,0 +1,7 @@
+T3	Treatment 11 23	methotrexate
+T5	Effect 35 63	lymphoproliferative disorder
+T6	Subject 102 137	a patient with rheumatoid arthritis
+T7	Treat-Disorder 117 137	rheumatoid arthritis
+T8	Drug 11 23	methotrexate
+T4	Adverse_event 24 34	associated
+E1	Adverse_event:T4 

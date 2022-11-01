@@ -1,0 +1,5 @@
+T4	Effect 116 130	hypothyroidism
+T5	Treatment 97 107	amiodarone
+T7	Drug 97 107	amiodarone
+T3	Adverse_event 108 115	induced
+E1	Adverse_event:T3

@@ -1,0 +1,10 @@
+T7	Subject 0 79	53-year-old woman with a history of deep vein thrombosis and pulmonary embolism
+T10	Treatment 94 102	warfarin
+T13	Age 0 11	53-year-old
+T14	Gender 12 17	woman
+T15	Drug 94 102	warfarin
+T16	Treat-Disorder 36 56	deep vein thrombosis
+T17	Treat-Disorder 61 79	pulmonary embolism
+T11	Treat-Disorder 114 143	thromboembolic complications;
+T18	Potential_therapeutic_event 106 113	prevent
+E2	Potential_therapeutic_event:T18

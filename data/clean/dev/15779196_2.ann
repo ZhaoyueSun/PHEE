@@ -1,0 +1,9 @@
+T3	Treatment 0 15	Zoledronic acid
+T5	Effect 24 44	severe hypocalcaemia
+T6	Subject 50 117	prostate cancer patient with extensive osteoblastic bone metastases
+T9	Drug 0 15	Zoledronic acid
+T10	Severity_cue 24 30	severe
+T11	Treat-Disorder 50 65;79 117	prostate cancer extensive osteoblastic bone metastases
+T4	Adverse_event 16 23	induced
+E1	Adverse_event:T4 
+A1	Severity E1 High

@@ -1,0 +1,5 @@
+T3	Effect 17 27	angioedema
+T4	Treatment 0 8	Losartan
+T6	Drug 0 8	Losartan
+T5	Adverse_event 9 16	induced
+E1	Adverse_event:T5

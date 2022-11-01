@@ -1,0 +1,6 @@
+T3	Effect 0 22	Cardiopulmonary arrest
+T5	Treatment 33 62	intravenous phenytoin loading
+T6	Route 33 44	intravenous
+T7	Drug 45 54	phenytoin
+T4	Adverse_event 23 32	following
+E1	Adverse_event:T4

@@ -1,0 +1,8 @@
+T7	Subject 12 24	two patients
+T8	Effect 33 68	painful erosions of their psoriasis
+T9	Treat-Disorder 59 68	psoriasis
+T10	Treatment 105 117	methotrexate
+T12	Population 12 15	two
+T13	Drug 105 117	methotrexate
+T11	Adverse_event 102 104	of
+E1	Adverse_event:T11

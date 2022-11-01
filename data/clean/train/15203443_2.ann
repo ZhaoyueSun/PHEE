@@ -1,0 +1,8 @@
+T4	Treatment 147 178	subcutaneous naltrexone implant
+T5	Effect 78 101	acute hepatitis B and C
+T6	Subject 12 27	a heroin abuser
+T7	Treat-Disorder 14 27	heroin abuser
+T8	Route 147 159	subcutaneous
+T9	Drug 160 170	naltrexone
+T3	Adverse_event 122 127	after
+E1	Adverse_event:T3 

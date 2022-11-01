@@ -1,0 +1,7 @@
+T5	Treatment 79 89	haloperido
+T6	Subject 59 68	a patient
+T7	Effect 46 55	dysphagia	
+T8	Drug 79 90	haloperidol
+T9	Treat-Disorder 95 149	obsessive nocturnal thoughts and auditory disturbances
+T3	Adverse_event 38 45	induced
+E1	Adverse_event:T3

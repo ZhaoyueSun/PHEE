@@ -1,0 +1,8 @@
+T3	Subject 21 47	a patient with hemiparesis
+T4	Sub-Disorder 36 47	hemiparesis
+T6	Effect 78 133	irreversible lithium-effectuated neurotoxicity (SILENT)
+T7	Treatment 159 186	lithium for a manic episode
+T8	Drug 159 166	lithium
+T9	Treat-Disorder 173 186	manic episode
+T5	Adverse_event 52 61	developed
+E1	Adverse_event:T5 

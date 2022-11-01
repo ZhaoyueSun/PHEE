@@ -1,0 +1,13 @@
+T3	Treatment 23 30	dextran
+T5	Effect 42 55	renal failure
+T6	Drug 23 30	dextran
+T8	Treat-Disorder 23 55	dextran-associated renal failure
+T9	Treatment 74 89	plasma exchange
+T10	Drug 74 89	plasma exchange
+T4	Adverse_event 31 41	associated
+T11	Potential_therapeutic_event 102 111	effective
+E1	Adverse_event:T4 arg:T3 arg2:T5
+E2	Potential_therapeutic_event:T11 arg:T9
+R1	has Arg1:T3 Arg2:T6	
+R2	has Arg1:T9 Arg2:T10	
+R3	has Arg1:T9 Arg2:T8

@@ -1,0 +1,7 @@
+T5	Treatment 35 40	M-CSF
+T7	Effect 57 206	underlying renal disease in this case through enhancing macrophage accumulation into the glomerulus, leading to the development of nephrotic syndrome
+T8	Speculation_cue 4 15	possibility
+T9	Drug 35 40	M-CSF
+T6	Adverse_event 41 52	accelerated
+E1	Adverse_event:T6 
+A1	Speculated E1

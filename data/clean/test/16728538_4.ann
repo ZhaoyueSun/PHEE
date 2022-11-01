@@ -1,0 +1,12 @@
+T5	Treat-Disorder 28 38	acromegaly
+T7	Effect 73 82	hepatitis
+T8	Treatment 118 160;169 203	long-acting somatostatin-analog octreotide GH receptor antagonist pegvisomant
+T4	Subject 13 38	a patient with acromegaly
+T11	Drug 192 203	pegvisomant
+T12	Drug 150 160	octreotide
+T10	Severity_cue 53 59	severe
+T6	Adverse_event 43 52	developed
+T9	Combination 90 108	combined treatment
+E1	Adverse_event:T6 
+E2	Combination:T9 arg:T11 arg2:T12
+A1	Severity E1 High

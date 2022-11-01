@@ -1,0 +1,10 @@
+T5	Subject 0 27	A 10-year-old asthmatic boy
+T6	Effect 49 99	urticarial rash and moderately severe bronchospasm
+T8	Treatment 106 151	8 weeks' treatment with disodium cromoglycate
+T9	Age 2 13	10-year-old
+T11	Gender 24 27	boy
+T12	Time_elapsed 106 114	8 weeks'
+T13	Drug 130 151	disodium cromoglycate
+T14	Treat-Disorder 14 23	asthmatic
+T7	Adverse_event 100 105	after
+E1	Adverse_event:T7

@@ -1,0 +1,9 @@
+T10	Subject 148 153	women
+T11	Effect 12 123	Reproductive endocrine disorders characterized by menstrual disorders, polycystic ovaries, and hyperandrogenism
+T13	Gender 148 153	women
+T14	Speculation_cue 124 128	seem
+T15	Drug 167 183	sodium valproate
+T9	Treatment 167 196	sodium valproate for epilepsy
+T16	Treat-Disorder 188 196	epilepsy
+T12	Adverse_event 154 161	treated
+E1	Adverse_event:T12

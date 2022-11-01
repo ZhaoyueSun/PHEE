@@ -1,0 +1,11 @@
+T9	Treatment 44 54	flecainide
+T10	Speculation_cue 63 71	probable
+T12	Effect 95 103	delirium
+T13	Subject 81 92	the patient
+T14	Drug 44 54	flecainide
+T15	Drug 211 221	flecainide
+T16	Drug 226 236	paroxetine
+T11	Adverse_event 72 77	cause
+T17	Combination 191 202	interaction
+E1	Adverse_event:T11 
+E2	Combination:T17 arg:T15 arg2:T16

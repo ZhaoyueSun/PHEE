@@ -1,0 +1,14 @@
+T4	Treatment 39 52	dexamethasone
+T6	Subject 104 121	premature infants
+T7	Sub-Disorder 104 113	premature
+T8	Age 114 121	infants
+T9	Drug 39 52	dexamethasone
+T3	Adverse_event 53 60	induced
+E1	Adverse_event:T3 arg:T4 arg2:T1 arg3:T6
+T1	Effect 61 100	hypertrophic obstructive cardiomyopathy
+T2	Potential_therapeutic_event 0 6	Effect
+E2	Potential_therapeutic_event:T2 arg:T5 arg2:T6
+T5	Treatment 10 23	beta-blockade
+T10	Drug 10 23	beta-blockade
+T11	Treat-Disorder 27 100	symptomatic dexamethasone-induced hypertrophic obstructive cardiomyopathy
+R1	has Arg1:T5 Arg2:T11	

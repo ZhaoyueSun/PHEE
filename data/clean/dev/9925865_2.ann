@@ -1,0 +1,6 @@
+T12	Effect 122 125	ELP
+T10	Treatment 55 83	a history of mineral oil use
+T13	Drug 68 79	mineral oil
+T14	Subject 0 53	In patients with swallowing dysfunction and pneumonia
+T11	Adverse_event 136 146	considered
+E1	Adverse_event:T11

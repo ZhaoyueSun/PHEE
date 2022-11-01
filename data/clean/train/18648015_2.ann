@@ -1,0 +1,8 @@
+T3	Treatment 13 22	Cefazolin
+T4	Speculation_cue 29 37	probable
+T6	Subject 52 59	patient
+T7	Effect 62 72	leukopenia
+T8	Drug 13 22	Cefazolin
+T5	Adverse_event 38 43	cause
+E1	Adverse_event:T5 
+A1	Speculated E1

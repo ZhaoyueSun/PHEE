@@ -1,0 +1,7 @@
+T7	Effect 65 95	neutropenia or agranulocytosis
+T8	Treatment 118 138	olanzapine (Zyprexa)
+T10	Drug 118 128	olanzapine
+T11	Subject 43 61	41 anecdotic cases
+T12	Population 43 45	41
+T9	Adverse_event 96 102	during
+E1	Adverse_event:T9

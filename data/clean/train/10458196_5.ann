@@ -1,0 +1,8 @@
+T3	Treatment 38 57	topical brimonidine
+T4	Effect 70 133	apparent central nervous system depression and unresponsiveness
+T5	Subject 137 146	an infant
+T7	Age 140 146	infant
+T8	Route 38 45	topical
+T9	Drug 46 57	brimonidine
+T6	Adverse_event 58 66	resulted
+E1	Adverse_event:T6

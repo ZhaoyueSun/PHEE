@@ -1,0 +1,5 @@
+T5	Treatment 67 93	interferon alpha treatment
+T6	Effect 0 56	Generalized lichen nitidus with involvement of the palms
+T7	Drug 67 83	interferon alpha
+T4	Adverse_event 57 66	following
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T3	Treatment 60 71	mirtazapine
+T5	Effect 37 39	SS
+T6	Drug 60 71	mirtazapine
+T4	Adverse_event 45 59	implication of
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T3	Effect 0 69	Markedly increased pigmementation of skin immediately overlying veins
+T5	Treatment 79 112	multiple 5-fluorouracil infusions
+T6	Drug 88 102	5-fluorouracil
+T7	Route 103 112	infusions
+T4	Adverse_event 117 122	noted
+E1	Adverse_event:T4

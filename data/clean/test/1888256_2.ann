@@ -1,0 +1,6 @@
+T3	Effect 13 18	fever
+T4	Effect 61 90	unexplained high temperatures
+T5	Treatment 98 115	diltiazem therapy
+T7	Drug 98 107	diltiazem
+T6	Adverse_event 5 12	induced
+E1	Adverse_event:T6

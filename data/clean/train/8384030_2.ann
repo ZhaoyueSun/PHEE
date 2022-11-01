@@ -1,0 +1,5 @@
+T3	Effect 12 33	Electrolyte disorders
+T5	Treatment 50 59	foscarnet
+T6	Drug 50 59	foscarnet
+T4	Adverse_event 34 44	associated
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T4	Treatment 75 85	infliximab
+T5	Treat-Disorder 0 60	Mycobacterium marinum infection complicating Crohn's disease
+T6	Drug 75 85	infliximab
+T3	Potential_therapeutic_event 62 69	treated
+E1	Potential_therapeutic_event:T3

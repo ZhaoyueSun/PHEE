@@ -1,0 +1,8 @@
+T3	Effect 27 36	myoclonus
+T5	Treatment 53 91	continuous i.v. infusion of dobutamine
+T6	Subject 95 140	a patient with end-stage renal disease (ESRD)
+T7	Sub-Disorder 110 140	end-stage renal disease (ESRD)
+T8	Drug 81 91	dobutamine
+T9	Route 69 77	infusion
+T4	Adverse_event 37 52	associated with
+E1	Adverse_event:T4 

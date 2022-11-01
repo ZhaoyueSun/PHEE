@@ -1,0 +1,7 @@
+T3	Treatment 0 9	Sorafenib
+T6	Subject 42 86	an advanced hepatocellular carcinoma patient
+T8	Drug 0 9	Sorafenib
+T9	Treat-Disorder 54 78	hepatocellular carcinoma
+T5	Effect 18 38	tumor lysis syndrome
+T4	Adverse_event 10 17	induced
+E1	Adverse_event:T4

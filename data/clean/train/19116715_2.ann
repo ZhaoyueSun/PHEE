@@ -1,0 +1,7 @@
+T3	Treatment 53 64	gemcitabine
+T5	Effect 73 76	HUS
+T6	Subject 81 132	a patient with metastatic pancreatic adenocarcinoma
+T8	Drug 53 64	gemcitabine
+T9	Treat-Disorder 96 133	metastatic pancreatic adenocarcinoma,
+T4	Adverse_event 65 72	related
+E1	Adverse_event:T4

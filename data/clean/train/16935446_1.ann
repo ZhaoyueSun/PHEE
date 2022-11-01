@@ -1,0 +1,6 @@
+T5	Treatment 57 66	phenytoin
+T6	Effect 0 30	Fever and maculopapular rashes
+T8	Time_elapsed 43 50	10 days
+T9	Drug 57 66	phenytoin
+T7	Adverse_event 31 39	appeared
+E1	Adverse_event:T7

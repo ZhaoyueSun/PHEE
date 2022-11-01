@@ -1,0 +1,12 @@
+T8	Effect 4 20	skin rash effect
+T10	Treatment 62 73;136 233	olanzapine, by pravastatin, a 3-hydoxy-3-methylglutaryl-coenzyme A-(HMG-CoA)-reductase inhibitor, and lithium
+T11	Drug 62 72	olanzapine
+T12	Effect 82 106	cutaneous skin condition
+T13	Drug 139 150	pravastatin
+T14	Drug 226 233	lithium
+T16	Speculation_cue 30 38	probably
+T9	Adverse_event 39 42	due
+T15	Combination 222 225	and
+E1	Adverse_event:T9 
+E2	Combination:T15 arg:T14 arg2:T13 arg3:T11
+A1	Speculated E1

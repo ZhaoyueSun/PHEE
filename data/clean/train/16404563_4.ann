@@ -1,0 +1,7 @@
+T5	Treatment 108 123	corticosteroids
+T6	Subject 59 82	immunocompromised hosts
+T7	Effect 0 8	Nocardia
+T9	Sub-Disorder 59 76	immunocompromised
+T10	Drug 108 123	corticosteroids
+T8	Adverse_event 39 55	infectious agent
+E1	Adverse_event:T8 

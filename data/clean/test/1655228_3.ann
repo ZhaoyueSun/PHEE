@@ -1,0 +1,9 @@
+T3	Subject 0 64	Three patients are reported without a history of angina pectoris
+T4	Effect 119 138	myocardial ischemia
+T5	Treatment 139 181	during and immediately after BCNU infusion
+T7	Population 0 5	Three
+T8	Drug 168 172	BCNU
+T9	Time_elapsed 150 167	immediately after
+T10	Route 173 181	infusion
+T6	Adverse_event 69 72	had
+E1	Adverse_event:T6

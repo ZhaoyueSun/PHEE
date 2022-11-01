@@ -1,0 +1,8 @@
+T4	Treatment 49 105	a single oral dose of amiodarone (1400 mg or 30 mg kg-1)
+T5	Effect 20 38	torsade de pointes
+T6	Dosage 51 67	single oral dose
+T7	Drug 71 81	amiodarone
+T8	Dosage 83 90;94 104	1400 mg 30 mg kg-1
+T10	Treat-Disorder 155 194	prevention of paroxysmal atrial flutter
+T3	Adverse_event 39 48	following
+E1	Adverse_event:T3

@@ -1,0 +1,8 @@
+T6	Effect 60 76	fibrotic lesions
+T8	Treatment 104 133	bleomycin or cyclophosphamide
+T9	Drug 104 113	bleomycin
+T10	Drug 117 133	cyclophosphamide
+T11	Speculation_cue 77 87	apparently
+T7	Adverse_event 88 100	attributable
+E1	Adverse_event:T7 
+A1	Speculated E1

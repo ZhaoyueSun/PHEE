@@ -1,0 +1,6 @@
+T7	Treatment 0 15	Corticosteroids
+T9	Speculation_cue 16 19	may
+T10	Drug 0 15	Corticosteroids
+T11	Treat-Disorder 85 101	thrombocytopenia
+T6	Potential_therapeutic_event 20 29	be useful
+E1	Potential_therapeutic_event:T6

@@ -1,0 +1,7 @@
+T3	Treatment 65 75	cephalexin
+T4	Effect 95 99	rash
+T5	Subject 12 51	a patient with infectious mononucleosis
+T8	Drug 65 75	cephalexin
+T9	Treat-Disorder 27 51	infectious mononucleosis
+T6	Adverse_event 86 92	showed
+E1	Adverse_event:T6 

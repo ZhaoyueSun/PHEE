@@ -1,0 +1,5 @@
+T4	Treatment 0 13	Bromocriptine
+T5	Effect 22 35	schizophrenia
+T6	Drug 0 13	Bromocriptine
+T3	Adverse_event 14 21	induced
+E1	Adverse_event:T3

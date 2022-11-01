@@ -1,0 +1,5 @@
+T3	Effect 0 32	Nonconvulsive status epilepticus
+T5	Treatment 40 50	ifosfamide
+T6	Drug 40 50	ifosfamide
+T4	Adverse_event 33 36	due
+E1	Adverse_event:T4

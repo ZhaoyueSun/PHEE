@@ -1,0 +1,12 @@
+T5	Effect 93 98	death
+T6	Subject 102 126	a 39-year-old obese male
+T7	Treat-Disorder 153 176	depression and insomnia
+T8	Treatment 0 17	Zolpidem (Ambien)
+T9	Age 104 115	39-year-old
+T10	Sub-Disorder 116 121	obese
+T11	Gender 122 126	male
+T12	Severity_cue 93 98	death
+T13	Drug 0 8	Zolpidem
+T4	Adverse_event 77 85	involved
+E1	Adverse_event:T4 
+A1	Severity E1 High

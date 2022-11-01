@@ -1,0 +1,7 @@
+T6	Treatment 125 137	methotrexate
+T5	Effect 12 51;150 181	diffuse interstitial pulmonary fibrosis bilateral pulmonary infiltrates
+T8	Subject 106 114	patients
+T9	Speculation_cue 52 72	should be considered
+T10	Drug 125 137	methotrexate
+T7	Adverse_event 142 149	develop
+E1	Adverse_event:T7

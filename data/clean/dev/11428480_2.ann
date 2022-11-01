@@ -1,0 +1,5 @@
+T4	Treatment 9 18	adenosine
+T5	Effect 113 176	acceleration of the ventricular rate during atrial fibrillation
+T7	Drug 9 18	adenosine
+T3	Adverse_event 107 112	cause
+E1	Adverse_event:T3

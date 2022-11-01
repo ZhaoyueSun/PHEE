@@ -1,0 +1,8 @@
+T8	Treatment 34 70	telithromycin 800 mg once-daily dose
+T10	Treat-Disorder 149 162;164 186;191 212;249 258	S. pneumoniae Haemophilus influenzae Staphylococcus aureus pneumonia
+T11	Subject 216 258	patients with community-acquired pneumonia
+T13	Drug 34 47	telithromycin
+T14	Dosage 48 54	800 mg
+T15	Freq 55 65	once-daily
+T9	Potential_therapeutic_event 89 96	provide
+E1	Potential_therapeutic_event:T9

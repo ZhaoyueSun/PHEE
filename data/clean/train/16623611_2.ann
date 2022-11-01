@@ -1,0 +1,5 @@
+T6	Treatment 151 161	olanzapine
+T7	Effect 165 243	metabolic changes manifested as uncontrolled diabetes mellitus and weight gain
+T8	Drug 151 161	olanzapine
+T5	Adverse_event 135 147	relationship
+E1	Adverse_event:T5

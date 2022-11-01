@@ -1,0 +1,5 @@
+T5	Treatment 88 104	thiethylperazine
+T6	Effect 0 21	Anaphylactic reaction
+T7	Drug 88 104	thiethylperazine
+T4	Adverse_event 68 74	during
+E1	Adverse_event:T4

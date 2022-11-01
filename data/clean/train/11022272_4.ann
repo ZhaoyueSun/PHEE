@@ -1,0 +1,10 @@
+T11	Effect 52 134	several previous episodes of rhinitis, conjunctivitis and perspiration immediately
+T10	Treatment 163 240	salmon calcitonin with nasal spray or intramuscular administration (Calsynar)
+T13	Subject 23 46	a sixty years old woman
+T14	Age 25 40	sixty years old
+T15	Gender 41 46	woman
+T16	Route 186 197	nasal spray
+T18	Route 201 214	intramuscular
+T19	Drug 163 180	salmon calcitonin
+T12	Adverse_event 135 140	after
+E1	Adverse_event:T12

@@ -1,0 +1,6 @@
+T9	Treatment 92 182	thrombolytic therapy with intravenous recombinant tissue-type plasminogen activator (t-PA)
+T8	Effect 28 81	renal failure due to cholesterol crystal embolization
+T10	Route 118 129	intravenous
+T11	Drug 130 175	recombinant tissue-type plasminogen activator
+T7	Adverse_event 14 24	occurrence
+E1	Adverse_event:T7

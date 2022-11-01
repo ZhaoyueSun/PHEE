@@ -1,0 +1,12 @@
+T3	Subject 12 27	76-year-old man
+T5	Effect 45 70	acute blistering eruption
+T6	Treatment 81 111	high-dose penicillin treatment
+T7	Age 12 23	76-year-old
+T8	Gender 24 27	man
+T9	Drug 91 101	penicillin
+T10	Dosage 81 90	high-dose
+T11	Treat-Disorder 116 140	pneumococcal septicaemia
+T12	Severity_cue 45 50	acute
+T4	Adverse_event 32 41	developed
+E1	Adverse_event:T4 
+A1	Severity E1 High

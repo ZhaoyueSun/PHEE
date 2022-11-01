@@ -1,0 +1,5 @@
+T6	Effect 30 48	phenytoin toxicity
+T8	Treatment 56 65	erlotinib
+T9	Drug 56 65	erlotinib
+T7	Adverse_event 49 52	due
+E1	Adverse_event:T7

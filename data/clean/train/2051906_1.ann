@@ -1,0 +1,11 @@
+T4	Subject 0 95	A 67-year-old patient, with primary polymyositis and without previous evidence of liver disease
+T5	Treatment 163 204	3 months after initiation of azathioprine
+T6	Effect 151 162	cholestasis
+T7	Drug 192 204	azathioprine
+T8	Time_elapsed 163 171	3 months
+T9	Treat-Disorder 28 48	primary polymyositis
+T10	Severity_cue 144 150	severe
+T3	Adverse_event 97 106	developed
+E1	Adverse_event:T3 
+A1	Severity E1 High
+T1	Age 2 13	67-year-old

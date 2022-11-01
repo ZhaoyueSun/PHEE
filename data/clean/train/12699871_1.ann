@@ -1,0 +1,6 @@
+T3	Treatment 0 110	FK506, which began to be administered 12 days earlier, rose to a level of 44 ng/mL (normal range, 10-20 ng/mL)
+T5	Effect 124 154	neurologic abnormalities began
+T6	Drug 0 5	FK506
+T7	Time_elapsed 38 53	12 days earlier
+T4	Adverse_event 117 123	before
+E1	Adverse_event:T4

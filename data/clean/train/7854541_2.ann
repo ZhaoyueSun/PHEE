@@ -1,0 +1,5 @@
+T3	Effect 0 43	Multifocal inflammatory leukoencephalopathy
+T5	Treatment 60 78	levamisole therapy
+T6	Drug 60 70	levamisole
+T4	Adverse_event 44 59	associated with
+E1	Adverse_event:T4

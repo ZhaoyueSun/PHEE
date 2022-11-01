@@ -1,0 +1,9 @@
+T3	Speculation_cue 51 56	might
+T4	Treatment 0 50	Combining methylephedrine and Chinese herbal drugs
+T6	Effect 65 79	risk of stroke
+T8	Drug 10 25	methylephedrine
+T10	Drug 30 50	Chinese herbal drugs
+T5	Adverse_event 57 62	carry
+T9	Combination 0 9	Combining
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T8 arg2:T10

@@ -1,0 +1,7 @@
+T4	Subject 0 24	A 30-year-old pharmacist
+T6	Effect 39 72	acute allergic contact dermatitis
+T7	Treatment 80 117	4-chloro-7-nitrobenzofurazan (NBD-Cl)
+T8	Age 2 13	30-year-old
+T9	Drug 80 108	4-chloro-7-nitrobenzofurazan
+T5	Adverse_event 25 33	suffered
+E1	Adverse_event:T5

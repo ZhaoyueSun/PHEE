@@ -1,0 +1,5 @@
+T3	Treatment 0 11	Risperidone
+T4	Effect 31 53	respiratory dyskinesia
+T6	Drug 0 11	Risperidone
+T5	Adverse_event 23 30	related
+E1	Adverse_event:T5

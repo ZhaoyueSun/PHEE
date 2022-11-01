@@ -1,0 +1,6 @@
+T4	Treat-Disorder 0 31	Symptoms and endoscopic lesions
+T3	Treatment 50 87	within 1 week of meloxicam withdrawal
+T7	Time_elapsed 57 63	1 week
+T8	Drug 67 76	meloxicam
+T5	Potential_therapeutic_event 40 49	regressed
+E1	Potential_therapeutic_event:T5 

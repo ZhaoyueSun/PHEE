@@ -1,0 +1,5 @@
+T4	Effect 6 16	angioedema
+T6	Treatment 37 51	5-fluorouracil
+T7	Drug 37 51	5-fluorouracil
+T5	Adverse_event 17 25	response
+E1	Adverse_event:T5

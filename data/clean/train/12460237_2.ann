@@ -1,0 +1,6 @@
+T6	Effect 0 40;44 78;133 181	Palmar-plantar erythrodysaesthesia (PPE) an uncommon cutaneous complication a painful erythema involving the palms and soles
+T7	Treatment 82 104	cytotoxic chemotherapy
+T9	Drug 82 91	cytotoxic
+T10	Route 92 104	chemotherapy
+T8	Adverse_event 66 78	complication
+E1	Adverse_event:T8

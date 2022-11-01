@@ -1,0 +1,8 @@
+T7	Treatment 30 57	clemastine and betametasone
+T8	Effect 0 24	The symptoms disappeared
+T9	Drug 30 40	clemastine
+T10	Drug 45 57	betametasone
+T6	Potential_therapeutic_event 13 24	disappeared
+T11	Combination 41 44	and
+E1	Potential_therapeutic_event:T6 
+E2	Combination:T11 arg:T10 arg2:T9

@@ -1,0 +1,6 @@
+T9	Subject 12 18	a case
+T10	Effect 22 183	disseminated muscular cysticercosis followed by myositis (fever, diffuse myalgia, weakness of the lower limbs, and inflammatory reaction around dying cysticerci)
+T12	Treatment 195 215	praziquantel therapy
+T13	Drug 195 207	praziquantel
+T11	Adverse_event 184 191	induced
+E1	Adverse_event:T11

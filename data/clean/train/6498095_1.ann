@@ -1,0 +1,7 @@
+T3	Treatment 10 41	patient discontinued rifampicin
+T4	Effect 47 93	skin lesions cleared completely within 5 weeks
+T6	Drug 31 41	rifampicin
+T7	Treat-Disorder 47 59	skin lesions
+T8	Time_elapsed 79 93	within 5 weeks
+T5	Potential_therapeutic_event 0 5	After
+E1	Potential_therapeutic_event:T5

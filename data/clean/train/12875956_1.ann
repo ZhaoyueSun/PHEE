@@ -1,0 +1,5 @@
+T3	Effect 0 15	Acute psychosis
+T5	Treatment 32 45	levetiracetam
+T6	Drug 32 45	levetiracetam
+T4	Adverse_event 16 26	associated
+E1	Adverse_event:T4

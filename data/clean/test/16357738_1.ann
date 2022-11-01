@@ -1,0 +1,10 @@
+T7	Effect 149 153	RPLS
+T8	Treatment 25 114	immunosuppressive drugs such as cyclosporine, cisplatin, tacrolimus, and interferon-alpha
+T11	Drug 57 69	cyclosporine
+T12	Drug 71 80	cisplatin
+T13	Drug 82 92	tacrolimus
+T14	Drug 98 114	interferon-alpha
+T15	Speculation_cue 115 118	can
+T6	Adverse_event 119 125	induce
+E1	Adverse_event:T6 
+A1	Speculated E1

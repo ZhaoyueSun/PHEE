@@ -1,0 +1,7 @@
+T3	Subject 22 69	fluvoxamine-induced akathisia in an OCD patient
+T5	Treatment 172 206	5-HT2A/5-HT2C antagonist mianserin
+T8	Treat-Disorder 42 51	akathisia
+T9	Treat-Disorder 58 61	OCD
+T10	Drug 197 206	mianserin
+T4	Potential_therapeutic_event 155 162	treated
+E1	Potential_therapeutic_event:T4

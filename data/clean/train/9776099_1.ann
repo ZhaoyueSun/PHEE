@@ -1,0 +1,6 @@
+T3	Treatment 63 74	Haloperidol
+T4	Subject 86 93	patient
+T5	Effect 0 3	NMS
+T7	Drug 63 74	Haloperidol
+T6	Adverse_event 22 30	response
+E1	Adverse_event:T6

@@ -1,0 +1,5 @@
+T4	Treatment 0 29	Trimethoprim-sulfamethoxazole
+T5	Effect 38 115	hypersensitivity syndrome associated with reactivation of human herpesvirus-6
+T6	Drug 0 29	Trimethoprim-sulfamethoxazole
+T3	Adverse_event 30 37	induced
+E1	Adverse_event:T3

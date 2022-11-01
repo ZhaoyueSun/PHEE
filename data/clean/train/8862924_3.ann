@@ -1,0 +1,5 @@
+T10	Treatment 20 35	methamphetamine
+T11	Effect 44 53	keratitis
+T12	Drug 20 35	methamphetamine
+T9	Adverse_event 36 43	related
+E1	Adverse_event:T9

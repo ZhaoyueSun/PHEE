@@ -1,0 +1,7 @@
+T3	Effect 36 61	acute cerebellar syndrome
+T4	Subject 12 21	a patient
+T6	Treatment 68 120	prophylactic intrathecal methotrexate administration
+T7	Drug 93 105	methotrexate
+T8	Route 81 92	intrathecal
+T5	Adverse_event 26 35	developed
+E1	Adverse_event:T5

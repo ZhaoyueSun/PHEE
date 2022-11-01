@@ -1,0 +1,7 @@
+T3	Effect 0 25	Acute myocardial ischemia
+T5	Treatment 36 110	accidental intravenous administration of epinephrine in high concentration
+T6	Route 47 73	intravenous administration
+T7	Drug 77 88	epinephrine
+T8	Dosage 92 110	high concentration
+T4	Adverse_event 26 35	following
+E1	Adverse_event:T4

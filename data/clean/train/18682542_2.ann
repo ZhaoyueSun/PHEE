@@ -1,0 +1,10 @@
+T6	Effect 73 93	neuralgic amyotrophy
+T8	Treatment 123 186	antibiotics vancomycin, tobramycin, and piperacillin/tazobactam
+T9	Drug 135 145	vancomycin
+T10	Drug 147 157	tobramycin
+T11	Drug 163 175	piperacillin
+T12	Drug 176 186	tazobactam
+T7	Adverse_event 94 103	triggered
+T13	Combination 159 162	and
+E1	Adverse_event:T7 
+E2	Combination:T13 arg:T9 arg2:T10 arg3:T11 arg4:T12

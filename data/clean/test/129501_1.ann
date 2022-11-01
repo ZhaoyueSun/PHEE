@@ -1,0 +1,9 @@
+T3	Effect 0 11	Anaphylaxis
+T4	Treatment 18 46	the injection of chymopapain
+T6	Subject 74 79	cases
+T7	Route 22 31	injection
+T8	Drug 35 46	chymopapain
+T9	Speculation_cue 63 65	1%
+T5	Adverse_event 47 53	occurs
+E1	Adverse_event:T5 
+A1	Speculated E1

@@ -1,0 +1,5 @@
+T5	Effect 0 36	Spontaneous nasal septal perforation
+T7	Treatment 42 76	antiangiogenic bevacizumab therapy
+T8	Drug 57 68	bevacizumab
+T6	Adverse_event 37 41	with
+E1	Adverse_event:T6

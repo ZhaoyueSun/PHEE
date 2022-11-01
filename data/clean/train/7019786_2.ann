@@ -1,0 +1,11 @@
+T5	Effect 55 77	acute tubular necrosis
+T8	Treat-Disorder 20 40	rheumatoid arthritis
+T9	Gender 10 15	woman
+T7	Subject 0 40	The other woman had rheumatoid arthritis
+T10	Drug 99 109	gentamicin
+T11	Drug 114 123	cefoxitin
+T4	Treatment 99 123	gentamicin and cefoxitin
+T6	Adverse_event 45 54	developed
+T12	Combination 110 113	and
+E1	Adverse_event:T6 
+E2	Combination:T12 arg:T10 arg2:T11

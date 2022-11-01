@@ -1,0 +1,9 @@
+T4	Effect 0 18	Ulcer became worse
+T5	Treat-Disorder 0 5	Ulcer
+T6	Treatment 25 50	tobramycin and gentamycin
+T8	Drug 25 35	tobramycin
+T9	Drug 40 50	gentamycin
+T7	Adverse_event 19 24	after
+T10	Combination 36 39	and
+E1	Adverse_event:T7 
+E2	Combination:T10 arg:T9 arg2:T8

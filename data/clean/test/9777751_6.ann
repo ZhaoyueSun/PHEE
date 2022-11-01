@@ -1,0 +1,11 @@
+T7	Treatment 129 139	thionamide
+T8	Effect 148 178	hematologic adverse reactions.
+T10	Drug 129 139	thionamide
+T12	Treat-Disorder 122 177	severe thionamide-induced hematologic adverse reactions
+T13	Treatment 28 66	hemopoietic colony stimulating factors
+T14	Drug 28 66	hemopoietic colony stimulating factors
+T6	Adverse_event 140 147	induced
+T11	Potential_therapeutic_event 96 103	achieve
+E1	Adverse_event:T6 arg:T7 arg2:T8
+E2	Potential_therapeutic_event:T11 arg:T13
+R1	has Arg1:T13 Arg2:T12

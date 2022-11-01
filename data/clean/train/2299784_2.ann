@@ -1,0 +1,5 @@
+T3	Effect 0 20	Bromide intoxication
+T5	Treatment 34 56	pyridostigmine bromide
+T6	Drug 34 56	pyridostigmine bromide
+T4	Adverse_event 21 30	secondary
+E1	Adverse_event:T4

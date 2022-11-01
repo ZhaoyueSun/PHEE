@@ -1,0 +1,8 @@
+T6	Effect 72 93	serious bleeding risk
+T7	Subject 98 106	patients
+T8	Treatment 110 118	warfarin
+T9	Speculation_cue 56 59	may
+T10	Severity_cue 72 79	serious
+T11	Drug 110 118	warfarin
+T5	Adverse_event 60 69	result in
+E1	Adverse_event:T5

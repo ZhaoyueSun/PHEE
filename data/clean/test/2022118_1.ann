@@ -1,0 +1,7 @@
+T5	Treatment 20 27	lithium
+T6	Subject 55 77	patient who is purging
+T8	Effect 107 138	loss of intracellular potassium
+T9	Effect 148 187	increasing the risk of cardiac toxicity
+T10	Drug 20 27	lithium
+T7	Adverse_event 92 102	exacerbate
+E1	Adverse_event:T7

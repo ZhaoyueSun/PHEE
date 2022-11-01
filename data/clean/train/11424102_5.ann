@@ -1,0 +1,6 @@
+T7	Treatment 42 45	PEI
+T10	Speculation_cue 12 16	risk
+T11	Drug 42 45	PEI
+T12	Treat-Disorder 81 84	HCC
+T8	Potential_therapeutic_event 46 53	remains
+E1	Potential_therapeutic_event:T8

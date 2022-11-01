@@ -1,0 +1,8 @@
+T3	Treatment 95 114	low-dose amifostine
+T5	Effect 84 89	fever
+T6	Subject 26 40	the first case
+T7	Speculation_cue 0 16	To our knowledge
+T8	Dosage 96 103	ow-dose
+T9	Drug 104 114	amifostine
+T4	Adverse_event 70 80	occurrence
+E1	Adverse_event:T4

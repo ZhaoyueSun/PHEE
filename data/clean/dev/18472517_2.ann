@@ -1,0 +1,9 @@
+T3	Subject 16 32	a female patient
+T5	Effect 47 72	acute bilateral parotitis
+T6	Treatment 91 117	i.v. enalaprilat injection
+T7	Gender 18 24	female
+T8	Drug 96 107	enalaprilat
+T9	Route 108 117	injection
+T10	Time_elapsed 73 87	within minutes
+T4	Adverse_event 37 46	developed
+E1	Adverse_event:T4

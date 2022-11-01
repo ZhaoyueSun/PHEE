@@ -1,0 +1,10 @@
+T6	Treatment 47 98	very high doses of corticosteroids and azathioprine
+T8	Subject 0 2	He
+T10	Gender 0 2	He
+T11	Dosage 47 62	very high doses
+T12	Drug 66 81	corticosteroids
+T13	Drug 86 98	azathioprine
+T7	Potential_therapeutic_event 3 12	recovered
+T14	Combination 82 85	and
+E1	Potential_therapeutic_event:T7 
+E2	Combination:T14 arg:T12 arg2:T13

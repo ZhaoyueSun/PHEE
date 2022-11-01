@@ -1,0 +1,9 @@
+T6	Treatment 28 40	chlorambucil
+T8	Effect 49 63	DRESS syndrome
+T9	Subject 67 84	a 70-year-old man
+T11	Age 69 80	70-year-old
+T12	Gender 81 84	man
+T13	Drug 28 40	chlorambucil
+T14	Treat-Disorder 109 138	chronic lymphocytic leukaemia
+T7	Adverse_event 41 48	induced
+E1	Adverse_event:T7

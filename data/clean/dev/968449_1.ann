@@ -1,0 +1,6 @@
+T6	Effect 0 24	Chromosome abnormalities
+T8	Treatment 31 51	chlorambucil therapy
+T10	Drug 31 43	chlorambucil
+T11	Treat-Disorder 55 73	polycythaemia vera
+T7	Adverse_event 25 30	after
+E1	Adverse_event:T7

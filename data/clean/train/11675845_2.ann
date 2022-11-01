@@ -1,0 +1,10 @@
+T9	Treatment 100 123	warfarin and ropinirole
+T8	Subject 70 89	a geriatric patient
+T10	Effect 20 66	increased international normalized ratio (INR)
+T12	Age 72 81	geriatric
+T13	Drug 100 108	warfarin
+T14	Drug 113 123	ropinirole
+T11	Adverse_event 12 16	case
+T15	Combination 109 112	and
+E1	Adverse_event:T11 
+E2	Combination:T15 arg:T14 arg2:T13

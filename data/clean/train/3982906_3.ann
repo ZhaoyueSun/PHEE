@@ -1,0 +1,9 @@
+T3	Effect 12 34	cardiac decompensation
+T4	Sub-Disorder 84 110	congestive cardiac failure
+T6	Treatment 161 170	verapamil
+T5	Subject 38 110	infants with supraventricular tachycardia and congestive cardiac failure
+T8	Age 38 45	infants
+T9	Drug 161 170	verapamil
+T7	Adverse_event 4 8	risk
+E1	Adverse_event:T7 
+T1	Treat-Disorder 51 79	supraventricular tachycardia

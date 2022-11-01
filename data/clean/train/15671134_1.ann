@@ -1,0 +1,14 @@
+T3	Treatment 10 19	clozapine
+T5	Effect 28 49	tonic-clonic seizures
+T6	Drug 10 19	clozapine
+T8	Treat-Disorder 10 49	clozapine-induced tonic-clonic seizures
+T9	Subject 0 6	A case
+T10	Treatment 63 72	valproate
+T11	Drug 63 72	valproate
+T4	Adverse_event 20 27	induced
+T12	Potential_therapeutic_event 50 57	managed
+E1	Adverse_event:T4 arg:T3 arg2:T5 arg3:T9
+E2	Potential_therapeutic_event:T12 arg:T10 arg2:T9
+R1	has Arg1:T3 Arg2:T6	
+R2	has Arg1:T10 Arg2:T11	
+R3	has Arg1:T10 Arg2:T8

@@ -1,0 +1,11 @@
+T11	Effect 133 141	seizures
+T13	Treatment 156 251	subcutaneous administration of relatively large doses of lignocaine under medetomidine sedation
+T14	Drug 213 223	lignocaine
+T15	Drug 230 242	medetomidine
+T16	Route 156 168	subcutaneous
+T18	Speculation_cue 119 128	potential
+T12	Adverse_event 142 151	following
+T17	Combination 224 229	under
+E1	Adverse_event:T12 
+E2	Combination:T17 arg:T15 arg2:T14
+A1	Speculated E1

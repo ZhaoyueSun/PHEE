@@ -1,0 +1,11 @@
+T3	Treatment 18 53	oral lansoprazole 60 mg twice daily
+T4	Subject 0 2	He
+T5	Effect 82 106	platelet count decreased
+T7	Gender 0 2	He
+T8	Route 18 22	oral
+T9	Drug 23 35	lansoprazole
+T10	Dosage 36 41	60 mg
+T11	Freq 42 53	twice daily
+T12	Duration 71 76	day 2
+T6	Adverse_event 59 61	on
+E1	Adverse_event:T6

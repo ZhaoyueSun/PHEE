@@ -1,0 +1,6 @@
+T5	Subject 29 38	a patient
+T7	Treatment 144 160	prochlorperazine
+T9	Drug 144 160	prochlorperazine
+T6	Effect 51 86;92 140	clinical appearance of epiglottitis actually had an oro-pharyngeal dystonic reaction
+T8	Adverse_event 101 104	had
+E1	Adverse_event:T8

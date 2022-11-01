@@ -1,0 +1,8 @@
+T3	Effect 0 12	Hyperkalemia
+T4	Treatment 48 75	adrenocorticotropic hormone
+T5	Treat-Disorder 88 104	infantile spasms
+T7	Drug 48 75	adrenocorticotropic hormone
+T8	Subject 88 104	infantile spasms
+T9	Age 88 97	infantile
+T6	Adverse_event 35 37	of
+E1	Adverse_event:T6

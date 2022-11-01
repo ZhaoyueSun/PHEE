@@ -1,0 +1,15 @@
+T7	Subject 0 19	One of the subjects
+T8	Treatment 34 66	extemporaneous topical minoxidil
+T9	Effect 71 112	hypertension and arteriosclerotic disease
+T11	Effect 127 158	died of a myocardial infarction
+T13	Route 49 56	topical
+T14	Drug 57 66	minoxidil
+T10	Population 0 3	One
+T16	Subject 117 126	the other
+T17	Severity_cue 127 131	died
+T12	Adverse_event 67 70	had
+T15	Adverse_event 127 131	died
+E1	Adverse_event:T12 arg:T7 arg2:T8 arg3:T9
+E2	Adverse_event:T15 arg:T11 arg2:T16 arg3:T8
+R1	has_cue Arg1:E2 Arg2:T17	
+A1	Severity E2 High

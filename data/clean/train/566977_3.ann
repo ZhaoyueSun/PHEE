@@ -1,0 +1,15 @@
+T3	Effect 100 118	metabolic acidosis
+T5	Treatment 126 146	absorbed formic acid
+T6	Speculation_cue 31 41	appears to
+T7	Drug 135 146	formic acid
+T9	Treatment 0 30	Intravenous sodium bicarbonate
+T11	Treat-Disorder 100 146	metabolic acidosis due to absorbed formic acid
+T12	Route 0 11	Intravenous
+T13	Drug 12 30	sodium bicarbonate
+T4	Adverse_event 119 122	due
+T10	Potential_therapeutic_event 75 84	combating
+E1	Adverse_event:T4 arg:T3 arg2:T5
+E2	Potential_therapeutic_event:T10 arg:T9
+R1	has_cue Arg1:E2 Arg2:T6	
+R2	has Arg1:T9 Arg2:T11	
+A1	Speculated E1

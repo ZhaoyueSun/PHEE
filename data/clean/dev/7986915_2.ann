@@ -1,0 +1,10 @@
+T11	Subject 12 71	a patient with a liver abscess due to Entamoeba histolytica
+T12	Treatment 81 134	metronidazole therapy (total dose, 21 g over 14 days)
+T14	Effect 154 250	reversible deafness, tinnitus, and ataxia and who relapsed 5 months later with a splenic abscess
+T17	Drug 81 94	metronidazole
+T18	Dosage 116 120	21 g
+T19	Duration 126 133	14 days
+T20	Treat-Disorder 29 42	liver abscess
+T21	Treat-Disorder 50 71	Entamoeba histolytica
+T13	Adverse_event 139 150	complicated
+E1	Adverse_event:T13

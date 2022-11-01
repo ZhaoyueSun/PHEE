@@ -1,0 +1,11 @@
+T11	Treatment 0 49;149 187	The combination of cyclobenzaprine and fluoxetine preoperative droperidol administration
+T13	Effect 62 89;110 142	significant QT prolongation progressed to torsade de pointes
+T14	Subject 93 104	our patient
+T15	Drug 19 34	cyclobenzaprine
+T16	Drug 39 49	fluoxetine
+T18	Drug 162 172	droperidol
+T19	Time_elapsed 149 161	preoperative
+T12	Adverse_event 50 58	resulted
+T17	Combination 4 15	combination
+E1	Adverse_event:T12 
+E2	Combination:T17 arg:T15 arg2:T16 arg3:T18

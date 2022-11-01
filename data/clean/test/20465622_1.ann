@@ -1,0 +1,11 @@
+T4	Effect 0 26	Severe aphthous stomatitis
+T6	Treatment 43 79	oral calcineurin and mTOR inhibitors
+T7	Severity_cue 0 6	Severe
+T8	Route 43 47	oral
+T10	Drug 64 79	mTOR inhibitors
+T11	Drug 48 59	calcineurin
+T5	Adverse_event 27 37	associated
+T9	Combination 60 63	and
+E1	Adverse_event:T5 
+E2	Combination:T9 arg:T11 arg2:T10
+A1	Severity E1 High

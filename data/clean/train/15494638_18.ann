@@ -1,0 +1,10 @@
+T10	Subject 37 49	two patients
+T11	Treatment 172 224	5-FU or its active metabolites (fluoro-beta-alanine)
+T13	Effect 16 29	neurotoxicity
+T14	Population 37 40	two
+T15	Drug 172 176	5-FU
+T16	Drug 204 223	fluoro-beta-alanine
+T17	Speculation_cue 154 166	it is likely
+T12	Adverse_event 230 242	contributing
+E1	Adverse_event:T12 
+A1	Speculated E1

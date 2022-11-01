@@ -1,0 +1,7 @@
+T3	Effect 24 57	hyperchloremic metabolic acidosis
+T4	Treatment 75 89	cholestyramine
+T6	Drug 75 89	cholestyramine
+T7	Speculation_cue 6 14	presumed
+T5	Adverse_event 62 71	secondary
+E1	Adverse_event:T5 
+A1	Speculated E1

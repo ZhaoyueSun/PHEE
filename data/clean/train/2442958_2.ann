@@ -1,0 +1,7 @@
+T5	Subject 8 29	a unique autopsy case
+T6	Treatment 77 101	diethylstilbestrol (DES)
+T7	Treat-Disorder 114 130	prostatic cancer
+T8	Effect 33 57	hepatocellular carcinoma
+T9	Drug 77 95	diethylstilbestrol
+T4	Adverse_event 66 73	related
+E1	Adverse_event:T4 

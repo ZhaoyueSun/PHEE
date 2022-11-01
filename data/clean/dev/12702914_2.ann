@@ -1,0 +1,9 @@
+T9	Treatment 27 34	insulin
+T10	Subject 44 47	she
+T13	Gender 44 47	she
+T14	Severity_cue 58 64	severe
+T12	Effect 65 139	anasarca, including marked peripheral oedema, ascites and pleural effusion
+T15	Drug 27 34	insulin
+T11	Adverse_event 48 57	developed
+E1	Adverse_event:T11 
+A1	Severity E1 High

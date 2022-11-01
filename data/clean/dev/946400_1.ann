@@ -1,0 +1,10 @@
+T3	Subject 0 19	A 55-year-old woman
+T5	Effect 53 62	hepatitis
+T6	Treatment 94 104	methyldopa
+T7	Treat-Disorder 109 121	hypertension
+T8	Age 2 13	55-year-old
+T9	Gender 14 19	woman
+T10	Time_elapsed 63 71	12 weeks
+T11	Drug 94 104	methyldopa
+T4	Adverse_event 20 29	developed
+E1	Adverse_event:T4

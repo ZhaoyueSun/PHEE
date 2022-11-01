@@ -1,0 +1,7 @@
+T6	Effect 40 96	hepatic dysfunction and an impaired macrophage migration
+T7	Treatment 115 138	cimetidine is discussed
+T8	Subject 12 20	an adult
+T9	Age 15 20	adult
+T10	Drug 115 125	cimetidine
+T5	Adverse_event 25 34	developed
+E1	Adverse_event:T5

@@ -1,0 +1,9 @@
+T5	Treatment 119 146	cytarabine and mitoxantrone
+T6	Effect 36 39	NEH
+T7	Subject 12 21	a patient
+T9	Drug 119 129	cytarabine
+T10	Drug 134 146	mitoxantrone
+T4	Adverse_event 68 76	provoked
+T8	Combination 130 133	and
+E1	Adverse_event:T4 
+E2	Combination:T8 arg:T9 arg2:T10

@@ -1,0 +1,5 @@
+T3	Effect 0 9	Catatonia
+T5	Treatment 26 44	disulfiram therapy
+T6	Drug 26 36	disulfiram
+T4	Adverse_event 10 20	associated
+E1	Adverse_event:T4

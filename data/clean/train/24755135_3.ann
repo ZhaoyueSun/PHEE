@@ -1,0 +1,10 @@
+T15	Subject 45 90	patients with partial or generalized epilepsy
+T17	Treatment 104 197	valproic acid (VPA), carbamazepine (CBZ), phenytoin (PHT), or topiramate (TPM) as monotherapy
+T18	Drug 104 117	valproic acid
+T19	Drug 125 138	carbamazepine
+T20	Drug 146 155	phenytoin
+T21	Drug 166 176	topiramate
+T16	Potential_therapeutic_event 91 98	treated
+T22	Combination 99 103	with
+E1	Potential_therapeutic_event:T16 
+E2	Combination:T22 arg:T18 arg2:T19 arg3:T20 arg4:T21

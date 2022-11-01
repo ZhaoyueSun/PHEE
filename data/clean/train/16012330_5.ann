@@ -1,0 +1,8 @@
+T5	Subject 0 60	A 3-year-old boy diagnosed with acute lymphoblastic leukemia
+T7	Treatment 70 92	induction chemotherapy
+T8	Age 2 12	3-year-old
+T9	Gender 13 16	boy
+T10	Treat-Disorder 32 60	acute lymphoblastic leukemia
+T11	Route 70 92	induction chemotherapy
+T6	Potential_therapeutic_event 61 69	received
+E1	Potential_therapeutic_event:T6 

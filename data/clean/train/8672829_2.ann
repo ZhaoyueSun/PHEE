@@ -1,0 +1,6 @@
+T3	Effect 59 100	onset of nonconvulsive status epilepticus
+T4	Treatment 105 138	initiation of ifosfamide infusion
+T7	Drug 119 129	ifosfamide
+T8	Route 130 138	infusion
+T5	Adverse_event 34 46	relationship
+E1	Adverse_event:T5

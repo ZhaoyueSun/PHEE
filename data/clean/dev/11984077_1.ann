@@ -1,0 +1,13 @@
+T3	Subject 122 152	a patient with dermatomyositis
+T5	Treatment 43 92	amifostine used with concurrent chemoradiotherapy
+T6	Effect 0 39	Life-threatening anaphylactoid reaction
+T7	Sub-Disorder 137 152	dermatomyositis
+T8	Treat-Disorder 97 118	nasopharyngeal cancer
+T9	Drug 43 53	amifostine
+T10	Drug 75 92	chemoradiotherapy
+T4	Adverse_event 40 42	to
+T11	Combination 59 63	with
+E1	Adverse_event:T4 
+E2	Combination:T11 arg:T9 arg2:T10
+T1	Severity_cue 0 16	Life-threatening
+A1	Severity E1 High

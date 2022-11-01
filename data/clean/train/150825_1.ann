@@ -1,0 +1,5 @@
+T3	Effect 20 41	cholestatic hepatitis
+T4	Treatment 67 81	nitrofurantoin
+T6	Drug 67 81	nitrofurantoin
+T5	Adverse_event 10 19	developed
+E1	Adverse_event:T5

@@ -1,0 +1,5 @@
+T3	Treatment 34 49	interferon alfa
+T4	Effect 0 18	Cutaneous necrosis
+T6	Drug 34 49	interferon alfa
+T5	Adverse_event 24 30	result
+E1	Adverse_event:T5

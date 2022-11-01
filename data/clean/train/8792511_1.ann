@@ -1,0 +1,5 @@
+T25	Treatment 30 37	dapsone
+T26	Effect 46 390	the idiosyncratic reactions of leukopenia and agranulocytosis, cutaneous eruptions, peripheral neuropathy, psychosis, toxic hepatitis, cholestatic jaundice, nephrotic syndrome, renal papillary necrosis, severe hypoalbuminemia without proteinuria, an infectious mononucleosis-like syndrome, and minor neurological and gastrointestinal complaints
+T28	Drug 30 37	dapsone
+T27	Adverse_event 38 45	include
+E1	Adverse_event:T27

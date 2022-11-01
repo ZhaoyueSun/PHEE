@@ -1,0 +1,7 @@
+T3	Treatment 0 10	Clofibrate
+T5	Effect 19 27	myopathy
+T6	Subject 31 63	patients with diabetes insipidus
+T7	Treat-Disorder 45 63	diabetes insipidus
+T8	Drug 0 10	Clofibrate
+T4	Adverse_event 11 18	induced
+E1	Adverse_event:T4 

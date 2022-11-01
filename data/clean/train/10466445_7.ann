@@ -1,0 +1,4 @@
+T4	Treatment 44 60	arsenic trioxide
+T5	Treat-Disorder 64 86	relapsed/resistant APL
+T6	Potential_therapeutic_event 23 40	therapeutic value
+E1	Potential_therapeutic_event:T6

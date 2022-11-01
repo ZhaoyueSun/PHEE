@@ -1,0 +1,6 @@
+T5	Effect 15 51	development of adrenal insufficiency
+T7	Treatment 95 112	systemic steroids
+T8	Speculation_cue 52 55	may
+T9	Drug 104 112	steroids
+T6	Adverse_event 80 91	replacement
+E1	Adverse_event:T6

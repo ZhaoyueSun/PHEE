@@ -1,0 +1,7 @@
+T3	Effect 31 51	cutaneous KS lesions
+T4	Treatment 94 102	imatinib
+T5	Subject 55 80	a patient affected by CML
+T8	Drug 94 102	imatinib
+T9	Treat-Disorder 77 80	CML
+T6	Adverse_event 81 93	treated with
+E1	Adverse_event:T6

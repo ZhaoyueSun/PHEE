@@ -1,0 +1,5 @@
+T6	Effect 49 64	acute hepatitis
+T4	Treatment 112 122	gliclazide
+T7	Drug 112 122	gliclazide
+T5	Adverse_event 78 108	idiosyncratic adverse reaction
+E1	Adverse_event:T5

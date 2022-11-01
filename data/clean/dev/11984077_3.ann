@@ -1,0 +1,6 @@
+T3	Effect 23 62	life-threatening anaphylactoid reaction
+T4	Subject 4 11	patient
+T5	Treatment 66 76	amifostine
+T8	Drug 66 76	amifostine
+T6	Adverse_event 12 20	suffered
+E1	Adverse_event:T6

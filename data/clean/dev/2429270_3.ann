@@ -1,0 +1,5 @@
+T5	Treatment 112 124	procainamide
+T6	Drug 112 124	procainamide
+T3	Effect 17 105	tachycardia persisted and was repeatedly spontaneously reinitiated for prolonged periods
+T4	Adverse_event 106 111	after
+E1	Adverse_event:T4

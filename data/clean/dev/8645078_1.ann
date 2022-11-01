@@ -1,0 +1,6 @@
+T4	Treatment 54 63	captopril
+T5	Effect 15 42	severe cholestatic jaundice
+T7	Subject 0 9	A patient
+T9	Drug 54 63	captopril
+T3	Adverse_event 43 50	induced
+E1	Adverse_event:T3

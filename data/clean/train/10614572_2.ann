@@ -1,0 +1,9 @@
+T3	Effect 58 69	hypotension
+T4	Treatment 86 107	intravenous valproate
+T6	Subject 154 174	pediatric population
+T8	Age 154 163	pediatric
+T9	Drug 98 107	valproate
+T10	Route 86 97	intravenous
+T11	Treat-Disorder 128 146	status epilepticus
+T5	Adverse_event 70 80	associated
+E1	Adverse_event:T5

@@ -1,0 +1,13 @@
+T3	Subject 17 106	a case of sirolimus-associated interstitial pneumonitis in a cardiac transplant recipient
+T5	Treatment 137 194	withdrawal of the drug and treatment with corticosteroids
+T7	Drug 179 194	corticosteroids
+T9	Treat-Disorder 27 72	sirolimus-associated interstitial pneumonitis
+T10	Treatment 27 36	sirolimus
+T11	Drug 27 36	sirolimus
+T13	Effect 48 72	interstitial pneumonitis
+T4	Potential_therapeutic_event 112 120	resolved
+T12	Adverse_event 37 47	associated
+E1	Potential_therapeutic_event:T4 arg:T3 arg2:T5
+E2	Adverse_event:T12 arg:T13 arg2:T10
+R1	has Arg1:T10 Arg2:T11	
+R3	has Arg1:T5 Arg2:T7

@@ -1,0 +1,7 @@
+T4	Treatment 26 35	bleomycin
+T6	Effect 36 49	lung toxicity
+T7	Drug 26 35	bleomycin
+T8	Speculation_cue 50 53	may
+T5	Adverse_event 41 49	toxicity
+E1	Adverse_event:T5 
+A1	Speculated E1

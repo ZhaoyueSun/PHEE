@@ -1,0 +1,7 @@
+T4	Effect 6 18	skin lesions
+T5	Treatment 53 98	antiviral therapy with interferon-alpha (IFN)
+T7	Drug 76 99	interferon-alpha (IFN).
+T8	Speculation_cue 19 22	may
+T6	Adverse_event 26 33	induced
+E1	Adverse_event:T6 
+A1	Speculated E1

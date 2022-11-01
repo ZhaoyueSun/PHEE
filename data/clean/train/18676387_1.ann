@@ -1,0 +1,8 @@
+T6	Effect 0 18	Serotonin toxicity
+T8	Treatment 29 75	an interaction between fentanyl and paroxetine
+T10	Drug 52 60	fentanyl
+T11	Drug 65 75	paroxetine
+T7	Adverse_event 19 25	caused
+T9	Combination 32 43	interaction
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T10 arg2:T11

@@ -1,0 +1,13 @@
+T10	Subject 13 61	A 29-year-old black man, HIV-infected since 1996
+T12	Treatment 69 156	highly active antiretroviral therapy (HAART) with zidovudine, lamivudine, and indinavir
+T13	Age 15 26	29-year-old
+T14	Race 27 32	black
+T15	Gender 33 36	man
+T17	Drug 119 129	zidovudine
+T18	Drug 131 141	lamivudine
+T19	Drug 147 156	indinavir
+T11	Potential_therapeutic_event 63 68	began
+T20	Combination 143 146	and
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T20 arg:T17 arg2:T18 arg3:T19
+T1	Treat-Disorder 38 41	HIV

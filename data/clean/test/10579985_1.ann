@@ -1,0 +1,10 @@
+T3	Subject 0 80	The first patient was a 61-year-old man with a 30-year history of fistulizing CD
+T4	Effect 89 118	B-cell non-Hodgkin's lymphoma
+T6	Treatment 133 173	9 months after treatment with infliximab
+T7	Age 24 35	61-year-old
+T8	Gender 36 39	man
+T9	Treat-Disorder 66 80	fistulizing CD
+T10	Time_elapsed 133 141	9 months
+T11	Drug 163 173	infliximab
+T5	Adverse_event 123 132	diagnosed
+E1	Adverse_event:T5 

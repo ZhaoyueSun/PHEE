@@ -1,0 +1,8 @@
+T15	Subject 132 173	patients who have asymptomatic meningioma
+T14	Speculation_cue 15 24	difficult
+T12	Treatment 72 79	aspirin
+T18	Drug 72 79	aspirin
+T19	Effect 45 68	intratumoral hemorrhage
+T13	Treat-Disorder 150 173	asymptomatic meningioma
+T20	Adverse_event 35 44	attribute
+E1	Adverse_event:T20

@@ -1,0 +1,8 @@
+T3	Subject 5 13	one case
+T4	Effect 17 45	severe symptomatic hepatitis
+T5	Treat-Disorder 98 111	onychomycosis
+T7	Treatment 62 93	pulse therapy with itraconazole
+T9	Population 5 8	one
+T10	Drug 81 93	itraconazole
+T6	Adverse_event 46 55	occurring
+E1	Adverse_event:T6

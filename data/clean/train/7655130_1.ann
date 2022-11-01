@@ -1,0 +1,8 @@
+T3	Effect 80 143	hypothyroidism with increased serum thyroid-stimulating hormone
+T4	Treatment 171 220	switching from 1 levothyroxine product to another
+T6	Treat-Disorder 34 55	stable hypothyroidism
+T8	Population 16 19	Two
+T9	Drug 188 201	levothyroxine
+T10	Subject 16 55	Two patients with stable hypothyroidism
+T7	Adverse_event 165 170	after
+E1	Adverse_event:T7 

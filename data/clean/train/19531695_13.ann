@@ -1,0 +1,5 @@
+T5	Effect 60 68	delirium
+T6	Treatment 0 49	Supratherapeutic flecainide plasma concentrations
+T8	Drug 17 27	flecainide
+T7	Adverse_event 54 59	cause
+E1	Adverse_event:T7

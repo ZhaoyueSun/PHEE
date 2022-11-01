@@ -1,0 +1,12 @@
+T3	Effect 270 287	methemoglobinemia
+T5	Treatment 91 230	the displacement of lidocaine from protein binding by bupivacaine, in combination with metabolic acidosis and treatment with other oxidants
+T7	Drug 145 156	bupivacaine
+T8	Drug 111 120	lidocaine
+T9	Drug 178 196	metabolic acidosis
+T10	Drug 222 230	oxidants
+T6	Speculation_cue 78 85	suspect
+T4	Adverse_event 240 246	reason
+T11	Combination 161 172	combination
+E1	Adverse_event:T4 
+E3	Combination:T11 arg:T9 arg2:T10 arg3:T7 arg4:T8
+A1	Speculated E1

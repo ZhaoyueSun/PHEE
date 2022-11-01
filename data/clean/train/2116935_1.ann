@@ -1,0 +1,5 @@
+T4	Effect 0 18	Splenic hemorrhage
+T6	Treatment 38 76	tissue plasminogen activator treatment
+T7	Drug 38 66	tissue plasminogen activator
+T5	Adverse_event 22 37	complication of
+E1	Adverse_event:T5

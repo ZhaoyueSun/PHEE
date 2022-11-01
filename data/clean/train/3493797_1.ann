@@ -1,0 +1,9 @@
+T3	Subject 0 133	A woman with a 20-year history of acral pustular psoriasis of Hallopeau and recurrent pustular lesions of the forearms and lower legs
+T5	Effect 145 173	a B-cell lymphoma of the lip
+T6	Treatment 184 222	4 1/2 years of treatment with razoxane
+T7	Gender 2 7	woman
+T9	Duration 174 195	following 4 1/2 years
+T10	Drug 214 222	razoxane
+T11	Treat-Disorder 34 133	acral pustular psoriasis of Hallopeau and recurrent pustular lesions of the forearms and lower legs
+T4	Adverse_event 135 144	developed
+E1	Adverse_event:T4

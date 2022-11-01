@@ -1,0 +1,12 @@
+T8	Treatment 65 125	rifampicin and adjusted doses of lopinavir/ritonavir tablets
+T9	Subject 36 54	healthy volunteers
+T10	Effect 0 32	High incidence of adverse events
+T11	Drug 65 75	rifampicin
+T12	Route 118 125	tablets
+T13	Drug 98 107	lopinavir
+T14	Drug 108 117	ritonavir
+T16	Dosage 80 94	adjusted doses
+T7	Adverse_event 55 64	receiving
+T15	Combination 76 79	and
+E1	Adverse_event:T7 
+E2	Combination:T15 arg:T11 arg2:T13 arg3:T14

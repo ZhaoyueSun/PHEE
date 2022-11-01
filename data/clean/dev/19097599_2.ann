@@ -1,0 +1,8 @@
+T3	Subject 34 99	patient with BCR-ABL (ela2) positive acute lymphoblastic leukemia
+T5	Effect 114 134	tumor lysis syndrome
+T6	Treatment 141 171	10-day treatment with imatinib
+T8	Drug 163 171	imatinib
+T9	Time_elapsed 141 147	10-day
+T10	Treat-Disorder 47 99	BCR-ABL (ela2) positive acute lymphoblastic leukemia
+T4	Adverse_event 104 113	developed
+E1	Adverse_event:T4

@@ -1,0 +1,6 @@
+T3	Effect 0 31	Anterior spinal artery syndrome
+T5	Treatment 51 88	cervical intrathecal phenol injection
+T6	Drug 72 78	phenol
+T7	Route 79 88	injection
+T4	Adverse_event 35 47	complication
+E1	Adverse_event:T4

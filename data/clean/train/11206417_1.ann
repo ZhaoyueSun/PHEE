@@ -1,0 +1,9 @@
+T9	Subject 75 89	healthy humans
+T10	Effect 26 71	additive ocular and renal vasodilator effects
+T12	Treatment 0 19	Glucose and insulin
+T13	Drug 0 7	Glucose
+T14	Drug 12 19	insulin
+T11	Adverse_event 20 25	exert
+T15	Combination 8 11	and
+E1	Adverse_event:T11 
+E2	Combination:T15 arg:T13 arg2:T14

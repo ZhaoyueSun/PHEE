@@ -1,0 +1,7 @@
+T7	Treatment 0 9	Cisplatin
+T9	Effect 18 72	syndrome of inappropriate antidiuretic hormone (SIADH)
+T10	Subject 76 125	a patient with neuroendocrine tumor of the cervix
+T12	Drug 0 9	Cisplatin
+T13	Treat-Disorder 91 125	neuroendocrine tumor of the cervix
+T8	Adverse_event 10 17	induced
+E1	Adverse_event:T8

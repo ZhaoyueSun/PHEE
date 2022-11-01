@@ -1,0 +1,7 @@
+T3	Subject 73 108	a patient with rheumatoid arthritis
+T5	Treatment 0 12	Methotrexate
+T6	Effect 21 37	hepatic necrosis
+T8	Drug 0 12	Methotrexate
+T9	Treat-Disorder 88 108	rheumatoid arthritis
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4

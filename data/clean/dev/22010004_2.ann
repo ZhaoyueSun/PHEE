@@ -1,0 +1,10 @@
+T9	Treatment 51 87	warfarin and extended-release niacin
+T11	Effect 109 133	synergistic coagulopathy
+T12	Drug 51 59	warfarin
+T13	Drug 81 87	niacin
+T15	Speculation_cue 93 96	may
+T10	Adverse_event 102 105	led
+T14	Combination 31 42	interaction
+E1	Adverse_event:T10 
+E2	Combination:T14 arg:T13 arg2:T12
+A1	Speculated E1

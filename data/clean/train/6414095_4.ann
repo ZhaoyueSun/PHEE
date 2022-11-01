@@ -1,0 +1,7 @@
+T5	Treatment 79 107	a large amount of phenytoin.
+T6	Effect 0 58	The episode appeared to have been precipitated by toxicity
+T7	Route 66 75	ingestion
+T8	Drug 97 106	phenytoin
+T9	Dosage 81 93	large amount
+T4	Adverse_event 59 62	due
+E1	Adverse_event:T4

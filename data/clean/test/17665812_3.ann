@@ -1,0 +1,5 @@
+T3	Treatment 49 58	clozapine
+T4	Effect 82 128	dangerous side effects such as agranulocytosis
+T6	Drug 49 58	clozapine
+T5	Adverse_event 75 81	due to
+E1	Adverse_event:T5 

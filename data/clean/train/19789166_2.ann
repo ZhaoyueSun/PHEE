@@ -1,0 +1,6 @@
+T3	Treatment 0 14	Nitrofurantoin
+T5	Effect 23 41	acute liver damage
+T6	Subject 45 54	pregnancy
+T7	Drug 0 14	Nitrofurantoin
+T4	Adverse_event 15 22	induced
+E1	Adverse_event:T4

@@ -1,0 +1,9 @@
+T3	Subject 126 171	a young adult with metastastic gastric cancer
+T4	Treatment 60 110	a moderate dose of methotrexate (1500 mg/m2) (MTX)
+T6	Effect 14 37	subacute encephalopathy
+T7	Dosage 93 103	1500 mg/m2
+T8	Drug 79 91	methotrexate
+T9	Age 128 139	young adult
+T11	Treat-Disorder 145 171	metastastic gastric cancer
+T5	Adverse_event 38 43	after
+E1	Adverse_event:T5

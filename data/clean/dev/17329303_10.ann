@@ -1,0 +1,8 @@
+T6	Treatment 55 66;124 152	risperidone switching to methylphenidate
+T8	Effect 89 118	altered behavioural responses
+T9	Drug 55 66	risperidone
+T10	Drug 137 152	methylphenidate
+T11	Speculation_cue 77 80	may
+T7	Adverse_event 81 85	lead
+E1	Adverse_event:T7 
+A1	Speculated E1

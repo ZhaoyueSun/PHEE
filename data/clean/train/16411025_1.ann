@@ -1,0 +1,8 @@
+T4	Treatment 193 196	MTX
+T5	Effect 134 165	a central neurological syndrome
+T6	Subject 24 56	medical records of four patients
+T7	Population 43 47	four
+T8	Drug 193 196	MTX
+T9	Time_elapsed 166 177	within days
+T3	Adverse_event 181 192	intrathecal
+E1	Adverse_event:T3

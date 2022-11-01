@@ -1,0 +1,5 @@
+T3	Effect 66 104	augmentation of restless legs syndrome
+T4	Treatment 49 57	levodopa
+T6	Drug 49 57	levodopa
+T5	Adverse_event 58 65	induced
+E1	Adverse_event:T5

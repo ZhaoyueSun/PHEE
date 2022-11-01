@@ -1,0 +1,8 @@
+T4	Treatment 87 113	diphenhydramine for 1 week
+T5	Effect 0 65	Capecitabine was discontinued and the allergic reactions resolved
+T6	Subject 76 81	woman
+T7	Gender 76 81	woman
+T8	Drug 87 102	diphenhydramine
+T9	Time_elapsed 107 113	1 week
+T3	Potential_therapeutic_event 82 86	took
+E1	Potential_therapeutic_event:T3

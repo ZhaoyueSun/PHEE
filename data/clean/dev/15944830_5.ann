@@ -1,0 +1,14 @@
+T4	Effect 48 75	visual acuity had decreased
+T6	Treatment 101 104	IFN
+T7	Subject 0 18	The former patient
+T8	Drug 101 104	IFN
+T9	Drug 161 164	IFN
+T10	Subject 129 136	patient
+T11	Treatment 161 172	IFN therapy
+T12	Effect 182 209	visual acuity had decreased
+T5	Adverse_event 76 81	after
+T13	Adverse_event 154 160	during
+E1	Adverse_event:T5 arg:T4 arg2:T6 arg3:T7
+E2	Adverse_event:T13 arg:T10 arg2:T11 arg3:T12
+R1	has Arg1:T6 Arg2:T8	
+R2	has Arg1:T11 Arg2:T9

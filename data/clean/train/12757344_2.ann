@@ -1,0 +1,5 @@
+T3	Treatment 35 48	carbamazepine
+T4	Effect 53 65	hyponatremia
+T6	Drug 35 48	carbamazepine
+T5	Adverse_event 15 26	association
+E1	Adverse_event:T5

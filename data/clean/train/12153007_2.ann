@@ -1,0 +1,6 @@
+T3	Effect 56 59	AML
+T5	Treatment 102 150	purine analogs, both with 2-chlorodeoxyadenosine
+T7	Drug 128 150	2-chlorodeoxyadenosine
+T8	Treat-Disorder 93 96	HCL
+T4	Adverse_event 70 76	linked
+E1	Adverse_event:T4

@@ -1,0 +1,10 @@
+T14	Subject 16 150	Genetic deficiencies in DPD, the rate-limiting enzyme responsible for 5-FU catabolism, may occur in 3% or more of patients with cancer
+T15	Treatment 297 319	standard doses of 5-FU
+T17	Effect 167 293	increased risk for unusually severe adverse reactions (e.g., diarrhea, stomatitis, mucositis, myelosuppression, neurotoxicity)
+T19	Population 116 126	3% or more
+T20	Sub-Disorder 16 43	Genetic deficiencies in DPD
+T21	Drug 315 319	5-FU
+T22	Dosage 297 311	standard doses
+T23	Treat-Disorder 144 150	cancer
+T16	Adverse_event 151 158	putting
+E1	Adverse_event:T16 

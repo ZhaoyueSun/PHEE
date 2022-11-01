@@ -1,0 +1,9 @@
+T6	Treatment 78 102	cyclophosphamide therapy
+T7	Subject 34 54;108 115	diagnosis of myeloma patient
+T8	Effect 128 170	severe abdominal right lower quadrant pain
+T9	Effect 180 200	large cecal lymphoma
+T11	Severity_cue 128 134	severe
+T12	Drug 78 94	cyclophosphamide
+T13	Treat-Disorder 47 54	myeloma
+T10	Adverse_event 116 127	experienced
+E1	Adverse_event:T10

@@ -1,0 +1,8 @@
+T3	Treatment 109 112	MMF
+T5	Effect 81 92	neutropenia
+T6	Subject 17 66	four patients who underwent liver transplantation
+T7	Population 17 21	four
+T8	Sub-Disorder 45 66	liver transplantation
+T9	Drug 109 112	MMF
+T4	Adverse_event 71 80	developed
+E1	Adverse_event:T4 

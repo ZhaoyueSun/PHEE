@@ -1,0 +1,5 @@
+T6	Effect 57 70	tubulopathies
+T7	Treatment 0 10	Ifosfamide
+T8	Drug 0 10	Ifosfamide
+T5	Adverse_event 39 43	with
+E1	Adverse_event:T5

@@ -1,0 +1,9 @@
+T3	Subject 35 50	3 years-old boy
+T5	Effect 65 89	acute onset tetraparesia
+T6	Treatment 135 158	hepatitis B vaccination
+T7	Age 35 46	3 years-old
+T8	Gender 47 50	boy
+T9	Drug 135 158	hepatitis B vaccination
+T10	Sub-Disorder 100 130	a viral respiratory infecction
+T4	Adverse_event 55 64	developed
+E1	Adverse_event:T4 

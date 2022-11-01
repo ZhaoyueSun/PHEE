@@ -1,0 +1,7 @@
+T5	Effect 0 22	Dilated cardiomyopathy
+T6	Treatment 39 79	chronic overuse of an adrenaline inhaler
+T7	Drug 61 71	adrenaline
+T3	Dosage 39 54	chronic overuse
+T8	Route 72 79	inhaler
+T4	Adverse_event 23 33	associated
+E1	Adverse_event:T4

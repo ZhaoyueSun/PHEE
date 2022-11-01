@@ -1,0 +1,7 @@
+T3	Subject 54 61	a child
+T4	Treatment 75 84	valproate
+T5	Effect 0 6;11 50	Stupor fast activity on electroencephalography
+T7	Age 56 61	child
+T8	Drug 75 84	valproate
+T6	Adverse_event 70 74	with
+E1	Adverse_event:T6

@@ -1,0 +1,7 @@
+T5	Effect 45 49	DIAN
+T7	Treatment 57 67	cefuroxime
+T8	Speculation_cue 35 44	suspected
+T9	Drug 57 67	cefuroxime
+T10	Subject 12 31	first reported case
+T6	Adverse_event 50 56	due to
+E1	Adverse_event:T6

@@ -1,0 +1,5 @@
+T4	Treatment 0 32	Increasing the olanzapine dosage
+T5	Effect 57 72	symptoms of RLS
+T8	Drug 15 25	olanzapine
+T3	Adverse_event 42 52	aggravated
+E1	Adverse_event:T3

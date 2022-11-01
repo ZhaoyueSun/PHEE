@@ -1,0 +1,7 @@
+T3	Effect 0 14	Thrombocytosis
+T5	Treatment 31 41	enoxaparin
+T6	Subject 64 72	newborns
+T7	Age 64 72	newborns
+T8	Drug 31 41	enoxaparin
+T4	Adverse_event 15 25	associated
+E1	Adverse_event:T4

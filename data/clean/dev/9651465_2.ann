@@ -1,0 +1,7 @@
+T4	Effect 57 65	vomiting
+T5	Treatment 103 110	enzymes
+T6	Drug 21 36	Pancrease MT 16
+T7	Time_elapsed 66 78	1 to 2 hours
+T8	Drug 103 110	enzymes
+T3	Adverse_event 79 84	after
+E1	Adverse_event:T3

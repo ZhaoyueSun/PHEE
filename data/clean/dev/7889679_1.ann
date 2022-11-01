@@ -1,0 +1,9 @@
+T5	Effect 20 102	generalized cutaneous sclerosis associated with muscle and oesophageal involvement
+T6	Treatment 127 183	herbicides containing bromocil, diuron and aminotriazole
+T8	Drug 149 157	bromocil
+T9	Drug 159 165	diuron
+T10	Drug 170 183	aminotriazole
+T7	Adverse_event 116 126	exposed to
+T11	Combination 166 169	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T8 arg3:T10

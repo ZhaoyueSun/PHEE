@@ -1,0 +1,10 @@
+T7	Subject 80 127	patients with persistent elevated triglycerides
+T8	Treatment 22 76	adding fenofibric acid to moderate-dose statin therapy
+T10	Treat-Disorder 94 127	persistent elevated triglycerides
+T11	Drug 29 44	fenofibric acid
+T12	Drug 62 68	statin
+T13	Dosage 48 61	moderate-dose
+T9	Potential_therapeutic_event 10 18	efficacy
+T14	Combination 22 28	adding
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T14 arg:T11 arg2:T12

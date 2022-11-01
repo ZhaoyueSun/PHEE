@@ -1,0 +1,6 @@
+T3	Effect 0 38	Disseminated cellulitic cryptococcosis
+T4	Treatment 57 79	prednisone monotherapy
+T7	Drug 57 67	prednisone
+T8	Treat-Disorder 84 102	pemphigus vulgaris
+T6	Adverse_event 39 56	in the setting of
+E1	Adverse_event:T6

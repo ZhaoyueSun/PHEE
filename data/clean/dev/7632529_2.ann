@@ -1,0 +1,7 @@
+T3	Effect 0 19	Acute renal failure
+T4	Subject 23 30	a child
+T6	Treatment 47 56	acyclovir
+T7	Age 25 30	child
+T8	Drug 47 56	acyclovir
+T5	Adverse_event 31 41	associated
+E1	Adverse_event:T5

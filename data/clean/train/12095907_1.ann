@@ -1,0 +1,8 @@
+T5	Subject 83 101	an 88-year-old man
+T6	Treatment 21 30	valproate
+T8	Effect 39 79	hyperammonemia and mental status changes
+T9	Age 86 97	88-year-old
+T10	Gender 98 101	man
+T11	Drug 21 30	valproate
+T7	Adverse_event 31 38	induced
+E1	Adverse_event:T7

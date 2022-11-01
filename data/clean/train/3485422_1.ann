@@ -1,0 +1,7 @@
+T4	Effect 0 18	Macular infarction
+T5	Treat-Disorder 25 40	endophthalmitis
+T7	Route 54 81	vitrectomy and intravitreal
+T8	Drug 82 92	gentamicin
+T3	Treatment 25 92	endophthalmitis treated with vitrectomy and intravitreal gentamicin
+T6	Adverse_event 19 24	after
+E1	Adverse_event:T6

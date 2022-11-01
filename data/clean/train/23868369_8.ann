@@ -1,0 +1,10 @@
+T7	Subject 0 8	Patients
+T8	Treatment 19 44	ciprofloxacin and digoxin
+T10	Effect 89 105	digoxin toxicity
+T9	Speculation_cue 45 51	should
+T12	Drug 19 32	ciprofloxacin
+T13	Drug 37 44	digoxin
+T11	Adverse_event 77 85	the risk
+T14	Combination 33 36	and
+E1	Adverse_event:T11 
+E2	Combination:T14 arg:T13 arg2:T12

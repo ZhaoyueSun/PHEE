@@ -1,0 +1,7 @@
+T6	Effect 25 56	recurrent (stuttering) priapism
+T7	Subject 60 95	a patient with protein C deficiency
+T8	Treatment 102 132	maintained on Warfarin therapy
+T9	Treat-Disorder 75 95	protein C deficiency
+T10	Drug 116 124	Warfarin
+T5	Adverse_event 96 101	while
+E1	Adverse_event:T5 

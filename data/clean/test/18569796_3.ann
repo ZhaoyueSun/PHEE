@@ -1,0 +1,5 @@
+T3	Effect 29 46	nodular scleritis
+T5	Treatment 57 75	alendronate sodium
+T6	Drug 57 75	alendronate sodium
+T4	Adverse_event 47 56	following
+E1	Adverse_event:T4

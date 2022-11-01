@@ -1,0 +1,7 @@
+T10	Treatment 66 76	prednisone
+T11	Age 15 23	children
+T7	Subject 15 57	children with acute lymphoblastic leukemia
+T12	Treat-Disorder 29 57	acute lymphoblastic leukemia
+T13	Drug 66 76	prednisone
+T9	Potential_therapeutic_event 58 65	receive
+E1	Potential_therapeutic_event:T9

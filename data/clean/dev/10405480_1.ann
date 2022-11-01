@@ -1,0 +1,11 @@
+T11	Effect 121 211	diffuse erythema and pustules on his face and trunk, malaise, and fever up to 39 degrees C
+T10	Subject 0 104	A 26-year-old Japanese man, who had been receiving medical attention for ulcerative colitis for one year
+T12	Treatment 248 267	salazosulfapyridine
+T15	Age 2 13	26-year-old
+T16	Gender 23 26	man
+T17	Race 14 22	Japanese
+T18	Treat-Disorder 73 91	ulcerative colitis
+T20	Time_elapsed 212 219	one day
+T21	Drug 248 267	salazosulfapyridine
+T9	Adverse_event 220 225	after
+E1	Adverse_event:T9 

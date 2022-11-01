@@ -1,0 +1,7 @@
+T3	Treatment 95 136	the total cumulative dosage of Treosulfan
+T5	Effect 30 44	acute leukemia
+T6	Drug 126 136	Treosulfan
+T4	Negation_cue 63 66	not
+T7	Adverse_event 19 29	developing
+E2	Adverse_event:T7 
+A1	Negated E2

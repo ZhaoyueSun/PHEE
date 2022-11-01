@@ -1,0 +1,7 @@
+T3	Subject 19 28	a patient
+T4	Effect 40 61	anaphylactic reaction
+T5	Treatment 73 109	intravenous infusion of cyclosporine
+T7	Drug 97 109	cyclosporine
+T8	Route 73 93	intravenous infusion
+T6	Adverse_event 62 68	during
+E1	Adverse_event:T6

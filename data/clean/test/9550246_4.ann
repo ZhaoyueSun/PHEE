@@ -1,0 +1,8 @@
+T8	Treatment 25 36	risperidone
+T10	Subject 60 87	patients with schizophrenia
+T12	Effect 41 56	increase affect
+T13	Speculation_cue 37 40	may
+T14	Drug 25 36	risperidone
+T15	Treat-Disorder 74 87	schizophrenia
+T9	Adverse_event 41 49	increase
+E1	Adverse_event:T9

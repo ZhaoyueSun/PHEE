@@ -1,0 +1,7 @@
+T4	Treatment 24 33	acyclovir
+T6	Effect 94 132	increased serum lithium concentrations
+T7	Speculation_cue 80 83	may
+T8	Drug 24 33	acyclovir
+T9	Dosage 71 79	10 mg/kg
+T5	Adverse_event 84 90	result
+E1	Adverse_event:T5

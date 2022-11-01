@@ -1,0 +1,9 @@
+T5	Effect 62 86	salt and water retention
+T7	Treatment 29 38	ibuprofen
+T8	Drug 29 38	ibuprofen
+T9	Drug 136 150	phenylbutazone
+T10	Drug 155 167	indomethacin
+T11	Speculation_cue 39 42	may
+T6	Adverse_event 46 56	associated
+E1	Adverse_event:T6 
+A1	Speculated E1

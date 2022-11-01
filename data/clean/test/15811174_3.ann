@@ -1,0 +1,6 @@
+T4	Treatment 71 83	cerivastatin
+T5	Subject 13 22	a patient
+T6	Effect 37 57	acute rhabdomyolysis
+T7	Drug 71 83	cerivastatin
+T3	Adverse_event 58 63	after
+E1	Adverse_event:T3

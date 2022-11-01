@@ -1,0 +1,6 @@
+T3	Treatment 0 10	Infliximab
+T6	Subject 45 51	a case
+T7	Drug 0 10	Infliximab
+T5	Effect 19 24	lupus
+T4	Adverse_event 11 18	induced
+E1	Adverse_event:T4

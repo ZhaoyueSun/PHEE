@@ -1,0 +1,9 @@
+T4	Effect 23 48	fulminant hepatic failure
+T5	Subject 52 75	HIV-1-infected patients
+T7	Treatment 89 105	didanosine (ddI)
+T9	Severity_cue 23 32	fulminant
+T10	Drug 89 99	didanosine
+T11	Treat-Disorder 52 57	HIV-1
+T8	Adverse_event 20 22	of
+E1	Adverse_event:T8 
+A1	Severity E1 High

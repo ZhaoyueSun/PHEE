@@ -1,0 +1,5 @@
+T5	Effect 4 23	infection proceeded
+T6	Treatment 50 61	fluconazole
+T8	Drug 50 61	fluconazole
+T7	Adverse_event 29 34	after
+E1	Adverse_event:T7

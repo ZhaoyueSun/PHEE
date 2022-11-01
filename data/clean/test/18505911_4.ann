@@ -1,0 +1,11 @@
+T5	Subject 0 3	She
+T7	Treatment 24 116	average weekly warfarin dose of 39 mg (5.5 mg daily) prior to beginning azathioprine therapy
+T8	Gender 0 3	She
+T9	Drug 39 47	warfarin
+T10	Drug 96 108	azathioprine
+T11	Freq 32 38	weekly
+T12	Dosage 56 61	39 mg
+T13	Dosage 63 69	5.5 mg
+T14	Freq 70 75	daily
+T6	Potential_therapeutic_event 8 15	treated
+E1	Potential_therapeutic_event:T6

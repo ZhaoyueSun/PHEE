@@ -1,0 +1,8 @@
+T7	Treatment 25 48	Lp-TAE combined with HT
+T8	Effect 54 126	low-grade fever, localized pain, myelo-suppression and liver dysfunction
+T10	Drug 25 31	Lp-TAE
+T11	Drug 46 48	HT
+T9	Adverse_event 9 21	side-effects
+T12	Combination 32 40	combined
+E1	Adverse_event:T9 
+E2	Combination:T12 arg:T10 arg2:T11

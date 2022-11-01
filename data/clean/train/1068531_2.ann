@@ -1,0 +1,8 @@
+T4	Treatment 109 133	cyclophosphamide therapy
+T5	Effect 4 52;79 95	development of erythroid leukemia plus carcinoma mutagenic change
+T6	Subject 62 69	two men
+T7	Population 62 65	two
+T8	Gender 66 69	men
+T10	Drug 109 125	cyclophosphamide
+T3	Adverse_event 70 78	suggests
+E1	Adverse_event:T3

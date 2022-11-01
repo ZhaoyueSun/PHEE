@@ -1,0 +1,6 @@
+T3	Effect 0 33	Nephrotic range pseudoproteinuria
+T4	Treatment 39 47	tolmetin
+T5	Subject 56 63	patient
+T7	Drug 39 47	tolmetin
+T6	Adverse_event 34 36	in
+E1	Adverse_event:T6

@@ -1,0 +1,5 @@
+T3	Treatment 80 90	colchicine
+T4	Effect 154 167	rhabdomylysis
+T6	Drug 80 90	colchicine
+T5	Adverse_event 91 99	resulted
+E1	Adverse_event:T5

@@ -1,0 +1,6 @@
+T5	Effect 93 163	phenytoin (PHT) intoxication with unilateral gingival hyperplasia (GH)
+T7	Drug 93 102	phenytoin
+T6	Treatment 93 102	phenytoin
+T9	Subject 78 87	a patient
+T8	Adverse_event 109 121	intoxication
+E1	Adverse_event:T8

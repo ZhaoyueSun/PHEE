@@ -1,0 +1,9 @@
+T4	Treatment 80 87	dapsone
+T5	Subject 0 61	A 35-year-old female with borderline lepromatous (BL) leprosy
+T6	Effect 96 108	erythroderma
+T7	Age 2 13	35-year-old
+T8	Gender 14 20	female
+T9	Treat-Disorder 26 61	borderline lepromatous (BL) leprosy
+T10	Drug 80 87	dapsone
+T3	Adverse_event 88 95	induced
+E1	Adverse_event:T3 

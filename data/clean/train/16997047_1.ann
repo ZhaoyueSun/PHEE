@@ -1,0 +1,8 @@
+T4	Effect 64 88	symptomatic hyponatremia
+T5	Treatment 0 40	Five months after initiating mirtazapine
+T6	Subject 50 53	she
+T7	Gender 50 53	she
+T8	Time_elapsed 0 11	Five months
+T9	Drug 29 40	mirtazapine
+T3	Adverse_event 54 63	developed
+E1	Adverse_event:T3

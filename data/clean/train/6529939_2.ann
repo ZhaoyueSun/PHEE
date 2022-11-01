@@ -1,0 +1,11 @@
+T6	Treatment 134 158	80 mg propranolol daily.
+T7	Subject 81 100	a 57-year-old woman
+T8	Effect 0 64	Alternating sinus rhythm and intermittent sinoatrial (S-A) block
+T9	Age 83 94	57-year-old
+T10	Gender 95 100	woman
+T11	Dosage 134 139	80 mg
+T12	Drug 140 151	propranolol
+T13	Freq 152 157	daily
+T14	Treat-Disorder 122 128	angina
+T5	Adverse_event 108 117	treatment
+E1	Adverse_event:T5

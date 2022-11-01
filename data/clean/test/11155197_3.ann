@@ -1,0 +1,5 @@
+T3	Treatment 0 15	Type II heparin
+T5	Effect 24 40	thrombocytopenia
+T6	Drug 8 15	heparin
+T4	Adverse_event 16 23	induced
+E1	Adverse_event:T4

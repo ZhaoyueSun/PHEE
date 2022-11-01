@@ -1,0 +1,11 @@
+T8	Treatment 57 75;80 102	IFN alfa 11 MU TIW gemfibrozil 600 mg BID
+T11	Effect 179 209	Naranjo Adverse Drug Reactions
+T9	Subject 106 173	a patient undergoing treatment for IFN-induced hypertriglyceridemia
+T14	Drug 57 68	IFN alfa 11
+T15	Drug 80 91	gemfibrozil
+T16	Dosage 92 98	600 mg
+T17	Treat-Disorder 141 173	IFN-induced hypertriglyceridemia
+T12	Adverse_event 216 227	Probability
+T13	Combination 37 48	interaction
+E1	Adverse_event:T12 
+E2	Combination:T13 arg:T14 arg2:T15

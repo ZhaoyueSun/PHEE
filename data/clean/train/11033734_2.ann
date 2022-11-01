@@ -1,0 +1,11 @@
+T4	Effect 13 21	seizures
+T5	Subject 25 50	pediatric cancer patients
+T6	Treatment 64 83	imipenem/cilastatin
+T8	Age 25 34	pediatric
+T9	Sub-Disorder 35 41	cancer
+T10	Drug 64 72	imipenem
+T11	Drug 73 83	cilastatin
+T7	Adverse_event 51 58	treated
+T12	Combination 72 73	/
+E1	Adverse_event:T7 
+E2	Combination:T12 arg:T10 arg2:T11

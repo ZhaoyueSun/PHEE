@@ -1,0 +1,5 @@
+T3	Treatment 0 11	Chloroquine
+T5	Effect 20 36	bilateral ptosis
+T6	Drug 0 11	Chloroquine
+T4	Adverse_event 12 19	induced
+E1	Adverse_event:T4

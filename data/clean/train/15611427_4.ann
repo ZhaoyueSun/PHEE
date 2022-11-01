@@ -1,0 +1,5 @@
+T3	Treatment 142 151	imiquimod
+T4	Effect 4 29;49 107	exacerbation of psoriasis a massive induction of lesional type I interferon activity
+T6	Drug 142 151	imiquimod
+T5	Adverse_event 109 117	detected
+E1	Adverse_event:T5

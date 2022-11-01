@@ -1,0 +1,6 @@
+T5	Effect 129 168	endometrial carcinoma and endometriosis
+T6	Treatment 103 112	tamoxifen
+T8	Speculation_cue 4 12	possible
+T9	Drug 103 112	tamoxifen
+T7	Adverse_event 113 123	associated
+E1	Adverse_event:T7

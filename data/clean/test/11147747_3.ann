@@ -1,0 +1,8 @@
+T3	Subject 14 29	2 male patients
+T4	Effect 46 58	incontinence
+T6	Treatment 72 83	venlafaxine
+T7	Population 14 15	2
+T8	Gender 16 20	male
+T9	Drug 72 83	venlafaxine
+T5	Adverse_event 34 45	experienced
+E1	Adverse_event:T5

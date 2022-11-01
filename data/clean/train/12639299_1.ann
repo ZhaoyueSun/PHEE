@@ -1,0 +1,8 @@
+T4	Treatment 0 28	Interferon-alpha (IFN-alpha)
+T6	Effect 77 81	MPGN
+T7	Drug 0 28	Interferon-alpha (IFN-alpha)
+T8	Speculation_cue 29 32	may
+T9	Severity_cue 33 58	precipitate or exacerbate
+T5	Adverse_event 63 73	occurrence
+E1	Adverse_event:T5 
+A1	Speculated E1

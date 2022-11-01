@@ -1,0 +1,5 @@
+T3	Treatment 26 56	fluoroquinolone antimicrobials
+T5	Effect 69 126	corrected QT interval but rarely cause torsade de pointes
+T6	Drug 26 41	fluoroquinolone
+T4	Adverse_event 57 64	prolong
+E1	Adverse_event:T4

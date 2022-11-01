@@ -1,0 +1,5 @@
+T3	Effect 0 13	Liver disease
+T5	Treatment 25 44	perhexiline maleate
+T6	Drug 25 44	perhexiline maleate
+T4	Adverse_event 14 24	induced by
+E1	Adverse_event:T4

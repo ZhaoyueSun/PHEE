@@ -1,0 +1,7 @@
+T4	Effect 57 75	cutaneous necrosis
+T5	Treatment 95 119;123 151	standard interferon alfa pegylated interferon alfa-2b
+T7	Route 82 91	injection
+T8	Drug 95 119	standard interferon alfa
+T9	Drug 123 151	pegylated interferon alfa-2b
+T6	Adverse_event 76 81	after
+E1	Adverse_event:T6

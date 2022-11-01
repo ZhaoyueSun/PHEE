@@ -1,0 +1,8 @@
+T9	Treatment 10 22	aripiprazole
+T11	Effect 32 55	extrapyramidal symptoms
+T12	Age 62 67	adult
+T7	Subject 59 99	an adult with developmental disabilities
+T13	Drug 10 22	aripiprazole
+T14	Treat-Disorder 73 99	developmental disabilities
+T10	Adverse_event 23 31	mediated
+E1	Adverse_event:T10

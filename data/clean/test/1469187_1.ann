@@ -1,0 +1,8 @@
+T7	Treatment 61 103	Fab fragments of anti-digitalis antibodies
+T8	Subject 13 57	a patient with severe digitoxin intoxication
+T11	Treat-Disorder 35 57	digitoxin intoxication
+T12	Drug 61 103	Fab fragments of anti-digitalis antibodies
+T13	Severity_cue 28 34	severe
+T9	Potential_therapeutic_event 0 9	Treatment
+E1	Potential_therapeutic_event:T9 
+A1	Severity E1 High

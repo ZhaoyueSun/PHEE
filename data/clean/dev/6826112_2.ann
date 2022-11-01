@@ -1,0 +1,7 @@
+T3	Subject 0 15	Thirty patients
+T5	Effect 21 28	hepatic
+T6	Treatment 42 52	cyclofenil
+T7	Population 0 6	Thirty
+T8	Drug 42 52	cyclofenil
+T4	Adverse_event 29 38	reactions
+E1	Adverse_event:T4

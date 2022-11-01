@@ -1,0 +1,8 @@
+T3	Subject 12 72	first report of an adverse effect of fetal renal circulation
+T4	Treatment 76 108	maternal ingestion of nimesulide
+T6	Treatment 98 108	nimesulide
+T7	Effect 49 72	fetal renal circulation
+T8	Drug 98 108	nimesulide
+T9	Route 76 94	maternal ingestion
+T5	Adverse_event 31 45	adverse effect
+E1	Adverse_event:T5

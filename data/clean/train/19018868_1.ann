@@ -1,0 +1,8 @@
+T3	Treat-Disorder 78 94	multiple myeloma
+T5	Effect 10 32	severe aplastic anemia
+T7	Subject 0 6	A case
+T8	Severity_cue 10 16	severe
+T9	Drug 61 73	lenalidomide
+T4	Treatment 61 94	lenalidomide for multiple myeloma
+T6	Adverse_event 33 42	secondary
+E1	Adverse_event:T6

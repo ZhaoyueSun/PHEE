@@ -1,0 +1,9 @@
+T4	Treatment 69 93	intravitreal ranibizumab
+T5	Effect 12 52	Severe and sustained ocular hypertension
+T6	Drug 82 93	ranibizumab
+T7	Route 69 81	intravitreal
+T8	Speculation_cue 53 56	may
+T9	Severity_cue 12 32	Severe and sustained
+T3	Adverse_event 63 68	after
+E1	Adverse_event:T3 
+A1	Severity E1 High

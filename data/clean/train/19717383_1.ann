@@ -1,0 +1,16 @@
+T8	Subject 20 39	a patient with AIDS
+T9	Treatment 93 215	48 months postchemotherapy with etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (R-EPOCH)
+T10	Treat-Disorder 220 249	diffuse large B-cell lymphoma
+T12	Effect 57 92	medical attention with pancytopenia
+T13	Sub-Disorder 35 39	AIDS
+T14	Duration 93 102	48 months
+T16	Drug 125 134	etoposide
+T17	Drug 136 146	prednisone
+T18	Drug 148 159	vincristine
+T19	Drug 161 177	cyclophosphamide
+T20	Drug 179 190	doxorubicin
+T21	Drug 196 205	rituximab
+T11	Adverse_event 44 53	presented
+T15	Combination 192 195	and
+E1	Adverse_event:T11 
+E2	Combination:T15 arg:T16 arg2:T17 arg3:T18 arg4:T19 arg5:T20 arg6:T21

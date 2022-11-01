@@ -1,0 +1,9 @@
+T6	Treatment 0 47	Two days after administration of Kalimate enema
+T7	Subject 49 51	he
+T9	Gender 49 51	he
+T10	Route 42 47	enema
+T11	Drug 33 41	Kalimate
+T8	Effect 56 76;105 151	profuse hematochezia diffuse colonic mucosal necrosis in the rectum
+T12	Time_elapsed 0 8	Two days
+T5	Adverse_event 9 14	after
+E1	Adverse_event:T5

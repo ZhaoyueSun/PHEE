@@ -1,0 +1,7 @@
+T3	Effect 0 35	Fatal eosinophilia myalgia syndrome
+T4	Subject 41 66	marrow transplant patient
+T5	Treatment 81 145	total parenteral nutrition with a solution containing tryptophan
+T7	Drug 135 145	tryptophan
+T8	Route 87 97	parenteral
+T6	Adverse_event 67 77	attributed
+E1	Adverse_event:T6

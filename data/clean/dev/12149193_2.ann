@@ -1,0 +1,7 @@
+T7	Subject 31 47	myeloma patients
+T8	Treatment 61 85	any type of chemotherapy
+T10	Effect 94 122	deep venous thrombosis (DVT)
+T11	Treat-Disorder 31 38	myeloma
+T12	Route 73 85	chemotherapy
+T9	Adverse_event 86 93	develop
+E1	Adverse_event:T9 

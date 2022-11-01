@@ -1,0 +1,9 @@
+T3	Subject 13 32	A woman of 80 years
+T4	Treatment 34 55	on long-term warfarin
+T6	Effect 82 123	acute dissecting thoracic aortic aneurysm
+T7	Gender 15 20	woman
+T8	Age 24 32	80 years
+T9	Duration 37 46	long-term
+T10	Drug 47 55	warfarin
+T5	Adverse_event 64 73	presented
+E1	Adverse_event:T5

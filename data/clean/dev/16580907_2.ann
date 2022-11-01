@@ -1,0 +1,17 @@
+T9	Subject 0 44	A 72-year-old woman with renal insufficiency
+T10	Sub-Disorder 25 44	renal insufficiency
+T11	Treatment 53 88;117 174	taking oral pilsicainide (150 mg/d) 3 days after she was prescribed oral cetirizine (20 mg/d)
+T12	Effect 103 116	feeling faint
+T14	Age 2 13	72-year-old
+T15	Gender 14 19	woman
+T16	Route 60 64	oral
+T17	Drug 65 77	pilsicainide
+T18	Dosage 79 87	150 mg/d
+T20	Time_elapsed 117 123	3 days
+T21	Route 149 153	oral
+T22	Drug 154 164	cetirizine
+T24	Dosage 166 173	20 mg/d
+T13	Adverse_event 89 99	complained
+T23	Combination 124 129	after
+E1	Adverse_event:T13 
+E2	Combination:T23 arg:T22 arg2:T17

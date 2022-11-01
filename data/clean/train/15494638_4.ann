@@ -1,0 +1,9 @@
+T9	Treatment 41 77	CAP with concomitant radiation (XRT)
+T8	Subject 132 144	two patients
+T12	Effect 190 211	peripheral neuropathy
+T13	Population 132 135	two
+T10	Treat-Disorder 82 99	pancreatic cancer
+T14	Drug 41 44	CAP
+T15	Route 50 71	concomitant radiation
+T11	Adverse_event 145 154	developed
+E1	Adverse_event:T11

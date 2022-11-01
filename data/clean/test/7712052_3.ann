@@ -1,0 +1,7 @@
+T7	Treatment 49 56	lithium
+T8	Subject 77 95	veterans with PTSD
+T10	Effect 114 167	serious problems with irritability or angry outbursts
+T12	Drug 49 56	lithium
+T13	Treat-Disorder 91 95	PTSD
+T9	Adverse_event 100 113	complained of
+E1	Adverse_event:T9

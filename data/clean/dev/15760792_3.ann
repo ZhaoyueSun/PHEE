@@ -1,0 +1,5 @@
+T5	Treatment 0 16	Propylthiouracil
+T7	Effect 25 105	sensorineural hearing loss associated with antineutrophil cytoplasmic antibodies
+T8	Drug 0 16	Propylthiouracil
+T6	Adverse_event 17 24	induced
+E1	Adverse_event:T6

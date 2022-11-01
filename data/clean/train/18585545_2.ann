@@ -1,0 +1,10 @@
+T23	Effect 203 293	central nervous system-related adverse effects, including headache, dizziness and insomnia
+T24	Treatment 12 162	The new quinolone derivatives (levofloxacin, sparfloxacin, grepafloxacin, trovafloxacin, gatifloxacin and moxifloxacin), also called gyrase inhibitors
+T25	Drug 43 55	levofloxacin
+T26	Drug 57 69	sparfloxacin
+T27	Drug 71 84	grepafloxacin
+T28	Drug 86 99	trovafloxacin
+T29	Drug 101 113	gatifloxacin
+T30	Drug 118 130	moxifloxacin
+T22	Adverse_event 197 202	cause
+E1	Adverse_event:T22

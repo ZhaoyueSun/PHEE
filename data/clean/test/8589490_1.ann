@@ -1,0 +1,7 @@
+T6	Effect 0 29	Supravenous hyperpigmentation
+T7	Treatment 50 67	CHOP chemotherapy
+T8	Treat-Disorder 71 124	a CD30 (Ki-1)-positive anaplastic large-cell lymphoma
+T10	Drug 50 54	CHOP
+T11	Route 55 67	chemotherapy
+T9	Adverse_event 33 44	association
+E1	Adverse_event:T9

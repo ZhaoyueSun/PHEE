@@ -1,0 +1,5 @@
+T3	Effect 16 41	hypersensitivity syndrome
+T4	Treatment 4 15	allopurinol
+T6	Drug 4 15	allopurinol
+T5	Adverse_event 52 59	adverse
+E1	Adverse_event:T5

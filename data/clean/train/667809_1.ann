@@ -1,0 +1,9 @@
+T3	Subject 24 59	child with fatal pulmonary fibrosis
+T4	Effect 35 59	fatal pulmonary fibrosis
+T5	Treatment 70 82	BCNU therapy
+T7	Age 24 29	child
+T8	Drug 70 74	BCNU
+T9	Severity_cue 35 40	fatal
+T6	Adverse_event 60 69	following
+E1	Adverse_event:T6 
+A1	Severity E1 High

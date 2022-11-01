@@ -1,0 +1,9 @@
+T3	Subject 36 57	a 31-year-old patient
+T4	Treat-Disorder 78 100	behavioral alterations
+T5	Treatment 118 137	oral zuclopenthixol
+T7	Effect 203 226	acute, painful erection
+T8	Age 38 49	31-year-old
+T9	Route 118 122	oral
+T10	Drug 123 137	zuclopenthixol
+T6	Adverse_event 190 199	developed
+E1	Adverse_event:T6

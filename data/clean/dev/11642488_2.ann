@@ -1,0 +1,8 @@
+T3	Treatment 139 178	antiglaucoma drugs including dipivefrin
+T4	Effect 217 226	entropion
+T6	Drug 168 178	dipivefrin
+T7	Drug 139 157	antiglaucoma drugs
+T8	Speculation_cue 184 192	possible
+T5	Adverse_event 193 212	mechanism of action
+E1	Adverse_event:T5 
+A1	Speculated E1

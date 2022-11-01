@@ -1,0 +1,13 @@
+T7	Treatment 99 151	linezolid and selected serotonin reuptake inhibitors
+T9	Subject 80 88	patients
+T10	Effect 0 50	Severe symptoms associated with serotonin toxicity
+T11	Severity_cue 0 6	Severe
+T12	Drug 32 41	serotonin
+T14	Severity_cue 68 76	uncommon
+T15	Drug 99 108	linezolid
+T16	Drug 122 151	serotonin reuptake inhibitors
+T8	Adverse_event 89 98	receiving
+T17	Combination 109 112	and
+E1	Adverse_event:T8 
+E2	Combination:T17 arg:T15 arg2:T16
+A1	Severity E1 High

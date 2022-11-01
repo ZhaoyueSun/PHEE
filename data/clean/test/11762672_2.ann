@@ -1,0 +1,14 @@
+T3	Treatment 19 27	methanol
+T5	Effect 36 53	visual impairment
+T6	Drug 19 27	methanol
+T8	Severity_cue 12 18	severe
+T9	Negation_cue 55 57	no
+T10	Effect 70 86	retinal toxicity
+T11	Treatment 94 104	fomepizole
+T13	Drug 94 104	fomepizole
+T4	Adverse_event 28 35	induced
+T12	Adverse_event 87 93	due to
+E1	Adverse_event:T4 arg:T3 arg2:T5
+E2	Adverse_event:T12 arg:T11 arg2:T10
+R1	has_cue Arg1:E1 Arg2:T8	
+R2	has_cue Arg1:E2 Arg2:T9

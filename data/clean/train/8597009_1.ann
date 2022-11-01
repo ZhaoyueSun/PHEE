@@ -1,0 +1,8 @@
+T4	Effect 0 18	Phenytoin toxicity
+T5	Treatment 26 63	concomitant antituberculosis therapy.
+T6	Drug 0 9	Phenytoin
+T7	Drug 38 54	antituberculosis
+T3	Adverse_event 19 22	due
+T8	Combination 26 37	concomitant
+E1	Adverse_event:T3 
+E2	Combination:T8 arg:T7 arg2:T6

@@ -1,0 +1,7 @@
+T3	Treatment 41 53	azathioprine
+T5	Effect 62 85	severe myelosuppression
+T6	Drug 41 53	azathioprine
+T7	Severity_cue 62 68	severe
+T4	Adverse_event 54 61	induced
+E1	Adverse_event:T4 
+A1	Severity E1 High

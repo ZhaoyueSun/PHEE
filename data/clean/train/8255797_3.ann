@@ -1,0 +1,9 @@
+T3	Subject 10 22;62 94	two cases of cardiac patients with trisomy 21
+T4	Effect 23 34	neutropenia
+T6	Treatment 45 58	captopril use
+T7	Population 10 13	two
+T8	Sub-Disorder 62 69	cardiac
+T9	Drug 45 54	captopril
+T5	Adverse_event 35 44	following
+E1	Adverse_event:T5 
+T1	Sub-Disorder 84 94	trisomy 21

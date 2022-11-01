@@ -1,0 +1,8 @@
+T3	Subject 20 29	pediatric
+T4	Treatment 30 49	bupropion ingestion
+T6	Effect 63 80	multiple seizures
+T7	Drug 30 39	bupropion
+T8	Route 40 49	ingestion
+T9	Age 20 29	pediatric
+T5	Adverse_event 50 59	resulting
+E1	Adverse_event:T5

@@ -1,0 +1,5 @@
+T4	Effect 12 28	adverse response
+T6	Treatment 32 41	clonidine
+T7	Drug 32 41	clonidine
+T5	Adverse_event 29 31	to
+E1	Adverse_event:T5

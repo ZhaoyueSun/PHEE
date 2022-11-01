@@ -1,0 +1,8 @@
+T7	Treatment 61 71	gold salts
+T8	Effect 87 133	bilateral interstitial pulmonary abnormalities
+T9	Subject 12 47	a patient with rheumatoid arthritis
+T12	Drug 61 71	gold salts
+T13	Drug 168 182	corticosteroid
+T14	Treat-Disorder 27 47	rheumatoid arthritis
+T10	Adverse_event 48 60	treated with
+E1	Adverse_event:T10

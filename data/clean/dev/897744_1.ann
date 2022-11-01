@@ -1,0 +1,12 @@
+T9	Effect 0 51	Focal glomerulonephritis and interstitial nephritis
+T10	Treatment 76 82	heroin
+T11	Drug 76 82	heroin
+T13	Effect 91 113	infective endocarditis
+T14	Treat-Disorder 76 113	heroin-related infective endocarditis
+T16	Treatment 55 66	methicillin
+T17	Drug 55 66	methicillin
+T12	Adverse_event 83 90	related
+T15	Adverse_event 67 74	treated
+E1	Adverse_event:T12 arg:T10 arg2:T13
+E2	Adverse_event:T15 arg:T16 arg2:T9
+R1	has Arg1:T16 Arg2:T14

@@ -1,0 +1,14 @@
+T4	Subject 27 35	12 cases
+T6	Treatment 69 145	intraoperative use of topical phenylephrine, submucosal epinephrine, or both
+T7	Effect 46 58	hypertension
+T8	Population 27 29	12
+T9	Drug 99 112	phenylephrine
+T10	Drug 125 136	epinephrine
+T11	Route 91 98	topical
+T13	Route 114 124	submucosal
+T12	Severity_cue 39 45	severe
+T5	Adverse_event 59 64	after
+T14	Combination 138 145	or both
+E1	Adverse_event:T5 
+E2	Combination:T14 arg:T10 arg2:T9
+A1	Severity E1 High

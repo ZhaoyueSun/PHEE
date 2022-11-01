@@ -1,0 +1,7 @@
+T6	Effect 10 44	palmar-plantar erythrodysaesthesia
+T7	Treatment 55 75	high-dose cytarabine
+T10	Drug 65 75	cytarabine
+T11	Dosage 55 64	high-dose
+T12	Treat-Disorder 90 118	acute lymphoblastic leukemia
+T9	Potential_therapeutic_event 76 85	treatment
+E1	Potential_therapeutic_event:T9

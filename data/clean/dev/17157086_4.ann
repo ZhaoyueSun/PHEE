@@ -1,0 +1,15 @@
+T8	Drug 85 96	montelukast
+T9	Treat-Disorder 11 25	chronic asthma
+T10	Treatment 50 109	a leukotriene receptor antagonist (montelukast) for 5 years
+T11	Subject 27 30	she
+T12	Time_elapsed 102 109	5 years
+T13	Treatment 266 283	Garcinia Cambogia
+T14	Drug 266 283	Garcinia Cambogia
+T16	Subject 305 321	two recent cases
+T17	Population 305 308	two
+T18	Effect 325 334	hepatitis
+T7	Potential_therapeutic_event 40 49	receiving
+T15	Adverse_event 296 301	cause
+E1	Potential_therapeutic_event:T7 arg:T10 arg2:T11
+E2	Adverse_event:T15 arg:T13 arg2:T16 arg3:T18
+R1	has Arg1:T10 Arg2:T9

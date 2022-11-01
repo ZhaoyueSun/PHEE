@@ -1,0 +1,12 @@
+T3	Effect 55 64	psoriasis
+T4	Treatment 135 151	interferon-alpha
+T8	Drug 135 151	interferon-alpha
+T6	Subject 69 72	one
+T7	Population 69 72	one
+T9	Subject 25 30	three
+T10	Population 25 30	three
+T12	Effect 77 112	had an aggravation of the condition
+T5	Adverse_event 130 134	with
+T11	Adverse_event 45 54	developed
+E1	Adverse_event:T5 arg:T6 arg2:T12 arg3:T4
+E2	Adverse_event:T11 arg:T9 arg2:T3 arg3:T4

@@ -1,0 +1,6 @@
+T4	Treatment 44 63	ethanolamine oleate
+T5	Effect 10 40	noncardiogenic pulmonary edema
+T6	Subject 0 6	A case
+T7	Drug 44 63	ethanolamine oleate
+T3	Adverse_event 41 43	by
+E1	Adverse_event:T3

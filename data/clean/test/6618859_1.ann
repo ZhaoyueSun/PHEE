@@ -1,0 +1,16 @@
+T5	Effect 0 12	Gynecomastia
+T7	Subject 26 48	two epileptic patients
+T8	Treatment 49 173	some months after the addition of oral fluoresone 750 mg daily to the phenobarbital and phenytoin already being administered
+T9	Population 26 29	two
+T11	Route 83 87	oral
+T12	Drug 88 98	fluoresone
+T13	Dosage 99 105	750 mg
+T14	Freq 106 111	daily
+T16	Drug 119 132	phenobarbital
+T17	Drug 137 146	phenytoin
+T18	Treat-Disorder 30 39	epileptic
+T19	Time_elapsed 49 66	some months after
+T6	Adverse_event 13 22	developed
+T15	Combination 71 79	addition
+E1	Adverse_event:T6 
+E2	Combination:T15 arg:T12 arg2:T16 arg3:T17

@@ -1,0 +1,9 @@
+T3	Treatment 43 83	a large dose of intravenous iron sucrose
+T5	Effect 148 170	systemic iron toxicity
+T6	Subject 29 36	a child
+T7	Age 31 36	child
+T8	Drug 71 83	iron sucrose
+T9	Dosage 85 93	16 mg/kg
+T10	Duration 100 107	3 hours
+T4	Adverse_event 126 135	developed
+E1	Adverse_event:T4

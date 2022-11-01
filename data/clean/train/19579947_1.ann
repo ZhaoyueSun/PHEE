@@ -1,0 +1,5 @@
+T3	Effect 7 15	priapism
+T5	Treatment 37 47	olanzapine
+T6	Drug 37 47	olanzapine
+T4	Adverse_event 16 25	following
+E1	Adverse_event:T4

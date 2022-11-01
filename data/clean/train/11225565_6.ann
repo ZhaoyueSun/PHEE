@@ -1,0 +1,6 @@
+T10	Treatment 0 46	Delavirdine and efavirenz (but not nevirapine)
+T11	Effect 101 117	clinical hazards
+T14	Drug 0 11	Delavirdine
+T13	Drug 16 25	efavirenz
+T12	Adverse_event 85 100	consistent with
+E1	Adverse_event:T12 

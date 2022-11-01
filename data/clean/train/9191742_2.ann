@@ -1,0 +1,6 @@
+T3	Effect 33 44	hypothyroid
+T4	Treatment 58 73	ferrous sulfate
+T6	Subject 12 21	a patient
+T7	Drug 58 73	ferrous sulfate
+T5	Adverse_event 26 32	became
+E1	Adverse_event:T5

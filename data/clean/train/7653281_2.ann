@@ -1,0 +1,8 @@
+T6	Effect 31 75	adverse effects of the exposure of the liver
+T7	Treatment 98 141	ethanol with its congeners and acetaldehyde
+T9	Drug 129 141	acetaldehyde
+T10	Drug 98 105	ethanol
+T8	Adverse_event 83 94	interaction
+T11	Combination 83 94	interaction
+E1	Adverse_event:T8 
+E2	Combination:T11 arg:T10 arg2:T9

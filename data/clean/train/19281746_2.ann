@@ -1,0 +1,5 @@
+T5	Effect 28 65	acute renal failure with hyperkalemia
+T7	Treatment 111 136	renin inhibitor aliskiren
+T8	Drug 127 136	aliskiren
+T6	Adverse_event 66 76	associated
+E1	Adverse_event:T6

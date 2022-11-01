@@ -1,0 +1,7 @@
+T3	Subject 19 38	a case of a patient
+T4	Treat-Disorder 66 93	acute myocardial infarction
+T5	Treatment 52 61	alteplase
+T7	Effect 108 177	spontaneous subfascial hematoma without any evidence of direct trauma
+T8	Drug 52 61	alteplase
+T6	Adverse_event 98 107	developed
+E1	Adverse_event:T6

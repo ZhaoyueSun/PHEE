@@ -1,0 +1,9 @@
+T4	Effect 22 42	fibrosing alveolitis
+T5	Drug 93 103	amiodarone
+T6	Subject 73 82	a patient
+T8	Treatment 93 145	amiodarone which responded to corticosteroid therapy
+T9	Drug 123 137	corticosteroid
+T7	Adverse_event 83 92	receiving
+T3	Combination 110 119	responded
+E1	Adverse_event:T7 
+E2	Combination:T3 arg:T5 arg2:T9

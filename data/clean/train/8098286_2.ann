@@ -1,0 +1,6 @@
+T4	Treatment 0 50;89 125	Inadvertent subsequent rechallenge with celiprolol 10 weeks after drug readministration
+T5	Effect 58 87	recurrence of the pneumonitis
+T6	Drug 40 50	celiprolol
+T7	Time_elapsed 89 97	10 weeks
+T3	Adverse_event 51 57	led to
+E1	Adverse_event:T3

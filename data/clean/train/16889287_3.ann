@@ -1,0 +1,8 @@
+T3	Subject 22 50	a 21-year-old female patient
+T4	Treatment 56 63	dapsone
+T5	Effect 64 89	hypersensitivity syndrome
+T7	Age 24 35	21-year-old
+T8	Gender 36 42	female
+T9	Drug 56 63	dapsone
+T6	Adverse_event 51 55	with
+E1	Adverse_event:T6

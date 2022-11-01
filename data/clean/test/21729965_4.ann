@@ -1,0 +1,9 @@
+T7	Subject 34 55	an HIV-positive woman
+T8	Treatment 59 73	antiretroviral
+T10	Effect 89 106	tubal pregnancies
+T11	Treat-Disorder 37 49	HIV-positive
+T12	Gender 50 55	woman
+T13	Drug 59 73	antiretroviral
+T14	Drug 138 146	Implanon
+T9	Adverse_event 82 88	having
+E1	Adverse_event:T9 

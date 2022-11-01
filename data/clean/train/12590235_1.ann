@@ -1,0 +1,9 @@
+T4	Subject 75 99	a proportion of patients
+T6	Treatment 5 17	6-MP and AZA
+T7	Effect 57 71	hepatotoxicity
+T8	Drug 14 17	AZA
+T9	Drug 5 9	6-MP
+T5	Adverse_event 29 33	used
+T11	Combination 10 13	and
+E1	Adverse_event:T5 
+E2	Combination:T11 arg:T9 arg2:T8

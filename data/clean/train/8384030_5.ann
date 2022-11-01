@@ -1,0 +1,7 @@
+T7	Effect 24 66	muscle twitches, tremulousness, and anxiet
+T8	Treatment 81 98	foscarnet therapy
+T9	Subject 4 11	patient
+T11	Drug 81 90	foscarnet
+T12	Time_elapsed 68 77	on day 17
+T10	Adverse_event 12 23	experienced
+E1	Adverse_event:T10

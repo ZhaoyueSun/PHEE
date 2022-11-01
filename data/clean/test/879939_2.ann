@@ -1,0 +1,14 @@
+T9	Effect 7 19	osteomalacia
+T10	Subject 35 57	two epileptic patients
+T11	Treatment 73 154	long-term treatment with congeners of phenytoin, phenobarbital, and acetazolamide
+T13	Population 35 38	two
+T14	Treat-Disorder 39 48	epileptic
+T15	Drug 111 120	phenytoin
+T16	Drug 122 135	phenobarbital
+T17	Drug 141 154	acetazolamide
+T19	Severity_cue 0 6	Severe
+T12	Adverse_event 24 31	present
+T18	Combination 137 140	and
+E1	Adverse_event:T12 
+E2	Combination:T18 arg:T15 arg2:T16 arg3:T17
+A1	Severity E1 High

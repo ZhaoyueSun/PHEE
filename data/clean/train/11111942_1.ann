@@ -1,0 +1,6 @@
+T3	Treatment 61 69	warfarin
+T4	Effect 0 40	Diarrhea-associated over-anticoagulation
+T6	Subject 46 53	patient
+T7	Drug 61 69	warfarin
+T5	Adverse_event 20 40	over-anticoagulation
+E1	Adverse_event:T5

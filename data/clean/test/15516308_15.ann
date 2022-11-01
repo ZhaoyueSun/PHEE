@@ -1,0 +1,10 @@
+T5	Subject 68 83	cases #1 and #2
+T7	Severity_cue 98 103	death
+T8	Treatment 127 146	quetiapine overdose
+T9	Drug 127 137	quetiapine
+T10	Dosage 138 146	overdose
+T11	Drug 35 45	quetiapine
+T12	Effect 98 103	death
+T6	Adverse_event 89 94	cause
+E1	Adverse_event:T6 
+A1	Severity E1 High

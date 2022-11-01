@@ -1,0 +1,5 @@
+T5	Effect 0 34	Acute abdomen due to endometriosis
+T6	Treatment 67 76	tamoxifen
+T8	Drug 67 76	tamoxifen
+T7	Adverse_event 60 66	taking
+E1	Adverse_event:T7

@@ -1,0 +1,6 @@
+T3	Effect 30 56	disseminated salmonellosis
+T4	Subject 60 69	a patient
+T5	Treatment 83 95	temozolomide
+T8	Drug 83 95	temozolomide
+T6	Adverse_event 57 59	in
+E1	Adverse_event:T6

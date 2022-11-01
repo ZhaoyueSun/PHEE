@@ -1,0 +1,6 @@
+T6	Treatment 0 35	Current immunosuppressive therapies
+T7	Effect 77 107	significant adverse reactions.
+T8	Drug 8 25	immunosuppressive
+T9	Speculation_cue 54 60	can be
+T5	Adverse_event 61 71	associated
+E1	Adverse_event:T5

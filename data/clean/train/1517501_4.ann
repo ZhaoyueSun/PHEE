@@ -1,0 +1,12 @@
+T8	Subject 28 74	6-week-old infant with Escherichia coli sepsis
+T10	Treatment 79 120	received ampicillin and other antibiotics
+T11	Effect 148 151	TEN
+T13	Age 28 38	6-week-old
+T14	Age 39 45	infant
+T15	Drug 88 98	ampicillin
+T16	Drug 103 120	other antibiotics
+T18	Treat-Disorder 51 74	Escherichia coli sepsis
+T12	Adverse_event 138 147	developed
+T17	Combination 99 102	and
+E1	Adverse_event:T12 
+E2	Combination:T17 arg:T15 arg2:T16

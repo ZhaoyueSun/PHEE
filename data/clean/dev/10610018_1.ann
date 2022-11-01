@@ -1,0 +1,14 @@
+T5	Treatment 58 69	risperidone
+T6	Drug 58 69	risperidone
+T3	Treat-Disorder 0 43	Elevated serum triglycerides with clozapine
+T8	Subject 73 86	four patients
+T9	Population 73 77	four
+T11	Drug 34 43	clozapine
+T13	Treatment 34 43	clozapine
+T14	Effect 0 28	Elevated serum triglycerides
+T4	Potential_therapeutic_event 44 52	resolved
+T12	Adverse_event 29 33	with
+E1	Potential_therapeutic_event:T4 arg:T5 arg2:T8
+E2	Adverse_event:T12 arg:T14 arg2:T13
+R1	has Arg1:T13 Arg2:T11	
+R2	has Arg1:T5 Arg2:T3

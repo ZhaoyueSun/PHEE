@@ -1,0 +1,7 @@
+T4	Effect 15 39	late secondary infection
+T5	Treatment 67 76	imiquimod
+T6	Subject 0 2	He
+T7	Gender 0 2	He
+T8	Drug 67 76	imiquimod
+T3	Adverse_event 3 12	developed
+E1	Adverse_event:T3

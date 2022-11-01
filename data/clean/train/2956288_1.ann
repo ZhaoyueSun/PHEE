@@ -1,0 +1,5 @@
+T3	Treatment 0 10	Ethambutol
+T4	Treat-Disorder 50 62	tuberculosis
+T6	Drug 0 10	Ethambutol
+T5	Potential_therapeutic_event 25 29	used
+E1	Potential_therapeutic_event:T5

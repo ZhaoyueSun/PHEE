@@ -1,0 +1,7 @@
+T3	Effect 0 19	Erythema multiforme
+T4	Treatment 36 75	phenytoin and cranial radiation therapy
+T5	Subject 89 103	three patients
+T7	Population 89 94	three
+T8	Drug 36 45	phenytoin
+T6	Adverse_event 20 30	associated
+E1	Adverse_event:T6

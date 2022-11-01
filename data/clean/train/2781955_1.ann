@@ -1,0 +1,5 @@
+T4	Treatment 27 37	amiodarone
+T5	Effect 46 66	thyrotoxicosis (AIT)
+T6	Drug 27 37	amiodarone
+T3	Adverse_event 38 45	induced
+E1	Adverse_event:T3

@@ -1,0 +1,14 @@
+T3	Treat-Disorder 22 69	morphine-induced spasm of the sphincter of Oddi
+T4	Subject 75 104	post-cholecystectomy patient.
+T5	Treatment 10 18	naloxone
+T7	Drug 10 18	naloxone
+T6	Potential_therapeutic_event 0 6	Relief
+E1	Potential_therapeutic_event:T6 arg:T5 arg2:T4
+R1	has Arg1:T5 Arg2:T3	
+T1	Adverse_event 31 38	induced
+E2	Adverse_event:T1 arg:T2 arg2:T9 arg3:T4
+T2	Treatment 22 30	morphine
+T8	Drug 22 30	morphine
+R2	has Arg1:T2 Arg2:T8	
+T9	Effect 39 69	spasm of the sphincter of Oddi
+R3	has Arg1:T5 Arg2:T7	

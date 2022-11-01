@@ -1,0 +1,6 @@
+T10	Effect 0 31;106 215	Peripheral and optic neuropathy lactic acidosis after several weeks (median 6 wks), and serotonin syndrome after several days (median 4 days)
+T12	Treatment 55 104	several months of linezolid therapy (median 5 mo)
+T14	Drug 73 82	linezolid
+T15	Time_elapsed 55 69	several months
+T11	Adverse_event 49 54	after
+E1	Adverse_event:T11

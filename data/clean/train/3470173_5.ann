@@ -1,0 +1,6 @@
+T3	Treatment 57 63	HDARAC
+T4	Subject 0 9	This case
+T5	Effect 33 53	neurotoxicity unique
+T7	Drug 57 63	HDARAC
+T6	Adverse_event 54 56	to
+E1	Adverse_event:T6

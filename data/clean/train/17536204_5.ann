@@ -1,0 +1,5 @@
+T3	Treatment 30 42	capecitabine
+T5	Effect 51 59	headache
+T6	Drug 30 42	capecitabine
+T4	Adverse_event 43 50	induced
+E1	Adverse_event:T4

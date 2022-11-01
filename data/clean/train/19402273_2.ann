@@ -1,0 +1,5 @@
+T4	Treatment 0 9	Isoniazid
+T5	Effect 18 31	gynaecomastia
+T6	Drug 0 9	Isoniazid
+T3	Adverse_event 10 17	induced
+E1	Adverse_event:T3

@@ -1,0 +1,9 @@
+T4	Effect 23 130	terminal malignant melanoma in which clinical manifestations, indicative of anterior spinal artery syndrome
+T5	Treatment 152 256	the injection of 0.3 ml of 10% phenol-glycerine into the cervical subarachnoid space at the C4--C5 level
+T7	Drug 179 199	10% phenol-glycerine
+T8	Treat-Disorder 276 297	severe right arm pain
+T9	Route 156 165	injection
+T10	Dosage 169 175	0.3 ml
+T11	Route 209 256	cervical subarachnoid space at the C4--C5 level
+T3	Adverse_event 132 141	developed
+E1	Adverse_event:T3

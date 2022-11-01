@@ -1,0 +1,5 @@
+T6	Treat-Disorder 13 59	carbimazole-induced agranulocytosis and sepsis
+T7	Treatment 65 102	granulocyte colony stimulating factor
+T8	Drug 65 102	granulocyte colony stimulating factor
+T5	Potential_therapeutic_event 0 9	Treatment
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,10 @@
+T4	Treatment 84 114	therapeutic doses of amoxapine
+T5	Effect 35 63	subtle cognitive impairments
+T6	Subject 0 12	Two patients
+T7	Population 0 3	Two
+T8	Dosage 84 101	therapeutic doses
+T9	Drug 105 114	amoxapine
+T10	Severity_cue 35 41	subtle
+T3	Adverse_event 68 78	associated
+E1	Adverse_event:T3 
+A1	Severity E1 Low

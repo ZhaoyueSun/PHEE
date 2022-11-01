@@ -1,0 +1,5 @@
+T3	Effect 21 36	liver cirrhosis
+T4	Treatment 0 12	Methotrexate
+T6	Drug 0 12	Methotrexate
+T5	Adverse_event 13 20	induced
+E1	Adverse_event:T5

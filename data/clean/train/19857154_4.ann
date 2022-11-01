@@ -1,0 +1,11 @@
+T8	Subject 12 24	two patients
+T9	Speculation_cue 76 87	potentially
+T11	Effect 41 75	serious quetiapine adverse effects
+T12	Treatment 125 153	ritonavir-boosted atazanavir
+T13	Population 12 15	two
+T14	Drug 125 134	ritonavir
+T16	Drug 143 153	atazanavir
+T10	Adverse_event 29 40	experienced
+T15	Combination 108 119	interaction
+E1	Adverse_event:T10 
+E2	Combination:T15 arg:T14 arg2:T16

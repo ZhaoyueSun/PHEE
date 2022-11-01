@@ -1,0 +1,12 @@
+T3	Subject 29 47	a Japanese patient
+T4	Effect 53 82	severe interstitial pneumonia
+T6	Treatment 102 111	sorafenib
+T8	Race 31 39	Japanese
+T9	Severity_cue 53 59	severe
+T10	Speculation_cue 83 91	probably
+T7	Treat-Disorder 126 157	metastatic renal cell carcinoma
+T11	Drug 102 111	sorafenib
+T5	Adverse_event 92 98	caused
+E1	Adverse_event:T5 
+A1	Speculated E1
+A2	Severity E1 High

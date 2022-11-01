@@ -1,0 +1,6 @@
+T3	Treatment 0 24	Oral intake and acarbose
+T7	Drug 16 24	acarbose
+T4	Effect 43 75	the ileus spontaneously resolved
+T6	Route 0 11	Oral intake
+T5	Adverse_event 76 81	after
+E1	Adverse_event:T5 

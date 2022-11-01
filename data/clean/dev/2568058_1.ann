@@ -1,0 +1,5 @@
+T4	Effect 0 12	Nail-changes
+T6	Treatment 24 37	penicillamine
+T7	Drug 24 37	penicillamine
+T5	Adverse_event 13 20	induced
+E1	Adverse_event:T5

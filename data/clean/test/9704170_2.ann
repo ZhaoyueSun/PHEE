@@ -1,0 +1,8 @@
+T3	Treatment 0 9	Clozapine
+T5	Effect 33 47	rhabdomyolysis
+T6	Subject 51 104	patients with defective calcium-activated K+ channels
+T7	Sub-Disorder 65 104	defective calcium-activated K+ channels
+T8	Speculation_cue 13 23	speculated
+T9	Drug 0 9	Clozapine
+T4	Adverse_event 27 32	cause
+E1	Adverse_event:T4 

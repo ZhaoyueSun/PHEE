@@ -1,0 +1,8 @@
+T6	Effect 0 18	Serotonin syndrome
+T8	Treatment 49 72	citalopram and fentanyl
+T10	Drug 49 59	citalopram
+T11	Drug 64 72	fentanyl
+T7	Adverse_event 19 25	caused
+T9	Combination 29 40	interaction
+E1	Adverse_event:T7 
+E2	Combination:T9 arg:T10 arg2:T11

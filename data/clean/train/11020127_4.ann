@@ -1,0 +1,6 @@
+T4	Treatment 85 94	ritonavir
+T5	Subject 4 11	patient
+T6	Effect 31 53	carbamazepine toxicity
+T8	Drug 85 94	ritonavir
+T7	Adverse_event 54 61	related
+E1	Adverse_event:T7

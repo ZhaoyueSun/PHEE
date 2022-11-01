@@ -1,0 +1,10 @@
+T4	Treatment 141 186	a combination of allopurinol and ketoconazole
+T5	Effect 24 36	pancreatitis
+T6	Subject 0 9	An infant
+T7	Age 3 9	infant
+T9	Drug 158 169	allopurinol
+T10	Drug 174 186	ketoconazole
+T3	Adverse_event 128 135	treated
+T8	Combination 143 154	combination
+E1	Adverse_event:T3 
+E2	Combination:T8 arg:T9 arg2:T10

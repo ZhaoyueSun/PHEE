@@ -1,0 +1,7 @@
+T3	Treatment 0 8	Warfarin
+T5	Effect 20 28	bleeding
+T6	Drug 0 8	Warfarin
+T7	Speculation_cue 29 38	generally
+T8	Speculation_cue 9 19	associated
+T4	Adverse_event 9 19	associated
+E1	Adverse_event:T4

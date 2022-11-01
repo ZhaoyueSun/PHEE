@@ -1,0 +1,9 @@
+T7	Subject 22 40	a 17-year-old male
+T8	Treatment 145 177	a single dose of methylphenidate
+T9	Effect 55 134	chest pain, elevated cardiac biomarkers, and acute left ventricular dysfunction
+T11	Gender 36 40	male
+T12	Age 24 35	17-year-old
+T13	Dosage 145 158	a single dose
+T14	Drug 162 177	methylphenidate
+T10	Adverse_event 135 144	following
+E1	Adverse_event:T10

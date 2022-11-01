@@ -1,0 +1,5 @@
+T7	Treatment 234 241	lithium
+T8	Effect 154 171	Epstein's anomaly
+T10	Drug 234 241	lithium
+T9	Adverse_event 140 150	implicated
+E1	Adverse_event:T9

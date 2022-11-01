@@ -1,0 +1,5 @@
+T4	Effect 0 7	Morphea
+T6	Treatment 14 35	bromocriptine therapy
+T7	Drug 14 27	bromocriptine
+T5	Adverse_event 8 13	after
+E1	Adverse_event:T5

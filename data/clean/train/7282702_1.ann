@@ -1,0 +1,9 @@
+T3	Subject 46 69	a 73-year old white man
+T4	Treatment 10 17	timolol
+T6	Effect 29 42	heart failure
+T7	Age 48 59	73-year old
+T8	Race 60 65	white
+T9	Gender 66 69	man
+T10	Drug 10 17	timolol
+T5	Adverse_event 18 28	associated
+E1	Adverse_event:T5

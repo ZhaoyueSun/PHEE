@@ -1,0 +1,10 @@
+T5	Effect 0 3	PVT
+T7	Treatment 89 162	intensive chemotherapy containing busulfan and to be associated with HVOD
+T8	Treatment 158 162	HVOD
+T10	Drug 123 131	busulfan
+T11	Drug 158 162	HVOD
+T9	Speculation_cue 56 63	appears
+T12	Combination 142 152	associated
+T13	Adverse_event 78 85	related
+E2	Combination:T12 arg:T10 arg2:T11
+E1	Adverse_event:T13

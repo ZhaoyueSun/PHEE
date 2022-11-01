@@ -1,0 +1,5 @@
+T3	Treatment 31 43	methotrexate
+T5	Effect 95 134	diffuse interstitial pulmonary fibrosis
+T6	Drug 31 43	methotrexate
+T4	Adverse_event 86 94	inducing
+E1	Adverse_event:T4

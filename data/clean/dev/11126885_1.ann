@@ -1,0 +1,5 @@
+T4	Treatment 7 14	quinine
+T6	Effect 23 39	thrombocytopenia
+T7	Drug 7 14	quinine
+T5	Adverse_event 15 22	induced
+E1	Adverse_event:T5

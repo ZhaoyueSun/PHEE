@@ -1,0 +1,7 @@
+T4	Effect 0 20	Mucosal pigmentation
+T5	Treatment 61 79	topical tacrolimus
+T6	Treat-Disorder 27 45	oral lichen planus
+T7	Drug 69 79	tacrolimus
+T8	Route 61 68	topical
+T3	Adverse_event 46 55	treatment
+E1	Adverse_event:T3

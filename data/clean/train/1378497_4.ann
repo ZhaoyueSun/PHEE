@@ -1,0 +1,8 @@
+T4	Effect 31 52	cutaneous scleroderma
+T5	Subject 56 66	3 patients
+T6	Treatment 83 146	the use of bleomycin in low cumulative doses of less than 100 U
+T7	Population 56 57	3
+T8	Drug 94 103	bleomycin
+T9	Dosage 131 146	less than 100 U
+T3	Adverse_event 16 27	development
+E1	Adverse_event:T3

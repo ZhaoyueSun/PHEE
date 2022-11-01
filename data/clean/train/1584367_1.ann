@@ -1,0 +1,8 @@
+T4	Treatment 0 27	Intraventricular vancomycin
+T5	Effect 36 68	cerebrospinal fluid eosinophilia
+T6	Subject 80 93	two patients.
+T7	Population 80 83	two
+T8	Route 0 16	Intraventricular
+T9	Drug 17 27	vancomycin
+T3	Adverse_event 28 35	induced
+E1	Adverse_event:T3

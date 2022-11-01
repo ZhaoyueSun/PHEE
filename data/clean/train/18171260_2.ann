@@ -1,0 +1,8 @@
+T6	Treatment 42 103	administration of linezolid and serotonin reuptake inhibitors
+T8	Effect 0 18	Serotonin syndrome
+T9	Drug 60 69	linezolid
+T10	Drug 74 103	serotonin reuptake inhibitors
+T7	Adverse_event 28 41	reported with
+T11	Combination 70 73	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

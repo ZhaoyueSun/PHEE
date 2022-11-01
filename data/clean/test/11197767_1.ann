@@ -1,0 +1,6 @@
+T7	Treatment 12 28	cadmium and zinc
+T8	Effect 0 8	Toxicity
+T9	Drug 12 19	cadmium
+T10	Drug 24 28	zinc
+T6	Potential_therapeutic_event 0 8	Toxicity
+E1	Potential_therapeutic_event:T6

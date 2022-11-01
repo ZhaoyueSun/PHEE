@@ -1,0 +1,13 @@
+T6	Treatment 34 44	ethambutol
+T7	Drug 34 44	ethambutol
+T8	Effect 52 68	optic neuropathy
+T10	Speculation_cue 78 87	potential
+T11	Effect 88 103	ocular toxicity
+T12	Treatment 107 116	isoniazid
+T13	Drug 107 116	isoniazid
+T9	Adverse_event 18 30	complication
+T14	Adverse_event 95 103	toxicity
+E1	Adverse_event:T9 arg:T6 arg2:T8
+E2	Adverse_event:T14 arg:T11 arg2:T12
+R1	has_cue Arg1:E2 Arg2:T10	
+A1	Speculated E2

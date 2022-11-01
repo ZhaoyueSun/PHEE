@@ -1,0 +1,8 @@
+T6	Effect 0 33	Hemorrhage from a falx meningioma
+T8	Treatment 40 72	internal use of low-dose aspirin
+T7	Drug 65 72	aspirin
+T10	Dosage 56 64	low-dose
+T11	Route 40 48	internal
+T12	Treat-Disorder 18 33	falx meningioma
+T9	Adverse_event 34 39	after
+E1	Adverse_event:T9

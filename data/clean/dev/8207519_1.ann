@@ -1,0 +1,9 @@
+T9	Subject 0 3	She
+T10	Treatment 27 61	450-mg bolus injection of morphine
+T12	Effect 90 173	hypertension, status epilepticus, intracerebral hemorrhage, and respiratory failure
+T13	Age 0 3	She
+T14	Drug 53 61	morphine
+T15	Dosage 27 33	450-mg
+T16	Route 34 49	bolus injection
+T11	Adverse_event 80 89	developed
+E1	Adverse_event:T11

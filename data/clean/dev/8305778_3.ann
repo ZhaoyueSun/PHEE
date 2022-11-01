@@ -1,0 +1,10 @@
+T7	Subject 0 88	A 78-year-old man with a history of congestive heart failure and coronary artery disease
+T9	Treatment 102 112	amiodarone
+T12	Age 2 13	78-year-old
+T13	Gender 14 17	man
+T15	Drug 102 112	amiodarone
+T10	Treat-Disorder 125 158	sustained ventricular tachycardia
+T8	Sub-Disorder 36 60	congestive heart failure
+T14	Sub-Disorder 65 88	coronary artery disease
+T11	Potential_therapeutic_event 116 124	suppress
+E1	Potential_therapeutic_event:T11 

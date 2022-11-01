@@ -1,0 +1,6 @@
+T3	Subject 60 68	patients
+T5	Effect 86 117	lower gastrointestinal symptoms
+T6	Treatment 134 143	rofecoxib
+T7	Drug 134 143	rofecoxib
+T4	Adverse_event 78 85	develop
+E1	Adverse_event:T4

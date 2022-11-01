@@ -1,0 +1,11 @@
+T8	Treatment 157 167	rocuronium
+T10	Effect 176 179	NMB
+T11	Drug 157 167	rocuronium
+T13	Treatment 128 139	antibiotics
+T14	Drug 128 139	antibiotics
+T16	Treat-Disorder 157 179	rocuronium-induced NMB
+T9	Adverse_event 168 175	induced
+T15	Potential_therapeutic_event 143 151	recovery
+E1	Adverse_event:T9 arg:T8 arg2:T10
+E2	Potential_therapeutic_event:T15 arg:T13
+R1	has Arg1:T13 Arg2:T16

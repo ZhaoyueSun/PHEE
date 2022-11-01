@@ -1,0 +1,8 @@
+T3	Speculation_cue 101 104	may
+T5	Effect 117 159	severe and irreversible hepatotoxic events
+T6	Treatment 13 99	Prolonged exposure to itraconazole, administered either continuously or intermittently
+T8	Drug 35 47	itraconazole
+T9	Dosage 13 31	Prolonged exposure
+T10	Route 69 99	continuously or intermittently
+T4	Adverse_event 105 116	precipitate
+E1	Adverse_event:T4

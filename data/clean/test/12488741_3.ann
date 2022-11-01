@@ -1,0 +1,5 @@
+T3	Effect 0 55	Reversible MR imaging and MR spectroscopy abnormalities
+T4	Treatment 76 97	metronidazole therapy
+T6	Drug 76 89	metronidazole
+T5	Adverse_event 59 70	association
+E1	Adverse_event:T5

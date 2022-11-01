@@ -1,0 +1,7 @@
+T10	Subject 83 111	patients with advanced NSCLC
+T15	Treatment 32 44	tirapazamine
+T16	Effect 45 79	enhances the activity of cisplatin
+T12	Drug 32 44	tirapazamine
+T14	Treat-Disorder 97 111	advanced NSCLC
+T13	Potential_therapeutic_event 45 53	enhances
+E1	Potential_therapeutic_event:T13

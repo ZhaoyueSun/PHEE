@@ -1,0 +1,6 @@
+T7	Effect 84 134	acute syphilitic posterior placoid chorioretinitis
+T9	Treatment 164 217	intravitreal triamcinolone acetonide (IVTA) injection
+T10	Drug 177 207	triamcinolone acetonide (IVTA)
+T11	Route 208 217	injection
+T8	Adverse_event 148 157	developed
+E1	Adverse_event:T8

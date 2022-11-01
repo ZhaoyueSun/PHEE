@@ -1,0 +1,5 @@
+T6	Treatment 60 73	sulfasalazine
+T7	Effect 0 43	Pulmonary infiltrates and skin pigmentation
+T8	Drug 60 73	sulfasalazine
+T5	Adverse_event 44 54	associated
+E1	Adverse_event:T5

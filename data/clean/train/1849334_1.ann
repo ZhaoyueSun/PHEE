@@ -1,0 +1,7 @@
+T4	Treatment 0 10	Muzolimine
+T6	Effect 26 50	neuromyeloencephalopathy
+T7	Dosage 0 10	Muzolimine
+T8	Severity_cue 19 25	severe
+T5	Adverse_event 11 18	induced
+E1	Adverse_event:T5 
+A1	Severity E1 High

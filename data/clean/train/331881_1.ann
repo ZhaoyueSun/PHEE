@@ -1,0 +1,8 @@
+T5	Treatment 62 97	carbamazepine and diphenylhydantoin
+T6	Effect 0 39	Deposits of plasma proteins in the skin
+T8	Drug 62 75	carbamazepine
+T9	Drug 80 97	diphenylhydantoin
+T4	Adverse_event 47 56	treatment
+T7	Combination 76 79	and
+E1	Adverse_event:T4 
+E2	Combination:T7 arg:T8 arg2:T9

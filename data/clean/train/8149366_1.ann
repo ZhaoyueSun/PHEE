@@ -1,0 +1,7 @@
+T3	Subject 0 15	In two patients
+T4	Treatment 17 28	apomorphine
+T6	Effect 82 127	intensity of the dyskinesias in the afternoon
+T7	Population 3 6	two
+T8	Drug 17 28	apomorphine
+T5	Adverse_event 68 77	increased
+E1	Adverse_event:T5

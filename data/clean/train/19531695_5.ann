@@ -1,0 +1,5 @@
+T4	Treatment 0 10	Flecainide
+T6	Treat-Disorder 46 65	atrial fibrillation
+T7	Drug 0 10	Flecainide
+T5	Potential_therapeutic_event 42 45	for
+E1	Potential_therapeutic_event:T5

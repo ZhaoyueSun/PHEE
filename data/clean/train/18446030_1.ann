@@ -1,0 +1,8 @@
+T3	Treatment 85 103	efalizumab therapy
+T5	Subject 51 77	an adult psoriasis patient
+T6	Effect 0 47	Disseminated eruptive giant mollusca contagiosa
+T7	Age 54 59	adult
+T8	Treat-Disorder 60 69	psoriasis
+T9	Drug 85 95	efalizumab
+T4	Adverse_event 78 84	during
+E1	Adverse_event:T4 

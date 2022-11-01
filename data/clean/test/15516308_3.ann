@@ -1,0 +1,5 @@
+T4	Treatment 144 154	quetiapine
+T5	Effect 98 122	suicidal overdose deaths
+T7	Drug 144 154	quetiapine
+T6	Adverse_event 128 138	associated
+E1	Adverse_event:T6

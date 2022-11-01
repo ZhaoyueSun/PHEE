@@ -1,0 +1,12 @@
+T7	Subject 111 131	an HIV-infected male
+T9	Treatment 56 107	lopinavir/ritonavir and itraconazole concentrations
+T11	Gender 127 131	male
+T12	Treat-Disorder 152 166	histoplasmosis
+T13	Treat-Disorder 114 117	HIV
+T14	Drug 80 92	itraconazole
+T15	Drug 66 75	ritonavir
+T16	Drug 56 65	lopinavir
+T8	Potential_therapeutic_event 140 147	treated
+T17	Combination 76 79	and
+E1	Potential_therapeutic_event:T8 
+E2	Combination:T17 arg:T16 arg2:T15 arg3:T14

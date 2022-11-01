@@ -1,0 +1,10 @@
+T3	Treatment 29 43	cyclosporine A
+T5	Effect 52 66	nephrotoxicity
+T6	Subject 70 150	a patient with systemic lupus erythematosus and tubulointerstitial renal disease
+T9	Drug 29 43	cyclosporine A
+T10	Treat-Disorder 85 113	systemic lupus erythematosus
+T11	Treat-Disorder 118 150	tubulointerstitial renal disease
+T12	Severity_cue 11 17	severe
+T4	Adverse_event 44 51	induced
+E1	Adverse_event:T4 
+A1	Severity E1 High

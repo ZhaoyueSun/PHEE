@@ -1,0 +1,5 @@
+T3	Treatment 253 257	BCNU
+T4	Effect 266 284	pulmonary fibrosis
+T6	Drug 253 257	BCNU
+T5	Adverse_event 258 265	related
+E1	Adverse_event:T5

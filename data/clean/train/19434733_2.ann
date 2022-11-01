@@ -1,0 +1,7 @@
+T3	Effect 23 27	sAML
+T5	Treatment 66 104	2-20 years after exposure to etoposide
+T6	Speculation_cue 109 112	may
+T7	Drug 95 104	etoposide
+T8	Time_elapsed 66 76	2-20 years
+T4	Adverse_event 77 82	after
+E1	Adverse_event:T4

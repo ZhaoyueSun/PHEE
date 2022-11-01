@@ -1,0 +1,7 @@
+T3	Treatment 0 13	Ciprofloxacin
+T5	Effect 22 48	toxic epidermal necrolysis
+T6	Subject 52 96	a patient with systemic lupus erythematosus.
+T8	Drug 0 13	Ciprofloxacin
+T9	Treat-Disorder 67 95	systemic lupus erythematosus
+T4	Adverse_event 15 21	nduced
+E1	Adverse_event:T4

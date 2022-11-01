@@ -1,0 +1,14 @@
+T10	Effect 59 83	symptomatic hypoglycemia
+T11	Treatment 19 44;91 151	receiving glipizide 10 mg three days of adding trimethoprim/sulfamethoxazole (TMP/SMX)
+T8	Subject 0 18	An 83-year-old man
+T7	Age 3 14	83-year-old
+T12	Gender 15 18	man
+T13	Time_elapsed 91 101	three days
+T14	Drug 112 124	trimethoprim
+T15	Drug 125 141	sulfamethoxazole
+T16	Drug 29 38	glipizide
+T17	Dosage 39 44	10 mg
+T9	Adverse_event 49 58	developed
+T18	Combination 19 28	receiving
+E1	Adverse_event:T9 
+E2	Combination:T18 arg:T16 arg2:T14 arg3:T15

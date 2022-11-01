@@ -1,0 +1,7 @@
+T3	Treatment 21 30	acyclovir
+T4	Subject 0 3	She
+T5	Effect 58 85	VZV antigen-positive zoster
+T7	Gender 0 3	She
+T8	Drug 21 30	acyclovir
+T6	Adverse_event 48 57	developed
+E1	Adverse_event:T6

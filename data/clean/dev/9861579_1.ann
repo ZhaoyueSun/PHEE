@@ -1,0 +1,10 @@
+T4	Treat-Disorder 82 98	major depression
+T5	Treatment 104 115	mirtazapine
+T7	Effect 22 34;138 149	intoxication hypothermia
+T8	Age 40 51	41-year-old
+T9	Gender 52 58	female
+T3	Subject 38 66	a 41-year-old female patient
+T10	Drug 104 115	mirtazapine
+T11	Severity_cue 131 137	severe
+T6	Adverse_event 99 103	with
+E1	Adverse_event:T6 

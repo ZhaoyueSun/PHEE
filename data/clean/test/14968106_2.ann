@@ -1,0 +1,6 @@
+T3	Effect 64 80	toxic myelopathy
+T4	Treatment 88 124	intrathecal injection of doxorubicin
+T7	Route 88 109	intrathecal injection
+T8	Drug 113 124	doxorubicin
+T5	Adverse_event 81 87	due to
+E1	Adverse_event:T5

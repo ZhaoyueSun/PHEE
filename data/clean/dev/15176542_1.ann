@@ -1,0 +1,6 @@
+T4	Effect 22 58	large intramural esophageal hematoma
+T5	Treatment 62 95	a complication of heparin therapy
+T6	Drug 80 87	heparin
+T7	Subject 0 11	One patient
+T3	Adverse_event 12 21	developed
+E1	Adverse_event:T3

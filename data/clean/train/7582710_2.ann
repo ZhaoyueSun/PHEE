@@ -1,0 +1,8 @@
+T10	Treatment 141 180	gold sodium thiomalate (GSTM) injection
+T11	Subject 0 17	The first patient
+T13	Effect 28 88	mild nitritoid symptoms and pain in a band-like distribution
+T14	Severity_cue 28 32	mild
+T15	Drug 141 163	gold sodium thiomalate
+T16	Route 171 180	injection
+T12	Adverse_event 18 27	developed
+E1	Adverse_event:T12

@@ -1,0 +1,8 @@
+T8	Treatment 109 151	calcium polystyrene sulfonate and sorbitol
+T9	Effect 22 67	colonic ulcer and the sigmoidovesical fistula
+T10	Drug 109 138	calcium polystyrene sulfonate
+T11	Drug 143 151	sorbitol
+T7	Adverse_event 77 83	caused
+T12	Combination 139 142	and
+E1	Adverse_event:T7 
+E2	Combination:T12 arg:T11 arg2:T10

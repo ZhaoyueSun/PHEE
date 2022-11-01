@@ -1,0 +1,7 @@
+T4	Treatment 91 109	dihydrotachysterol
+T3	Effect 143 168	increased calcium-release
+T6	Drug 91 109	dihydrotachysterol
+T7	Speculation_cue 68 76	enhanced
+T5	Adverse_event 136 139	led
+E1	Adverse_event:T5 
+A1	Speculated E1

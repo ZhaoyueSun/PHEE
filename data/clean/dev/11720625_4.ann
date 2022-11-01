@@ -1,0 +1,12 @@
+T10	Subject 60 77	76-year-old woman
+T11	Treatment 85 107;128 142	long-term disopyramide clarithromycin
+T12	Effect 22 25	TdP
+T13	Treat-Disorder 161 179	chronic bronchitis
+T16	Age 60 71	76-year-old
+T17	Gender 72 77	woman
+T19	Drug 85 107	long-term disopyramide
+T20	Drug 128 142	clarithromycin
+T14	Adverse_event 78 84	taking
+T18	Combination 43 54	interaction
+E1	Adverse_event:T14 
+E2	Combination:T18 arg:T19 arg2:T20

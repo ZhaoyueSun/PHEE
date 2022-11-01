@@ -1,0 +1,7 @@
+T14	Treatment 21 33	methotrexate
+T15	Effect 4 17;43 179	toxic effects elevated liver transaminases (3/4), nausea (2/4), abdominal pain (2/4), bone pain (2/4), mild neutropenia (1/4), and mild pruritus (1/4)
+T16	Severity_cue 132 136	mild
+T17	Drug 21 33	methotrexate
+T13	Adverse_event 18 20	of
+E1	Adverse_event:T13 
+A1	Severity E1 Low

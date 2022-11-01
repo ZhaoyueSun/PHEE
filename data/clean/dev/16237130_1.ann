@@ -1,0 +1,7 @@
+T5	Effect 21 51	multifocal leukoencephalopathy
+T6	Subject 65 75	five cases
+T7	Population 65 69	five
+T3	Treatment 0 12	Capecitabine
+T8	Drug 0 12	Capecitabine
+T4	Adverse_event 13 20	induced
+E1	Adverse_event:T4

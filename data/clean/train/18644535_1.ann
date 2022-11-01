@@ -1,0 +1,5 @@
+T3	Treatment 0 15	Methylphenidate
+T5	Effect 27 35	enuresis
+T6	Drug 0 15	Methylphenidate
+T4	Adverse_event 16 26	associated
+E1	Adverse_event:T4

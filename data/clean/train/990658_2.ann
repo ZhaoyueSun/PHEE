@@ -1,0 +1,15 @@
+T5	Effect 0 20	A fatal pancytopenia
+T7	Subject 33 96	a patient with an history of depression with hypomanic rebounds
+T8	Treat-Disorder 111 126	a manic episode
+T9	Treatment 131 191	treated with levomepromazine, diazepam and lithium carbonate
+T11	Severity_cue 2 7	fatal
+T10	Sub-Disorder 62 72	depression
+T12	Sub-Disorder 78 96	hypomanic rebounds
+T13	Drug 144 159	levomepromazine
+T15	Drug 161 169	diazepam
+T16	Drug 174 191	lithium carbonate
+T6	Adverse_event 21 29	occurred
+T14	Combination 170 173	and
+E1	Adverse_event:T6 
+E2	Combination:T14 arg:T13 arg2:T15 arg3:T16
+A1	Severity E1 High

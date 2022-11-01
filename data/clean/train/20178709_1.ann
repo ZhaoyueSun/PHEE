@@ -1,0 +1,7 @@
+T3	Subject 40 79	a patient with chronic plaque psoriasis
+T4	Treatment 86 106	methotrexate therapy
+T6	Effect 10 36	aseptic pleuropericarditis
+T8	Drug 86 98	methotrexate
+T9	Treat-Disorder 55 79	chronic plaque psoriasis
+T5	Adverse_event 37 39	in
+E1	Adverse_event:T5

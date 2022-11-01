@@ -1,0 +1,10 @@
+T3	Subject 0 46	A 60 year-old woman with chronic renal failure
+T5	Effect 57 87	acute proximal muscle weakness
+T6	Treatment 106 134	regular dosage of colchicine
+T7	Age 2 13	60 year-old
+T8	Gender 14 19	woman
+T10	Treat-Disorder 25 46	chronic renal failure
+T11	Drug 124 134	colchicine
+T12	Dosage 106 120	regular dosage
+T4	Adverse_event 47 56	developed
+E1	Adverse_event:T4

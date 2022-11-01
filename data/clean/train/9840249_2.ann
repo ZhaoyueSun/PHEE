@@ -1,0 +1,5 @@
+T5	Effect 4 22;61 97	pulmonary toxicity life-threatening respiratory failure
+T6	Treatment 26 36	gold salts
+T10	Drug 26 30	gold
+T7	Adverse_event 52 57	cause
+E1	Adverse_event:T7

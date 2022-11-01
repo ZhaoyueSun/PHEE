@@ -1,0 +1,10 @@
+T7	Treatment 123 169	concomitant acetaminophen and moxifloxacin use
+T9	Effect 57 93	development of supratherapeutic INRs
+T10	Drug 153 165	moxifloxacin
+T11	Drug 135 148	acetaminophen
+T13	Speculation_cue 98 106	probably
+T8	Adverse_event 107 117	associated
+T12	Combination 123 134	concomitant
+E1	Adverse_event:T8 
+E2	Combination:T12 arg:T11 arg2:T10
+A1	Speculated E1

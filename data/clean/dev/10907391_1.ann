@@ -1,0 +1,6 @@
+T3	Subject 0 15	A third patient
+T5	Treatment 133 143	paclitaxel
+T6	Effect 28 116	disabling neurotoxicity in the extremity of a prior ulnar nerve and tendon transposition
+T7	Drug 133 143	paclitaxel
+T4	Adverse_event 16 27	experienced
+E1	Adverse_event:T4

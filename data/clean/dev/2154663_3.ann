@@ -1,0 +1,7 @@
+T3	Treatment 20 59	radiotherapy-enhanced aminoglutethimide
+T4	Effect 60 73	skin toxicity
+T5	Subject 77 116	a patient with metastatic breast cancer
+T7	Treat-Disorder 92 116	metastatic breast cancer
+T8	Drug 42 59	aminoglutethimide
+T6	Adverse_event 65 73	toxicity
+E1	Adverse_event:T6 

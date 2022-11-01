@@ -1,0 +1,6 @@
+T3	Treatment 0 20	Parenteral-verapamil
+T5	Effect 29 50	sustained hypotension
+T6	Route 0 10	Parenteral
+T7	Drug 11 20	verapamil
+T4	Adverse_event 21 28	induced
+E1	Adverse_event:T4

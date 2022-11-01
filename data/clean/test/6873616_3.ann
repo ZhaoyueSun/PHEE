@@ -1,0 +1,5 @@
+T5	Treatment 18 31	thiabendazole
+T7	Effect 40 51	cholestasis
+T8	Drug 18 31	thiabendazole
+T6	Adverse_event 32 39	induced
+E1	Adverse_event:T6

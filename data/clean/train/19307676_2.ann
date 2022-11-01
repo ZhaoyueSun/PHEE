@@ -1,0 +1,8 @@
+T4	Effect 167 199	varying degrees of neurotoxicity
+T5	Treatment 0 63	The addition of intrathecal methotrexate to treatment protocols
+T6	Subject 93 138	in children with acute lymphoblastic leukemia
+T7	Age 96 104	children
+T9	Drug 28 40	methotrexate
+T10	Treat-Disorder 110 138	acute lymphoblastic leukemia
+T3	Adverse_event 151 161	associated
+E1	Adverse_event:T3

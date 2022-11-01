@@ -1,0 +1,8 @@
+T6	Treatment 76 104	ingestion of phenolphthalein
+T8	Effect 204 207	TEN
+T9	Subject 0 27	The patient's previous rash
+T10	Sub-Disorder 23 27	rash
+T11	Drug 89 104	phenolphthalein
+T12	Route 76 85	ingestion
+T7	Adverse_event 195 200	cause
+E1	Adverse_event:T7 

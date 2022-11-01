@@ -1,0 +1,5 @@
+T4	Treatment 57 66	Rituximab
+T5	Effect 10 30	CD20-negative tumors
+T6	Drug 57 66	Rituximab
+T3	Adverse_event 51 56	after
+E1	Adverse_event:T3

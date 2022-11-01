@@ -1,0 +1,11 @@
+T9	Subject 0 18	A 34-year-old lady
+T10	Effect 29 96	a constellation of dermatitis, fever, lymphadenopathy and hepatitis
+T12	Treatment 127 158	a course of oral sulphasalazine
+T14	Age 2 13	34-year-old
+T15	Gender 14 18	lady
+T16	Route 139 143	oral
+T17	Drug 144 158	sulphasalazine
+T18	Treat-Disorder 164 197	ero-negative rheumatoid arthritis
+T19	Duration 115 123	17th day
+T11	Adverse_event 19 28	developed
+E1	Adverse_event:T11 

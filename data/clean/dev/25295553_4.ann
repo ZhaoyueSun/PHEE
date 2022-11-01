@@ -1,0 +1,11 @@
+T7	Treatment 0 33	Pregabalin was added to clozapine
+T8	Subject 37 114	2 patients with schizophrenia, who both suffered from severe anxiety symptoms
+T10	Population 37 38	2
+T14	Drug 24 33	clozapine
+T15	Drug 0 10	Pregabalin
+T16	Treat-Disorder 98 114	anxiety symptoms
+T17	Treat-Disorder 53 66	schizophrenia
+T9	Potential_therapeutic_event 34 36	in
+T13	Combination 15 20	added
+E1	Potential_therapeutic_event:T9 
+E2	Combination:T13 arg:T15 arg2:T14

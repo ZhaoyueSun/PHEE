@@ -1,0 +1,10 @@
+T3	Treatment 11 24	valproic acid
+T5	Effect 0 10;33 41	Reversible dementia
+T6	Subject 60 179	a 21-year-old man with epilepsy who had a 3-year history of insidious progressive decline in global cognitive abilities
+T7	Age 62 73	21-year-old
+T8	Gender 74 77	man
+T10	Sub-Disorder 120 179	insidious progressive decline in global cognitive abilities
+T11	Drug 11 24	valproic acid
+T12	Treat-Disorder 83 91	epilepsy
+T4	Adverse_event 25 32	induced
+E1	Adverse_event:T4 

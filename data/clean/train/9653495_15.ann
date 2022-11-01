@@ -1,0 +1,10 @@
+T9	Treat-Disorder 192 218	advanced colorectal cancer
+T10	Treatment 64 91	monthly FU with low-dose LV
+T11	Freq 64 71	monthly
+T12	Drug 72 74	FU
+T14	Drug 89 91	LV
+T15	Dosage 80 88	low-dose
+T8	Potential_therapeutic_event 179 188	treatment
+T13	Combination 75 79	with
+E1	Potential_therapeutic_event:T8 
+E2	Combination:T13 arg:T12 arg2:T14

@@ -1,0 +1,7 @@
+T8	Treatment 0 15;87 128	Cyclobenzaprine with the tricyclic antidepressants (TCAs)
+T9	Effect 23 76	anticholinergic effects, tachycardia, and dysrhythmic
+T10	Speculation_cue 77 86	potential
+T12	Drug 0 15	Cyclobenzaprine
+T13	Drug 96 121	tricyclic antidepressants
+T11	Adverse_event 77 86	potential
+E1	Adverse_event:T11

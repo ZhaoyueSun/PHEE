@@ -1,0 +1,8 @@
+T5	Treatment 0 23	Amphotericin B overdose
+T7	Subject 27 45	pediatric patients
+T8	Effect 62 76	cardiac arrest
+T9	Age 27 36	pediatric
+T10	Drug 0 14	Amphotericin B
+T11	Dosage 15 23	overdose
+T6	Adverse_event 51 61	associated
+E1	Adverse_event:T6 

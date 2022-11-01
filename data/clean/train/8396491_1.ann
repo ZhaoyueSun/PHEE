@@ -1,0 +1,5 @@
+T4	Effect 0 35	Interference with the cortisol axis
+T5	Treatment 67 72	CPH82
+T6	Drug 67 72	CPH82
+T3	Adverse_event 36 38	by
+E1	Adverse_event:T3

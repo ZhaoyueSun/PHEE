@@ -1,0 +1,7 @@
+T4	Effect 0 11	Hypokalemia
+T5	Treatment 18 67	normal doses of neubulized albuterol (salbutamol)
+T7	Drug 45 54	albuterol
+T8	Drug 56 66	salbutamol
+T9	Dosage 18 30	normal doses
+T6	Adverse_event 12 17	after
+E1	Adverse_event:T6

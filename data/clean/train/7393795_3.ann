@@ -1,0 +1,7 @@
+T3	Effect 17 30	hypoglycaemia
+T4	Treatment 36 39	PAS
+T7	Subject 43 55	this patient
+T8	Drug 36 39	PAS
+T9	Treat-Disorder 110 127	diabetes mellitus
+T6	Adverse_event 4 13	induction
+E1	Adverse_event:T6

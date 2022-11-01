@@ -1,0 +1,8 @@
+T3	Effect 85 104	acute renal failure
+T4	Subject 0 13	Five patients
+T5	Treatment 41 59	gentamicin sulfate
+T7	Population 0 4	Five
+T8	Speculation_cue 60 68	appeared
+T9	Drug 41 59	gentamicin sulfate
+T6	Adverse_event 69 80	responsible
+E1	Adverse_event:T6

@@ -1,0 +1,8 @@
+T3	Effect 68 97	Clostridium difficile colitis
+T5	Treatment 114 154	cisplatin-based combination chemotherapy
+T6	Subject 158 181	ovarian cancer patients
+T8	Route 142 154	chemotherapy
+T9	Drug 114 123	cisplatin
+T10	Treat-Disorder 158 172	ovarian cancer
+T4	Adverse_event 98 107	occurring
+E1	Adverse_event:T4

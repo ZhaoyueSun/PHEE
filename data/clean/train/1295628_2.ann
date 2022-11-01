@@ -1,0 +1,9 @@
+T16	Subject 0 20	A 14-year-old female
+T17	Effect 31 145	systemic lupus erythematosus (SLE)-like symptoms, rash, fever, leukopenia and positive anti-nuclear antibody (ANA)
+T20	Age 2 13	14-year-old
+T21	Gender 14 20	female
+T22	Drug 180 193	carbamazepine
+T18	Treatment 162 247	administration of carbamazepine (CBZ; Tegretol) used against benign Rolandic epilepsy
+T23	Treat-Disorder 223 247	benign Rolandic epilepsy
+T19	Adverse_event 21 30	developed
+E1	Adverse_event:T19

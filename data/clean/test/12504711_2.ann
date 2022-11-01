@@ -1,0 +1,9 @@
+T4	Subject 133 164	patients on topical brimonidine
+T5	Effect 82 92	raised IOP
+T6	Treatment 40 59	topical brimonidine
+T8	Speculation_cue 18 25	certain
+T9	Route 40 47	topical
+T10	Drug 48 59	brimonidine
+T3	Adverse_event 64 69	cause
+E1	Adverse_event:T3 
+A1	Speculated E1

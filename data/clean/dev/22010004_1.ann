@@ -1,0 +1,10 @@
+T7	Subject 27 36	a patient
+T8	Effect 11 23	elevated INR
+T9	Treatment 40 48;55 95	warfarin increase in extended-release niacin dose
+T11	Drug 40 48	warfarin
+T12	Drug 84 90	niacin
+T13	Dosage 55 66;91 95	increase in dose
+T14	Severity_cue 0 10	Critically
+T10	Adverse_event 49 54	after
+E1	Adverse_event:T10 
+A1	Severity E1 High

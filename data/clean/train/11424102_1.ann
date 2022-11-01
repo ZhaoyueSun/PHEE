@@ -1,0 +1,7 @@
+T7	Effect 0 17	Cutaneous seeding
+T8	Treatment 24 72	ultrasound-guided percutaneous ethanol injection
+T10	Route 63 72	injection
+T11	Drug 55 62	ethanol
+T12	Treat-Disorder 90 114	hepatocellular carcinoma
+T6	Adverse_event 18 23	after
+E1	Adverse_event:T6

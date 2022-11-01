@@ -1,0 +1,14 @@
+T9	Treat-Disorder 100 125	anxiety-related disorders
+T10	Subject 0 40	A 37-year-old male with multiple myeloma
+T11	Treatment 50 95	citalopram 40 mg/day and trazodone 150 mg/day
+T12	Age 2 13	37-year-old
+T13	Gender 14 18	male
+T14	Sub-Disorder 24 40	multiple myeloma
+T15	Drug 50 60	citalopram
+T17	Drug 75 84	trazodone
+T18	Dosage 61 70	40 mg/day
+T19	Dosage 85 95	150 mg/day
+T8	Potential_therapeutic_event 96 99	for
+T16	Combination 71 74	and
+E1	Potential_therapeutic_event:T8 
+E2	Combination:T16 arg:T15 arg2:T17

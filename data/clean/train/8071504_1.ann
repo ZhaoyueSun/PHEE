@@ -1,0 +1,5 @@
+T5	Treatment 39 49	ethambutol
+T6	Effect 0 22	Toxic optic neuropathy
+T7	Drug 39 49	ethambutol
+T4	Adverse_event 23 33	associated
+E1	Adverse_event:T4

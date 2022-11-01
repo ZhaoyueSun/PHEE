@@ -1,0 +1,5 @@
+T6	Effect 18 89	Meibomian duct inflammation and blockage leading to chalazion formation
+T7	Treatment 0 9	Docetaxel
+T8	Drug 0 9	Docetaxel
+T5	Adverse_event 10 17	induced
+E1	Adverse_event:T5 

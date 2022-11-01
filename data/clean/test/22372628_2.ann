@@ -1,0 +1,9 @@
+T9	Treatment 16 50;74 106;160 218	long-term (up to 5 years exposure) lacosamide as adjunctive therapy taking one to three concomitant antiepileptic drugs (AEDs)
+T12	Treat-Disorder 124 159	uncontrolled partial-onset seizures
+T13	Drug 74 84	lacosamide
+T14	Duration 16 50	long-term (up to 5 years exposure)
+T16	Drug 192 211	antiepileptic drugs
+T11	Potential_therapeutic_event 107 109	in
+T10	Combination 88 98	adjunctive
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T10 arg:T13 arg2:T16

@@ -1,0 +1,13 @@
+T8	Subject 12 30	a 52-year-old male
+T9	Treat-Disorder 46 72	stage III multiple myeloma
+T12	Age 14 25	52-year-old
+T13	Gender 26 30	male
+T10	Treatment 95 162	5-monthly cycles of VAD (vincristine, adriamycin and dexamathasone)
+T14	Duration 95 104	5-monthly
+T15	Drug 120 131	vincristine
+T17	Drug 133 143	adriamycin
+T18	Drug 148 161	dexamathasone
+T11	Potential_therapeutic_event 82 89	treated
+T16	Combination 144 147	and
+E1	Potential_therapeutic_event:T11 
+E2	Combination:T16 arg:T15 arg2:T17 arg3:T18

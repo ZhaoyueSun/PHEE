@@ -1,0 +1,13 @@
+T3	Subject 9 64	a 35-year-old woman with occult coronary artery disease
+T4	Effect 81 95	cardiac arrest
+T6	Treatment 96 172	within minutes after receiving a first-time dose of subcutaneous sumatriptan
+T8	Age 11 22	35-year-old
+T9	Gender 23 28	woman
+T10	Sub-Disorder 34 64	occult coronary artery disease
+T11	Drug 161 172	sumatriptan
+T12	Treat-Disorder 177 185	migraine
+T13	Route 148 160	subcutaneous
+T14	Time_elapsed 96 110	within minutes
+T5	Adverse_event 69 80	experienced
+E1	Adverse_event:T5 
+T1	Dosage 127 144	a first-time dose

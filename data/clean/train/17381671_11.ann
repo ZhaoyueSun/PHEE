@@ -1,0 +1,9 @@
+T5	Subject 21 27	a case
+T6	Effect 31 49	serotonin syndrome
+T8	Treatment 86 109	fentanyl and citalopram
+T9	Drug 86 94	fentanyl
+T10	Drug 99 109	citalopram
+T7	Adverse_event 66 77	interaction
+T11	Combination 95 98	and
+E1	Adverse_event:T7 
+E2	Combination:T11 arg:T9 arg2:T10

@@ -1,0 +1,5 @@
+T21	Treatment 0 81	Rapamycin/sirolimus (SR), trade named Rapammune (Wyeth-Ayerst, Sydney, Australia)
+T29	Drug 0 19	Rapamycin/sirolimus
+T22	Adverse_event 118 128	associated
+E1	Adverse_event:T22 
+T1	Effect 134 195	myelosuppression, hypertension, hyperlipidemia, and infection

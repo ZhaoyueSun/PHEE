@@ -1,0 +1,6 @@
+T3	Treatment 57 74	rituximab therapy
+T5	Effect 0 50	Bronchiolitis obliterans with organizing pneumonia
+T7	Drug 57 66	rituximab
+T8	Treat-Disorder 79 101	non-Hodgkin's lymphoma
+T6	Adverse_event 51 56	after
+E1	Adverse_event:T6

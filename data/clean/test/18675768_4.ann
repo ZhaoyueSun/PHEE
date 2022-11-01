@@ -1,0 +1,11 @@
+T7	Effect 124 163	symptoms of propafenone adverse effects
+T9	Treatment 53 109	drug-drug interaction between propafenone and citalopram
+T11	Drug 83 94	propafenone
+T12	Drug 99 109	citalopram
+T13	Speculation_cue 43 52	potential
+T14	Drug 136 147	propafenone
+T8	Adverse_event 117 123	caused
+T10	Combination 63 74	interaction
+E1	Adverse_event:T8 
+E2	Combination:T10 arg:T11 arg2:T12
+A1	Speculated E1

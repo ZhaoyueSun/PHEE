@@ -1,0 +1,9 @@
+T3	Treatment 18 29	hydroxyurea
+T4	Subject 33 49	patients with ET
+T6	Effect 62 95	therapy-associated acute leukemia
+T8	Drug 18 29	hydroxyurea
+T9	Treat-Disorder 47 49	ET
+T10	Speculation_cue 50 53	may
+T11	Freq 0 14	Prolonged used
+T7	Adverse_event 70 80	associated
+E1	Adverse_event:T7

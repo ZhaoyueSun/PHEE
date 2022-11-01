@@ -1,0 +1,5 @@
+T5	Treatment 30 40	zonisamide
+T7	Effect 49 74	hypersensitivity syndrome
+T8	Drug 30 40	zonisamide
+T6	Adverse_event 41 48	induced
+E1	Adverse_event:T6

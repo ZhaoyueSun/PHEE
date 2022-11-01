@@ -1,0 +1,9 @@
+T3	Effect 77 86	psychosis
+T5	Subject 90 114;161 211	a 12-year old white girl heterozygous gene polymorphism of the CYP2B6-G516T
+T6	Treatment 123 156	increased efavirenz concentration
+T7	Age 92 103	12-year old
+T8	Race 104 109	white
+T9	Gender 110 114	girl
+T10	Drug 133 142	efavirenz
+T4	Adverse_event 64 73	emergence
+E1	Adverse_event:T4

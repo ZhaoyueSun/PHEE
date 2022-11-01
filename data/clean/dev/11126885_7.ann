@@ -1,0 +1,11 @@
+T7	Effect 48 76	symptomatic thrombocytopenia
+T8	Treatment 151 176	continued to take quinine
+T12	Gender 144 146	he
+T13	Drug 169 176	quinine
+T14	Treat-Disorder 181 197	night leg cramps
+T11	Subject 144 146;181 197	he night leg cramps
+T15	Severity_cue 40 46	severe
+T16	Time_elapsed 77 101	over the next four weeks
+T10	Adverse_event 164 168	take
+E1	Adverse_event:T10 
+A1	Severity E1 High

@@ -1,0 +1,6 @@
+T5	Effect 0 48	Recurrent hypotension immediately after seizures
+T6	Treatment 52 74	nortriptyline overdose
+T8	Drug 52 65	nortriptyline
+T9	Dosage 66 74	overdose
+T7	Adverse_event 49 51	in
+E1	Adverse_event:T7

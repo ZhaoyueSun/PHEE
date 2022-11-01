@@ -1,0 +1,10 @@
+T6	Treatment 65 77;135 146	itraconazole vincristine
+T8	Effect 158 202	severe and even potentially fatal toxicities
+T9	Severity_cue 158 191	severe and even potentially fatal
+T11	Drug 65 77	itraconazole
+T12	Drug 135 146	vincristine
+T7	Adverse_event 147 154	leading
+T10	Combination 105 116	interaction
+E1	Adverse_event:T7 
+E2	Combination:T10 arg:T11 arg2:T12
+A1	Severity E1 High

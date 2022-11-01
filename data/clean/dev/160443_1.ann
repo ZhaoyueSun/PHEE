@@ -1,0 +1,8 @@
+T3	Subject 59 78	younger individuals
+T5	Treatment 85 105	intake of clioquinol
+T6	Effect 33 55	acute amnestic episode
+T7	Age 59 66	younger
+T8	Drug 95 105	clioquinol
+T9	Route 85 91	intake
+T4	Adverse_event 79 84	after
+E1	Adverse_event:T4

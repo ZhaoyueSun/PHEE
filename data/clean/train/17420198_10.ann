@@ -1,0 +1,6 @@
+T10	Treatment 89 115	initiation of aripiprazole
+T8	Effect 0 33	Facial, tongue, and arm movements
+T11	Time_elapsed 68 78	five weeks
+T12	Drug 103 115	aripiprazole
+T9	Adverse_event 79 84	after
+E1	Adverse_event:T9

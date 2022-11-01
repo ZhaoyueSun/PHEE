@@ -1,0 +1,7 @@
+T5	Effect 0 37;101 114	Bilateral acoustic (VIII) nerve palsy neurotoxicity
+T6	Subject 41 53	this patient
+T8	Treatment 89 100	vincristine
+T9	Drug 89 100	vincristine
+T7	Adverse_event 58 69	most likely
+E1	Adverse_event:T7 
+A1	Speculated E1

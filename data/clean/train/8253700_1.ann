@@ -1,0 +1,6 @@
+T4	Effect 99 117	sexual dysfunction
+T5	Treatment 12 22	Fluoxetine
+T6	Drug 12 22	Fluoxetine
+T7	Subject 123 143	minority of patients
+T3	Adverse_event 93 98	cause
+E1	Adverse_event:T3

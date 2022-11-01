@@ -1,0 +1,8 @@
+T7	Effect 117 125	toxicity
+T9	Treatment 0 34;52 96	After ticlopidine was discontinued rechallenged with the same dose of phenytoin
+T10	Negation_cue 97 104	without
+T6	Drug 6 17	ticlopidine
+T11	Drug 87 96	phenytoin
+T8	Adverse_event 117 125	toxicity
+E1	Adverse_event:T8 
+A1	Negated E1

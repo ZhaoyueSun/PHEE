@@ -1,0 +1,7 @@
+T3	Effect 76 96	clotting abnormality
+T5	Treatment 101 109	warfarin
+T6	Drug 101 109	warfarin
+T7	Speculation_cue 46 54	probable
+T4	Adverse_event 55 67	relationship
+E1	Adverse_event:T4 
+A1	Speculated E1

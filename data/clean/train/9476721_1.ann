@@ -1,0 +1,6 @@
+T5	Effect 0 50	Acute dystonia with thalamic and brainstem lesions
+T7	Treatment 65 78	penicillamine
+T9	Drug 65 78	penicillamine
+T10	Treat-Disorder 92 108	Wilson's disease
+T6	Adverse_event 51 56	after
+E1	Adverse_event:T6

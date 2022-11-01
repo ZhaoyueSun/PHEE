@@ -1,0 +1,7 @@
+T3	Effect 18 45	extrapyramidal side effects
+T4	Subject 0 12	Two patients
+T5	Treatment 63 85	fluphenazine decanoate
+T7	Population 0 3	Two
+T8	Drug 63 85	fluphenazine decanoate
+T6	Adverse_event 46 51	after
+E1	Adverse_event:T6

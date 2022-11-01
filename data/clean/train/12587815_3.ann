@@ -1,0 +1,9 @@
+T4	Effect 0 30	Neuroleptic malignant syndrome
+T6	Treatment 58 96	olanzapine-lithium combination therapy
+T8	Subject 37 47	adolescent
+T9	Drug 58 68	olanzapine
+T10	Drug 69 76	lithium
+T7	Adverse_event 48 57	receiving
+T5	Combination 77 88	combination
+E1	Adverse_event:T7 
+E2	Combination:T5 arg:T10 arg2:T9

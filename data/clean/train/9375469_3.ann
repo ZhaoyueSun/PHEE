@@ -1,0 +1,5 @@
+T3	Effect 20 38	contact dermatitis
+T4	Treatment 46 62	sodium bisulfite
+T6	Drug 46 62	sodium bisulfite
+T5	Adverse_event 39 42	due
+E1	Adverse_event:T5

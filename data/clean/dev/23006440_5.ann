@@ -1,0 +1,10 @@
+T10	Speculation_cue 89 99	suggesting
+T12	Treatment 14 87	5-FU increased PHT, which in turn may have increased the PB concentration
+T14	Effect 270 322	secondary effects of antitumor agents on other drugs
+T16	Drug 14 18	5-FU
+T17	Drug 29 32	PHT
+T11	Subject 164 172	patients
+T13	Adverse_event 341 349	interact
+T23	Combination 19 28;71 73	increased PB
+E1	Adverse_event:T13 
+E3	Combination:T23 arg:T16 arg2:T17

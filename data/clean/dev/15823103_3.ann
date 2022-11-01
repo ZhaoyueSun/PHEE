@@ -1,0 +1,6 @@
+T6	Effect 26 48	CBDCA hypersensitivity
+T8	Treatment 73 126	total dose of previously administered platinum agents
+T9	Speculation_cue 11 20	suggested
+T10	Drug 111 126	platinum agents
+T7	Adverse_event 53 63	correlated
+E1	Adverse_event:T7

@@ -1,0 +1,7 @@
+T7	Effect 267 276	poisoning
+T11	Drug 28 38	disulfiram
+T9	Drug 280 305	P450 2E1-activated toxins
+T10	Treatment 280 305	P450 2E1-activated toxins
+T12	Dosage 16 27	single-dose
+T8	Adverse_event 277 279	by
+E1	Adverse_event:T8

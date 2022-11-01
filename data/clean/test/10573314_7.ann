@@ -1,0 +1,7 @@
+T7	Effect 69 110	significant increase in the patient's INR
+T9	Treatment 17 46	the initiation of tolterodine
+T10	Subject 3 15	each patient
+T11	Drug 35 46	tolterodine
+T12	Time_elapsed 120 137	10-14 days later.
+T8	Adverse_event 51 66	associated with
+E1	Adverse_event:T8

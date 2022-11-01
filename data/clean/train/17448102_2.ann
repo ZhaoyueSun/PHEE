@@ -1,0 +1,6 @@
+T7	Treatment 0 19	Flecainide overdose
+T9	Effect 42 126	profound cardiovascular collapse, and is associated with a relatively high mortality
+T10	Drug 0 10	Flecainide
+T11	Dosage 11 19	overdose
+T8	Adverse_event 32 38	result
+E1	Adverse_event:T8

@@ -1,0 +1,7 @@
+T5	Treatment 151 162	montelukast
+T6	Effect 82 101	the fatal hepatitis
+T9	Speculation_cue 3 12	speculate
+T10	Severity_cue 86 91	fatal
+T11	Drug 151 162	montelukast
+T8	Adverse_event 25 37	relationship
+E1	Adverse_event:T8

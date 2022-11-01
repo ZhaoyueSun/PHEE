@@ -1,0 +1,9 @@
+T3	Subject 66 89	five pediatric patients
+T4	Treatment 103 149	between 4.6 and 40.8 mg/kg/d of amphotericin B
+T5	Effect 27 48	Cardiac complications
+T7	Population 66 70	five
+T8	Age 71 80	pediatric
+T9	Dosage 111 131	4.6 and 40.8 mg/kg/d
+T11	Drug 135 149	amphotericin B
+T6	Adverse_event 94 102	received
+E1	Adverse_event:T6

@@ -1,0 +1,8 @@
+T3	Effect 82 133	incapacitating isolated idential sensory neuropathy
+T4	Subject 0 26	A healthy, 30-year-old man
+T5	Treatment 39 47	sulindac
+T7	Age 11 22	30-year-old
+T8	Gender 23 26	man
+T9	Drug 39 47	sulindac
+T6	Adverse_event 28 35	exposed
+E1	Adverse_event:T6

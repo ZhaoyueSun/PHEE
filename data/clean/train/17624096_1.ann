@@ -1,0 +1,6 @@
+T6	Treatment 0 14	5-Fluorouracil
+T7	Effect 15 29	cardiotoxicity
+T9	Drug 0 14	5-Fluorouracil
+T10	Treat-Disorder 66 81	cervical cancer
+T8	Adverse_event 30 42	complicating
+E1	Adverse_event:T8

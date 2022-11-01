@@ -1,0 +1,5 @@
+T4	Treatment 42 94	withdrawal of phenytoin and reduction of drug levels
+T5	Effect 14 22	seizures
+T6	Drug 56 65	phenytoin
+T3	Potential_therapeutic_event 28 38	controlled
+E1	Potential_therapeutic_event:T3

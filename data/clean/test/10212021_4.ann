@@ -1,0 +1,6 @@
+T9	Treatment 0 9	Methadone
+T10	Treat-Disorder 27 65	human immunodeficiency viral infection
+T11	Effect 67 112	pain management and treatment of opioid abuse
+T12	Drug 0 9	Methadone
+T8	Potential_therapeutic_event 10 23	has two roles
+E1	Potential_therapeutic_event:T8

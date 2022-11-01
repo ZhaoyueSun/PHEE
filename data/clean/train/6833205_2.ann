@@ -1,0 +1,8 @@
+T3	Treatment 0 11	Desipramine
+T5	Effect 23 28	SIADH
+T6	Subject 32 48	an elderly woman
+T7	Age 35 42	elderly
+T8	Gender 43 48	woman
+T9	Drug 0 11	Desipramine
+T4	Adverse_event 12 22	associated
+E1	Adverse_event:T4

@@ -1,0 +1,5 @@
+T4	Effect 86 120	calcium phosphate nephrolithiasis.
+T5	Treatment 64 77	acetazolamide
+T6	Drug 64 77	acetazolamide
+T3	Adverse_event 78 85	related
+E1	Adverse_event:T3

@@ -1,0 +1,6 @@
+T4	Treatment 112 122	colchicine
+T3	Subject 28 56	patients with corneal ulcers
+T8	Drug 112 122	colchicine
+T9	Treat-Disorder 42 56	corneal ulcers
+T5	Potential_therapeutic_event 102 111	receiving
+E1	Potential_therapeutic_event:T5

@@ -1,0 +1,7 @@
+T6	Treatment 6 17	tolterodine
+T7	Subject 37 50	both patients
+T9	Negation_cue 22 33	ineffective
+T11	Drug 6 17	tolterodine
+T8	Potential_therapeutic_event 22 33	ineffective
+E1	Potential_therapeutic_event:T8 
+A1	Negated E1

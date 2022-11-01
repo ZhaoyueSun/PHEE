@@ -1,0 +1,7 @@
+T7	Subject 34 41	a child
+T8	Drug 47 60	phenobarbital
+T9	Effect 0 30;61 77	Graft versus host-like illness hypersensitivity
+T12	Treatment 47 60	phenobarbital
+T13	Age 36 41	child
+T10	Adverse_event 61 77	hypersensitivity
+E1	Adverse_event:T10 

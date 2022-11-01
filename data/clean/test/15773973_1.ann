@@ -1,0 +1,5 @@
+T5	Treatment 0 14	Flucloxacillin
+T7	Effect 23 57	aplastic anaemia and liver failure
+T8	Drug 0 14	Flucloxacillin
+T6	Adverse_event 15 22	induced
+E1	Adverse_event:T6

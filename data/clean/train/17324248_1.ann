@@ -1,0 +1,6 @@
+T4	Effect 27 39	piloerection
+T5	Treatment 56 75	fluvoxamine maleate
+T7	Drug 56 75	fluvoxamine maleate
+T8	Drug 81 106	milnacipran hydrochloride
+T6	Adverse_event 40 45	after
+E1	Adverse_event:T6

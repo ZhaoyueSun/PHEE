@@ -1,0 +1,7 @@
+T8	Treatment 147 159	chemotherapy
+T11	Effect 78 107	severe dysphagia and bleeding
+T10	Subject 22 69	the patient had suffered from painful mucositis
+T12	Sub-Disorder 60 69	mucositis
+T13	Route 147 159	chemotherapy
+T9	Adverse_event 137 143	result
+E1	Adverse_event:T9 

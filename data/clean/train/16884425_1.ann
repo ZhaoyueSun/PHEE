@@ -1,0 +1,9 @@
+T6	Treatment 63 96	an i.v. regimen of 5-fluorouracil
+T7	Effect 35 48;112 247	neurotoxicity acute confusional state and abnormalities of symmetrically restricted diffusion in the periventricular white matter and corpus callosum
+T8	Subject 0 19	A 35-year-old woman
+T9	Age 2 13	35-year-old
+T10	Gender 14 19	woman
+T11	Drug 82 96	5-fluorouracil
+T12	Route 66 70	i.v.
+T5	Adverse_event 49 59	correlated
+E1	Adverse_event:T5

@@ -1,0 +1,9 @@
+T3	Subject 0 56	A 35-year-old man with seropositive rheumatoid arthritis
+T4	Effect 67 91	selective IgA deficiency
+T6	Treatment 114 125	fenclofenac
+T7	Age 2 13	35-year-old
+T8	Gender 14 17	man
+T10	Drug 114 125	fenclofenac
+T11	Treat-Disorder 23 56	seropositive rheumatoid arthritis
+T5	Adverse_event 92 98	during
+E1	Adverse_event:T5 

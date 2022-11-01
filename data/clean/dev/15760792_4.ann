@@ -1,0 +1,11 @@
+T7	Subject 12 57	a 22-year-old Thai woman with Graves' disease
+T8	Effect 59 152	tinnitus, hearing impairment in the left ear (with progression to the right ear), and vertigo
+T10	Treatment 163 196	after 3 years of therapy with PTU
+T11	Age 14 25	22-year-old
+T12	Race 26 30	Thai
+T13	Gender 31 36	woman
+T14	Treat-Disorder 42 57	Graves' disease
+T15	Drug 193 196	PTU
+T16	Time_elapsed 163 176	after 3 years
+T9	Adverse_event 153 162	developed
+E1	Adverse_event:T9 

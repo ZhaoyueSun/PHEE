@@ -1,0 +1,7 @@
+T4	Effect 20 43	Graves' hyperthyroidism
+T5	Subject 10 16	a case
+T7	Treatment 55 89	long-term interferon (IFN) therapy
+T8	Time_elapsed 55 64	long-term
+T9	Drug 65 75	interferon
+T6	Adverse_event 44 51	induced
+E1	Adverse_event:T6

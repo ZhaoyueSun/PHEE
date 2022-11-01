@@ -1,0 +1,7 @@
+T9	Subject 0 8	Children
+T10	Treatment 22 33	thalidomide
+T11	Effect 101 152	presymptomatic or progressive peripheral neuropathy
+T13	Age 0 8	Children
+T14	Drug 22 33	thalidomide
+T12	Adverse_event 94 100	detect
+E1	Adverse_event:T12

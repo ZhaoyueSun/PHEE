@@ -1,0 +1,9 @@
+T3	Subject 53 72	a middle aged woman
+T5	Treatment 10 19;87 121	halothane gastric surgery for morbid obesity
+T6	Effect 28 37	hepatitis
+T7	Age 55 66	middle aged
+T8	Gender 67 72	woman
+T9	Drug 10 19	halothane
+T10	Treat-Disorder 107 121	morbid obesity
+T4	Adverse_event 20 27	induced
+E1	Adverse_event:T4

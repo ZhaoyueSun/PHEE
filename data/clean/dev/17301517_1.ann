@@ -1,0 +1,10 @@
+T6	Treatment 124 174	9 days of treatment with perospirone hydrochloride
+T7	Effect 83 117	circulatory collapse and deep coma
+T8	Subject 0 67	A 32-year-old man with a family history of type 2 diabetes mellitus
+T9	Age 2 13	32-year-old
+T10	Gender 14 17	man
+T11	Sub-Disorder 43 67	type 2 diabetes mellitus
+T12	Drug 149 174	perospirone hydrochloride
+T13	Time_elapsed 118 130	after 9 days
+T5	Adverse_event 118 123	after
+E1	Adverse_event:T5 

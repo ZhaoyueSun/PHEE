@@ -1,0 +1,12 @@
+T3	Treatment 55 76	intravenous valproate
+T5	Effect 27 38	hypotension
+T6	Subject 113 132	an 11-year-old girl
+T7	Treat-Disorder 91 109	status epilepticus
+T8	Age 116 127	11-year-old
+T9	Gender 128 132	girl
+T10	Route 55 66	intravenous
+T11	Drug 67 76	valproate
+T12	Severity_cue 20 26	severe
+T4	Adverse_event 39 49	associated
+E1	Adverse_event:T4 
+A1	Severity E1 High

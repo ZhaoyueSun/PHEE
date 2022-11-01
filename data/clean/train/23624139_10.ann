@@ -1,0 +1,7 @@
+T9	Treatment 70 104	therapeutic alternatives to NSAIDs
+T11	Subject 130 154	patients with central DI
+T12	Treat-Disorder 144 154	central DI
+T13	Drug 98 104	NSAIDs
+T10	Potential_therapeutic_event 115 126	recommended
+E1	Potential_therapeutic_event:T10 
+T1	Effect 155 187	in order to improve DDAVP safety

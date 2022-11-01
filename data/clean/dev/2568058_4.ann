@@ -1,0 +1,8 @@
+T6	Treatment 104 117	penicillamine
+T7	Effect 136 148	nail-changes
+T9	Drug 104 117	penicillamine
+T10	Drug 17 30	penicillamine
+T11	Speculation_cue 66 73	proving
+T8	Adverse_event 76 95	causal relationship
+E1	Adverse_event:T8 
+A1	Speculated E1

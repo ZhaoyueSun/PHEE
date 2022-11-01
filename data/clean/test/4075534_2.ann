@@ -1,0 +1,5 @@
+T4	Treatment 16 30	benzodiazepine
+T5	Effect 0 12	Spindle coma
+T6	Drug 16 30	benzodiazepine
+T3	Adverse_event 13 15	in
+E1	Adverse_event:T3

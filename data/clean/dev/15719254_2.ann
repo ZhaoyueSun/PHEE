@@ -1,0 +1,7 @@
+T3	Treatment 18 20	RA
+T5	Effect 40 71	deterioration in renal function
+T6	Drug 18 20	RA
+T7	Speculation_cue 6 12	likely
+T4	Adverse_event 21 32	contributed
+E1	Adverse_event:T4 
+A1	Speculated E1

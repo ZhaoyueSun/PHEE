@@ -1,0 +1,6 @@
+T3	Effect 0 21	Polymyoclonus seizure
+T5	Treatment 37 97	accidental injection of tranexamic acid in spinal anesthesia
+T6	Drug 61 76	tranexamic acid
+T7	Route 48 57	injection
+T4	Adverse_event 22 31	resulting
+E1	Adverse_event:T4

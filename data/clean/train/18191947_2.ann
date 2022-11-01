@@ -1,0 +1,6 @@
+T3	Effect 71 106	sub-acute toxic leukoencephalopathy
+T4	Treatment 138 150	methotrexate
+T6	Subject 110 118	patients
+T7	Drug 138 150	methotrexate
+T5	Adverse_event 107 109	in
+E1	Adverse_event:T5

@@ -1,0 +1,8 @@
+T8	Treatment 0 19	Rapamycin/sirolimus
+T10	Effect 28 39	pneumonitis
+T11	Drug 0 9	Rapamycin
+T12	Drug 10 19	sirolimus
+T9	Adverse_event 20 27	induced
+T13	Combination 9 10	/
+E1	Adverse_event:T9 
+E2	Combination:T13 arg:T11 arg2:T12

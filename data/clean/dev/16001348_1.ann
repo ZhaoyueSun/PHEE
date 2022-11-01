@@ -1,0 +1,5 @@
+T4	Treatment 0 12	Lansoprazole
+T6	Effect 24 43	collagenous colitis
+T7	Drug 0 12	Lansoprazole
+T5	Adverse_event 13 23	associated
+E1	Adverse_event:T5

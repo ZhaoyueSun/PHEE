@@ -1,0 +1,5 @@
+T3	Effect 0 9	Keratitis
+T5	Treatment 13 36	methamphetamine abusers
+T6	Drug 13 28	methamphetamine
+T4	Adverse_event 10 12	in
+E1	Adverse_event:T4

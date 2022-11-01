@@ -1,0 +1,8 @@
+T3	Effect 121 123	SS
+T4	Subject 174 232	frail, elderly patients with underlying chronic conditions
+T5	Treatment 22 33	mirtazapine
+T7	Age 181 188	elderly
+T8	Sub-Disorder 203 232	underlying chronic conditions
+T9	Drug 22 33	mirtazapine
+T6	Adverse_event 113 120	bearing
+E1	Adverse_event:T6 

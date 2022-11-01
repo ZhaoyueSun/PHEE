@@ -1,0 +1,8 @@
+T3	Treatment 0 21;57 74	Chlormadinone acetate androgen blockade
+T4	Treat-Disorder 79 103	advanced prostate cancer
+T6	Drug 0 21	Chlormadinone acetate
+T7	Drug 57 74	androgen blockade
+T5	Potential_therapeutic_event 42 47	under
+T8	Combination 48 56	combined
+E1	Potential_therapeutic_event:T5 
+E2	Combination:T8 arg:T7 arg2:T6

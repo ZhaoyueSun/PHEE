@@ -1,0 +1,7 @@
+T7	Treat-Disorder 56 79	polycythaemia vera (PV)
+T9	Treatment 156 168	chlorambucil
+T10	Population 40 41	2
+T11	Drug 156 168	chlorambucil
+T6	Subject 40 79	2 patients with polycythaemia vera (PV)
+T8	Potential_therapeutic_event 143 150	therapy
+E1	Potential_therapeutic_event:T8 

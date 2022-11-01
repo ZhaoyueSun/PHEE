@@ -1,0 +1,6 @@
+T4	Effect 0 22	Renal tubular acidosis
+T5	Treatment 36 41	FK506
+T6	Subject 81 87	a case
+T7	Drug 36 41	FK506
+T3	Adverse_event 23 32	secondary
+E1	Adverse_event:T3

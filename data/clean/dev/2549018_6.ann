@@ -1,0 +1,16 @@
+T3	Subject 0 14	Three patients
+T4	Sub-Disorder 35 64	neuroleptic-induced akathisia
+T5	Treatment 107 117	fluoxetine
+T7	Effect 126 135	akathisia
+T8	Population 0 5	Three
+T9	Severity_cue 170 176	milder
+T11	Drug 107 117	fluoxetine
+T13	Treatment 35 46	neuroleptic
+T14	Drug 35 46	neuroleptic
+T15	Effect 55 64	akathisia
+T6	Adverse_event 118 125	induced
+T12	Adverse_event 47 54	induced
+E1	Adverse_event:T6 arg:T3 arg2:T5 arg3:T7
+E2	Adverse_event:T12 arg:T13 arg2:T15 arg3:T3
+R1	has_cue Arg1:E1 Arg2:T9	
+A1	Severity E1 Low

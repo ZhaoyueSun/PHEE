@@ -1,0 +1,9 @@
+T4	Treatment 69 76	dapsone
+T5	Effect 46 65	lethal side effects
+T6	Speculation_cue 34 45	potentially
+T7	Severity_cue 46 52	lethal
+T8	Drug 69 76	dapsone
+T3	Adverse_event 66 68	of
+E1	Adverse_event:T3 
+A1	Severity E1 High
+A2	Speculated E1

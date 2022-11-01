@@ -1,0 +1,9 @@
+T10	Treatment 62 73	gemcitabine
+T11	Effect 85 116	hemolytic-uremic syndrome (HUS)
+T13	Subject 53 58	cases
+T14	Effect 33 47	renal toxicity
+T9	Drug 62 73	gemcitabine
+T15	Severity_cue 28 32	mild
+T12	Adverse_event 74 84	associated
+E1	Adverse_event:T12 
+A1	Severity E1 High

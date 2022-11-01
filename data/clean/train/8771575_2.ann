@@ -1,0 +1,7 @@
+T5	Effect 0 25;87 144	Acute pulmonary reactions can cause minor or life-threatening pulmonary dysfunction
+T6	Treatment 29 43	nitrofurantoin
+T8	Speculation_cue 87 90	can
+T9	Severity_cue 97 122	minor or life-threatening
+T10	Drug 29 43	nitrofurantoin
+T7	Adverse_event 44 47	are
+E1	Adverse_event:T7

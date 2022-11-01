@@ -1,0 +1,7 @@
+T3	Treatment 10 22	chlorambucil
+T4	Effect 45 75	wbc count began to slowly rise
+T6	Effect 102 114	clinical AML
+T7	Drug 10 22	chlorambucil
+T8	Subject 80 91	the patient
+T5	Adverse_event 92 101	developed
+E1	Adverse_event:T5

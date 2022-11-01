@@ -1,0 +1,8 @@
+T7	Subject 0 14;107 115	Nineteen cases children
+T8	Effect 18 60	unusual enhanced vincristine neurotoxicity
+T9	Treatment 72 84	itraconazole
+T11	Population 0 8	Nineteen
+T12	Age 107 115	children
+T13	Drug 72 84	itraconazole
+T10	Adverse_event 61 68	related
+E1	Adverse_event:T10

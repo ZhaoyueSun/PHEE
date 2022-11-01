@@ -1,0 +1,7 @@
+T4	Effect 0 18	Serotonin syndrome
+T6	Treatment 49 74	phenelzine to venlafaxine
+T7	Drug 49 59	phenelzine
+T8	Drug 63 74	venlafaxine
+T9	Subject 76 88	four patient
+T5	Adverse_event 19 26	induced
+E1	Adverse_event:T5

@@ -1,0 +1,9 @@
+T5	Treatment 0 50	After a six-week course of low-dose cyclosporine A
+T7	Effect 90 156	loss of glomerular filtration rate and effective renal plasma flow
+T8	Dosage 27 35	low-dose
+T9	Drug 36 50	cyclosporine A
+T10	Time_elapsed 8 23	six-week course
+T11	Severity_cue 68 74	severe
+T6	Adverse_event 56 65	developed
+E1	Adverse_event:T6 
+A1	Severity E1 High

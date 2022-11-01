@@ -1,0 +1,6 @@
+T8	Effect 31 43	hepatoxicity
+T9	Treatment 58 67	alcoholic
+T11	Speculation_cue 213 222	potential
+T12	Drug 58 67	alcoholic
+T10	Adverse_event 81 89	enhanced
+E1	Adverse_event:T10

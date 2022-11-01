@@ -1,0 +1,10 @@
+T7	Effect 0 11	All changes
+T8	Treatment 114 140	adriamycin and vincristine
+T10	Speculation_cue 144 152	possible
+T12	Drug 114 124	adriamycin
+T13	Drug 129 140	vincristine
+T9	Adverse_event 153 169	etiologic agents
+T11	Combination 125 128	and
+E1	Adverse_event:T9 
+E2	Combination:T11 arg:T12 arg2:T13
+A1	Speculated E1

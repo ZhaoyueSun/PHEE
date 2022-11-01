@@ -1,0 +1,7 @@
+T5	Subject 10 21	three cases
+T6	Treatment 25 33	IFN beta
+T8	Effect 42 57	hepatitis in MS
+T9	Population 10 15	three
+T10	Drug 25 33	IFN beta
+T7	Adverse_event 34 41	induced
+E1	Adverse_event:T7

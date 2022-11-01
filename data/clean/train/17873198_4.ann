@@ -1,0 +1,8 @@
+T3	Subject 0 9	This case
+T4	Treatment 91 100	erlotinib
+T6	Effect 109 112	ILD
+T7	Drug 91 100	erlotinib
+T8	Speculation_cue 70 81	possibility
+T5	Adverse_event 101 108	induced
+E1	Adverse_event:T5 
+A1	Speculated E1

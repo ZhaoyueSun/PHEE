@@ -1,0 +1,5 @@
+T3	Effect 0 36	De novo absence status of late onset
+T4	Treatment 47 70	withdrawal of lorazepam
+T6	Drug 61 70	lorazepam
+T5	Adverse_event 37 46	following
+E1	Adverse_event:T5

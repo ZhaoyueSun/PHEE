@@ -1,0 +1,9 @@
+T4	Treatment 128 141	oxcarbazepine
+T5	Effect 79 112	severe rash and systemic symptoms
+T6	Subject 42 59	a 13-year-old boy
+T7	Age 44 55	13-year-old
+T8	Gender 56 59	boy
+T9	Severity_cue 79 85	severe
+T10	Drug 128 141	oxcarbazepine
+T3	Adverse_event 113 118	after
+E1	Adverse_event:T3

@@ -1,0 +1,8 @@
+T5	Subject 42 58	in some patients
+T6	Treatment 97 117	olanzapine treatment
+T7	Effect 60 89	leukopenia or agranulocytosis
+T9	Drug 97 107	olanzapine
+T10	Speculation_cue 24 35	possibility
+T8	Adverse_event 90 96	during
+E1	Adverse_event:T8 
+A1	Speculated E1

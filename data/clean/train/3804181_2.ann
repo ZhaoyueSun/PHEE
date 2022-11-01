@@ -1,0 +1,7 @@
+T3	Treatment 37 48	methimazole
+T5	Effect 60 72	liver damage
+T6	Drug 37 48	methimazole
+T7	Subject 19 33;103 124	a further case eleven previous cases
+T8	Population 103 109	eleven
+T4	Adverse_event 49 59	associated
+E1	Adverse_event:T4

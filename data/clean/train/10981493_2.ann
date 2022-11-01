@@ -1,0 +1,6 @@
+T5	Treatment 96 107	propafenone
+T7	Effect 18 56;109 118	adverse central nervous system effects dizziness
+T10	Drug 96 107	propafenone
+T6	Speculation_cue 126 137	most common
+T9	Adverse_event 79 90	association
+E1	Adverse_event:T9

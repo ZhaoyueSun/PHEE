@@ -1,0 +1,7 @@
+T4	Effect 0 49	Proliferation of abnormal bone marrow histiocytes
+T5	Treatment 74 122	granulocyte macrophage-colony-stimulating factor
+T3	Subject 134 166	a patient with Hurler's syndrome
+T8	Drug 74 122	granulocyte macrophage-colony-stimulating factor
+T9	Treat-Disorder 149 166	Hurler's syndrome
+T6	Adverse_event 54 70	undesired effect
+E1	Adverse_event:T6

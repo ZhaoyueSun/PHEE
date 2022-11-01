@@ -1,0 +1,8 @@
+T4	Treatment 0 10	Fluoxetine
+T5	Subject 30 80	child with cytochrome P-450 2D6 genetic deficiency
+T3	Effect 19 24	death
+T7	Age 30 35	child
+T8	Sub-Disorder 41 80	cytochrome P-450 2D6 genetic deficiency
+T9	Drug 0 10	Fluoxetine
+T6	Adverse_event 11 18	related
+E2	Adverse_event:T6 

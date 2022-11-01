@@ -1,0 +1,10 @@
+T5	Subject 0 61	A 21-year-old woman suffering from bipolar affective disorder
+T7	Effect 72 106	systemic lupus erythematosus (SLE)
+T9	Age 2 13	21-year-old
+T10	Gender 14 19	woman
+T11	Treat-Disorder 35 61	bipolar affective disorder
+T8	Treatment 148 208	18 months after starting carbamazepine maintenance treatment
+T12	Time_elapsed 148 157	18 months
+T13	Drug 173 186	carbamazepine
+T6	Adverse_event 62 71	developed
+E1	Adverse_event:T6 

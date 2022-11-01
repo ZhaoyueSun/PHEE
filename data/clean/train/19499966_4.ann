@@ -1,0 +1,5 @@
+T3	Treatment 23 32	sunitinib
+T5	Effect 41 54	gynaecomastia
+T6	Drug 23 32	sunitinib
+T4	Adverse_event 33 40	induces
+E1	Adverse_event:T4

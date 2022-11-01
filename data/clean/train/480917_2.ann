@@ -1,0 +1,5 @@
+T3	Effect 0 28	Erythema multiforme bullosum
+T5	Treatment 36 46	rifampicin
+T6	Drug 36 46	rifampicin
+T4	Adverse_event 29 32	due
+E1	Adverse_event:T4

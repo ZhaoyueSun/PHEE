@@ -1,0 +1,6 @@
+T3	Effect 14 18	IDDM
+T5	Treatment 26 44	interferon therapy
+T7	Drug 26 36	interferon
+T8	Treat-Disorder 49 72	chronic viral hepatitis
+T4	Adverse_event 19 25	during
+E1	Adverse_event:T4

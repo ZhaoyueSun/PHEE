@@ -1,0 +1,7 @@
+T3	Subject 0 30	Most cardiac surgical patients
+T6	Treatment 61 68	heparin
+T5	Effect 170 208	heparin-induced thrombocytopenia (HIT)
+T7	Sub-Disorder 5 21	cardiac surgical
+T8	Drug 61 68	heparin
+T4	Adverse_event 159 169	developing
+E1	Adverse_event:T4 

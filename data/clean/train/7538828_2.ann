@@ -1,0 +1,14 @@
+T10	Treat-Disorder 23 88	recurrent metastatic squamous cell carcinoma of the head and neck
+T12	Effect 106 139	skin rash and bone marrow aplasia
+T14	Treatment 178 222	a single dose of 40 mg/m2 methotrexate (MTX)
+T9	Age 2 13	64 year old
+T13	Gender 14 17	man
+T15	Subject 0 88	A 64 year old man with recurrent metastatic squamous cell carcinoma of the head and neck
+T16	Dosage 195 203	40 mg/m2
+T17	Drug 204 216	methotrexate
+T19	Freq 178 191	a single dose
+T18	Time_elapsed 140 152	4 and 7 days
+T20	Severity_cue 99 105	severe
+T11	Adverse_event 89 98	developed
+E1	Adverse_event:T11 
+A1	Severity E1 High
