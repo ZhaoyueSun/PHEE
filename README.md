@@ -8,6 +8,8 @@ In the original dataset, we observed particularly low levels of annotation incon
 
 The updated data can be downloaded at  [``Leveraging ChatGPT in Pharmacovigilance Event Extraction: An Empirical Study Git Repo``](https://github.com/ZhaoyueSun/phee-with-chatgpt)
 
+## New Paper: [``DrugWatch: A Comprehensive Multi-Source Data Visualisation Platform for Drug Safety Information``](https://aclanthology.org/2024.acl-demos.18/)
+The paper introduces “DrugWatch”, an easy-to-use and interactive multi-source information visualisation platform for drug safety study. It allows users to understand common side effects of drugs and their statistical information, flexibly retrieve relevant medical reports, or annotate their own medical texts with our automated annotation tool. Supported by NLP technology and enriched with interactive visual components, we are committed to providing researchers and practitioners with a one-stop information analysis, retrieval, and annotation service. The demo system is online.
 
 ## New Paper: [``Leveraging ChatGPT in Pharmacovigilance Event Extraction: An Empirical Study``](https://aclanthology.org/2024.eacl-short.30/)
 
