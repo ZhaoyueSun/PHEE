@@ -6,7 +6,7 @@
 ## Data Updates: Version 2.0 of PHEE (PHEE V2.0)
 In the original dataset, we observed particularly low levels of annotation inconsistency for the ‘subject.disorder,’ ‘time_elapsed,’ and ‘duration’ arguments. To address this, we implemented an automatic revision for the ‘subject.disorder’ annotation and employed annotators to manually correct the ‘time_elapsed’ and ‘duration’ annotations. For the ‘subject.disorder’ correction, if a ‘treatment.disorder’ was present in the ‘subject’ argument but not annotated as ‘subject.disorder,’ we added it to the annotation. For ‘time_elapsed’ and ‘duration’ corrections, we provided detailed guidelines to the annotators to ensure consistent annotations. We evaluated annotation consistency using the EM_F1 score. The average EM_F1 scores for the ‘time_elapsed’ and ‘duration’ annotations were 75.3%.
 
-The updated data can be downloaded at  [``Leveraging ChatGPT in Pharmacovigilance Event Extraction: An Empirical Study`` Git Repo](https://github.com/ZhaoyueSun/phee-with-chatgpt)
+The updated data can be downloaded at  [``Leveraging ChatGPT in Pharmacovigilance Event Extraction: An Empirical Study Git Repo``](https://github.com/ZhaoyueSun/phee-with-chatgpt)
 
 
 ## New Paper: [``Leveraging ChatGPT in Pharmacovigilance Event Extraction: An Empirical Study``](https://aclanthology.org/2024.eacl-short.30/)
